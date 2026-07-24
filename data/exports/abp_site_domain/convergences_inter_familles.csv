@@ -1,0 +1,25 @@
+site,familleA,familleB,TM,pid,repA,repB,convergence
+6685_0,F04 · Vinculin family,F07 · Cofilin/tropomyosin-type actin-binding protein,0.31,4.0,Catenin alpha-1,Cofilin-2,structures différentes
+6685_0,F04 · Vinculin family,F09 · Diaphanous FH3 Domain,0.46,2.0,Alpha-catenin-like protein hmp-1,Inverted formin-2,structures différentes
+6685_0,F04 · Vinculin family,F22 · Gelsolin repeat,0.09,4.0,Catenin alpha-1,Gelsolin,structures différentes
+6685_0,F07 · Cofilin/tropomyosin-type actin-binding protein,F09 · Diaphanous FH3 Domain,0.32,2.0,Cofilin-2,Inverted formin-2,structures différentes
+6685_0,F07 · Cofilin/tropomyosin-type actin-binding protein,F22 · Gelsolin repeat,0.49,6.0,Cofilin-1,Gelsolin,structures différentes
+6685_0,F09 · Diaphanous FH3 Domain,F22 · Gelsolin repeat,0.22,1.0,Inverted formin-2,Gelsolin,structures différentes
+6685_102,F04 · Vinculin family,F09 · Diaphanous FH3 Domain,0.21,1.0,Catenin alpha-1,Protein diaphanous homolog 1,structures différentes
+6685_102,F04 · Vinculin family,F22 · Gelsolin repeat,0.09,4.0,Catenin alpha-1,Gelsolin,structures différentes
+6685_102,F04 · Vinculin family,F23 · Inositol polyphosphate kinase,,,Catenin alpha-1,Inositol-trisphosphate 3-kinase A,non alignable
+6685_102,F09 · Diaphanous FH3 Domain,F22 · Gelsolin repeat,0.21,3.0,Protein diaphanous homolog 1,Gelsolin,structures différentes
+6685_102,F09 · Diaphanous FH3 Domain,F23 · Inositol polyphosphate kinase,,,Protein diaphanous homolog 1,Inositol-trisphosphate 3-kinase A,non alignable
+6685_102,F22 · Gelsolin repeat,F23 · Inositol polyphosphate kinase,,,Gelsolin,Inositol-trisphosphate 3-kinase A,non alignable
+6685_121,F02 · Calponin homology (CH) domain,F23 · Inositol polyphosphate kinase,,,Plastin-3,Inositol-trisphosphate 3-kinase A,non alignable
+6685_121,F02 · Calponin homology (CH) domain,F26 · I/LWEQ domain,0.4,3.0,Spectrin beta chain,Talin-1,structures différentes
+6685_121,F23 · Inositol polyphosphate kinase,F26 · I/LWEQ domain,,,Inositol-trisphosphate 3-kinase A,Talin-1,non alignable
+6685_141,F02 · Calponin homology (CH) domain,F04 · Vinculin family,0.4,4.0,Spectrin beta chain,Catenin alpha-1,structures différentes
+6685_144,"F03 · WD domain, G-beta repeat",F23 · Inositol polyphosphate kinase,,,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,non alignable
+6685_15,F02 · Calponin homology (CH) domain,"F03 · WD domain, G-beta repeat",0.41,1.0,Utrophin,Actin-related protein 2/3 complex subunit 1B,structures différentes
+6685_154,F06 · Class II Aldolase and Adducin N-terminal domain,"F19 · Salmonella Invasion protein A, C-terminal actin binding domain",,,Adducin 1,Cell invasion protein SipA,non alignable
+6685_16,F02 · Calponin homology (CH) domain,F04 · Vinculin family,0.43,2.0,Epididymis secretory protein Li 37,Catenin alpha-1,structures différentes
+6685_168,"F13 · Arp2/3 complex, 34 kD subunit p34-Arc",F20 · Putative adherens-junction anchoring region of AbLIM,,,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,non alignable
+6685_193,F01 · Myosin N-terminal SH3-like domain,"F03 · WD domain, G-beta repeat",0.35,2.0,Myosin-6,Actin-related protein 2/3 complex subunit 1,structures différentes
+6685_200,F07 · Cofilin/tropomyosin-type actin-binding protein,F09 · Diaphanous FH3 Domain,0.32,1.0,Cofilin-1,Protein diaphanous homolog 1,structures différentes
+6685_6,F01 · Myosin N-terminal SH3-like domain,F04 · Vinculin family,0.61,2.0,Myosin-A,Vinculin,repliement proche

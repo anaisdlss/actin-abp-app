@@ -1,0 +1,1310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="count" attr.type="long"/>
+<key id="d0" for="node" attr.name="side" attr.type="string"/>
+<graph edgedefault="undirected"><node id="6685_2">
+  <data key="d0">cluster</data>
+  <data key="d1">747</data>
+</node>
+<node id="6685_1">
+  <data key="d0">cluster</data>
+  <data key="d1">675</data>
+</node>
+<node id="6685_3">
+  <data key="d0">cluster</data>
+  <data key="d1">548</data>
+</node>
+<node id="6685_4">
+  <data key="d0">cluster</data>
+  <data key="d1">593</data>
+</node>
+<node id="6685_6">
+  <data key="d0">cluster</data>
+  <data key="d1">20</data>
+</node>
+<node id="Myosin-14,Alpha-actinin A">
+  <data key="d0">protein</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_141;6685_233;6685_29;6685_33;6685_51">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="Unconventional myosin-Ib">
+  <data key="d0">protein</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_33">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_23">
+  <data key="d0">cluster</data>
+  <data key="d1">55</data>
+</node>
+<node id="6685_0;6685_6">
+  <data key="d0">cluster</data>
+  <data key="d1">16</data>
+</node>
+<node id="Filamin-A">
+  <data key="d0">protein</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_141">
+  <data key="d0">cluster</data>
+  <data key="d1">50</data>
+</node>
+<node id="6685_21">
+  <data key="d0">cluster</data>
+  <data key="d1">62</data>
+</node>
+<node id="Cofilin-1">
+  <data key="d0">protein</data>
+  <data key="d1">64</data>
+</node>
+<node id="6685_0">
+  <data key="d0">cluster</data>
+  <data key="d1">85</data>
+</node>
+<node id="6685_51">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="Vinculin">
+  <data key="d0">protein</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_29">
+  <data key="d0">cluster</data>
+  <data key="d1">7</data>
+</node>
+<node id="Epididymis secretory protein Li 37">
+  <data key="d0">protein</data>
+  <data key="d1">20</data>
+</node>
+<node id="Myosin-A">
+  <data key="d0">protein</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_141;6685_233;6685_29;6685_51">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Myosin-7">
+  <data key="d0">protein</data>
+  <data key="d1">19</data>
+</node>
+<node id="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+  <data key="d0">cluster</data>
+  <data key="d1">10</data>
+</node>
+<node id="Utrophin">
+  <data key="d0">protein</data>
+  <data key="d1">6</data>
+</node>
+<node id="Catenin alpha-1">
+  <data key="d0">protein</data>
+  <data key="d1">28</data>
+</node>
+<node id="Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY">
+  <data key="d0">protein</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_109">
+  <data key="d0">cluster</data>
+  <data key="d1">36</data>
+</node>
+<node id="6685_1;6685_109">
+  <data key="d0">cluster</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_120">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Maltose/maltodextrin-binding periplasmic protein,TccC3">
+  <data key="d0">protein</data>
+  <data key="d1">2</data>
+</node>
+<node id="Plastin-3">
+  <data key="d0">protein</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_121">
+  <data key="d0">cluster</data>
+  <data key="d1">23</data>
+</node>
+<node id="6685_128">
+  <data key="d0">cluster</data>
+  <data key="d1">14</data>
+</node>
+<node id="Tropomyosin alpha-1 chain">
+  <data key="d0">protein</data>
+  <data key="d1">35</data>
+</node>
+<node id="6685_129">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_0;6685_120;6685_200">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_152;6685_164;6685_233;6685_3">
+  <data key="d0">cluster</data>
+  <data key="d1">10</data>
+</node>
+<node id="Troponin T2, cardiac type">
+  <data key="d0">protein</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_162">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_138">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_139">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="Alpha-catenin-like protein hmp-1">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="6685_102">
+  <data key="d0">cluster</data>
+  <data key="d1">10</data>
+</node>
+<node id="Spectrin beta chain">
+  <data key="d0">protein</data>
+  <data key="d1">32</data>
+</node>
+<node id="6685_161">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="Tropomyosin-1.9">
+  <data key="d0">protein</data>
+  <data key="d1">2</data>
+</node>
+<node id="Tropomodulin-1">
+  <data key="d0">protein</data>
+  <data key="d1">9</data>
+</node>
+<node id="6685_164">
+  <data key="d0">cluster</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_258">
+  <data key="d0">cluster</data>
+  <data key="d1">27</data>
+</node>
+<node id="6685_92">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="F-actin-capping protein subunit alpha-1">
+  <data key="d0">protein</data>
+  <data key="d1">12</data>
+</node>
+<node id="6685_169">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="F-actin-capping protein subunit beta">
+  <data key="d0">protein</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_91">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_170">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_154">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="Cell invasion protein SipA">
+  <data key="d0">protein</data>
+  <data key="d1">61</data>
+</node>
+<node id="6685_178">
+  <data key="d0">cluster</data>
+  <data key="d1">10</data>
+</node>
+<node id="6685_179">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_180">
+  <data key="d0">cluster</data>
+  <data key="d1">16</data>
+</node>
+<node id="6685_112;6685_180">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_187">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Src substrate cortactin">
+  <data key="d0">protein</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_14">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Isoform 2 of F-actin-capping protein subunit beta">
+  <data key="d0">protein</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_190">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_191">
+  <data key="d0">cluster</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_112">
+  <data key="d0">cluster</data>
+  <data key="d1">12</data>
+</node>
+<node id="Inverted formin-2">
+  <data key="d0">protein</data>
+  <data key="d1">30</data>
+</node>
+<node id="6685_250;6685_51">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_200">
+  <data key="d0">cluster</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_164;6685_250">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_202">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_211">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_212">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_102;6685_200;6685_211">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_214">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_5">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="Profilin-1">
+  <data key="d0">protein</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_233;6685_6">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_0;6685_102;6685_120;6685_200;6685_6">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_220">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_162;6685_250">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_222">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_223">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="Protein diaphanous homolog 1">
+  <data key="d0">protein</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_224">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_225">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_231">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="Gelsolin">
+  <data key="d0">protein</data>
+  <data key="d1">17</data>
+</node>
+<node id="6685_232">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_233">
+  <data key="d0">cluster</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_6;6685_97">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Afadin">
+  <data key="d0">protein</data>
+  <data key="d1">1</data>
+</node>
+<node id="Inositol-trisphosphate 3-kinase A">
+  <data key="d0">protein</data>
+  <data key="d1">12</data>
+</node>
+<node id="6685_245">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_97">
+  <data key="d0">cluster</data>
+  <data key="d1">12</data>
+</node>
+<node id="Myosin heavy chain 4">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="6685_141;6685_233;6685_29;6685_33;6685_51;6685_65">
+  <data key="d0">cluster</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_128;6685_129">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="Tropomyosin beta chain">
+  <data key="d0">protein</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_128;6685_129;6685_162;6685_245">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Myosin-6">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="Talin-1">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="6685_156;6685_157;6685_166;6685_188;6685_6">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_250">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="Isoform A2 of Troponin T, cardiac muscle">
+  <data key="d0">protein</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_162;6685_164">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_102;6685_120;6685_139;6685_156;6685_166">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_257">
+  <data key="d0">cluster</data>
+  <data key="d1">23</data>
+</node>
+<node id="VopV">
+  <data key="d0">protein</data>
+  <data key="d1">34</data>
+</node>
+<node id="6685_259">
+  <data key="d0">cluster</data>
+  <data key="d1">21</data>
+</node>
+<node id="Vibrio VopV">
+  <data key="d0">protein</data>
+  <data key="d1">31</data>
+</node>
+<node id="6685_44">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase">
+  <data key="d0">protein</data>
+  <data key="d1">91</data>
+</node>
+<node id="6685_260">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_261">
+  <data key="d0">cluster</data>
+  <data key="d1">26</data>
+</node>
+<node id="6685_262">
+  <data key="d0">cluster</data>
+  <data key="d1">21</data>
+</node>
+<node id="6685_264">
+  <data key="d0">cluster</data>
+  <data key="d1">22</data>
+</node>
+<node id="6685_263">
+  <data key="d0">cluster</data>
+  <data key="d1">18</data>
+</node>
+<node id="6685_266">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase">
+  <data key="d0">protein</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_267">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="Cofilin-2">
+  <data key="d0">protein</data>
+  <data key="d1">72</data>
+</node>
+<node id="6685_274">
+  <data key="d0">cluster</data>
+  <data key="d1">33</data>
+</node>
+<node id="6685_65">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="Adenylyl cyclase-associated protein 1">
+  <data key="d0">protein</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_1;6685_274">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_1;6685_109;6685_274">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_4;6685_5">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_282">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="Leiomodin-2">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="6685_89">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_95">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="Actin-related protein 3">
+  <data key="d0">protein</data>
+  <data key="d1">17</data>
+</node>
+<node id="6685_106">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_156;6685_180">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_164;6685_179;6685_191;6685_233">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Actin-related protein 2">
+  <data key="d0">protein</data>
+  <data key="d1">10</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 1B">
+  <data key="d0">protein</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_157;6685_259">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 2">
+  <data key="d0">protein</data>
+  <data key="d1">15</data>
+</node>
+<node id="6685_111">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_113">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 3">
+  <data key="d0">protein</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_114">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 4">
+  <data key="d0">protein</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_141;6685_65">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="beta-cardiac myosin II">
+  <data key="d0">protein</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_144">
+  <data key="d0">cluster</data>
+  <data key="d1">9</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 1">
+  <data key="d0">protein</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_183">
+  <data key="d0">cluster</data>
+  <data key="d1">4</data>
+</node>
+<node id="6685_111;6685_164">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_150">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="Adducin 1">
+  <data key="d0">protein</data>
+  <data key="d1">8</data>
+</node>
+<node id="6685_151">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_152">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_180;6685_267">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_155">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Beta-adducin">
+  <data key="d0">protein</data>
+  <data key="d1">7</data>
+</node>
+<node id="6685_156">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_157">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_158">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="Dematin actin binding protein">
+  <data key="d0">protein</data>
+  <data key="d1">20</data>
+</node>
+<node id="6685_159">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_166">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_106;6685_155;6685_162;6685_164;6685_184;6685_250;6685_257">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_168">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_164;6685_233">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_184">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_114;6685_141;6685_162;6685_260">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_164;6685_179;6685_233;6685_261">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="Actin-related protein 2/3 complex subunit 5-like protein">
+  <data key="d0">protein</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_188">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_141;6685_250">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_215">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_164;6685_202">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<node id="6685_112;6685_180;6685_264">
+  <data key="d0">cluster</data>
+  <data key="d1">3</data>
+</node>
+<node id="6685_141;6685_250;6685_29;6685_51">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_180;6685_262;6685_267">
+  <data key="d0">cluster</data>
+  <data key="d1">2</data>
+</node>
+<node id="6685_285">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
+<edge source="6685_2" target="6685_1">
+  <data key="d2">675</data>
+</edge>
+<edge source="6685_2" target="6685_109">
+  <data key="d2">30</data>
+</edge>
+<edge source="6685_2" target="6685_1;6685_109">
+  <data key="d2">8</data>
+</edge>
+<edge source="6685_2" target="6685_274">
+  <data key="d2">33</data>
+</edge>
+<edge source="6685_2" target="6685_1;6685_274">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_3" target="6685_4">
+  <data key="d2">538</data>
+</edge>
+<edge source="6685_3" target="Actin-related protein 3">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_3" target="Actin-related protein 2">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_4" target="6685_23">
+  <data key="d2">55</data>
+</edge>
+<edge source="6685_6" target="Myosin-14,Alpha-actinin A">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_6" target="Unconventional myosin-Ib">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_6" target="Vinculin">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_6" target="Myosin-A">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_6" target="Myosin-7">
+  <data key="d2">11</data>
+</edge>
+<edge source="6685_6" target="Myosin-6">
+  <data key="d2">1</data>
+</edge>
+<edge source="Myosin-14,Alpha-actinin A" target="6685_141;6685_233;6685_29;6685_33;6685_51">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_141;6685_233;6685_29;6685_33;6685_51" target="Myosin-6">
+  <data key="d2">3</data>
+</edge>
+<edge source="Unconventional myosin-Ib" target="6685_33">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_0;6685_6" target="Filamin-A">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_0;6685_6" target="Epididymis secretory protein Li 37">
+  <data key="d2">9</data>
+</edge>
+<edge source="6685_0;6685_6" target="Utrophin">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_0;6685_6" target="Actin-related protein 2/3 complex subunit 1B">
+  <data key="d2">1</data>
+</edge>
+<edge source="Filamin-A" target="6685_141">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_141" target="Epididymis secretory protein Li 37">
+  <data key="d2">7</data>
+</edge>
+<edge source="6685_141" target="Utrophin">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_141" target="Catenin alpha-1">
+  <data key="d2">14</data>
+</edge>
+<edge source="6685_141" target="Alpha-catenin-like protein hmp-1">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_141" target="Spectrin beta chain">
+  <data key="d2">16</data>
+</edge>
+<edge source="6685_21" target="Cofilin-1">
+  <data key="d2">32</data>
+</edge>
+<edge source="6685_21" target="Cofilin-2">
+  <data key="d2">30</data>
+</edge>
+<edge source="Cofilin-1" target="6685_0">
+  <data key="d2">27</data>
+</edge>
+<edge source="Cofilin-1" target="6685_200">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_0" target="Catenin alpha-1">
+  <data key="d2">7</data>
+</edge>
+<edge source="6685_0" target="Alpha-catenin-like protein hmp-1">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_0" target="Inverted formin-2">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_0" target="Cofilin-2">
+  <data key="d2">42</data>
+</edge>
+<edge source="6685_0" target="Gelsolin">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_51" target="Vinculin">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_29" target="Epididymis secretory protein Li 37">
+  <data key="d2">4</data>
+</edge>
+<edge source="6685_29" target="Plastin-3">
+  <data key="d2">3</data>
+</edge>
+<edge source="Myosin-A" target="6685_141;6685_233;6685_29;6685_51">
+  <data key="d2">1</data>
+</edge>
+<edge source="Myosin-7" target="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+  <data key="d2">8</data>
+</edge>
+<edge source="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY">
+  <data key="d2">2</data>
+</edge>
+<edge source="Catenin alpha-1" target="6685_102">
+  <data key="d2">7</data>
+</edge>
+<edge source="Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY" target="6685_95">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_109" target="Adenylyl cyclase-associated protein 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_109" target="Actin-related protein 2">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_120" target="Maltose/maltodextrin-binding periplasmic protein,TccC3">
+  <data key="d2">1</data>
+</edge>
+<edge source="Maltose/maltodextrin-binding periplasmic protein,TccC3" target="6685_141;6685_65">
+  <data key="d2">1</data>
+</edge>
+<edge source="Plastin-3" target="6685_121">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_121" target="Spectrin beta chain">
+  <data key="d2">16</data>
+</edge>
+<edge source="6685_121" target="Inositol-trisphosphate 3-kinase A">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_121" target="Talin-1">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_128" target="Tropomyosin alpha-1 chain">
+  <data key="d2">14</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_129">
+  <data key="d2">5</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_0;6685_120;6685_200">
+  <data key="d2">5</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_162">
+  <data key="d2">3</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_139">
+  <data key="d2">4</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_245">
+  <data key="d2">1</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_162;6685_164">
+  <data key="d2">1</data>
+</edge>
+<edge source="Tropomyosin alpha-1 chain" target="6685_102;6685_120;6685_139;6685_156;6685_166">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_152;6685_164;6685_233;6685_3" target="Troponin T2, cardiac type">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_152;6685_164;6685_233;6685_3" target="Isoform A2 of Troponin T, cardiac muscle">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_152;6685_164;6685_233;6685_3" target="Dematin actin binding protein">
+  <data key="d2">6</data>
+</edge>
+<edge source="Troponin T2, cardiac type" target="6685_138">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_162" target="Tropomodulin-1">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_138" target="Isoform A2 of Troponin T, cardiac muscle">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_102" target="Protein diaphanous homolog 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_102" target="Inositol-trisphosphate 3-kinase A">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_102" target="Gelsolin">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_161" target="Tropomyosin-1.9">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tropomodulin-1" target="6685_164">
+  <data key="d2">3</data>
+</edge>
+<edge source="Tropomodulin-1" target="6685_258">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_164" target="Leiomodin-2">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_164" target="Inverted formin-2">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_258" target="VopV">
+  <data key="d2">11</data>
+</edge>
+<edge source="6685_258" target="Vibrio VopV">
+  <data key="d2">10</data>
+</edge>
+<edge source="6685_258" target="Leiomodin-2">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_92" target="F-actin-capping protein subunit alpha-1">
+  <data key="d2">4</data>
+</edge>
+<edge source="F-actin-capping protein subunit alpha-1" target="6685_91">
+  <data key="d2">6</data>
+</edge>
+<edge source="F-actin-capping protein subunit alpha-1" target="6685_14">
+  <data key="d2">1</data>
+</edge>
+<edge source="F-actin-capping protein subunit alpha-1" target="6685_4;6685_5">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_169" target="F-actin-capping protein subunit beta">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_169" target="Isoform 2 of F-actin-capping protein subunit beta">
+  <data key="d2">1</data>
+</edge>
+<edge source="F-actin-capping protein subunit beta" target="6685_170">
+  <data key="d2">4</data>
+</edge>
+<edge source="F-actin-capping protein subunit beta" target="6685_5">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_154" target="Cell invasion protein SipA">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_154" target="Adducin 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_178">
+  <data key="d2">10</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_179">
+  <data key="d2">6</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_180">
+  <data key="d2">16</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_112;6685_180">
+  <data key="d2">2</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_190">
+  <data key="d2">3</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_191">
+  <data key="d2">8</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_112">
+  <data key="d2">8</data>
+</edge>
+<edge source="Cell invasion protein SipA" target="6685_112;6685_180;6685_264">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_187" target="Src substrate cortactin">
+  <data key="d2">1</data>
+</edge>
+<edge source="Src substrate cortactin" target="6685_188">
+  <data key="d2">1</data>
+</edge>
+<edge source="Isoform 2 of F-actin-capping protein subunit beta" target="6685_89">
+  <data key="d2">2</data>
+</edge>
+<edge source="Isoform 2 of F-actin-capping protein subunit beta" target="6685_5">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_112" target="Actin-related protein 2/3 complex subunit 2">
+  <data key="d2">4</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_250;6685_51">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_200">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_164;6685_250">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_202">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_211">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_212">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_102;6685_200;6685_211">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_214">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_233;6685_6">
+  <data key="d2">4</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_0;6685_102;6685_120;6685_200;6685_6">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_220">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_162;6685_250">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_222">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_223">
+  <data key="d2">2</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_215">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inverted formin-2" target="6685_164;6685_202">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_200" target="Protein diaphanous homolog 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_202" target="Protein diaphanous homolog 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_211" target="Protein diaphanous homolog 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_5" target="Profilin-1">
+  <data key="d2">1</data>
+</edge>
+<edge source="Protein diaphanous homolog 1" target="6685_224">
+  <data key="d2">1</data>
+</edge>
+<edge source="Protein diaphanous homolog 1" target="6685_225">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_231" target="Gelsolin">
+  <data key="d2">5</data>
+</edge>
+<edge source="Gelsolin" target="6685_232">
+  <data key="d2">1</data>
+</edge>
+<edge source="Gelsolin" target="6685_233">
+  <data key="d2">8</data>
+</edge>
+<edge source="6685_6;6685_97" target="Afadin">
+  <data key="d2">1</data>
+</edge>
+<edge source="Inositol-trisphosphate 3-kinase A" target="6685_141;6685_250;6685_29;6685_51">
+  <data key="d2">5</data>
+</edge>
+<edge source="Inositol-trisphosphate 3-kinase A" target="6685_144">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_97" target="Myosin heavy chain 4">
+  <data key="d2">6</data>
+</edge>
+<edge source="6685_97" target="Myosin-6">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_97" target="beta-cardiac myosin II">
+  <data key="d2">1</data>
+</edge>
+<edge source="Myosin heavy chain 4" target="6685_141;6685_233;6685_29;6685_33;6685_51;6685_65">
+  <data key="d2">4</data>
+</edge>
+<edge source="6685_141;6685_233;6685_29;6685_33;6685_51;6685_65" target="Myosin-6">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_141;6685_233;6685_29;6685_33;6685_51;6685_65" target="Actin-related protein 2/3 complex subunit 1">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_128;6685_129" target="Tropomyosin beta chain">
+  <data key="d2">2</data>
+</edge>
+<edge source="Tropomyosin beta chain" target="6685_128;6685_129;6685_162;6685_245">
+  <data key="d2">1</data>
+</edge>
+<edge source="Talin-1" target="6685_156;6685_157;6685_166;6685_188;6685_6">
+  <data key="d2">3</data>
+</edge>
+<edge source="Talin-1" target="6685_250">
+  <data key="d2">4</data>
+</edge>
+<edge source="6685_257" target="VopV">
+  <data key="d2">12</data>
+</edge>
+<edge source="6685_257" target="Vibrio VopV">
+  <data key="d2">11</data>
+</edge>
+<edge source="VopV" target="6685_259">
+  <data key="d2">11</data>
+</edge>
+<edge source="6685_259" target="Vibrio VopV">
+  <data key="d2">10</data>
+</edge>
+<edge source="6685_44" target="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase">
+  <data key="d2">1</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_260">
+  <data key="d2">1</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_261">
+  <data key="d2">26</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_262">
+  <data key="d2">21</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_264">
+  <data key="d2">22</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_263">
+  <data key="d2">18</data>
+</edge>
+<edge source="Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase" target="6685_180;6685_262;6685_267">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_266" target="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase">
+  <data key="d2">3</data>
+</edge>
+<edge source="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase" target="6685_267">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_65" target="Adenylyl cyclase-associated protein 1">
+  <data key="d2">6</data>
+</edge>
+<edge source="Adenylyl cyclase-associated protein 1" target="6685_1;6685_109;6685_274">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_282" target="Leiomodin-2">
+  <data key="d2">3</data>
+</edge>
+<edge source="Leiomodin-2" target="6685_285">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 3" target="6685_106">
+  <data key="d2">5</data>
+</edge>
+<edge source="Actin-related protein 3" target="6685_156;6685_180">
+  <data key="d2">5</data>
+</edge>
+<edge source="Actin-related protein 3" target="6685_164;6685_179;6685_191;6685_233">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 3" target="6685_164;6685_233">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 1B" target="6685_144">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 1B" target="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_157;6685_259" target="Actin-related protein 2/3 complex subunit 2">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 2" target="6685_111">
+  <data key="d2">3</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 2" target="6685_183">
+  <data key="d2">4</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 2" target="6685_111;6685_164">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 2" target="6685_184">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 2" target="6685_168">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_113" target="Actin-related protein 2/3 complex subunit 3">
+  <data key="d2">5</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 3" target="6685_114;6685_141;6685_162;6685_260">
+  <data key="d2">1</data>
+</edge>
+<edge source="Actin-related protein 2/3 complex subunit 3" target="6685_141;6685_250">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_114" target="Actin-related protein 2/3 complex subunit 4">
+  <data key="d2">5</data>
+</edge>
+<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="beta-cardiac myosin II">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="Actin-related protein 2/3 complex subunit 1">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_144" target="Actin-related protein 2/3 complex subunit 1">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_150" target="Adducin 1">
+  <data key="d2">2</data>
+</edge>
+<edge source="6685_150" target="Beta-adducin">
+  <data key="d2">1</data>
+</edge>
+<edge source="Adducin 1" target="6685_151">
+  <data key="d2">2</data>
+</edge>
+<edge source="Adducin 1" target="6685_152">
+  <data key="d2">2</data>
+</edge>
+<edge source="Adducin 1" target="6685_180;6685_267">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_151" target="Beta-adducin">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_152" target="Beta-adducin">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_155" target="Beta-adducin">
+  <data key="d2">1</data>
+</edge>
+<edge source="Beta-adducin" target="6685_156">
+  <data key="d2">1</data>
+</edge>
+<edge source="Beta-adducin" target="6685_157">
+  <data key="d2">1</data>
+</edge>
+<edge source="Beta-adducin" target="6685_166">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_158" target="Dematin actin binding protein">
+  <data key="d2">6</data>
+</edge>
+<edge source="Dematin actin binding protein" target="6685_159">
+  <data key="d2">6</data>
+</edge>
+<edge source="Dematin actin binding protein" target="6685_106;6685_155;6685_162;6685_164;6685_184;6685_250;6685_257">
+  <data key="d2">1</data>
+</edge>
+<edge source="Dematin actin binding protein" target="6685_168">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_164;6685_179;6685_233;6685_261" target="Actin-related protein 2/3 complex subunit 5-like protein">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,56 @@
+ProteoCast par ABP — coller le n° UniProt dans https://proteocast.ijm.fr
+Déposer ensuite le CSV résultat dans data/proteocast/abp/<slug>.csv
+==============================================================================
+ 1. [fait] A7MB62       Actin-related protein 2
+ 2. [fait] P78774       Actin-related protein 2/3 complex subunit 1
+ 3. [fait] Q58CQ2       Actin-related protein 2/3 complex subunit 1B
+ 4. [fait] Q3MHR7       Actin-related protein 2/3 complex subunit 2
+ 5. [fait] Q3T035       Actin-related protein 2/3 complex subunit 3
+ 6. [fait] Q148J6       Actin-related protein 2/3 complex subunit 4
+ 7. [fait] Q9BPX5       Actin-related protein 2/3 complex subunit 5-like protein
+ 8. [fait] P61157       Actin-related protein 3
+ 9. [fait] A0A8D1Q0D0   Adducin 1
+10. [fait] Q01518       Adenylyl cyclase-associated protein 1
+11. [fait] Q9QZQ1       Afadin
+12. [fait] P90947       Alpha-catenin-like protein hmp-1
+13. [fait] I3L5B0       Beta-adducin
+14. [fait] P26231       Catenin alpha-1
+15. [fait] P0CL52       Cell invasion protein SipA
+16. [fait] P23528       Cofilin-1
+17. [fait] Q9Y281       Cofilin-2
+18. [fait] Q9BR76       Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase [CHIMÈRE-fusion: ProteoCast peu pertinent]
+19. [fait] F1RMC1       Dematin actin binding protein
+20. [fait] P13796       Epididymis secretory protein Li 37
+21. [fait] P52907       F-actin-capping protein subunit alpha-1
+22. [fait] P47756       F-actin-capping protein subunit beta
+23. [fait] P21333       Filamin-A
+24. [fait] P06396       Gelsolin
+25. [fait] P17105       Inositol-trisphosphate 3-kinase A
+26. [fait] Q27J81       Inverted formin-2
+27. [fait] P47757       Isoform 2 of F-actin-capping protein subunit beta
+28. [fait] P50752       Isoform A2 of Troponin T, cardiac muscle [CHIMÈRE-fusion: ProteoCast peu pertinent]
+29. [fait] P0AEX9       Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY [CHIMÈRE-fusion: ProteoCast peu pertinent]
+30. [fait] P0AEX9       Maltose/maltodextrin-binding periplasmic protein,TccC3 [CHIMÈRE-fusion: ProteoCast peu pertinent]
+31. [à faire] F1LRV9       Myosin heavy chain 4
+32. [fait] Q7Z406       Myosin-14,Alpha-actinin A [CHIMÈRE-fusion: ProteoCast peu pertinent]
+33. [à faire] Q02566       Myosin-6
+34. [à faire] P79293       Myosin-7
+35. [à faire] Q8IDR3       Myosin-A
+36. [à faire] P13797       Plastin-3
+37. [à faire] P07737       Profilin-1
+38. [à faire] O08808       Protein diaphanous homolog 1
+39. [à faire] A0A480J001   Spectrin beta chain
+40. [à faire] Q60598       Src substrate cortactin
+41. [à faire] P26039       Talin-1
+42. [à faire] A0A4X1UDZ5   Tropomodulin-1
+43. [à faire] P09493       Tropomyosin alpha-1 chain
+44. [à faire] P58775       Tropomyosin beta chain
+45. [à faire] A0AA82WPI2   Tropomyosin-1.9
+46. [à faire] I3LS66       Troponin T2, cardiac type [CHIMÈRE-fusion: ProteoCast peu pertinent]
+47. [à faire] Q05096       Unconventional myosin-Ib
+48. [à faire] P46939       Utrophin
+49. [à faire] A0A250E4R0   Vibrio VopV
+50. [à faire] P18206       Vinculin
+51. [à faire] A0A250E4R0   VopV
+52. [à faire] O75083       WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase [CHIMÈRE-fusion: ProteoCast peu pertinent]
+53. [à faire] P12883       beta-cardiac myosin II

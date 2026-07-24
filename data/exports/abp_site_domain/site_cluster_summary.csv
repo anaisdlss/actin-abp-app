@@ -1,0 +1,147 @@
+site_cluster,n_abp,n_folds,n_domaines,mono_fold,mono_domaine,abps
+6685_0,6,4,4,False,False,Alpha-catenin-like protei / Catenin alpha-1 / Cofilin-1 / Cofilin-2 / Gelsolin / Inverted formin-2
+6685_6,6,2,5,False,False,"Myosin-14,Alpha-actinin A / Myosin-6 / Myosin-7 / Myosin-A / Unconventional myosin-Ib / Vinculin"
+6685_102,4,4,4,False,False,Catenin alpha-1 / Gelsolin / Inositol-trisphosphate 3- / Protein diaphanous homolo
+6685_121,4,4,4,False,False,Inositol-trisphosphate 3- / Plastin-3 / Spectrin beta chain / Talin-1
+6685_15,4,3,4,False,False,Actin-related protein 2/3 / Epididymis secretory prot / Filamin-A / Utrophin
+6685_16,4,3,4,False,False,Catenin alpha-1 / Epididymis secretory prot / Filamin-A / Utrophin
+6685_141,3,2,2,False,False,Alpha-catenin-like protei / Catenin alpha-1 / Spectrin beta chain
+6685_144,3,2,2,False,False,Actin-related protein 2/3 / Actin-related protein 2/3 / Inositol-trisphosphate 3-
+6685_193,3,2,2,False,False,Actin-related protein 2/3 / Myosin heavy chain 4 / Myosin-6
+6685_200,3,2,3,False,False,Cofilin-1 / Inverted formin-2 / Protein diaphanous homolo
+6685_97,3,1,1,True,True,Myosin heavy chain 4 / Myosin-6 / beta-cardiac myosin II
+6685_136,2,1,1,True,True,"Isoform A2 of Troponin T, / Troponin T2, cardiac type"
+6685_138,2,1,1,True,True,"Isoform A2 of Troponin T, / Troponin T2, cardiac type"
+6685_145,2,1,1,True,True,Actin-related protein 2/3 / Actin-related protein 2/3
+6685_150,2,2,1,False,True,Adducin 1 / Beta-adducin
+6685_151,2,2,1,False,True,Adducin 1 / Beta-adducin
+6685_152,2,2,1,False,True,Adducin 1 / Beta-adducin
+6685_154,2,2,2,False,False,Adducin 1 / Cell invasion protein Sip
+6685_164,2,2,1,False,True,Leiomodin-2 / Tropomodulin-1
+6685_168,2,2,2,False,False,Actin-related protein 2/3 / Dematin actin binding pro
+6685_169,2,1,1,True,True,F-actin-capping protein s / Isoform 2 of F-actin-capp
+6685_21,2,1,1,True,True,Cofilin-1 / Cofilin-2
+6685_211,2,1,2,True,False,Inverted formin-2 / Protein diaphanous homolo
+6685_25,2,2,2,False,False,Maltose/maltodextrin-bind / Myosin-7
+6685_257,2,1,1,True,True,Vibrio VopV / VopV
+6685_258,2,1,1,True,True,Vibrio VopV / VopV
+6685_259,2,1,1,True,True,Vibrio VopV / VopV
+6685_29,2,1,1,True,True,Epididymis secretory prot / Plastin-3
+6685_3,2,1,1,True,True,Actin-related protein 2 / Actin-related protein 3
+6685_59,2,2,1,False,True,Leiomodin-2 / Tropomodulin-1
+6685_106,1,1,1,True,True,Actin-related protein 3
+6685_107,1,1,1,True,True,Actin-related protein 3
+6685_108,1,1,1,True,True,Actin-related protein 3
+6685_109,1,1,1,True,True,Actin-related protein 2
+6685_110,1,1,1,True,True,Actin-related protein 2/3
+6685_111,1,1,1,True,True,Actin-related protein 2/3
+6685_112,1,1,1,True,True,Actin-related protein 2/3
+6685_113,1,1,1,True,True,Actin-related protein 2/3
+6685_114,1,1,1,True,True,Actin-related protein 2/3
+6685_119,1,1,1,True,True,Maltose/maltodextrin-bind
+6685_120,1,1,1,True,True,Maltose/maltodextrin-bind
+6685_128,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_129,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_130,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_135,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_137,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_139,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_14,1,1,1,True,True,F-actin-capping protein s
+6685_140,1,1,1,True,True,beta-cardiac myosin II
+6685_142,1,1,1,True,True,Actin-related protein 3
+6685_143,1,1,1,True,True,Actin-related protein 3
+6685_146,1,1,1,True,True,Actin-related protein 2/3
+6685_147,1,1,1,True,True,Actin-related protein 2/3
+6685_153,1,1,1,True,True,Adducin 1
+6685_155,1,1,1,True,True,Beta-adducin
+6685_156,1,1,1,True,True,Beta-adducin
+6685_157,1,1,1,True,True,Beta-adducin
+6685_158,1,1,1,True,True,Dematin actin binding pro
+6685_159,1,1,1,True,True,Dematin actin binding pro
+6685_160,1,1,1,True,True,Dematin actin binding pro
+6685_161,1,1,1,True,True,Tropomyosin-1.9
+6685_162,1,1,1,True,True,Tropomodulin-1
+6685_166,1,1,1,True,True,Beta-adducin
+6685_167,1,1,1,True,True,Dematin actin binding pro
+6685_170,1,1,1,True,True,F-actin-capping protein s
+6685_178,1,1,1,True,True,Cell invasion protein Sip
+6685_179,1,1,1,True,True,Cell invasion protein Sip
+6685_18,1,1,1,True,True,Myosin-7
+6685_180,1,1,1,True,True,Cell invasion protein Sip
+6685_181,1,1,1,True,True,Cell invasion protein Sip
+6685_182,1,1,1,True,True,Actin-related protein 3
+6685_183,1,1,1,True,True,Actin-related protein 2/3
+6685_184,1,1,1,True,True,Actin-related protein 2/3
+6685_185,1,1,1,True,True,Actin-related protein 2/3
+6685_186,1,1,1,True,True,Actin-related protein 2/3
+6685_187,1,1,1,True,True,Src substrate cortactin
+6685_188,1,1,1,True,True,Src substrate cortactin
+6685_189,1,1,1,True,True,Cell invasion protein Sip
+6685_190,1,1,1,True,True,Cell invasion protein Sip
+6685_191,1,1,1,True,True,Cell invasion protein Sip
+6685_192,1,1,1,True,True,Cell invasion protein Sip
+6685_194,1,1,1,True,True,Actin-related protein 2/3
+6685_195,1,1,1,True,True,Actin-related protein 2/3
+6685_201,1,1,1,True,True,Protein diaphanous homolo
+6685_202,1,1,1,True,True,Inverted formin-2
+6685_208,1,1,1,True,True,Adenylyl cyclase-associat
+6685_209,1,1,1,True,True,Inverted formin-2
+6685_210,1,1,1,True,True,Inverted formin-2
+6685_212,1,1,1,True,True,Inverted formin-2
+6685_213,1,1,1,True,True,Inverted formin-2
+6685_214,1,1,1,True,True,Inverted formin-2
+6685_215,1,1,1,True,True,Inverted formin-2
+6685_217,1,1,1,True,True,Inverted formin-2
+6685_218,1,1,1,True,True,Inverted formin-2
+6685_219,1,1,1,True,True,Inverted formin-2
+6685_220,1,1,1,True,True,Inverted formin-2
+6685_221,1,1,1,True,True,Inverted formin-2
+6685_222,1,1,1,True,True,Inverted formin-2
+6685_223,1,1,1,True,True,Inverted formin-2
+6685_224,1,1,1,True,True,Protein diaphanous homolo
+6685_225,1,1,1,True,True,Protein diaphanous homolo
+6685_231,1,1,1,True,True,Gelsolin
+6685_232,1,1,1,True,True,Gelsolin
+6685_233,1,1,1,True,True,Gelsolin
+6685_234,1,1,1,True,True,Afadin
+6685_235,1,1,1,True,True,Cell invasion protein Sip
+6685_236,1,1,1,True,True,Cell invasion protein Sip
+6685_241,1,1,1,True,True,Inositol-trisphosphate 3-
+6685_245,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_246,1,1,1,True,True,Tropomyosin beta chain
+6685_247,1,1,1,True,True,Tropomyosin beta chain
+6685_248,1,1,1,True,True,Myosin-6
+6685_249,1,1,1,True,True,Talin-1
+6685_250,1,1,1,True,True,Talin-1
+6685_251,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_252,1,1,1,True,True,Tropomyosin alpha-1 chain
+6685_26,1,1,1,True,True,Inverted formin-2
+6685_260,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_261,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_262,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_263,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_264,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_265,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_266,1,1,1,True,True,WD repeat-containing prot
+6685_267,1,1,1,True,True,WD repeat-containing prot
+6685_276,1,1,1,True,True,Adenylyl cyclase-associat
+6685_278,1,1,1,True,True,F-actin-capping protein s
+6685_279,1,1,1,True,True,F-actin-capping protein s
+6685_282,1,1,1,True,True,Leiomodin-2
+6685_285,1,1,1,True,True,Leiomodin-2
+6685_286,1,1,1,True,True,Gelsolin
+6685_287,1,1,1,True,True,Gelsolin
+6685_33,1,1,1,True,True,Unconventional myosin-Ib
+6685_44,1,1,1,True,True,"Coronin-1B,Methylated-DNA"
+6685_5,1,1,1,True,True,Profilin-1
+6685_51,1,1,1,True,True,Vinculin
+6685_65,1,1,1,True,True,Adenylyl cyclase-associat
+6685_68,1,1,1,True,True,F-actin-capping protein s
+6685_69,1,1,1,True,True,Myosin-A
+6685_80,1,1,1,True,True,"Myosin-14,Alpha-actinin A"
+6685_84,1,1,1,True,True,Leiomodin-2
+6685_89,1,1,1,True,True,Isoform 2 of F-actin-capp
+6685_90,1,1,1,True,True,Isoform 2 of F-actin-capp
+6685_91,1,1,1,True,True,F-actin-capping protein s
+6685_92,1,1,1,True,True,F-actin-capping protein s
+6685_95,1,1,1,True,True,Maltose/maltodextrin-bind

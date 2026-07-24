@@ -1,0 +1,17 @@
+streamlit>=1.55,<2
+pandas>=2,<3
+numpy>=1.26,<3
+plotly>=5.24,<6
+networkx>=3.6,<4
+pyvis>=0.3.2,<1
+matplotlib>=3.10,<4
+scipy>=1.15,<2
+biopython>=1.87,<2
+py3Dmol
+seaborn>=0.13.2,<0.14
+requests
+openpyxl
+lxml
+beautifulsoup4
+adjustText>=1.3,<2
+streamlit-agraph>=0.0.45

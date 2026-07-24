@@ -1,0 +1,433 @@
+level,a,b,tm,fam
+±0,Plastin-3,Spectrin beta chain,0.39315889384454533,True
+±0,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.6763161818811166,True
+±0,Actin-related protein 2,Actin-related protein 3,0.16957233537856647,True
+±0,Cofilin-2,Inverted formin-2,0.4464831189333009,False
+±0,Leiomodin-2,Tropomodulin-1,0.3980113272874433,True
+±0,beta-cardiac myosin II,Myosin-6,0.49011224714111473,True
+±0,Unconventional myosin-Ib,Myosin-7,0.45786722390802415,True
+±0,Catenin alpha-1,Spectrin beta chain,0.532085973315868,False
+±0,Unconventional myosin-Ib,Vinculin,0.1687581177693171,False
+±0,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.3375186024797289,False
+±0,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.8344224538899258,True
+±0,Plastin-3,Talin-1,0.3158037986614284,False
+±0,Inositol-trisphosphate 3-kinase A,Plastin-3,0.27553698178166647,False
+±0,Adducin 1,Cell invasion protein SipA,0.32792191911403945,False
+±0,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.4815762115803331,False
+±0,"Myosin-14,Alpha-actinin A",Myosin-7,0.6556265557648003,True
+±0,Cofilin-1,Catenin alpha-1,0.13464074400711856,False
+±0,Vinculin,"Myosin-14,Alpha-actinin A",0.1643225238065354,False
+±0,Inverted formin-2,Gelsolin,0.3705489143602515,False
+±0,VopV,Vibrio VopV,0.5772829173173866,True
+±0,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.6497675460489336,False
+±0,Epididymis secretory protein Li 37,Utrophin,0.31270310762461334,True
+±0,Cofilin-2,Gelsolin,0.24194367054427232,False
+±0,Myosin heavy chain 4,Myosin-6,0.7393839056169752,True
+±0,Cofilin-1,Protein diaphanous homolog 1,0.1335281195487336,False
+±0,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.2936331600507579,False
+±0,Myosin-A,Myosin-7,0.43354750375694,True
+±0,Beta-adducin,Adducin 1,0.23886895630296695,True
+±0,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.41933958177929914,False
+±0,Vinculin,Myosin-A,0.12349126146366657,False
+±0,"Myosin-14,Alpha-actinin A",Myosin-A,0.4885468944711859,True
+±0,Epididymis secretory protein Li 37,Filamin-A,0.3031048181299412,True
+±0,Myosin heavy chain 4,beta-cardiac myosin II,0.4995740257260412,True
+±0,Epididymis secretory protein Li 37,Plastin-3,0.791282757576506,True
+±0,Inositol-trisphosphate 3-kinase A,Talin-1,0.5410496713691603,False
+±0,Myosin-6,Myosin-7,0.6678372285984483,True
+±0,Inverted formin-2,Cofilin-1,0.21975131637434092,False
+±0,Vinculin,Myosin-6,0.12118382324098675,False
+±0,Utrophin,Filamin-A,0.5437092090898956,True
+±0,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.43104644802154357,False
+±0,Cofilin-1,Alpha-catenin-like protein hmp-1,0.11890938163723046,False
+±0,Epididymis secretory protein Li 37,Catenin alpha-1,0.21248395783775512,False
+±0,Spectrin beta chain,Talin-1,0.41833382683903775,False
+±0,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.3993453333531467,False
+±0,Catenin alpha-1,Utrophin,0.5183218426865815,False
+±0,Inverted formin-2,Protein diaphanous homolog 1,0.17900852054679237,True
+±0,Unconventional myosin-Ib,Myosin-6,0.4282837936343194,True
+±0,Vinculin,Myosin-7,0.10075018251416731,False
+±0,Gelsolin,Cofilin-1,0.16393450261820536,False
+±0,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.48192365142828636,True
+±0,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.5044915097455435,True
+±0,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.9892957982217085,False
+±0,Inverted formin-2,Catenin alpha-1,0.661760844486232,False
+±0,Myosin-6,Myosin-A,0.4669290727559915,True
+±0,Catenin alpha-1,Filamin-A,0.37652361254669187,False
+±0,Cofilin-2,Catenin alpha-1,0.18616497724863526,False
+±0,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.4189577075042907,False
+±0,Gelsolin,Protein diaphanous homolog 1,0.19911513604197192,False
+±0,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.4844599705528017,False
+±0,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.6034175031137671,False
+±0,Cofilin-2,Cofilin-1,0.13236280942168005,True
+±0,Catenin alpha-1,Protein diaphanous homolog 1,0.2970483790577726,False
+±0,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.380247647483084,False
+±0,Unconventional myosin-Ib,Myosin-A,0.4347440766190982,True
+±0,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.4648694305366229,True
+±0,Gelsolin,Catenin alpha-1,0.16794201398748598,False
+±0,"Myosin-14,Alpha-actinin A",Myosin-6,0.6943865872907268,True
+±0,Cofilin-2,Alpha-catenin-like protein hmp-1,0.21018077139408492,False
+±0,Inositol-trisphosphate 3-kinase A,Gelsolin,0.17141210543663557,False
+±0,Gelsolin,Alpha-catenin-like protein hmp-1,0.2519638269215107,False
+±0,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.2999302418628499,False
+±0,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.43464884237608997,False
+±6,Plastin-3,Spectrin beta chain,0.5848643098094192,True
+±6,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.816621411762692,True
+±6,Actin-related protein 2,Actin-related protein 3,0.28460545604542326,True
+±6,Cofilin-2,Inverted formin-2,0.525226250372505,False
+±6,Leiomodin-2,Tropomodulin-1,0.9104271337140946,True
+±6,beta-cardiac myosin II,Myosin-6,0.8867994951057491,True
+±6,Unconventional myosin-Ib,Myosin-7,0.8488594402761376,True
+±6,Catenin alpha-1,Spectrin beta chain,0.39121187940563534,False
+±6,Unconventional myosin-Ib,Vinculin,0.2879607786456664,False
+±6,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.26753152330526797,False
+±6,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.9280458655505361,True
+±6,Plastin-3,Talin-1,0.6011957769171091,False
+±6,Inositol-trisphosphate 3-kinase A,Plastin-3,0.5860907975879749,False
+±6,Adducin 1,Cell invasion protein SipA,0.2341406400946838,False
+±6,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.4542487171666786,False
+±6,"Myosin-14,Alpha-actinin A",Myosin-7,0.8940583539576191,True
+±6,Cofilin-1,Catenin alpha-1,0.22330405426659264,False
+±6,Vinculin,"Myosin-14,Alpha-actinin A",0.27148656842517477,False
+±6,Inverted formin-2,Gelsolin,0.6575025587491944,False
+±6,VopV,Vibrio VopV,0.6878148864531652,True
+±6,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.5931493527245724,False
+±6,Epididymis secretory protein Li 37,Utrophin,0.6647584268335112,True
+±6,Cofilin-2,Gelsolin,0.4571846394804021,False
+±6,Myosin heavy chain 4,Myosin-6,0.9431395993726072,True
+±6,Cofilin-1,Protein diaphanous homolog 1,0.22515120038694966,False
+±6,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.49696001934742134,False
+±6,Myosin-A,Myosin-7,0.7857653793347668,True
+±6,Beta-adducin,Adducin 1,0.3685343003263756,True
+±6,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.6857346595737661,False
+±6,Vinculin,Myosin-A,0.2898833832984302,False
+±6,"Myosin-14,Alpha-actinin A",Myosin-A,0.7677439642186888,True
+±6,Epididymis secretory protein Li 37,Filamin-A,0.38531651195432653,True
+±6,Myosin heavy chain 4,beta-cardiac myosin II,0.9028999299628309,True
+±6,Epididymis secretory protein Li 37,Plastin-3,0.950929560571512,True
+±6,Inositol-trisphosphate 3-kinase A,Talin-1,0.6364105316488395,False
+±6,Myosin-6,Myosin-7,0.932259532295986,True
+±6,Inverted formin-2,Cofilin-1,0.5004395936721029,False
+±6,Vinculin,Myosin-6,0.29783862678177275,False
+±6,Utrophin,Filamin-A,0.7213574067969556,True
+±6,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.6559708359455614,False
+±6,Cofilin-1,Alpha-catenin-like protein hmp-1,0.23371601184843654,False
+±6,Epididymis secretory protein Li 37,Catenin alpha-1,0.3970469450420078,False
+±6,Spectrin beta chain,Talin-1,0.4946143665530103,False
+±6,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.29383626719901274,False
+±6,Catenin alpha-1,Utrophin,0.4822004464146655,False
+±6,Inverted formin-2,Protein diaphanous homolog 1,0.7442510646196461,True
+±6,Unconventional myosin-Ib,Myosin-6,0.8264385916810251,True
+±6,Vinculin,Myosin-7,0.26844219685622406,False
+±6,Gelsolin,Cofilin-1,0.2751300205880428,False
+±6,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.38499586451279977,True
+±6,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.3527131029936379,True
+±6,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.654692031973659,False
+±6,Inverted formin-2,Catenin alpha-1,0.7227938330115188,False
+±6,Myosin-6,Myosin-A,0.8064671875985316,True
+±6,Catenin alpha-1,Filamin-A,0.3872606970962573,False
+±6,Cofilin-2,Catenin alpha-1,0.27902209810177186,False
+±6,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.610761389495635,False
+±6,Gelsolin,Protein diaphanous homolog 1,0.23579723417633183,False
+±6,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.31037174625639374,False
+±6,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.2763682196221802,False
+±6,Cofilin-2,Cofilin-1,0.48573929740853505,True
+±6,Catenin alpha-1,Protein diaphanous homolog 1,0.3186020024877683,False
+±6,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.24879746913079206,False
+±6,Unconventional myosin-Ib,Myosin-A,0.7943939200251169,True
+±6,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.7827179588989249,True
+±6,Gelsolin,Catenin alpha-1,0.32430850644174675,False
+±6,"Myosin-14,Alpha-actinin A",Myosin-6,0.8997660266420153,True
+±6,Cofilin-2,Alpha-catenin-like protein hmp-1,0.2881862310636982,False
+±6,Inositol-trisphosphate 3-kinase A,Gelsolin,0.6075907204711768,False
+±6,Gelsolin,Alpha-catenin-like protein hmp-1,0.3015514743993883,False
+±6,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.48936206996015064,False
+±6,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.5333589317192281,False
+±12,Plastin-3,Spectrin beta chain,0.6375887330228314,True
+±12,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.8649436915809089,True
+±12,Actin-related protein 2,Actin-related protein 3,0.49237951000242663,True
+±12,Cofilin-2,Inverted formin-2,0.525226250372505,False
+±12,Leiomodin-2,Tropomodulin-1,0.9491841106211192,True
+±12,beta-cardiac myosin II,Myosin-6,0.9518159342777462,True
+±12,Unconventional myosin-Ib,Myosin-7,0.8815618167322047,True
+±12,Catenin alpha-1,Spectrin beta chain,0.42994957675941775,False
+±12,Unconventional myosin-Ib,Vinculin,0.28451388429276664,False
+±12,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.35699776817817047,False
+±12,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.9662106357573256,True
+±12,Plastin-3,Talin-1,0.5489912048925492,False
+±12,Inositol-trisphosphate 3-kinase A,Plastin-3,0.6213683775198071,False
+±12,Adducin 1,Cell invasion protein SipA,0.20689437007491607,False
+±12,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.43852270712115304,False
+±12,"Myosin-14,Alpha-actinin A",Myosin-7,0.9197863171325701,True
+±12,Cofilin-1,Catenin alpha-1,0.22074128513275404,False
+±12,Vinculin,"Myosin-14,Alpha-actinin A",0.3294242841661036,False
+±12,Inverted formin-2,Gelsolin,0.6575025587491944,False
+±12,VopV,Vibrio VopV,0.6719105534492898,True
+±12,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.5908951419059926,False
+±12,Epididymis secretory protein Li 37,Utrophin,0.6852439799024832,True
+±12,Cofilin-2,Gelsolin,0.41195575944228674,False
+±12,Myosin heavy chain 4,Myosin-6,0.9619329619079778,True
+±12,Cofilin-1,Protein diaphanous homolog 1,0.21192425305458082,False
+±12,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.43630623132806334,False
+±12,Myosin-A,Myosin-7,0.8386816277905624,True
+±12,Beta-adducin,Adducin 1,0.3685343003263756,True
+±12,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.7843043728826409,False
+±12,Vinculin,Myosin-A,0.29306434376234536,False
+±12,"Myosin-14,Alpha-actinin A",Myosin-A,0.8015623868740841,True
+±12,Epididymis secretory protein Li 37,Filamin-A,0.6477904677932981,True
+±12,Myosin heavy chain 4,beta-cardiac myosin II,0.9556147817037575,True
+±12,Epididymis secretory protein Li 37,Plastin-3,0.9420031065239021,True
+±12,Inositol-trisphosphate 3-kinase A,Talin-1,0.6631083665190287,False
+±12,Myosin-6,Myosin-7,0.9544419057865305,True
+±12,Inverted formin-2,Cofilin-1,0.6846214625074911,False
+±12,Vinculin,Myosin-6,0.2762098046121843,False
+±12,Utrophin,Filamin-A,0.8072055837285499,True
+±12,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.6936660593141258,False
+±12,Cofilin-1,Alpha-catenin-like protein hmp-1,0.27308800118315724,False
+±12,Epididymis secretory protein Li 37,Catenin alpha-1,0.383889748586398,False
+±12,Spectrin beta chain,Talin-1,0.4431359602139703,False
+±12,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.34912001517427566,False
+±12,Catenin alpha-1,Utrophin,0.4009209662258419,False
+±12,Inverted formin-2,Protein diaphanous homolog 1,0.7442510646196461,True
+±12,Unconventional myosin-Ib,Myosin-6,0.8662549640960808,True
+±12,Vinculin,Myosin-7,0.3555992993882998,False
+±12,Gelsolin,Cofilin-1,0.38751520238316073,False
+±12,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.5547064902481521,True
+±12,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.40522110607890854,True
+±12,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.42800598131759177,False
+±12,Inverted formin-2,Catenin alpha-1,0.7227938330115188,False
+±12,Myosin-6,Myosin-A,0.8263397180832942,True
+±12,Catenin alpha-1,Filamin-A,0.41438540787305883,False
+±12,Cofilin-2,Catenin alpha-1,0.22988885014120847,False
+±12,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.6562709422827043,False
+±12,Gelsolin,Protein diaphanous homolog 1,0.26013510106368926,False
+±12,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.30781813488623394,False
+±12,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.31584688396215266,False
+±12,Cofilin-2,Cofilin-1,0.7375879070348087,True
+±12,Catenin alpha-1,Protein diaphanous homolog 1,0.3473090904316082,False
+±12,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.17521740643741074,False
+±12,Unconventional myosin-Ib,Myosin-A,0.8378374264620139,True
+±12,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.8157141881262704,True
+±12,Gelsolin,Catenin alpha-1,0.2890674239394037,False
+±12,"Myosin-14,Alpha-actinin A",Myosin-6,0.9283318474149963,True
+±12,Cofilin-2,Alpha-catenin-like protein hmp-1,0.24345383375298335,False
+±12,Inositol-trisphosphate 3-kinase A,Gelsolin,0.6242435366814084,False
+±12,Gelsolin,Alpha-catenin-like protein hmp-1,0.3057677300007533,False
+±12,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.44621405850738405,False
+±12,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.6465840160740366,False
+±20,Plastin-3,Spectrin beta chain,0.6443669781869825,True
+±20,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.864457754697288,True
+±20,Actin-related protein 2,Actin-related protein 3,0.6370411384450532,True
+±20,Cofilin-2,Inverted formin-2,0.525226250372505,False
+±20,Leiomodin-2,Tropomodulin-1,0.9704261933893762,True
+±20,beta-cardiac myosin II,Myosin-6,0.8809641492040239,True
+±20,Unconventional myosin-Ib,Myosin-7,0.8713325109798435,True
+±20,Catenin alpha-1,Spectrin beta chain,0.4289204493899005,False
+±20,Unconventional myosin-Ib,Vinculin,0.32766554407854587,False
+±20,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.27309048507068145,False
+±20,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.9795916043345592,True
+±20,Plastin-3,Talin-1,0.4453255458674535,False
+±20,Inositol-trisphosphate 3-kinase A,Plastin-3,0.6213683775198071,False
+±20,Adducin 1,Cell invasion protein SipA,0.2985585801196234,False
+±20,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.4217902424022618,False
+±20,"Myosin-14,Alpha-actinin A",Myosin-7,0.9324825174484526,True
+±20,Cofilin-1,Catenin alpha-1,0.26953697457120807,False
+±20,Vinculin,"Myosin-14,Alpha-actinin A",0.31195011039856235,False
+±20,Inverted formin-2,Gelsolin,0.6575025587491944,False
+±20,VopV,Vibrio VopV,0.6719105534492898,True
+±20,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.5908951419059926,False
+±20,Epididymis secretory protein Li 37,Utrophin,0.6686378647051575,True
+±20,Cofilin-2,Gelsolin,0.36494172306153283,False
+±20,Myosin heavy chain 4,Myosin-6,0.9383129519938405,True
+±20,Cofilin-1,Protein diaphanous homolog 1,0.28038672681989557,False
+±20,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.3720479972184028,False
+±20,Myosin-A,Myosin-7,0.8574110788603996,True
+±20,Beta-adducin,Adducin 1,0.3685343003263756,True
+±20,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.796173796559944,False
+±20,Vinculin,Myosin-A,0.3296449935702629,False
+±20,"Myosin-14,Alpha-actinin A",Myosin-A,0.8639298097806825,True
+±20,Epididymis secretory protein Li 37,Filamin-A,0.6726169935716539,True
+±20,Myosin heavy chain 4,beta-cardiac myosin II,0.9396567450962123,True
+±20,Epididymis secretory protein Li 37,Plastin-3,0.9476047209229304,True
+±20,Inositol-trisphosphate 3-kinase A,Talin-1,0.7205855112247482,False
+±20,Myosin-6,Myosin-7,0.9265734736869266,True
+±20,Inverted formin-2,Cofilin-1,0.6846214625074911,False
+±20,Vinculin,Myosin-6,0.2983633112795067,False
+±20,Utrophin,Filamin-A,0.8736889787207673,True
+±20,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.6936660593141258,False
+±20,Cofilin-1,Alpha-catenin-like protein hmp-1,0.25264620388239134,False
+±20,Epididymis secretory protein Li 37,Catenin alpha-1,0.3634623659754324,False
+±20,Spectrin beta chain,Talin-1,0.336113554328128,False
+±20,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.26003130591130735,False
+±20,Catenin alpha-1,Utrophin,0.46511709996828066,False
+±20,Inverted formin-2,Protein diaphanous homolog 1,0.7442510646196461,True
+±20,Unconventional myosin-Ib,Myosin-6,0.8555703673845143,True
+±20,Vinculin,Myosin-7,0.3102873130515478,False
+±20,Gelsolin,Cofilin-1,0.40602121284252024,False
+±20,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.7752731505069904,True
+±20,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.4056679257720453,True
+±20,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.4446096481940709,False
+±20,Inverted formin-2,Catenin alpha-1,0.7227938330115188,False
+±20,Myosin-6,Myosin-A,0.8428215034001278,True
+±20,Catenin alpha-1,Filamin-A,0.4466299573995053,False
+±20,Cofilin-2,Catenin alpha-1,0.27130632045706693,False
+±20,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.6562709422827043,False
+±20,Gelsolin,Protein diaphanous homolog 1,0.24553825183070435,False
+±20,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.2573984861495613,False
+±20,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.2957283724869247,False
+±20,Cofilin-2,Cofilin-1,0.8586900480696212,True
+±20,Catenin alpha-1,Protein diaphanous homolog 1,0.3515538604418363,False
+±20,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.17890798872852903,False
+±20,Unconventional myosin-Ib,Myosin-A,0.8448280844867174,True
+±20,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.8507078933679029,True
+±20,Gelsolin,Catenin alpha-1,0.24993576735336065,False
+±20,"Myosin-14,Alpha-actinin A",Myosin-6,0.9189018158233278,True
+±20,Cofilin-2,Alpha-catenin-like protein hmp-1,0.2446409139471828,False
+±20,Inositol-trisphosphate 3-kinase A,Gelsolin,0.6275429112386379,False
+±20,Gelsolin,Alpha-catenin-like protein hmp-1,0.2993276943905439,False
+±20,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.3480345468238755,False
+±20,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.7039143591874183,False
+±35,Plastin-3,Spectrin beta chain,0.7896688338356355,True
+±35,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.8978774649619126,True
+±35,Actin-related protein 2,Actin-related protein 3,0.7286265521530961,True
+±35,Cofilin-2,Inverted formin-2,0.3801563764268248,False
+±35,Leiomodin-2,Tropomodulin-1,0.9700978529275373,True
+±35,beta-cardiac myosin II,Myosin-6,0.8892101021429659,True
+±35,Unconventional myosin-Ib,Myosin-7,0.9045590143348874,True
+±35,Catenin alpha-1,Spectrin beta chain,0.4356442981462819,False
+±35,Unconventional myosin-Ib,Vinculin,0.41364075545471674,False
+±35,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.25465053402389537,False
+±35,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.9673069418693345,True
+±35,Plastin-3,Talin-1,0.37475600225624145,False
+±35,Inositol-trisphosphate 3-kinase A,Plastin-3,0.6604961465698856,False
+±35,Adducin 1,Cell invasion protein SipA,0.30718279322321745,False
+±35,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.4342025111295235,False
+±35,"Myosin-14,Alpha-actinin A",Myosin-7,0.9443788411064378,True
+±35,Cofilin-1,Catenin alpha-1,0.27585246944140474,False
+±35,Vinculin,"Myosin-14,Alpha-actinin A",0.4082895164880653,False
+±35,Inverted formin-2,Gelsolin,0.4410179924099467,False
+±35,VopV,Vibrio VopV,0.6719105534492898,True
+±35,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.5908951419059926,False
+±35,Epididymis secretory protein Li 37,Utrophin,0.8078224852167268,True
+±35,Cofilin-2,Gelsolin,0.4112974630885928,False
+±35,Myosin heavy chain 4,Myosin-6,0.954794382129754,True
+±35,Cofilin-1,Protein diaphanous homolog 1,0.28382395820287015,False
+±35,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.3464150952184633,False
+±35,Myosin-A,Myosin-7,0.8890669592633054,True
+±35,Beta-adducin,Adducin 1,0.3885641532351594,True
+±35,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.4877995799577028,False
+±35,Vinculin,Myosin-A,0.3946463077967419,False
+±35,"Myosin-14,Alpha-actinin A",Myosin-A,0.8928580490115742,True
+±35,Epididymis secretory protein Li 37,Filamin-A,0.816364730750083,True
+±35,Myosin heavy chain 4,beta-cardiac myosin II,0.9405829269872662,True
+±35,Epididymis secretory protein Li 37,Plastin-3,0.9520004281810555,True
+±35,Inositol-trisphosphate 3-kinase A,Talin-1,0.7205855112247482,False
+±35,Myosin-6,Myosin-7,0.944015576550321,True
+±35,Inverted formin-2,Cofilin-1,0.4286200449615824,False
+±35,Vinculin,Myosin-6,0.4083290975345201,False
+±35,Utrophin,Filamin-A,0.8865663015360151,True
+±35,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.6950114504003074,False
+±35,Cofilin-1,Alpha-catenin-like protein hmp-1,0.2924447708665552,False
+±35,Epididymis secretory protein Li 37,Catenin alpha-1,0.37683175664480145,False
+±35,Spectrin beta chain,Talin-1,0.28911246395518825,False
+±35,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.2730040775378618,False
+±35,Catenin alpha-1,Utrophin,0.4484384065258741,False
+±35,Inverted formin-2,Protein diaphanous homolog 1,0.47029376489280855,True
+±35,Unconventional myosin-Ib,Myosin-6,0.8961826888944657,True
+±35,Vinculin,Myosin-7,0.4016812610184975,False
+±35,Gelsolin,Cofilin-1,0.4104425336806511,False
+±35,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.8618633500397851,True
+±35,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.5701139325985264,True
+±35,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.3804800676991861,False
+±35,Inverted formin-2,Catenin alpha-1,0.46558487040032953,False
+±35,Myosin-6,Myosin-A,0.8883612239755267,True
+±35,Catenin alpha-1,Filamin-A,0.41046667612192256,False
+±35,Cofilin-2,Catenin alpha-1,0.2857047323555194,False
+±35,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.6562709422827043,False
+±35,Gelsolin,Protein diaphanous homolog 1,0.2157929837735433,False
+±35,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.2266537185203304,False
+±35,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.2957283724869247,False
+±35,Cofilin-2,Cofilin-1,0.9723937017445297,True
+±35,Catenin alpha-1,Protein diaphanous homolog 1,0.37667379815429125,False
+±35,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.22132301626343018,False
+±35,Unconventional myosin-Ib,Myosin-A,0.890108204536909,True
+±35,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.8750732093752797,True
+±35,Gelsolin,Catenin alpha-1,0.31108951678247004,False
+±35,"Myosin-14,Alpha-actinin A",Myosin-6,0.9422150824434161,True
+±35,Cofilin-2,Alpha-catenin-like protein hmp-1,0.3049860044558889,False
+±35,Inositol-trisphosphate 3-kinase A,Gelsolin,0.6275429112386379,False
+±35,Gelsolin,Alpha-catenin-like protein hmp-1,0.3221727793749554,False
+±35,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.31388565574157984,False
+±35,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.7039143591874183,False
+entière,Plastin-3,Spectrin beta chain,0.6905885224882516,True
+entière,Catenin alpha-1,Alpha-catenin-like protein hmp-1,0.9045053082003927,True
+entière,Actin-related protein 2,Actin-related protein 3,0.8693914135439658,True
+entière,Cofilin-2,Inverted formin-2,0.28217301192486494,False
+entière,Leiomodin-2,Tropomodulin-1,0.9631727597620265,True
+entière,beta-cardiac myosin II,Myosin-6,0.9457804190451615,True
+entière,Unconventional myosin-Ib,Myosin-7,0.8191068835432173,True
+entière,Catenin alpha-1,Spectrin beta chain,0.38051938213412384,False
+entière,Unconventional myosin-Ib,Vinculin,0.550120879799019,False
+entière,Actin-related protein 2/3 complex subunit 1B,Utrophin,0.3854693991075764,False
+entière,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,0.958360105269645,True
+entière,Plastin-3,Talin-1,0.27327233009208146,False
+entière,Inositol-trisphosphate 3-kinase A,Plastin-3,0.6604961465698856,False
+entière,Adducin 1,Cell invasion protein SipA,0.36170559769833055,False
+entière,Spectrin beta chain,Alpha-catenin-like protein hmp-1,0.3491976439686269,False
+entière,"Myosin-14,Alpha-actinin A",Myosin-7,0.9344955494841238,True
+entière,Cofilin-1,Catenin alpha-1,0.27585246944140474,False
+entière,Vinculin,"Myosin-14,Alpha-actinin A",0.549829234193495,False
+entière,Inverted formin-2,Gelsolin,0.19119866286178286,False
+entière,VopV,Vibrio VopV,0.6719105534492898,True
+entière,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,0.5908951419059926,False
+entière,Epididymis secretory protein Li 37,Utrophin,0.7550156691281887,True
+entière,Cofilin-2,Gelsolin,0.464781419072374,False
+entière,Myosin heavy chain 4,Myosin-6,0.974670106980091,True
+entière,Cofilin-1,Protein diaphanous homolog 1,0.2870806970064003,False
+entière,Actin-related protein 2/3 complex subunit 1,Myosin-6,0.3303296674076393,False
+entière,Myosin-A,Myosin-7,0.8913155562085128,True
+entière,Beta-adducin,Adducin 1,0.40399926162200156,True
+entière,Inverted formin-2,Alpha-catenin-like protein hmp-1,0.4344545351985436,False
+entière,Vinculin,Myosin-A,0.5668906866331983,False
+entière,"Myosin-14,Alpha-actinin A",Myosin-A,0.9111320701748344,True
+entière,Epididymis secretory protein Li 37,Filamin-A,0.7436770253178646,True
+entière,Myosin heavy chain 4,beta-cardiac myosin II,0.9414964591798688,True
+entière,Epididymis secretory protein Li 37,Plastin-3,0.9588772354439213,True
+entière,Inositol-trisphosphate 3-kinase A,Talin-1,0.6698090904462631,False
+entière,Myosin-6,Myosin-7,0.9623344338721662,True
+entière,Inverted formin-2,Cofilin-1,0.27844828048549913,False
+entière,Vinculin,Myosin-6,0.5380633537079523,False
+entière,Utrophin,Filamin-A,0.8803415672281807,True
+entière,Inositol-trisphosphate 3-kinase A,Catenin alpha-1,0.6950114504003074,False
+entière,Cofilin-1,Alpha-catenin-like protein hmp-1,0.291919666818979,False
+entière,Epididymis secretory protein Li 37,Catenin alpha-1,0.3977691591926985,False
+entière,Spectrin beta chain,Talin-1,0.3731991595764986,False
+entière,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,0.3734219297601213,False
+entière,Catenin alpha-1,Utrophin,0.36729467039334635,False
+entière,Inverted formin-2,Protein diaphanous homolog 1,0.8412530803986159,True
+entière,Unconventional myosin-Ib,Myosin-6,0.8314587641097643,True
+entière,Vinculin,Myosin-7,0.5229146718017775,False
+entière,Gelsolin,Cofilin-1,0.46388030606390446,False
+entière,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",0.9397150840916519,True
+entière,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,0.911586633293051,True
+entière,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Myosin-7,0.3281503274616264,False
+entière,Inverted formin-2,Catenin alpha-1,0.3998827410592766,False
+entière,Myosin-6,Myosin-A,0.8978309369237462,True
+entière,Catenin alpha-1,Filamin-A,0.3786355795778235,False
+entière,Cofilin-2,Catenin alpha-1,0.2857047323555194,False
+entière,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,0.6562709422827043,False
+entière,Gelsolin,Protein diaphanous homolog 1,0.19247146166816476,False
+entière,Actin-related protein 2/3 complex subunit 1B,Filamin-A,0.3625836937639288,False
+entière,Inositol-trisphosphate 3-kinase A,Actin-related protein 2/3 complex subunit 1B,0.2957283724869247,False
+entière,Cofilin-2,Cofilin-1,0.9723937017445297,True
+entière,Catenin alpha-1,Protein diaphanous homolog 1,0.4085658942756133,False
+entière,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,0.2149246622181623,False
+entière,Unconventional myosin-Ib,Myosin-A,0.8469943397580845,True
+entière,Unconventional myosin-Ib,"Myosin-14,Alpha-actinin A",0.8262891831967173,True
+entière,Gelsolin,Catenin alpha-1,0.29499247359872943,False
+entière,"Myosin-14,Alpha-actinin A",Myosin-6,0.9286263651255857,True
+entière,Cofilin-2,Alpha-catenin-like protein hmp-1,0.2978819223829913,False
+entière,Inositol-trisphosphate 3-kinase A,Gelsolin,0.67354142043973,False
+entière,Gelsolin,Alpha-catenin-like protein hmp-1,0.29897903248491703,False
+entière,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,0.32205711147516863,False
+entière,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,0.7865613625020088,False

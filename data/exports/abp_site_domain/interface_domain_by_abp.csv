@@ -1,0 +1,55 @@
+abp_title,uniprot,n_contacts,n_domaines_proteine,domaine_interface_acc,domaine_interface
+Actin-related protein 2,A7MB62,18,1,PF00022,Actin
+Actin-related protein 2/3 complex subunit 1,P78774,10,1,IPR015943,WD40/YVTN repeat-like-containing domain superfamily (InterPro)
+Actin-related protein 2/3 complex subunit 1B,Q58CQ2,7,1,IPR015943,WD40/YVTN repeat-like-containing domain superfamily (InterPro)
+Actin-related protein 2/3 complex subunit 2,Q3MHR7,3,1,PF04045,"Arp2/3 complex, 34 kD subunit p34-Arc"
+Actin-related protein 2/3 complex subunit 3,Q3T035,4,1,PF04062,ARP2/3 complex ARPC3 (21 kDa) subunit
+Actin-related protein 2/3 complex subunit 4,Q148J6,20,1,PF05856,ARP2/3 complex 20 kDa subunit (ARPC4)
+Actin-related protein 2/3 complex subunit 5-like protein,Q9BPX5,4,1,IPR036743,Actin-related protein 2/3 complex subunit 5 superfamily (InterPro)
+Actin-related protein 3,P61157,47,1,PF00022,Actin
+Adducin 1,A0A8D1Q0D0,35,1,IPR051017,Aldolase class II Adducin subfamily (InterPro)
+Adenylyl cyclase-associated protein 1,Q01518,35,3,PF21938,"CAP, N-terminal domain"
+Afadin,Q9QZQ1,7,5,PF26705,Afadin-like domain
+Alpha-catenin-like protein hmp-1,P90947,33,1,PF01044,Vinculin family
+Beta-adducin,I3L5B0,44,1,IPR051017,Aldolase class II Adducin subfamily (InterPro)
+Catenin alpha-1,P26231,30,1,PF01044,Vinculin family
+Cell invasion protein SipA,P0CL52,8,2,IPR061302,SPI-1 type III secretion system effector SipA (InterPro)
+Cofilin-1,P23528,20,1,PF00241,Cofilin/tropomyosin-type actin-binding protein
+Cofilin-2,Q9Y281,26,1,PF00241,Cofilin/tropomyosin-type actin-binding protein
+"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",Q9BR76,19,3,PF08953,Domain of unknown function (DUF1899)
+Dematin actin binding protein,F1RMC1,30,2,PF16182,Putative adherens-junction anchoring region of AbLIM
+Epididymis secretory protein Li 37,P13796,28,2,PF00307,Calponin homology (CH) domain
+F-actin-capping protein subunit alpha-1,P52907,19,1,PF01267,F-actin capping protein alpha subunit
+F-actin-capping protein subunit beta,P47756,6,1,PF01115,"F-actin capping protein, beta subunit"
+Filamin-A,P21333,13,2,PF00307,Calponin homology (CH) domain
+Gelsolin,P06396,31,1,PF00626,Gelsolin repeat
+Inositol-trisphosphate 3-kinase A,P17105,13,1,—,—
+Inverted formin-2,Q27J81,10,4,PF02205,WH2 motif
+Isoform 2 of F-actin-capping protein subunit beta,P47757,6,1,PF01115,"F-actin capping protein, beta subunit"
+"Isoform A2 of Troponin T, cardiac muscle",P50752,11,1,IPR027707,Troponin T (InterPro)
+Leiomodin-2,Q6P5Q4,12,2,PF27087,TMOD/LMOD Leucine-rich domain
+"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",P0AEX9,3,1,IPR006060,"Maltose/Cyclodextrin ABC transporter, substrate-binding protein (InterPro)"
+"Maltose/maltodextrin-binding periplasmic protein,TccC3",P0AEX9,26,1,PF01547,Bacterial extracellular solute-binding protein
+Myosin heavy chain 4,F1LRV9,35,3,PF00063,Myosin head (motor domain)
+"Myosin-14,Alpha-actinin A",Q7Z406,43,3,PF00063,Myosin head (motor domain)
+Myosin-6,Q02566,29,3,PF00063,Myosin head (motor domain)
+Myosin-7,P79293,33,3,PF00063,Myosin head (motor domain)
+Myosin-A,Q8IDR3,36,1,PF00063,Myosin head (motor domain)
+Plastin-3,P13797,25,2,PF00307,Calponin homology (CH) domain
+Profilin-1,P07737,27,1,PF00235,Profilin
+Protein diaphanous homolog 1,O08808,31,5,PF02181,Formin Homology 2 Domain
+Spectrin beta chain,A0A480J001,10,2,PF00307,Calponin homology (CH) domain
+Src substrate cortactin,Q60598,9,2,PF02218,Repeat in HS1/Cortactin
+Talin-1,P26039,12,9,PF01608,I/LWEQ domain
+Tropomodulin-1,A0A4X1UDZ5,61,2,PF03250,Tropomodulin
+Tropomyosin alpha-1 chain,P09493,10,1,PF00261,Tropomyosin
+Tropomyosin beta chain,P58775,6,1,PF00261,Tropomyosin
+Tropomyosin-1.9,A0AA82WPI2,11,1,PF00261,Tropomyosin
+"Troponin T2, cardiac type",I3LS66,11,1,IPR027707,Troponin T (InterPro)
+Unconventional myosin-Ib,Q05096,39,3,PF00063,Myosin head (motor domain)
+Utrophin,P46939,12,5,PF00307,Calponin homology (CH) domain
+Vibrio VopV,A0A250E4R0,26,0,—,—
+Vinculin,P18206,32,1,PF01044,Vinculin family
+VopV,A0A250E4R0,28,0,—,—
+"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",O75083,25,1,PF00400,"WD domain, G-beta repeat"
+beta-cardiac myosin II,P12883,6,3,PF00063,Myosin head (motor domain)

@@ -1,0 +1,121 @@
+# PyMOL — physicochimique + B-factor — cluster actine S1 : 6685_3
+# 6 partenaires
+# Résidus interface (b > 10) : teinte=type physicochimique, intensité=B-factor
+# gris=hydrophobe · rose=aromatique · cyan=polaire · bleu=+ · rouge=- · jaune=Cys
+# Base : orange=actine · vert pâle=ABP
+
+# ── Actine S1 — physicochimique + intensité B-factor, semi-transparente ─
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_cluster/6685_3.pdb, base_actin
+hide everything, base_actin
+show surface, base_actin
+color orange, base_actin
+color grey60,    base_actin and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL)
+color hotpink,   base_actin and b > 10 and (resn PHE+TRP+TYR)
+color cyan,      base_actin and b > 10 and (resn HIS+ASN+GLN+SER+THR)
+color blue,      base_actin and b > 10 and (resn LYS+ARG)
+color red,       base_actin and b > 10 and (resn ASP+GLU)
+color yellow,    base_actin and b > 10 and resn CYS
+color limegreen, base_actin and b > 10 and resn PRO
+
+# ── Partenaires S2 ─────────────────────────────────────────────────────
+# 6685_4 (homo) — C70 : 0_7797_1 (535 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_7797_1.pdb, tmp_6685_4
+align tmp_6685_4 and chain A, base_actin
+create 6685_4_actin, tmp_6685_4 and chain B
+delete tmp_6685_4
+hide everything, 6685_4_actin
+show surface, 6685_4_actin
+color orange, 6685_4_actin
+spectrum b, white_grey60,   6685_4_actin and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=97.17
+spectrum b, white_hotpink,  6685_4_actin and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=97.17
+spectrum b, white_cyan,     6685_4_actin and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=97.17
+spectrum b, white_blue,     6685_4_actin and b > 10 and (resn LYS+ARG), minimum=0, maximum=97.17
+spectrum b, white_red,      6685_4_actin and b > 10 and (resn ASP+GLU), minimum=0, maximum=97.17
+spectrum b, white_yellow,   6685_4_actin and b > 10 and resn CYS, minimum=0, maximum=97.17
+spectrum b, white_limegreen,6685_4_actin and b > 10 and resn PRO, minimum=0, maximum=97.17
+
+# 6685_117 (homo) — C70 : 0_7797_33 (7 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_7797_33.pdb, tmp_6685_117
+align tmp_6685_117 and chain A, base_actin
+create 6685_117_actin, tmp_6685_117 and chain B
+delete tmp_6685_117
+hide everything, 6685_117_actin
+show surface, 6685_117_actin
+color orange, 6685_117_actin
+spectrum b, white_grey60,   6685_117_actin and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=90.81
+spectrum b, white_hotpink,  6685_117_actin and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=90.81
+spectrum b, white_cyan,     6685_117_actin and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=90.81
+spectrum b, white_blue,     6685_117_actin and b > 10 and (resn LYS+ARG), minimum=0, maximum=90.81
+spectrum b, white_red,      6685_117_actin and b > 10 and (resn ASP+GLU), minimum=0, maximum=90.81
+spectrum b, white_yellow,   6685_117_actin and b > 10 and resn CYS, minimum=0, maximum=90.81
+spectrum b, white_limegreen,6685_117_actin and b > 10 and resn PRO, minimum=0, maximum=90.81
+
+# 7269_3 (hetero) — C70 : 0_55905_0 (4 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_55905_0.pdb, tmp_7269_3
+align tmp_7269_3 and chain A, base_actin
+create 7269_3_actin_related_protein_3, tmp_7269_3 and chain B
+delete tmp_7269_3
+hide everything, 7269_3_actin_related_protein_3
+show surface, 7269_3_actin_related_protein_3
+color palegreen, 7269_3_actin_related_protein_3
+spectrum b, white_grey60,   7269_3_actin_related_protein_3 and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=98.92
+spectrum b, white_hotpink,  7269_3_actin_related_protein_3 and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=98.92
+spectrum b, white_cyan,     7269_3_actin_related_protein_3 and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=98.92
+spectrum b, white_blue,     7269_3_actin_related_protein_3 and b > 10 and (resn LYS+ARG), minimum=0, maximum=98.92
+spectrum b, white_red,      7269_3_actin_related_protein_3 and b > 10 and (resn ASP+GLU), minimum=0, maximum=98.92
+spectrum b, white_yellow,   7269_3_actin_related_protein_3 and b > 10 and resn CYS, minimum=0, maximum=98.92
+spectrum b, white_limegreen,7269_3_actin_related_protein_3 and b > 10 and resn PRO, minimum=0, maximum=98.92
+
+# 52041_5 (hetero) — C70 : 0_39587_1 (4 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_39587_1.pdb, tmp_52041_5
+align tmp_52041_5 and chain A, base_actin
+create 52041_5_actin_related_protein_2, tmp_52041_5 and chain B
+delete tmp_52041_5
+hide everything, 52041_5_actin_related_protein_2
+show surface, 52041_5_actin_related_protein_2
+color palegreen, 52041_5_actin_related_protein_2
+spectrum b, white_grey60,   52041_5_actin_related_protein_2 and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=97.9
+spectrum b, white_hotpink,  52041_5_actin_related_protein_2 and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=97.9
+spectrum b, white_cyan,     52041_5_actin_related_protein_2 and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=97.9
+spectrum b, white_blue,     52041_5_actin_related_protein_2 and b > 10 and (resn LYS+ARG), minimum=0, maximum=97.9
+spectrum b, white_red,      52041_5_actin_related_protein_2 and b > 10 and (resn ASP+GLU), minimum=0, maximum=97.9
+spectrum b, white_yellow,   52041_5_actin_related_protein_2 and b > 10 and resn CYS, minimum=0, maximum=97.9
+spectrum b, white_limegreen,52041_5_actin_related_protein_2 and b > 10 and resn PRO, minimum=0, maximum=97.9
+
+# 7715_10 (hetero) — C70 : 0_62063_0 (4 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_62063_0.pdb, tmp_7715_10
+align tmp_7715_10 and chain A, base_actin
+create 7715_10_actin_related_protein_3, tmp_7715_10 and chain B
+delete tmp_7715_10
+hide everything, 7715_10_actin_related_protein_3
+show surface, 7715_10_actin_related_protein_3
+color palegreen, 7715_10_actin_related_protein_3
+spectrum b, white_grey60,   7715_10_actin_related_protein_3 and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=99.78
+spectrum b, white_hotpink,  7715_10_actin_related_protein_3 and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=99.78
+spectrum b, white_cyan,     7715_10_actin_related_protein_3 and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=99.78
+spectrum b, white_blue,     7715_10_actin_related_protein_3 and b > 10 and (resn LYS+ARG), minimum=0, maximum=99.78
+spectrum b, white_red,      7715_10_actin_related_protein_3 and b > 10 and (resn ASP+GLU), minimum=0, maximum=99.78
+spectrum b, white_yellow,   7715_10_actin_related_protein_3 and b > 10 and resn CYS, minimum=0, maximum=99.78
+spectrum b, white_limegreen,7715_10_actin_related_protein_3 and b > 10 and resn PRO, minimum=0, maximum=99.78
+
+# 8956_11 (hetero) — C70 : 0_62064_1 (4 interactions)
+load /Users/user/Desktop/stage/actin_project/data/filtered/details/structures_files/bfactor_c70_interface/0_62064_1.pdb, tmp_8956_11
+align tmp_8956_11 and chain A, base_actin
+create 8956_11_actin_related_protein_2, tmp_8956_11 and chain B
+delete tmp_8956_11
+hide everything, 8956_11_actin_related_protein_2
+show surface, 8956_11_actin_related_protein_2
+color palegreen, 8956_11_actin_related_protein_2
+spectrum b, white_grey60,   8956_11_actin_related_protein_2 and b > 10 and (resn ALA+GLY+ILE+LEU+MET+VAL), minimum=0, maximum=97.0
+spectrum b, white_hotpink,  8956_11_actin_related_protein_2 and b > 10 and (resn PHE+TRP+TYR), minimum=0, maximum=97.0
+spectrum b, white_cyan,     8956_11_actin_related_protein_2 and b > 10 and (resn HIS+ASN+GLN+SER+THR), minimum=0, maximum=97.0
+spectrum b, white_blue,     8956_11_actin_related_protein_2 and b > 10 and (resn LYS+ARG), minimum=0, maximum=97.0
+spectrum b, white_red,      8956_11_actin_related_protein_2 and b > 10 and (resn ASP+GLU), minimum=0, maximum=97.0
+spectrum b, white_yellow,   8956_11_actin_related_protein_2 and b > 10 and resn CYS, minimum=0, maximum=97.0
+spectrum b, white_limegreen,8956_11_actin_related_protein_2 and b > 10 and resn PRO, minimum=0, maximum=97.0
+
+# ── Rendu global ───────────────────────────────────────────────────────
+set surface_quality, 1
+bg_color white
+set ray_opaque_background, off
+zoom base_actin

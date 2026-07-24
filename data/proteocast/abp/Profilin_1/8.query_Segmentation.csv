@@ -1,0 +1,4 @@
+"start","end","mean","state","type","protein"
+1,140,0.488012629075187,0,"GEMME","query"
+1,2,0.542,0,"pLDDT","query"
+3,140,0.961905797101449,2,"pLDDT","query"

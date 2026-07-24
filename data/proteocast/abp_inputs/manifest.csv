@@ -1,0 +1,55 @@
+abp_title,slug,uniprot,alphafold_id,longueur,fasta_entree,sortie_attendue,fusion
+Actin-related protein 2,Actin_related_protein_2,A7MB62,AF-A7MB62-F1,,data/proteocast/abp_inputs/Actin_related_protein_2.fasta,data/proteocast/abp/Actin_related_protein_2.csv,False
+Actin-related protein 2/3 complex subunit 1,Actin_related_protein_2_3_complex_subunit_1,P78774,AF-P78774-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_1.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_1.csv,False
+Actin-related protein 2/3 complex subunit 1B,Actin_related_protein_2_3_complex_subunit_1B,Q58CQ2,AF-Q58CQ2-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_1B.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_1B.csv,False
+Actin-related protein 2/3 complex subunit 2,Actin_related_protein_2_3_complex_subunit_2,Q3MHR7,AF-Q3MHR7-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_2.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_2.csv,False
+Actin-related protein 2/3 complex subunit 3,Actin_related_protein_2_3_complex_subunit_3,Q3T035,AF-Q3T035-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_3.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_3.csv,False
+Actin-related protein 2/3 complex subunit 4,Actin_related_protein_2_3_complex_subunit_4,Q148J6,AF-Q148J6-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_4.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_4.csv,False
+Actin-related protein 2/3 complex subunit 5-like protein,Actin_related_protein_2_3_complex_subunit_5_like_p,Q9BPX5,AF-Q9BPX5-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_5_like_p.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_5_like_p.csv,False
+Actin-related protein 3,Actin_related_protein_3,P61157,AF-P61157-F1,,data/proteocast/abp_inputs/Actin_related_protein_3.fasta,data/proteocast/abp/Actin_related_protein_3.csv,False
+Adducin 1,Adducin_1,A0A8D1Q0D0,AF-A0A8D1Q0D0-F1,,data/proteocast/abp_inputs/Adducin_1.fasta,data/proteocast/abp/Adducin_1.csv,False
+Adenylyl cyclase-associated protein 1,Adenylyl_cyclase_associated_protein_1,Q01518,AF-Q01518-F1,,data/proteocast/abp_inputs/Adenylyl_cyclase_associated_protein_1.fasta,data/proteocast/abp/Adenylyl_cyclase_associated_protein_1.csv,False
+Afadin,Afadin,Q9QZQ1,AF-Q9QZQ1-F1,,data/proteocast/abp_inputs/Afadin.fasta,data/proteocast/abp/Afadin.csv,False
+Alpha-catenin-like protein hmp-1,Alpha_catenin_like_protein_hmp_1,P90947,AF-P90947-F1,,data/proteocast/abp_inputs/Alpha_catenin_like_protein_hmp_1.fasta,data/proteocast/abp/Alpha_catenin_like_protein_hmp_1.csv,False
+Beta-adducin,Beta_adducin,I3L5B0,AF-I3L5B0-F1,,data/proteocast/abp_inputs/Beta_adducin.fasta,data/proteocast/abp/Beta_adducin.csv,False
+Catenin alpha-1,Catenin_alpha_1,P26231,AF-P26231-F1,,data/proteocast/abp_inputs/Catenin_alpha_1.fasta,data/proteocast/abp/Catenin_alpha_1.csv,False
+Cell invasion protein SipA,Cell_invasion_protein_SipA,P0CL52,AF-P0CL52-F1,,data/proteocast/abp_inputs/Cell_invasion_protein_SipA.fasta,data/proteocast/abp/Cell_invasion_protein_SipA.csv,False
+Cofilin-1,Cofilin_1,P23528,AF-P23528-F1,,data/proteocast/abp_inputs/Cofilin_1.fasta,data/proteocast/abp/Cofilin_1.csv,False
+Cofilin-2,Cofilin_2,Q9Y281,AF-Q9Y281-F1,,data/proteocast/abp_inputs/Cofilin_2.fasta,data/proteocast/abp/Cofilin_2.csv,False
+"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",Coronin_1B_Methylated_DNA_protein_cysteine_methylt,Q9BR76;P16455,AF-Q9BR76;P16455-F1,,data/proteocast/abp_inputs/Coronin_1B_Methylated_DNA_protein_cysteine_methylt.fasta,data/proteocast/abp/Coronin_1B_Methylated_DNA_protein_cysteine_methylt.csv,True
+Dematin actin binding protein,Dematin_actin_binding_protein,F1RMC1,AF-F1RMC1-F1,,data/proteocast/abp_inputs/Dematin_actin_binding_protein.fasta,data/proteocast/abp/Dematin_actin_binding_protein.csv,False
+Epididymis secretory protein Li 37,Epididymis_secretory_protein_Li_37,P13796,AF-P13796-F1,,data/proteocast/abp_inputs/Epididymis_secretory_protein_Li_37.fasta,data/proteocast/abp/Epididymis_secretory_protein_Li_37.csv,False
+F-actin-capping protein subunit alpha-1,F_actin_capping_protein_subunit_alpha_1,P52907,AF-P52907-F1,,data/proteocast/abp_inputs/F_actin_capping_protein_subunit_alpha_1.fasta,data/proteocast/abp/F_actin_capping_protein_subunit_alpha_1.csv,False
+F-actin-capping protein subunit beta,F_actin_capping_protein_subunit_beta,P47756,AF-P47756-F1,,data/proteocast/abp_inputs/F_actin_capping_protein_subunit_beta.fasta,data/proteocast/abp/F_actin_capping_protein_subunit_beta.csv,False
+Filamin-A,Filamin_A,P21333,AF-P21333-F1,,data/proteocast/abp_inputs/Filamin_A.fasta,data/proteocast/abp/Filamin_A.csv,False
+Gelsolin,Gelsolin,P06396,AF-P06396-F1,,data/proteocast/abp_inputs/Gelsolin.fasta,data/proteocast/abp/Gelsolin.csv,False
+Inositol-trisphosphate 3-kinase A,Inositol_trisphosphate_3_kinase_A,P17105,AF-P17105-F1,,data/proteocast/abp_inputs/Inositol_trisphosphate_3_kinase_A.fasta,data/proteocast/abp/Inositol_trisphosphate_3_kinase_A.csv,False
+Inverted formin-2,Inverted_formin_2,Q27J81,AF-Q27J81-F1,,data/proteocast/abp_inputs/Inverted_formin_2.fasta,data/proteocast/abp/Inverted_formin_2.csv,False
+Isoform 2 of F-actin-capping protein subunit beta,Isoform_2_of_F_actin_capping_protein_subunit_beta,P47757,AF-P47757-F1,,data/proteocast/abp_inputs/Isoform_2_of_F_actin_capping_protein_subunit_beta.fasta,data/proteocast/abp/Isoform_2_of_F_actin_capping_protein_subunit_beta.csv,False
+"Isoform A2 of Troponin T, cardiac muscle",Isoform_A2_of_Troponin_T_cardiac_muscle,P50752,AF-P50752-F1,,data/proteocast/abp_inputs/Isoform_A2_of_Troponin_T_cardiac_muscle.fasta,data/proteocast/abp/Isoform_A2_of_Troponin_T_cardiac_muscle.csv,True
+Leiomodin-2,Leiomodin_2,Q6P5Q4,AF-Q6P5Q4-F1,,data/proteocast/abp_inputs/Leiomodin_2.fasta,data/proteocast/abp/Leiomodin_2.csv,False
+"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",Maltose_maltodextrin_binding_periplasmic_protein_A,P0AEX9;Q9I1S4,AF-P0AEX9;Q9I1S4-F1,,data/proteocast/abp_inputs/Maltose_maltodextrin_binding_periplasmic_protein_A.fasta,data/proteocast/abp/Maltose_maltodextrin_binding_periplasmic_protein_A.csv,True
+"Maltose/maltodextrin-binding periplasmic protein,TccC3",Maltose_maltodextrin_binding_periplasmic_protein_T,P0AEX9;Q8GF97,AF-P0AEX9;Q8GF97-F1,,data/proteocast/abp_inputs/Maltose_maltodextrin_binding_periplasmic_protein_T.fasta,data/proteocast/abp/Maltose_maltodextrin_binding_periplasmic_protein_T.csv,True
+Myosin heavy chain 4,Myosin_heavy_chain_4,F1LRV9,AF-F1LRV9-F1,,data/proteocast/abp_inputs/Myosin_heavy_chain_4.fasta,data/proteocast/abp/Myosin_heavy_chain_4.csv,False
+"Myosin-14,Alpha-actinin A",Myosin_14_Alpha_actinin_A,Q7Z406;P05095,AF-Q7Z406;P05095-F1,,data/proteocast/abp_inputs/Myosin_14_Alpha_actinin_A.fasta,data/proteocast/abp/Myosin_14_Alpha_actinin_A.csv,True
+Myosin-6,Myosin_6,Q02566,AF-Q02566-F1,,data/proteocast/abp_inputs/Myosin_6.fasta,data/proteocast/abp/Myosin_6.csv,False
+Myosin-7,Myosin_7,P79293,AF-P79293-F1,,data/proteocast/abp_inputs/Myosin_7.fasta,data/proteocast/abp/Myosin_7.csv,False
+Myosin-A,Myosin_A,Q8IDR3,AF-Q8IDR3-F1,,data/proteocast/abp_inputs/Myosin_A.fasta,data/proteocast/abp/Myosin_A.csv,False
+Plastin-3,Plastin_3,P13797,AF-P13797-F1,,data/proteocast/abp_inputs/Plastin_3.fasta,data/proteocast/abp/Plastin_3.csv,False
+Profilin-1,Profilin_1,P07737,AF-P07737-F1,,data/proteocast/abp_inputs/Profilin_1.fasta,data/proteocast/abp/Profilin_1.csv,False
+Protein diaphanous homolog 1,Protein_diaphanous_homolog_1,O08808,AF-O08808-F1,,data/proteocast/abp_inputs/Protein_diaphanous_homolog_1.fasta,data/proteocast/abp/Protein_diaphanous_homolog_1.csv,False
+Spectrin beta chain,Spectrin_beta_chain,A0A480J001,AF-A0A480J001-F1,,data/proteocast/abp_inputs/Spectrin_beta_chain.fasta,data/proteocast/abp/Spectrin_beta_chain.csv,False
+Src substrate cortactin,Src_substrate_cortactin,Q60598,AF-Q60598-F1,,data/proteocast/abp_inputs/Src_substrate_cortactin.fasta,data/proteocast/abp/Src_substrate_cortactin.csv,False
+Talin-1,Talin_1,P26039,AF-P26039-F1,,data/proteocast/abp_inputs/Talin_1.fasta,data/proteocast/abp/Talin_1.csv,False
+Tropomodulin-1,Tropomodulin_1,A0A4X1UDZ5,AF-A0A4X1UDZ5-F1,,data/proteocast/abp_inputs/Tropomodulin_1.fasta,data/proteocast/abp/Tropomodulin_1.csv,False
+Tropomyosin alpha-1 chain,Tropomyosin_alpha_1_chain,P09493,AF-P09493-F1,,data/proteocast/abp_inputs/Tropomyosin_alpha_1_chain.fasta,data/proteocast/abp/Tropomyosin_alpha_1_chain.csv,False
+Tropomyosin beta chain,Tropomyosin_beta_chain,P58775,AF-P58775-F1,,data/proteocast/abp_inputs/Tropomyosin_beta_chain.fasta,data/proteocast/abp/Tropomyosin_beta_chain.csv,False
+Tropomyosin-1.9,Tropomyosin_1_9,A0AA82WPI2,AF-A0AA82WPI2-F1,,data/proteocast/abp_inputs/Tropomyosin_1_9.fasta,data/proteocast/abp/Tropomyosin_1_9.csv,False
+"Troponin T2, cardiac type",Troponin_T2_cardiac_type,I3LS66,AF-I3LS66-F1,,data/proteocast/abp_inputs/Troponin_T2_cardiac_type.fasta,data/proteocast/abp/Troponin_T2_cardiac_type.csv,True
+Unconventional myosin-Ib,Unconventional_myosin_Ib,Q05096,AF-Q05096-F1,,data/proteocast/abp_inputs/Unconventional_myosin_Ib.fasta,data/proteocast/abp/Unconventional_myosin_Ib.csv,False
+Utrophin,Utrophin,P46939,AF-P46939-F1,,data/proteocast/abp_inputs/Utrophin.fasta,data/proteocast/abp/Utrophin.csv,False
+Vibrio VopV,Vibrio_VopV,A0A250E4R0,AF-A0A250E4R0-F1,,data/proteocast/abp_inputs/Vibrio_VopV.fasta,data/proteocast/abp/Vibrio_VopV.csv,False
+Vinculin,Vinculin,P18206,AF-P18206-F1,,data/proteocast/abp_inputs/Vinculin.fasta,data/proteocast/abp/Vinculin.csv,False
+VopV,VopV,A0A250E4R0,AF-A0A250E4R0-F1,,data/proteocast/abp_inputs/VopV.fasta,data/proteocast/abp/VopV.csv,False
+"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",WD_repeat_containing_protein_1_Methylated_DNA_prot,O75083;P16455,AF-O75083;P16455-F1,,data/proteocast/abp_inputs/WD_repeat_containing_protein_1_Methylated_DNA_prot.fasta,data/proteocast/abp/WD_repeat_containing_protein_1_Methylated_DNA_prot.csv,True
+beta-cardiac myosin II,beta_cardiac_myosin_II,P12883,AF-P12883-F1,,data/proteocast/abp_inputs/beta_cardiac_myosin_II.fasta,data/proteocast/abp/beta_cardiac_myosin_II.csv,False

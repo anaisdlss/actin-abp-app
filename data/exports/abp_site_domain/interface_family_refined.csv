@@ -1,0 +1,83 @@
+site,a,b,dom_a,dom_b,meme_domaine_interface,ancienne_meme_famille,empreinte
+6685_0,Alpha-catenin-like protein hmp-1,Catenin alpha-1,Vinculin family,Vinculin family,oui,oui,1.0
+6685_0,Alpha-catenin-like protein hmp-1,Cofilin-1,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.78
+6685_0,Alpha-catenin-like protein hmp-1,Cofilin-2,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.74
+6685_0,Alpha-catenin-like protein hmp-1,Gelsolin,Vinculin family,Gelsolin repeat,non,non,0.78
+6685_0,Alpha-catenin-like protein hmp-1,Inverted formin-2,Vinculin family,WH2 motif,non,non,0.89
+6685_0,Catenin alpha-1,Cofilin-1,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.74
+6685_0,Catenin alpha-1,Cofilin-2,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.7
+6685_0,Catenin alpha-1,Gelsolin,Vinculin family,Gelsolin repeat,non,non,0.89
+6685_0,Catenin alpha-1,Inverted formin-2,Vinculin family,WH2 motif,non,non,0.94
+6685_0,Cofilin-1,Cofilin-2,Cofilin/tropomyosin-type actin-binding protein,Cofilin/tropomyosin-type actin-binding protein,oui,oui,0.94
+6685_0,Cofilin-1,Gelsolin,Cofilin/tropomyosin-type actin-binding protein,Gelsolin repeat,non,non,0.72
+6685_0,Cofilin-1,Inverted formin-2,Cofilin/tropomyosin-type actin-binding protein,WH2 motif,non,non,0.78
+6685_0,Cofilin-2,Gelsolin,Cofilin/tropomyosin-type actin-binding protein,Gelsolin repeat,non,non,0.67
+6685_0,Cofilin-2,Inverted formin-2,Cofilin/tropomyosin-type actin-binding protein,WH2 motif,non,non,0.72
+6685_0,Gelsolin,Inverted formin-2,Gelsolin repeat,WH2 motif,non,non,0.83
+6685_102,Catenin alpha-1,Gelsolin,Vinculin family,Gelsolin repeat,non,non,0.84
+6685_102,Catenin alpha-1,Inositol-trisphosphate 3-kinase A,Vinculin family,—,non,non,0.91
+6685_102,Catenin alpha-1,Protein diaphanous homolog 1,Vinculin family,Formin Homology 2 Domain,non,non,0.86
+6685_102,Gelsolin,Inositol-trisphosphate 3-kinase A,Gelsolin repeat,—,non,non,0.74
+6685_102,Gelsolin,Protein diaphanous homolog 1,Gelsolin repeat,Formin Homology 2 Domain,non,non,0.86
+6685_102,Inositol-trisphosphate 3-kinase A,Protein diaphanous homolog 1,—,Formin Homology 2 Domain,non,non,0.73
+6685_121,Inositol-trisphosphate 3-kinase A,Plastin-3,—,Calponin homology (CH) domain,non,non,0.88
+6685_121,Inositol-trisphosphate 3-kinase A,Spectrin beta chain,—,Calponin homology (CH) domain,non,non,0.93
+6685_121,Inositol-trisphosphate 3-kinase A,Talin-1,—,I/LWEQ domain,non,non,0.95
+6685_121,Plastin-3,Spectrin beta chain,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.86
+6685_121,Plastin-3,Talin-1,Calponin homology (CH) domain,I/LWEQ domain,non,non,0.88
+6685_121,Spectrin beta chain,Talin-1,Calponin homology (CH) domain,I/LWEQ domain,non,non,0.86
+6685_136,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",Troponin T (InterPro),Troponin T (InterPro),oui,oui,1.0
+6685_138,"Isoform A2 of Troponin T, cardiac muscle","Troponin T2, cardiac type",Troponin T (InterPro),Troponin T (InterPro),oui,oui,0.95
+6685_141,Alpha-catenin-like protein hmp-1,Catenin alpha-1,Vinculin family,Vinculin family,oui,oui,0.91
+6685_141,Alpha-catenin-like protein hmp-1,Spectrin beta chain,Vinculin family,Calponin homology (CH) domain,non,non,0.95
+6685_141,Catenin alpha-1,Spectrin beta chain,Vinculin family,Calponin homology (CH) domain,non,non,0.91
+6685_144,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,WD40/YVTN repeat-like-containing domain superfamily (InterPro),WD40/YVTN repeat-like-containing domain superfamily (InterPro),oui,oui,1.0
+6685_144,Actin-related protein 2/3 complex subunit 1,Inositol-trisphosphate 3-kinase A,WD40/YVTN repeat-like-containing domain superfamily (InterPro),—,non,non,0.95
+6685_144,Actin-related protein 2/3 complex subunit 1B,Inositol-trisphosphate 3-kinase A,WD40/YVTN repeat-like-containing domain superfamily (InterPro),—,non,non,1.0
+6685_145,Actin-related protein 2/3 complex subunit 1,Actin-related protein 2/3 complex subunit 1B,WD40/YVTN repeat-like-containing domain superfamily (InterPro),WD40/YVTN repeat-like-containing domain superfamily (InterPro),oui,oui,1.0
+6685_15,Actin-related protein 2/3 complex subunit 1B,Epididymis secretory protein Li 37,WD40/YVTN repeat-like-containing domain superfamily (InterPro),Calponin homology (CH) domain,non,non,0.88
+6685_15,Actin-related protein 2/3 complex subunit 1B,Filamin-A,WD40/YVTN repeat-like-containing domain superfamily (InterPro),Calponin homology (CH) domain,non,non,0.82
+6685_15,Actin-related protein 2/3 complex subunit 1B,Utrophin,WD40/YVTN repeat-like-containing domain superfamily (InterPro),Calponin homology (CH) domain,non,non,0.91
+6685_15,Epididymis secretory protein Li 37,Filamin-A,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.82
+6685_15,Epididymis secretory protein Li 37,Utrophin,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,1.0
+6685_15,Filamin-A,Utrophin,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,1.0
+6685_150,Adducin 1,Beta-adducin,Aldolase class II Adducin subfamily (InterPro),Aldolase class II Adducin subfamily (InterPro),oui,oui,1.0
+6685_151,Adducin 1,Beta-adducin,Aldolase class II Adducin subfamily (InterPro),Aldolase class II Adducin subfamily (InterPro),oui,oui,1.0
+6685_152,Adducin 1,Beta-adducin,Aldolase class II Adducin subfamily (InterPro),Aldolase class II Adducin subfamily (InterPro),oui,oui,1.0
+6685_154,Adducin 1,Cell invasion protein SipA,Aldolase class II Adducin subfamily (InterPro),SPI-1 type III secretion system effector SipA (InterPro),non,non,0.9
+6685_16,Catenin alpha-1,Epididymis secretory protein Li 37,Vinculin family,Calponin homology (CH) domain,non,non,0.72
+6685_16,Catenin alpha-1,Filamin-A,Vinculin family,Calponin homology (CH) domain,non,non,0.91
+6685_16,Catenin alpha-1,Utrophin,Vinculin family,Calponin homology (CH) domain,non,non,0.89
+6685_16,Epididymis secretory protein Li 37,Filamin-A,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.92
+6685_16,Epididymis secretory protein Li 37,Utrophin,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.96
+6685_16,Filamin-A,Utrophin,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.95
+6685_164,Leiomodin-2,Tropomodulin-1,TMOD/LMOD Leucine-rich domain,Tropomodulin,non,oui,0.93
+6685_168,Actin-related protein 2/3 complex subunit 2,Dematin actin binding protein,"Arp2/3 complex, 34 kD subunit p34-Arc",Putative adherens-junction anchoring region of AbLIM,non,non,0.77
+6685_169,F-actin-capping protein subunit beta,Isoform 2 of F-actin-capping protein subunit beta,"F-actin capping protein, beta subunit","F-actin capping protein, beta subunit",oui,oui,0.8
+6685_193,Actin-related protein 2/3 complex subunit 1,Myosin heavy chain 4,WD40/YVTN repeat-like-containing domain superfamily (InterPro),Myosin head (motor domain),non,non,1.0
+6685_193,Actin-related protein 2/3 complex subunit 1,Myosin-6,WD40/YVTN repeat-like-containing domain superfamily (InterPro),Myosin head (motor domain),non,non,1.0
+6685_193,Myosin heavy chain 4,Myosin-6,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.83
+6685_200,Cofilin-1,Inverted formin-2,Cofilin/tropomyosin-type actin-binding protein,WH2 motif,non,non,0.77
+6685_200,Cofilin-1,Protein diaphanous homolog 1,Cofilin/tropomyosin-type actin-binding protein,Formin Homology 2 Domain,non,non,0.65
+6685_200,Inverted formin-2,Protein diaphanous homolog 1,WH2 motif,Formin Homology 2 Domain,non,oui,0.81
+6685_21,Cofilin-1,Cofilin-2,Cofilin/tropomyosin-type actin-binding protein,Cofilin/tropomyosin-type actin-binding protein,oui,oui,0.96
+6685_211,Inverted formin-2,Protein diaphanous homolog 1,WH2 motif,Formin Homology 2 Domain,non,oui,0.95
+6685_257,Vibrio VopV,VopV,—,—,non,oui,0.9
+6685_258,Vibrio VopV,VopV,—,—,non,oui,0.94
+6685_259,Vibrio VopV,VopV,—,—,non,oui,0.95
+6685_29,Epididymis secretory protein Li 37,Plastin-3,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.96
+6685_3,Actin-related protein 2,Actin-related protein 3,Actin,Actin,oui,oui,0.97
+6685_59,Leiomodin-2,Tropomodulin-1,TMOD/LMOD Leucine-rich domain,Tropomodulin,non,oui,0.89
+6685_6,Myosin-6,Myosin-7,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.85
+6685_6,Myosin-6,Myosin-A,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.79
+6685_6,Myosin-6,Unconventional myosin-Ib,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.91
+6685_6,Myosin-6,Vinculin,Myosin head (motor domain),Vinculin family,non,non,0.8
+6685_6,Myosin-7,Myosin-A,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.89
+6685_6,Myosin-7,Unconventional myosin-Ib,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.85
+6685_6,Myosin-7,Vinculin,Myosin head (motor domain),Vinculin family,non,non,0.92
+6685_6,Myosin-A,Unconventional myosin-Ib,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.91
+6685_6,Myosin-A,Vinculin,Myosin head (motor domain),Vinculin family,non,non,0.92
+6685_6,Unconventional myosin-Ib,Vinculin,Myosin head (motor domain),Vinculin family,non,non,0.92
+6685_97,Myosin heavy chain 4,Myosin-6,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.89
+6685_97,Myosin heavy chain 4,beta-cardiac myosin II,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.91
+6685_97,Myosin-6,beta-cardiac myosin II,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.91

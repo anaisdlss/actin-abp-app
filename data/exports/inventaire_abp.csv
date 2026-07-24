@@ -1,0 +1,54 @@
+#,nom,n_PDB,n_clusters_sequence,n_sites_liaison_actine,n_chaines,n_interactions
+1,Coronin-1B,6,1,6,27,91
+2,Cofilin-2,10,1,2,42,72
+3,Cofilin-1,9,1,2,38,64
+4,Cell invasion protein SipA,4,3,18,16,61
+5,Tropomyosin alpha-1 chain,7,3,16,25,35
+6,VopV,1,1,3,12,34
+7,Spectrin beta chain,2,1,2,16,32
+8,Vibrio VopV,1,1,3,11,31
+9,Inverted formin-2,5,4,19,9,30
+10,Catenin alpha-1,4,2,4,16,28
+11,Dematin actin binding protein,3,1,5,7,20
+12,Epididymis secretory protein Li 37,1,1,2,11,20
+13,Myosin-7,4,2,4,11,19
+14,Actin-related protein 3,5,2,8,5,17
+15,Actin-related protein 2/3 complex subunit 2,5,2,8,5,15
+16,F-actin-capping protein subunit alpha-1,6,1,6,6,12
+17,Inositol-trisphosphate 3-kinase A,3,3,6,7,12
+18,Actin-related protein 2,5,2,4,5,10
+19,Alpha-catenin-like protein hmp-1,1,1,2,6,10
+20,Myosin heavy chain 4,1,1,2,6,10
+21,Myosin-6,1,1,2,6,10
+22,Talin-1,1,1,3,7,10
+23,Tropomodulin-1,3,1,3,3,9
+24,Actin-related protein 2/3 complex subunit 3,5,2,4,5,8
+25,Adenylyl cyclase-associated protein 1,4,1,2,6,8
+26,Adducin 1,2,1,5,5,8
+27,Filamin-A,1,1,2,5,8
+28,F-actin-capping protein subunit beta,4,1,3,4,7
+29,Beta-adducin,2,1,7,4,7
+30,Gelsolin,2,1,3,3,7
+31,Protein diaphanous homolog 1,2,1,5,4,7
+32,ExoY,1,1,2,5,7
+33,Actin-related protein 2/3 complex subunit 1,3,1,2,3,6
+34,Unconventional myosin-Ib,3,1,2,3,6
+35,Plastin-3,1,1,2,3,6
+36,Utrophin,1,1,2,3,6
+37,Actin-related protein 2/3 complex subunit 4,5,2,2,5,5
+38,WD repeat-containing protein 1,2,1,2,3,5
+39,Isoform 2 of F-actin-capping protein subunit beta,2,1,4,2,4
+40,"Isoform A2 of Troponin T, cardiac muscle",1,1,2,2,4
+41,Myosin-14,1,1,2,2,4
+42,"Troponin T2, cardiac type",1,1,2,2,4
+43,Vinculin,1,1,2,2,4
+44,Actin-related protein 2/3 complex subunit 1B,2,1,2,2,3
+45,Tropomyosin beta chain,1,1,2,3,3
+46,Tropomyosin-1.9,2,1,1,2,2
+47,Myosin-A,1,1,2,1,2
+48,Src substrate cortactin,1,1,2,1,2
+49,TccC3,1,1,2,1,2
+50,beta-cardiac myosin II,1,1,2,1,2
+51,Actin-related protein 2/3 complex subunit 5-like protein,1,1,1,1,1
+52,Afadin,1,1,1,1,1
+53,Profilin-1,1,1,1,1,1

@@ -1,0 +1,15 @@
+{
+  "job_id": "LXe5plMZ",
+  "summary_hash": "82de9a421cc908dbf99cdd17508a59f2",
+  "mode": "filtered",
+  "files_hash": {
+    "1.interactions.csv": "47852b3b2e0dc0db6039d0ec4becb27d",
+    "2.proteins.csv": "046aa99f8d06e4d1fe2e5557a40ba218",
+    "3.interface_residues.csv": "2d4c2dc53ee77dd38c001c60ad52e379",
+    "4.inter-residue_contacts.csv": "9af3c8227932e23ea79d26b5daf42d23",
+    "5.ligands.csv": "ffb5ad5179a19f7631e6258c26cc3553",
+    "6.meta_alignement.csv": "871ba531619dd547cc6809f49cc3f3d7",
+    "7.alignment_sequences.csv": "43d0460b0cf098b0db2d27aa7ffccc70",
+    "8.structures.csv": "eb18c11544670ad722320e477ee1d82e"
+  }
+}

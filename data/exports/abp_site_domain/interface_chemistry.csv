@@ -1,0 +1,55 @@
+abp_title,n_res,pct_charge_pos,pct_charge_neg,pct_hydrophobe,pct_aromatique,charge_nette,charge_actine_patch,interface_area,num_contacts,num_hbonds,num_salt_bridges
+Actin-related protein 2,18,17,17,28,0,0,1,573,41,2.0,
+Actin-related protein 2/3 complex subunit 1,10,20,10,70,20,1,-2,491,40,2.0,1.0
+Actin-related protein 2/3 complex subunit 1B,7,43,14,29,14,2,-1,390,28,1.0,
+Actin-related protein 2/3 complex subunit 2,3,33,0,0,0,1,0,105,9,,
+Actin-related protein 2/3 complex subunit 3,4,25,0,25,25,1,0,152,10,1.0,
+Actin-related protein 2/3 complex subunit 4,20,25,20,35,0,1,0,690,57,2.0,2.0
+Actin-related protein 2/3 complex subunit 5-like protein,4,25,0,50,0,1,2,226,15,1.0,
+Actin-related protein 3,47,11,9,51,13,1,0,1232,114,1.0,1.0
+Adducin 1,35,17,20,49,9,-1,-1,1424,106,4.0,1.0
+Adenylyl cyclase-associated protein 1,35,20,14,40,11,2,-2,1097,95,4.0,4.0
+Afadin,7,14,29,43,0,-1,-1,219,19,1.0,1.0
+Alpha-catenin-like protein hmp-1,33,21,3,42,12,6,-3,1178,92,5.0,1.0
+Beta-adducin,44,16,2,41,9,6,-2,1544,128,7.0,1.0
+Catenin alpha-1,30,20,7,47,10,4,-1,1162,86,7.0,3.0
+Cell invasion protein SipA,8,12,0,50,0,1,0,275,24,2.0,
+Cofilin-1,20,35,20,20,0,3,-3,791,60,6.0,4.0
+Cofilin-2,26,23,19,35,4,1,1,1097,90,4.0,1.0
+"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",19,21,5,37,16,3,0,401,36,2.0,1.0
+Dematin actin binding protein,30,17,0,53,20,5,-2,1275,99,2.0,2.0
+Epididymis secretory protein Li 37,28,14,18,36,7,-1,-1,789,74,3.0,1.0
+F-actin-capping protein subunit alpha-1,19,32,11,21,5,4,1,983,71,2.0,3.0
+F-actin-capping protein subunit beta,6,0,50,33,0,-3,0,152,9,,
+Filamin-A,13,31,8,31,8,3,-2,514,39,1.0,1.0
+Gelsolin,31,32,10,29,6,7,-3,959,87,4.0,4.0
+Inositol-trisphosphate 3-kinase A,13,31,8,46,8,3,-2,573,47,5.0,1.0
+Inverted formin-2,10,10,10,70,0,0,-2,437,40,,
+Isoform 2 of F-actin-capping protein subunit beta,6,0,50,33,0,-3,-2,146,10,,
+"Isoform A2 of Troponin T, cardiac muscle",11,18,27,45,0,-1,1,371,32,1.0,
+Leiomodin-2,12,8,8,42,8,0,-2,462,43,6.0,1.0
+"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",3,33,0,67,33,1,0,114,8,,
+"Maltose/maltodextrin-binding periplasmic protein,TccC3",26,15,15,19,8,0,0,683,70,4.0,1.0
+Myosin heavy chain 4,35,23,11,31,9,4,0,1163,108,7.0,2.0
+"Myosin-14,Alpha-actinin A",43,23,16,40,7,3,-5,1296,121,3.0,3.0
+Myosin-6,29,21,14,34,7,2,-1,1017,80,7.0,
+Myosin-7,33,21,12,33,6,3,-2,1159,106,4.0,1.0
+Myosin-A,36,25,14,22,3,4,1,1138,105,9.0,2.0
+Plastin-3,25,8,16,40,8,-2,-1,813,71,6.0,2.0
+Profilin-1,27,19,7,19,7,3,2,883,77,2.0,2.0
+Protein diaphanous homolog 1,31,23,10,19,3,4,0,1001,85,8.0,4.0
+Spectrin beta chain,10,30,10,30,0,2,0,361,30,,
+Src substrate cortactin,9,11,11,33,0,0,-1,402,38,3.0,
+Talin-1,12,17,8,58,0,1,-2,459,40,,
+Tropomodulin-1,61,21,13,34,8,5,-7,2471,212,11.0,4.0
+Tropomyosin alpha-1 chain,10,30,40,20,0,-1,2,226,20,1.0,1.0
+Tropomyosin beta chain,6,33,50,17,0,-1,-1,225,19,1.0,1.0
+Tropomyosin-1.9,11,27,27,18,0,0,0,386,32,1.0,2.0
+"Troponin T2, cardiac type",11,18,27,45,0,-1,0,289,33,,
+Unconventional myosin-Ib,39,21,13,33,5,3,-2,1230,114,7.0,5.0
+Utrophin,12,17,17,17,0,0,0,351,30,3.0,
+Vibrio VopV,26,23,12,35,8,3,-1,1054,95,10.0,1.0
+Vinculin,32,25,16,31,6,3,-2,1224,96,6.0,5.0
+VopV,28,21,14,32,7,2,-3,1096,95,13.0,4.0
+"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",25,24,16,16,8,2,-1,555,54,3.0,1.0
+beta-cardiac myosin II,6,33,17,33,17,1,0,145,11,1.0,

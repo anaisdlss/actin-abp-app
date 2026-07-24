@@ -1,0 +1,54 @@
+#,ABP,uniprot,alphafold_id,chimère_fusion,statut,slug
+1,Actin-related protein 2,A7MB62,AF-A7MB62-F1,False,à faire,Actin_related_protein_2
+2,Actin-related protein 2/3 complex subunit 1,P78774,AF-P78774-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_1
+3,Actin-related protein 2/3 complex subunit 1B,Q58CQ2,AF-Q58CQ2-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_1B
+4,Actin-related protein 2/3 complex subunit 2,Q3MHR7,AF-Q3MHR7-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_2
+5,Actin-related protein 2/3 complex subunit 3,Q3T035,AF-Q3T035-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_3
+6,Actin-related protein 2/3 complex subunit 4,Q148J6,AF-Q148J6-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_4
+7,Actin-related protein 2/3 complex subunit 5-like protein,Q9BPX5,AF-Q9BPX5-F1,False,à faire,Actin_related_protein_2_3_complex_subunit_5_like_protein
+8,Actin-related protein 3,P61157,AF-P61157-F1,False,à faire,Actin_related_protein_3
+9,Adducin 1,A0A8D1Q0D0,AF-A0A8D1Q0D0-F1,False,à faire,Adducin_1
+10,Adenylyl cyclase-associated protein 1,Q01518,AF-Q01518-F1,False,à faire,Adenylyl_cyclase_associated_protein_1
+11,Afadin,Q9QZQ1,AF-Q9QZQ1-F1,False,à faire,Afadin
+12,Alpha-catenin-like protein hmp-1,P90947,AF-P90947-F1,False,à faire,Alpha_catenin_like_protein_hmp_1
+13,Beta-adducin,I3L5B0,AF-I3L5B0-F1,False,à faire,Beta_adducin
+14,Catenin alpha-1,P26231,AF-P26231-F1,False,à faire,Catenin_alpha_1
+15,Cell invasion protein SipA,P0CL52,AF-P0CL52-F1,False,à faire,Cell_invasion_protein_SipA
+16,Cofilin-1,P23528,AF-P23528-F1,False,à faire,Cofilin_1
+17,Cofilin-2,Q9Y281,AF-Q9Y281-F1,False,à faire,Cofilin_2
+18,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",Q9BR76,AF-Q9BR76-F1,True,à faire,Coronin_1B_Methylated_DNA_protein_cysteine_methyltransferase
+19,Dematin actin binding protein,F1RMC1,AF-F1RMC1-F1,False,à faire,Dematin_actin_binding_protein
+20,Epididymis secretory protein Li 37,P13796,AF-P13796-F1,False,à faire,Epididymis_secretory_protein_Li_37
+21,F-actin-capping protein subunit alpha-1,P52907,AF-P52907-F1,False,à faire,F_actin_capping_protein_subunit_alpha_1
+22,F-actin-capping protein subunit beta,P47756,AF-P47756-F1,False,à faire,F_actin_capping_protein_subunit_beta
+23,Filamin-A,P21333,AF-P21333-F1,False,à faire,Filamin_A
+24,Gelsolin,P06396,AF-P06396-F1,False,à faire,Gelsolin
+25,Inositol-trisphosphate 3-kinase A,P17105,AF-P17105-F1,False,à faire,Inositol_trisphosphate_3_kinase_A
+26,Inverted formin-2,Q27J81,AF-Q27J81-F1,False,à faire,Inverted_formin_2
+27,Isoform 2 of F-actin-capping protein subunit beta,P47757,AF-P47757-F1,False,à faire,Isoform_2_of_F_actin_capping_protein_subunit_beta
+28,"Isoform A2 of Troponin T, cardiac muscle",P50752,AF-P50752-F1,True,à faire,Isoform_A2_of_Troponin_T_cardiac_muscle
+29,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",P0AEX9,AF-P0AEX9-F1,True,à faire,Maltose_maltodextrin_binding_periplasmic_protein_Adenylate_c
+30,"Maltose/maltodextrin-binding periplasmic protein,TccC3",P0AEX9,AF-P0AEX9-F1,True,à faire,Maltose_maltodextrin_binding_periplasmic_protein_TccC3
+31,Myosin heavy chain 4,F1LRV9,AF-F1LRV9-F1,False,à faire,Myosin_heavy_chain_4
+32,"Myosin-14,Alpha-actinin A",Q7Z406,AF-Q7Z406-F1,True,à faire,Myosin_14_Alpha_actinin_A
+33,Myosin-6,Q02566,AF-Q02566-F1,False,à faire,Myosin_6
+34,Myosin-7,P79293,AF-P79293-F1,False,à faire,Myosin_7
+35,Myosin-A,Q8IDR3,AF-Q8IDR3-F1,False,à faire,Myosin_A
+36,Plastin-3,P13797,AF-P13797-F1,False,à faire,Plastin_3
+37,Profilin-1,P07737,AF-P07737-F1,False,à faire,Profilin_1
+38,Protein diaphanous homolog 1,O08808,AF-O08808-F1,False,à faire,Protein_diaphanous_homolog_1
+39,Spectrin beta chain,A0A480J001,AF-A0A480J001-F1,False,à faire,Spectrin_beta_chain
+40,Src substrate cortactin,Q60598,AF-Q60598-F1,False,à faire,Src_substrate_cortactin
+41,Talin-1,P26039,AF-P26039-F1,False,à faire,Talin_1
+42,Tropomodulin-1,A0A4X1UDZ5,AF-A0A4X1UDZ5-F1,False,à faire,Tropomodulin_1
+43,Tropomyosin alpha-1 chain,P09493,AF-P09493-F1,False,à faire,Tropomyosin_alpha_1_chain
+44,Tropomyosin beta chain,P58775,AF-P58775-F1,False,à faire,Tropomyosin_beta_chain
+45,Tropomyosin-1.9,A0AA82WPI2,AF-A0AA82WPI2-F1,False,à faire,Tropomyosin_1_9
+46,"Troponin T2, cardiac type",I3LS66,AF-I3LS66-F1,True,à faire,Troponin_T2_cardiac_type
+47,Unconventional myosin-Ib,Q05096,AF-Q05096-F1,False,à faire,Unconventional_myosin_Ib
+48,Utrophin,P46939,AF-P46939-F1,False,à faire,Utrophin
+49,Vibrio VopV,A0A250E4R0,AF-A0A250E4R0-F1,False,à faire,Vibrio_VopV
+50,Vinculin,P18206,AF-P18206-F1,False,à faire,Vinculin
+51,VopV,A0A250E4R0,AF-A0A250E4R0-F1,False,à faire,VopV
+52,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",O75083,AF-O75083-F1,True,à faire,WD_repeat_containing_protein_1_Methylated_DNA_protein_cystei
+53,beta-cardiac myosin II,P12883,AF-P12883-F1,False,à faire,beta_cardiac_myosin_II

@@ -1,0 +1,7 @@
+motif,E_value,n_sites,n_familles,significatif,inter_familles,familles,ABP
+CMFPKA,6.4e-09,4,1,True,False,F01 · Myosin N-terminal SH3-like domain,"Myosin heavy chain 4, Myosin-14,Alpha-actinin A, Myosin-6, Myosin-7"
+YVTKGQ,0.0014,4,1,True,False,F01 · Myosin N-terminal SH3-like domain,"Myosin heavy chain 4, Myosin-14,Alpha-actinin A, Myosin-6, Myosin-7"
+SLDGNPGY,0.019,4,2,True,True,F02 · Calponin homology (CH) domain | F11 · Vibrio VopV (+1),"Epididymis secretory protein Li 37, Plastin-3, Vibrio VopV, VopV"
+WPEVKIPA,0.57,2,1,False,False,F11 · Vibrio VopV (+1),"Vibrio VopV, VopV"
+PDGERVDF,1.5,2,1,False,False,F10 · Troponin,"Isoform A2 of Troponin T, cardiac muscle, Troponin T2, cardiac type"
+HZWC,1.5,2,2,False,False,F07 · Cofilin/tropomyosin-type actin-binding protein | F21 · Gelsolin repeat,"Cofilin-2, Gelsolin"

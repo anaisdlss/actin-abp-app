@@ -1,0 +1,516 @@
+organisme,type,n_sequences
+environnemental,clade,220
+cellular organisms,clade,30
+Bilateria,clade,28
+Eukaryota,clade,27
+Euteleostomi,clade,25
+Opisthokonta,clade,13
+Pentapetalae,clade,13
+Mesangiospermae,clade,11
+Crassostrea gigas,espece,10
+Amniota,clade,9
+Bombyx mori,espece,9
+Penaeus vannamei,espece,9
+Protostomia,clade,9
+Holometabola,clade,8
+Mizuhopecten yessoensis,espece,7
+Boreoeutheria,clade,6
+Eumetazoa,clade,6
+Dictyostelium discoideum,espece,5
+Dinophyceae,clade,5
+Gnathostomata,clade,5
+Arthropoda,clade,4
+Camelus,clade,4
+Clupeocephala,clade,4
+Erpetoichthys calabaricus,espece,4
+Saccoglossus kowalevskii,espece,4
+Solanum tuberosum,espece,4
+Tetraodon nigroviridis,espece,4
+Trichinella,clade,4
+Trichinella pseudospiralis,espece,4
+leotiomyceta,clade,4
+Acanthaster planci,espece,3
+Anneissia japonica,espece,3
+Aplysia californica,espece,3
+Aspergillus,clade,3
+Bangiaceae,clade,3
+Caenorhabditis briggsae,espece,3
+Camelina sativa,espece,3
+Crassostrea virginica,espece,3
+Dendronephthya gigantea,espece,3
+Diptera,clade,3
+Drosophila serrata,espece,3
+Ecdysozoa,clade,3
+Galdieria sulphuraria,espece,3
+Lamiales,clade,3
+Limulus polyphemus,espece,3
+Lophotrochozoa,clade,3
+Neognathae,clade,3
+Nestor notabilis,espece,3
+Nicotiana attenuata,espece,3
+Opisthorchiidae,clade,3
+Oreochromis niloticus,espece,3
+Oryctolagus cuniculus,espece,3
+Pancrustacea,clade,3
+Paramecium tetraurelia,espece,3
+Percomorphaceae,clade,3
+Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500),espece,3
+Salpingoeca rosetta (strain ATCC 50818 / BSB-021),espece,3
+Tetrapoda,clade,3
+Trichinella sp. T9,espece,3
+Acytostelium subglobosum LB1,espece,2
+Amblyraja radiata,espece,2
+Aspergillus avenaceus,espece,2
+Callithrix jacchus,espece,2
+Campylomormyrus compressirostris,espece,2
+Capsicum baccatum,espece,2
+Cavenderia fasciculata (strain SH3),espece,2
+Cercopithecidae,clade,2
+Chelonia mydas,espece,2
+Chordata,clade,2
+Coniophora puteana (strain RWD-64-598),espece,2
+Crassostrea,clade,2
+Dasypus novemcinctus,espece,2
+Daucus carota,espece,2
+Dendrothele bispora CBS 962.96,espece,2
+Dentipellis sp. KUC8613,espece,2
+Dermatophagoides pteronyssinus,espece,2
+Digenea,clade,2
+Diophrys sp. PPR2000,espece,2
+Drosophila kikkawai,espece,2
+Drosophila miranda,espece,2
+Drosophila obscura,espece,2
+Elephantulus edwardii,espece,2
+Emiliania huxleyi,espece,2
+Euteleosteomorpha,clade,2
+Folsomia candida,espece,2
+Fomitiporia mediterranea (strain MF3/22),espece,2
+Hibiscus syriacus,espece,2
+Laccaria amethystina LaAM-08-1,espece,2
+Moniliophthora roreri,espece,2
+Naegleria,clade,2
+Neoptera,clade,2
+Oesophagostomum dentatum,espece,2
+Oryzias latipes,espece,2
+Papaver somniferum,espece,2
+Parambassis ranga,espece,2
+Pezizomycotina,clade,2
+Pogona vitticeps,espece,2
+Pongo abelii,espece,2
+Portunus trituberculatus,espece,2
+Pseudopodoces humilis,espece,2
+Raphanus sativus,espece,2
+Reticulomyxa filosa,espece,2
+Rhagoletis zephyria,espece,2
+Rhodotorula sp. JG-1b,espece,2
+Spirotrichea,clade,2
+Streblomastix strix,espece,2
+Strongylocentrotus purpuratus,espece,2
+Stylonychia lemnae,espece,2
+Tarsius syrichta,espece,2
+Telotrochidium matiense,espece,2
+Thanatephorus cucumeris (strain AG1-IA),espece,2
+Tieghemostelium lacteum,espece,2
+Urostylida,clade,2
+Zea mays,espece,2
+Zostera marina,espece,2
+root,clade,2
+saccharomyceta,clade,2
+Acanthamoeba castellanii str. Neff,espece,1
+Acanthomorphata,clade,1
+Accipitrinae,clade,1
+Acetabularia peniculus,espece,1
+Actinidia chinensis var. chinensis,espece,1
+Actinopteri,clade,1
+Aethina tumida,espece,1
+Ailuropoda melanoleuca,espece,1
+Alligator sinensis,espece,1
+Allogromia,clade,1
+Alteromonadaceae bacterium,espece,1
+Alveolata,clade,1
+Amblyomma cajennense,espece,1
+Ammonia sp.,espece,1
+Amphiamblys sp. WSBS2006,espece,1
+Amphiprion percula,espece,1
+Anabas testudineus,espece,1
+Ananas comosus,espece,1
+Anas platyrhynchos platyrhynchos,espece,1
+Ancylostoma,clade,1
+Anemia phyllitidis,espece,1
+Anncaliia algerae,espece,1
+Anopheles sinensis,espece,1
+Antheraea pernyi,espece,1
+Anthurium amnicola,espece,1
+Aotus nancymaae,espece,1
+Apaloderma vittatum,espece,1
+Aphis gossypii,espece,1
+Apusomonas proboscidea,espece,1
+Arabidopsis,clade,1
+Arabidopsis lyrata subsp. lyrata,espece,1
+Arabidopsis thaliana,espece,1
+Archelosauria,clade,1
+Armillaria,clade,1
+Artiodactyla,clade,1
+Ascomycota,clade,1
+Auricularia subglabra (strain TFB-10046 / SS5),espece,1
+Auriculariopsis ampla,espece,1
+Austrofundulus limnaeus,espece,1
+Babesia microti (strain RI),espece,1
+Bacillariophyta,clade,1
+Balaenoptera acutorostrata scammoni,espece,1
+Basidiobolus meristosporus CBS 931.73,espece,1
+Batrachia,clade,1
+Blastocystis hominis,espece,1
+Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII),espece,1
+Blastocystis sp. subtype 4,espece,1
+Blastocystis sp. subtypes,espece,1
+Blepharisma,clade,1
+Bodo saltans,espece,1
+Bombycoidea,clade,1
+Bonnemaisonia hamifera,espece,1
+Brachionus plicatilis,espece,1
+Branchiostoma,clade,1
+Brettanomyces naardenensis,espece,1
+Camelidae,clade,1
+Camellia sinensis,espece,1
+Camelus dromedarius,espece,1
+Camelus ferus,espece,1
+Carpinus fangiana,espece,1
+Ceraceosorus guamensis,espece,1
+Ceratobasidium cereale,espece,1
+Ceratobasidium theobromae,espece,1
+Cercozoa,clade,1
+Ceriporiopsis subvermispora (strain B),espece,1
+Chlamydomonadales,clade,1
+Chlamydomonas,clade,1
+Chlamydomonas reinhardtii,espece,1
+Chlamydotis macqueenii,espece,1
+Chlorocebus pygerythrus,espece,1
+Chlorodendraceae,clade,1
+Chlorophyceae,clade,1
+Chloropicon primus,espece,1
+Chondrichthyes,clade,1
+Chondrus crispus,espece,1
+Chromadorea,clade,1
+Cinnamomum micranthum f. kanehirae,espece,1
+Clonorchis sinensis,espece,1
+Coemansia reversa (strain ATCC 12441 / NRRL 1564),espece,1
+Colletotrichum fructicola,espece,1
+Colobus angolensis palliatus,espece,1
+Coprinellus micaceus,espece,1
+Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003),espece,1
+Corchorus olitorius,espece,1
+Cordyceps,clade,1
+Coregonus maraena,espece,1
+Cottoperca gobio,espece,1
+Cricetulus griseus,espece,1
+Crocodylia,clade,1
+Cryptocaryon irritans,espece,1
+Cryptosporidium,clade,1
+Ctenosquamata,clade,1
+Cyanidiaceae,clade,1
+Cyanobacteria,clade,1
+Cyanophora paradoxa,espece,1
+Cyclophyllidea,clade,1
+Cynara cardunculus var. scolymus,espece,1
+Cypriniformes,clade,1
+Cyprinus carpio,espece,1
+Danio rerio,espece,1
+Daphnia pulex,espece,1
+Dendrobium catenatum,espece,1
+Dendroctonus ponderosae,espece,1
+Diabrotica virgifera virgifera,espece,1
+Dicentrarchus labrax,espece,1
+Dichanthelium oligosanthes,espece,1
+Didinium nasutum,espece,1
+Dikarya,clade,1
+Dileptus margaritifer,espece,1
+Dimargaris cristalligena,espece,1
+Dixoniella grisea,espece,1
+Dorcoceras hygrometricum,espece,1
+Drosophila elegans,espece,1
+Drosophila eugracilis,espece,1
+Drosophila ficusphila,espece,1
+Drosophila grimshawi,espece,1
+Drosophila guanche,espece,1
+Drosophila lebanonensis,espece,1
+Drosophila rhopaloa,espece,1
+Durocryptodira,clade,1
+Edhazardia aedis (strain USNM 41457),espece,1
+Entamoeba,clade,1
+Entamoeba invadens,espece,1
+Enterocytozoon bieneusi (strain H348),espece,1
+Enterocytozoon hepatopenaei,espece,1
+Enterospora canceri,espece,1
+Entodinium caudatum,espece,1
+Entomophthorales,clade,1
+Epinephelus lanceolatus,espece,1
+Equus asinus,espece,1
+Esox lucius,espece,1
+Euamoebida,clade,1
+Eucestoda,clade,1
+Eucommia ulmoides,espece,1
+Euechinoidea,clade,1
+Euglena gracilis,espece,1
+Eumalacostraca,clade,1
+Euplotes crassus,espece,1
+Exidia glandulosa HHB12029,espece,1
+Fistulina hepatica ATCC 64428,espece,1
+Florideophyceae,clade,1
+Fonticula alba,espece,1
+Foraminifera,clade,1
+Formicidae,clade,1
+Fungi,clade,1
+Fusarium sp. AF-8,espece,1
+Giardia,clade,1
+Giardia muris,espece,1
+Glycine max,espece,1
+Glycyrrhiza uralensis,espece,1
+Gonium pectorale,espece,1
+Gorilla gorilla gorilla,espece,1
+Gossypium australe,espece,1
+Gouania willdenowi,espece,1
+Gracilariopsis chorda,espece,1
+Gregarina,clade,1
+Gregarina niphandrodes,espece,1
+Guillardia theta,espece,1
+Gymnophiona,clade,1
+Haliotis discus discus,espece,1
+Halteria grandinella,espece,1
+Hamiltosporidium,clade,1
+Handroanthus impetiginosus,espece,1
+Hanseniaspora,clade,1
+Helicoverpa armigera,espece,1
+Heliothis virescens,espece,1
+Herpotrichiellaceae,clade,1
+Heteronemertea,clade,1
+Hippocampus comes,espece,1
+Hipposideros armiger,espece,1
+Hirondellea gigas,espece,1
+Holomastigotoides mirabile,espece,1
+Homininae,clade,1
+Homo sapiens,espece,1
+Hondaea fermentalgiana,espece,1
+Hydra vulgaris,espece,1
+Hydroides elegans,espece,1
+Hymenochirus curtipes,espece,1
+Hypocrea jecorina,espece,1
+Hypocreomycetidae,clade,1
+Inonotus obliquus,espece,1
+Intoshia linei,espece,1
+Ipomoea,clade,1
+Ixodes ricinus,espece,1
+Ixodes scapularis,espece,1
+Jatropha curcas,espece,1
+Laccaria,clade,1
+Lacerta agilis,espece,1
+Latimeria chalumnae,espece,1
+Legeriomycetaceae,clade,1
+Leishmaniinae,clade,1
+Leptolyngbya sp. PCC 7376,espece,1
+Leucocryptos marina,espece,1
+Lichtheimia corymbifera,espece,1
+Lingula unguis,espece,1
+Liparis tanakae,espece,1
+Liposcelis bostrychophila,espece,1
+Lithobates catesbeianus,espece,1
+Lobosporangium transversale,espece,1
+Loxodes striatus,espece,1
+Loxodonta africana,espece,1
+Lygus hesperus,espece,1
+Macaca fascicularis,espece,1
+Macleaya cordata,espece,1
+Macrostomum lignano,espece,1
+Mastomys coucha,espece,1
+Mauremys mutica,espece,1
+Megaptera novaeangliae,espece,1
+Metazoa,clade,1
+Microcaecilia unicolor,espece,1
+Microchiroptera,clade,1
+Microcystis aeruginosa,espece,1
+Microsporidia,clade,1
+Miniopterus natalensis,espece,1
+Mollusca,clade,1
+Moniliophthora,clade,1
+Monochamus alternatus,espece,1
+Mucuna pruriens,espece,1
+Mus pahari,espece,1
+Musa acuminata subsp. malaccensis,espece,1
+Mustela putorius furo,espece,1
+Myotis brandtii,espece,1
+Myotis davidii,espece,1
+Myxobolidae,clade,1
+Naegleria fowleri,espece,1
+Naegleria gruberi,espece,1
+Nanorana parkeri,espece,1
+Necator americanus,espece,1
+Nematocida,clade,1
+Nematostella vectensis,espece,1
+Neocallimastix californiae,espece,1
+Neolecta irregularis (strain DAH-3),espece,1
+Neovison vison,espece,1
+Nicotiana,clade,1
+Nomascus leucogenys,espece,1
+Nosema,clade,1
+Nyctotherus ovalis,espece,1
+Nylanderia fulva,espece,1
+Obtectomera,clade,1
+Octopus vulgaris,espece,1
+Odontoceti,clade,1
+Olea europaea var. sylvestris,espece,1
+Omphalotaceae,clade,1
+Onchocercidae,clade,1
+Onychostoma macrolepis,espece,1
+Orbicella faveolata,espece,1
+Orchesella cincta,espece,1
+Oreochromis aureus,espece,1
+Ornithorhynchus anatinus,espece,1
+Osteoglossocephalai,clade,1
+Ovis aries,espece,1
+Oxytrichidae,clade,1
+Pagrus auratus,espece,1
+Pan troglodytes,espece,1
+Paniceae,clade,1
+Parachlorella kessleri,espece,1
+Paragonimus westermani,espece,1
+Paramecium,clade,1
+Paramicrosporidium saccamoebae,espece,1
+Pediculus humanus subsp. corporis,espece,1
+Pelodiscus sinensis,espece,1
+Peracarida,clade,1
+Perkinsus marinus (strain ATCC 50983 / TXsc),espece,1
+Peronosporaceae,clade,1
+Petromyces alliaceus,espece,1
+Phascolosoma esculenta,espece,1
+Phocoena sinus,espece,1
+Phyllostomus discolor,espece,1
+Physarum polycephalum,espece,1
+Physeter macrocephalus,espece,1
+Pichiaceae,clade,1
+Pistacia vera,espece,1
+Plagiorchiida,clade,1
+Plasmodiidae,clade,1
+Plasmodiophora brassicae,espece,1
+Plasmodium,clade,1
+Pleistophoridae,clade,1
+Poaceae,clade,1
+Pochonia chlamydosporia 170,espece,1
+Pocillopora damicornis,espece,1
+Polyphaga,clade,1
+Populus alba,espece,1
+Populus tomentosa,espece,1
+Porphyridium purpureum,espece,1
+Priapulus caudatus,espece,1
+Pristionchus pacificus,espece,1
+Prorocentrum minimum,espece,1
+Pseudokeronopsis carnea,espece,1
+Pseudoloma neurophilia,espece,1
+Pteriomorphia,clade,1
+Pyrenomonas helgolandii,espece,1
+Python bivittatus,espece,1
+Quercus,clade,1
+Rattus norvegicus,espece,1
+Rattus rattus,espece,1
+Rhabditida,clade,1
+Rhinatrema bivittatum,espece,1
+Rhizoclosmatium globosum,espece,1
+Rhodophyta,clade,1
+Rhodosporidium toruloides,espece,1
+Ricinus communis,espece,1
+Rousettus aegyptiacus,espece,1
+Rozella allomycis (strain CSF55),espece,1
+Saimiri boliviensis boliviensis,espece,1
+Salmo salar,espece,1
+Salmoninae,clade,1
+Salvia splendens,espece,1
+Sapajus apella,espece,1
+Sar,clade,1
+Scatophagus argus,espece,1
+Schizophyllum commune,espece,1
+Schizopora paradoxa,espece,1
+Scleropages formosus,espece,1
+Selaginella apoda,espece,1
+Serendipita indica (strain DSM 11827),espece,1
+Sesamum indicum,espece,1
+Sessilida,clade,1
+Silicofilosea,clade,1
+Sinocyclocheilus rhinocerous,espece,1
+Sistotremastrum,clade,1
+Solanaceae,clade,1
+Sparus aurata,espece,1
+Spirogyra sp. SVCK 253,espece,1
+Spironucleus salmonicida,espece,1
+Spirotrichonympha leidyi,espece,1
+Spraguea lophii (strain 42_110),espece,1
+Stagonospora sp. SRC1lsM3a,espece,1
+Stegodyphus mimosarum,espece,1
+Stegomyia,clade,1
+Stereum hirsutum (strain FP-91666),espece,1
+Streptophyta,clade,1
+Streptophytina,clade,1
+Striga asiatica,espece,1
+Strigomonadinae,clade,1
+Strongyloididae,clade,1
+Struthio camelus australis,espece,1
+Stygiella incarcerata,espece,1
+Stylophora pistillata,espece,1
+Symbiodinium,clade,1
+Syncephalis pseudoplumigaleata,espece,1
+Synchytrium microbalum,espece,1
+Syzygium oleosum,espece,1
+Tachysurus fulvidraco,espece,1
+Takifugu,clade,1
+Tanichthys albonubes,espece,1
+Taphrinomycotina,clade,1
+Tetrahymena,clade,1
+Tetrahymena thermophila (strain SB210),espece,1
+Thamnocephalis sphaerospora,espece,1
+Thelohanellus kitauei,espece,1
+Theobroma cacao,espece,1
+Tigriopus japonicus,espece,1
+Tinamus guttatus,espece,1
+Tolypocladium ophioglossoides CBS 100239,espece,1
+Toxisarcon alba,espece,1
+Trachypithecus francoisi,espece,1
+Tremellales,clade,1
+Tremellomycetes,clade,1
+Trichinella nelsoni,espece,1
+Trichinella patagoniensis,espece,1
+Trichinella sp. T6,espece,1
+Trichinella zimbabwensis,espece,1
+Trichomonas vaginalis,espece,1
+Trichomonascaceae,clade,1
+Trichoplax,clade,1
+Tritrichomonadida,clade,1
+Tritrichomonas foetus,espece,1
+Tropilaelaps mercedesae,espece,1
+Trypanosomatidae,clade,1
+Tubulinosema ratisbonensis,espece,1
+Tyto alba,espece,1
+Ulva,clade,1
+Ursus americanus,espece,1
+Ustilaginaceae,clade,1
+Varroa destructor,espece,1
+Vertebrata,clade,1
+Vespertilionidae,clade,1
+Vicugna pacos,espece,1
+Vigna unguiculata,espece,1
+Viridiplantae,clade,1
+Vitis vinifera,espece,1
+Vittaforma corneae (strain ATCC 50505),espece,1
+Volvox carteri f. nagariensis,espece,1
+Vulpes vulpes,espece,1
+Wallemia,clade,1
+Wickerhamiella sorbophila,espece,1
+Xenopus laevis,espece,1
+Yarrowia,clade,1
+Zalophus californianus,espece,1
+commelinids,clade,1
+melanogaster group,clade,1
+melanogaster subgroup,clade,1
+pseudoobscura subgroup,clade,1
+rosids,clade,1
+sordariomyceta,clade,1
+unclassified Allogromia,clade,1
+unknown,clade,1
+x Doritaenopsis hybrid cultivar,clade,1

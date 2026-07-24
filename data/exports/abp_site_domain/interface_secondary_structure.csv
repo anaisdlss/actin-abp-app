@@ -1,0 +1,55 @@
+abp_title,pdb,chain,n_contacts_SS,pct_helice,pct_brin,pct_boucle,SS_dominante
+Actin-related protein 2,7tpt,B,18,17,0,83,boucle
+Actin-related protein 2/3 complex subunit 1,8e9b,C,10,80,0,20,hélice
+Actin-related protein 2/3 complex subunit 1B,7tpt,C,7,100,0,0,hélice
+Actin-related protein 2/3 complex subunit 2,7tpt,D,3,0,0,100,boucle
+Actin-related protein 2/3 complex subunit 3,7tpt,E,4,75,0,25,hélice
+Actin-related protein 2/3 complex subunit 4,7tpt,F,20,60,0,40,hélice
+Actin-related protein 2/3 complex subunit 5-like protein,8p94,G,4,0,0,100,boucle
+Actin-related protein 3,7tpt,A,47,40,6,53,boucle
+Adducin 1,8iah,0,35,89,0,11,hélice
+Adenylyl cyclase-associated protein 1,9q7o,W,35,89,0,11,hélice
+Afadin,9dva,G,7,43,0,57,boucle
+Alpha-catenin-like protein hmp-1,7uuw,H,33,58,0,42,hélice
+Beta-adducin,8iah,3,44,25,27,48,boucle
+Catenin alpha-1,6wvt,N,30,57,0,43,hélice
+Cell invasion protein SipA,8uee,A,8,38,0,62,boucle
+Cofilin-1,6vao,J,20,15,30,55,boucle
+Cofilin-2,9q7k,a,26,46,12,42,hélice
+"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",9qey,H,19,0,53,47,brin β
+Dematin actin binding protein,8iah,5,30,30,0,70,boucle
+Epididymis secretory protein Li 37,6vec,a,28,71,0,29,hélice
+F-actin-capping protein subunit alpha-1,8f8q,G,19,42,0,58,boucle
+F-actin-capping protein subunit beta,8f8q,H,6,50,0,50,hélice
+Filamin-A,6d8c,A,13,62,0,38,hélice
+Gelsolin,8viz,G,31,26,23,52,boucle
+Inositol-trisphosphate 3-kinase A,9gob,F,13,69,0,31,hélice
+Inverted formin-2,9az4,G,10,90,0,10,hélice
+Isoform 2 of F-actin-capping protein subunit beta,8p94,V,6,50,0,50,hélice
+"Isoform A2 of Troponin T, cardiac muscle",9e2e,K,11,0,0,100,boucle
+Leiomodin-2,9zzj,L,12,25,0,75,boucle
+"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",7p1g,O,3,33,0,67,boucle
+"Maltose/maltodextrin-binding periplasmic protein,TccC3",7z7h,F,26,23,0,77,boucle
+Myosin heavy chain 4,8zbm,A,35,17,17,66,boucle
+"Myosin-14,Alpha-actinin A",5jlh,F,43,28,14,58,boucle
+Myosin-6,8zbn,A,29,21,21,59,boucle
+Myosin-7,7jh7,G,33,21,15,64,boucle
+Myosin-A,7aln,F,36,22,19,58,boucle
+Plastin-3,7r94,F,25,72,0,28,hélice
+Profilin-1,9azp,J,27,30,41,30,brin β
+Protein diaphanous homolog 1,9b27,G,31,71,0,29,hélice
+Spectrin beta chain,8iah,M,10,70,0,30,hélice
+Src substrate cortactin,8p94,I,9,33,0,67,boucle
+Talin-1,9az6,H,12,92,0,8,hélice
+Tropomodulin-1,8iah,Y,61,31,0,69,boucle
+Tropomyosin alpha-1 chain,8efi,P,10,100,0,0,hélice
+Tropomyosin beta chain,8zbm,B,6,100,0,0,hélice
+Tropomyosin-1.9,8iah,U,11,73,0,27,hélice
+"Troponin T2, cardiac type",8dd0,K,11,0,0,100,boucle
+Unconventional myosin-Ib,6c1g,P,39,21,23,56,boucle
+Utrophin,6m5g,F,12,83,0,17,hélice
+Vibrio VopV,9p3d,c,26,0,12,88,boucle
+Vinculin,6upw,L,32,69,0,31,hélice
+VopV,9p1i,c,28,0,11,89,boucle
+"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",9qfw,P,25,0,16,84,boucle
+beta-cardiac myosin II,8efh,A,6,50,0,50,hélice

@@ -1,0 +1,148 @@
+seq_id,abp_title,famille,start,end,len
+Myosin_14_Alpha_actinin_A_1,"Myosin-14,Alpha-actinin A",,384,389,6
+Myosin_14_Alpha_actinin_A_2,"Myosin-14,Alpha-actinin A",,419,433,15
+Myosin_14_Alpha_actinin_A_4,"Myosin-14,Alpha-actinin A",,541,549,9
+Myosin_14_Alpha_actinin_A_5,"Myosin-14,Alpha-actinin A",,551,557,7
+Myosin_14_Alpha_actinin_A_6,"Myosin-14,Alpha-actinin A",,558,563,6
+Myosin_14_Alpha_actinin_A_9,"Myosin-14,Alpha-actinin A",,617,621,5
+Myosin_14_Alpha_actinin_A_10,"Myosin-14,Alpha-actinin A",,660,668,9
+Unconventional_myosin_Ib_0,Unconventional myosin-Ib,F01 · Myosin N-terminal SH3-like domain,285,292,8
+Unconventional_myosin_Ib_1,Unconventional myosin-Ib,F01 · Myosin N-terminal SH3-like domain,320,335,16
+Unconventional_myosin_Ib_3,Unconventional myosin-Ib,F01 · Myosin N-terminal SH3-like domain,452,458,7
+Unconventional_myosin_Ib_4,Unconventional myosin-Ib,F01 · Myosin N-terminal SH3-like domain,459,465,7
+Unconventional_myosin_Ib_8,Unconventional myosin-Ib,F01 · Myosin N-terminal SH3-like domain,556,562,7
+Filamin_A_0,Filamin-A,F02 · Calponin homology (CH) domain,118,123,6
+Filamin_A_1,Filamin-A,F02 · Calponin homology (CH) domain,126,134,9
+Cofilin_1_0,Cofilin-1,F07 · Cofilin/tropomyosin-type actin-binding protein,17,24,8
+Cofilin_1_2,Cofilin-1,F07 · Cofilin/tropomyosin-type actin-binding protein,92,100,9
+Cofilin_1_4,Cofilin-1,F07 · Cofilin/tropomyosin-type actin-binding protein,128,133,6
+Vinculin_0,Vinculin,F04 · Vinculin family,1041,1046,6
+Vinculin_1,Vinculin,F04 · Vinculin family,1047,1056,10
+Vinculin_7,Vinculin,F04 · Vinculin family,1106,1112,7
+Vinculin_8,Vinculin,F04 · Vinculin family,1113,1119,7
+Vinculin_9,Vinculin,F04 · Vinculin family,1121,1132,12
+Epididymis_secretory_protein_Li_37_7,Epididymis secretory protein Li 37,F02 · Calponin homology (CH) domain,268,278,11
+Epididymis_secretory_protein_Li_37_8,Epididymis secretory protein Li 37,F02 · Calponin homology (CH) domain,279,289,11
+Myosin_A_1,Myosin-A,F01 · Myosin N-terminal SH3-like domain,373,378,6
+Myosin_A_2,Myosin-A,F01 · Myosin N-terminal SH3-like domain,409,425,17
+Myosin_A_3,Myosin-A,F01 · Myosin N-terminal SH3-like domain,533,537,5
+Myosin_A_4,Myosin-A,F01 · Myosin N-terminal SH3-like domain,539,545,7
+Myosin_A_5,Myosin-A,F01 · Myosin N-terminal SH3-like domain,546,551,6
+Myosin_A_10,Myosin-A,F01 · Myosin N-terminal SH3-like domain,631,638,8
+Myosin_7_0,Myosin-7,F01 · Myosin N-terminal SH3-like domain,368,373,6
+Myosin_7_2,Myosin-7,F01 · Myosin N-terminal SH3-like domain,403,409,7
+Myosin_7_3,Myosin-7,F01 · Myosin N-terminal SH3-like domain,410,415,6
+Myosin_7_7,Myosin-7,F01 · Myosin N-terminal SH3-like domain,538,543,6
+Myosin_7_11,Myosin-7,F01 · Myosin N-terminal SH3-like domain,637,645,9
+Utrophin_1,Utrophin,F02 · Calponin homology (CH) domain,92,100,9
+Catenin_alpha_1_1,Catenin alpha-1,F04 · Vinculin family,100,113,14
+Catenin_alpha_1_5,Catenin alpha-1,F04 · Vinculin family,163,169,7
+Catenin_alpha_1_7,Catenin alpha-1,F04 · Vinculin family,190,201,12
+Maltose_maltodextrin_binding_periplasmic_0,"Maltose/maltodextrin-binding periplasmic protein,TccC3",,462,467,6
+Maltose_maltodextrin_binding_periplasmic_3,"Maltose/maltodextrin-binding periplasmic protein,TccC3",,477,483,7
+Maltose_maltodextrin_binding_periplasmic_4,"Maltose/maltodextrin-binding periplasmic protein,TccC3",,492,502,11
+Maltose_maltodextrin_binding_periplasmic_5,"Maltose/maltodextrin-binding periplasmic protein,TccC3",,530,534,5
+Maltose_maltodextrin_binding_periplasmic_6,"Maltose/maltodextrin-binding periplasmic protein,TccC3",,555,560,6
+Plastin_3_6,Plastin-3,F02 · Calponin homology (CH) domain,476,486,11
+Plastin_3_7,Plastin-3,F02 · Calponin homology (CH) domain,487,497,11
+Tropomyosin_alpha_1_chain_3,Tropomyosin alpha-1 chain,F27 · Tropomyosin alpha-1 chain,166,172,7
+Troponin_T2_cardiac_type_0,"Troponin T2, cardiac type",F10 · Troponin,84,96,13
+Alpha_catenin_like_protein_hmp_1_1,Alpha-catenin-like protein hmp-1,F04 · Vinculin family,99,113,15
+Alpha_catenin_like_protein_hmp_1_5,Alpha-catenin-like protein hmp-1,F04 · Vinculin family,163,169,7
+Alpha_catenin_like_protein_hmp_1_6,Alpha-catenin-like protein hmp-1,F04 · Vinculin family,171,175,5
+Alpha_catenin_like_protein_hmp_1_7,Alpha-catenin-like protein hmp-1,F04 · Vinculin family,186,198,13
+Spectrin_beta_chain_0,Spectrin beta chain,F02 · Calponin homology (CH) domain,101,105,5
+Spectrin_beta_chain_1,Spectrin beta chain,F02 · Calponin homology (CH) domain,107,115,9
+Tropomyosin_1_9_0,Tropomyosin-1.9,F29 · Tropomyosin-1.9,1,6,6
+Tropomyosin_1_9_1,Tropomyosin-1.9,F29 · Tropomyosin-1.9,7,13,7
+Tropomodulin_1_0,Tropomodulin-1,F26 · TMOD/LMOD Leucine-rich domain,45,97,53
+Tropomodulin_1_1,Tropomodulin-1,F26 · TMOD/LMOD Leucine-rich domain,234,240,7
+Tropomodulin_1_3,Tropomodulin-1,F26 · TMOD/LMOD Leucine-rich domain,290,299,10
+F_actin_capping_protein_subunit_alpha_1_2,F-actin-capping protein subunit alpha-1,F20 · F-actin capping protein alpha subunit,263,268,6
+F_actin_capping_protein_subunit_alpha_1_3,F-actin-capping protein subunit alpha-1,F20 · F-actin capping protein alpha subunit,269,285,17
+Cell_invasion_protein_SipA_0,Cell invasion protein SipA,"F18 · Salmonella Invasion protein A, C-terminal actin binding domain",249,254,6
+Cell_invasion_protein_SipA_1,Cell invasion protein SipA,"F18 · Salmonella Invasion protein A, C-terminal actin binding domain",255,261,7
+Src_substrate_cortactin_0,Src substrate cortactin,F24 · Repeat in HS1/Cortactin,107,117,11
+Inverted_formin_2_0,Inverted formin-2,F09 · Diaphanous FH3 Domain,421,434,14
+Profilin_1_1,Profilin-1,F23 · Profilin,58,63,6
+Profilin_1_2,Profilin-1,F23 · Profilin,68,77,10
+Profilin_1_3,Profilin-1,F23 · Profilin,81,92,12
+Profilin_1_4,Profilin-1,F23 · Profilin,96,100,5
+Profilin_1_5,Profilin-1,F23 · Profilin,118,126,9
+Protein_diaphanous_homolog_1_0,Protein diaphanous homolog 1,F09 · Diaphanous FH3 Domain,80,89,10
+Protein_diaphanous_homolog_1_1,Protein diaphanous homolog 1,F09 · Diaphanous FH3 Domain,92,108,17
+Protein_diaphanous_homolog_1_8,Protein diaphanous homolog 1,F09 · Diaphanous FH3 Domain,287,291,5
+Gelsolin_0,Gelsolin,F21 · Gelsolin repeat,150,156,7
+Gelsolin_1,Gelsolin,F21 · Gelsolin repeat,181,185,5
+Gelsolin_2,Gelsolin,F21 · Gelsolin repeat,188,195,8
+Gelsolin_6,Gelsolin,F21 · Gelsolin repeat,212,219,8
+Gelsolin_7,Gelsolin,F21 · Gelsolin repeat,220,224,5
+Gelsolin_10,Gelsolin,F21 · Gelsolin repeat,348,352,5
+Gelsolin_11,Gelsolin,F21 · Gelsolin repeat,357,362,6
+Afadin_0,Afadin,F17 · Afadin-like domain,125,131,7
+Inositol_trisphosphate_3_kinase_A_0,Inositol-trisphosphate 3-kinase A,F22 · Inositol polyphosphate kinase,16,34,19
+Myosin_heavy_chain_4_0,Myosin heavy chain 4,F01 · Myosin N-terminal SH3-like domain,366,370,5
+Myosin_heavy_chain_4_2,Myosin heavy chain 4,F01 · Myosin N-terminal SH3-like domain,400,412,13
+Myosin_heavy_chain_4_6,Myosin heavy chain 4,F01 · Myosin N-terminal SH3-like domain,535,540,6
+Myosin_heavy_chain_4_9,Myosin heavy chain 4,F01 · Myosin N-terminal SH3-like domain,635,646,12
+Myosin_6_0,Myosin-6,F01 · Myosin N-terminal SH3-like domain,366,371,6
+Myosin_6_1,Myosin-6,F01 · Myosin N-terminal SH3-like domain,401,413,13
+Myosin_6_5,Myosin-6,F01 · Myosin N-terminal SH3-like domain,536,541,6
+Myosin_6_9,Myosin-6,F01 · Myosin N-terminal SH3-like domain,640,644,5
+Talin_1_0,Talin-1,F25 · I/LWEQ domain,197,212,16
+Isoform_A2_of_Troponin_T_cardiac_muscle_0,"Isoform A2 of Troponin T, cardiac muscle",F10 · Troponin,78,90,13
+VopV_0,VopV,F11 · Vibrio VopV (+1),351,363,13
+VopV_1,VopV,F11 · Vibrio VopV (+1),365,379,15
+VopV_2,VopV,F11 · Vibrio VopV (+1),392,399,8
+Vibrio_VopV_0,Vibrio VopV,F11 · Vibrio VopV (+1),1,12,12
+Vibrio_VopV_1,Vibrio VopV,F11 · Vibrio VopV (+1),15,28,14
+Vibrio_VopV_2,Vibrio VopV,F11 · Vibrio VopV (+1),42,47,6
+Coronin_1B_Methylated_DNA_protein_cystei_0,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",,20,27,8
+Coronin_1B_Methylated_DNA_protein_cystei_2,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",,312,319,8
+Coronin_1B_Methylated_DNA_protein_cystei_4,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",,355,360,6
+WD_repeat_containing_protein_1_Methylate_0,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",20,26,7
+WD_repeat_containing_protein_1_Methylate_3,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",151,156,6
+WD_repeat_containing_protein_1_Methylate_4,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",171,175,5
+WD_repeat_containing_protein_1_Methylate_5,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",193,199,7
+WD_repeat_containing_protein_1_Methylate_7,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",238,244,7
+WD_repeat_containing_protein_1_Methylate_8,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","F03 · WD domain, G-beta repeat",258,262,5
+Cofilin_2_0,Cofilin-2,F07 · Cofilin/tropomyosin-type actin-binding protein,1,7,7
+Cofilin_2_2,Cofilin-2,F07 · Cofilin/tropomyosin-type actin-binding protein,102,108,7
+Cofilin_2_3,Cofilin-2,F07 · Cofilin/tropomyosin-type actin-binding protein,110,123,14
+Cofilin_2_4,Cofilin-2,F07 · Cofilin/tropomyosin-type actin-binding protein,133,139,7
+Adenylyl_cyclase_associated_protein_1_5,Adenylyl cyclase-associated protein 1,F16 · Adenylate cyclase associated (CAP) C terminal,118,125,8
+Adenylyl_cyclase_associated_protein_1_7,Adenylyl cyclase-associated protein 1,F16 · Adenylate cyclase associated (CAP) C terminal,134,147,14
+Adenylyl_cyclase_associated_protein_1_9,Adenylyl cyclase-associated protein 1,F16 · Adenylate cyclase associated (CAP) C terminal,155,171,17
+Actin_related_protein_3_0,Actin-related protein 3,F05 · Actin,139,144,6
+Actin_related_protein_3_4,Actin-related protein 3,F05 · Actin,160,164,5
+Actin_related_protein_3_5,Actin-related protein 3,F05 · Actin,179,188,10
+Actin_related_protein_3_7,Actin-related protein 3,F05 · Actin,307,314,8
+Actin_related_protein_3_10,Actin-related protein 3,F05 · Actin,349,364,16
+Actin_related_protein_3_12,Actin-related protein 3,F05 · Actin,386,391,6
+Actin_related_protein_3_14,Actin-related protein 3,F05 · Actin,409,416,8
+Actin_related_protein_2_0,Actin-related protein 2,F05 · Actin,113,119,7
+Actin_related_protein_2_1,Actin-related protein 2,F05 · Actin,175,184,10
+Actin_related_protein_2_3,Actin-related protein 2,F05 · Actin,271,276,6
+Actin_related_protein_2_3_complex_subuni_0,Actin-related protein 2/3 complex subunit 1B,"F03 · WD domain, G-beta repeat",297,304,8
+Actin_related_protein_2_3_complex_subuni_0,Actin-related protein 2/3 complex subunit 4,F14 · ARP2/3 complex 20 kDa subunit (ARPC4),1,6,6
+Actin_related_protein_2_3_complex_subuni_2,Actin-related protein 2/3 complex subunit 4,F14 · ARP2/3 complex 20 kDa subunit (ARPC4),76,81,6
+Actin_related_protein_2_3_complex_subuni_5,Actin-related protein 2/3 complex subunit 4,F14 · ARP2/3 complex 20 kDa subunit (ARPC4),146,152,7
+beta_cardiac_myosin_II_0,beta-cardiac myosin II,F01 · Myosin N-terminal SH3-like domain,539,543,5
+Actin_related_protein_2_3_complex_subuni_0,Actin-related protein 2/3 complex subunit 1,"F03 · WD domain, G-beta repeat",313,318,6
+Actin_related_protein_2_3_complex_subuni_2,Actin-related protein 2/3 complex subunit 1,"F03 · WD domain, G-beta repeat",323,330,8
+Adducin_1_0,Adducin 1,F06 · Class II Aldolase and Adducin N-terminal domain,32,38,7
+Adducin_1_1,Adducin 1,F06 · Class II Aldolase and Adducin N-terminal domain,39,46,8
+Adducin_1_2,Adducin 1,F06 · Class II Aldolase and Adducin N-terminal domain,47,63,17
+Adducin_1_3,Adducin 1,F06 · Class II Aldolase and Adducin N-terminal domain,66,84,19
+Beta_adducin_0,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,431,443,13
+Beta_adducin_1,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,458,465,8
+Beta_adducin_2,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,474,480,7
+Beta_adducin_3,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,481,491,11
+Beta_adducin_4,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,493,500,8
+Beta_adducin_5,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,501,507,7
+Beta_adducin_6,Beta-adducin,F06 · Class II Aldolase and Adducin N-terminal domain,511,520,10
+Dematin_actin_binding_protein_0,Dematin actin binding protein,F19 · Putative adherens-junction anchoring region of AbLIM,124,132,9
+Dematin_actin_binding_protein_1,Dematin actin binding protein,F19 · Putative adherens-junction anchoring region of AbLIM,139,151,13
+Dematin_actin_binding_protein_3,Dematin actin binding protein,F19 · Putative adherens-junction anchoring region of AbLIM,170,176,7
+Dematin_actin_binding_protein_4,Dematin actin binding protein,F19 · Putative adherens-junction anchoring region of AbLIM,185,196,12
+Actin_related_protein_2_3_complex_subuni_0,Actin-related protein 2/3 complex subunit 5-like protein,F15 · ARP2/3 complex 16 kDa subunit (p16-Arc),1,7,7
