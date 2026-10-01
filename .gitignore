@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Local safety copies of regenerated figures
+reports/figure_backups/

@@ -1,0 +1,3 @@
+
+# Preserve original source CSV bytes and recognize their CRLF line endings.
+data/human_variants/sources/*.csv -text whitespace=cr-at-eol
