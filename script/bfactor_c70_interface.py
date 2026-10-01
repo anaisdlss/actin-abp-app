@@ -81,9 +81,9 @@ all_iids_global = set().union(*patch_to_iids.values())
 df_all["s2_actine"] = df_all["s2_actine"].fillna(False)
 
 # ── Interactions homo (actin-actin) ───────────────────────────────────────────
-_actin_ch = set(df_pp[df_pp["is_actin"]]["chain"].str.lower())
+_actin_ch = set(df_pp[df_pp["is_actin"]]["chain"])
 _homo_iids = set(
-    df_int[df_int["chain_B_id"].str.lower().isin(_actin_ch)]["interaction_id"]
+    df_int[df_int["chain_B_id"].isin(_actin_ch)]["interaction_id"]
 )
 
 # ── Mapping interaction_id → binding sites (pour export CSV) ──────────────────
@@ -127,11 +127,11 @@ _t4_swapped_ppi3d: set = set()
 for _iid in _homo_iids & all_iids_global:
     if _iid not in _int_ch4.index:
         continue
-    _cA = str(_int_ch4.at[_iid, "chain_A_id"]).lower()
-    _cB = str(_int_ch4.at[_iid, "chain_B_id"]).lower()
+    _cA = str(_int_ch4.at[_iid, "chain_A_id"])
+    _cB = str(_int_ch4.at[_iid, "chain_B_id"])
     _sub3 = df3_raw[df3_raw["interaction_id"] == _iid]
-    _t3A = set(_sub3[_sub3["chain"].str.lower() == _cA]["residue_number_canon_mafft"].dropna().astype(int))
-    _t3B = set(_sub3[_sub3["chain"].str.lower() == _cB]["residue_number_canon_mafft"].dropna().astype(int))
+    _t3A = set(_sub3[_sub3["chain"] == _cA]["residue_number_canon_mafft"].dropna().astype(int))
+    _t3B = set(_sub3[_sub3["chain"] == _cB]["residue_number_canon_mafft"].dropna().astype(int))
     if not _t3A and not _t3B:
         continue
     _t4A = set(df4_raw[df4_raw["interaction_id"] == _iid]["residue_A_canon_mafft"].dropna().astype(int))
@@ -185,6 +185,10 @@ def equitable_mean_asa(df_patch, side: str) -> dict:
     return profile.to_dict()
 
 # ── Index structures (pairwise reconstruit depuis l'ASSEMBLY) ───────────────────
+# Lancé via « python -m script.bfactor_c70_interface » (cwd = racine), script/
+# n'est pas sur sys.path : on l'ajoute pour importer le module frère.
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent))
 from structure_utils import pairwise_text
 # iid -> assembly PDB / pdb_id / chaînes physiques (chA, chB) : de quoi
 # reconstruire le pairwise (ou lire le fichier CIF-only conservé).
