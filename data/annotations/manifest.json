@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-10-01T13:48:35.475883+00:00",
+  "retained_pdb_count": 151,
+  "metadata_available": 151,
+  "metadata_missing": [],
+  "failed_refresh_ids": [],
+  "offline_rebuild": true,
+  "sources": [
+    {
+      "file": "data/filtered/filtered_all_data.csv",
+      "sha256": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f"
+    },
+    {
+      "file": "data/filtered/proteins_per_pdb.csv",
+      "sha256": "e09f8552c6168e3b75c8ba16f75cbde43f7686c0ccdc35b04cab6ac5858662ff"
+    }
+  ],
+  "source_cache": {
+    "file": "data/annotations/rcsb_structure_metadata.json",
+    "sha256": "26911c9faf0d495da7512929248a69b06e498f92840e93d06a301e68133193c5"
+  },
+  "code_sha256": {
+    "script/structure_annotations.py": "b68fab334d2c32623f25a174b26d79243b5a4519d21b97e71020fab0b1fde9f8",
+    "tools/update_structure_annotations.py": "10deda8ff069d798a7bd48892a620216db7386ed864be5caf8ed3f61576e938c"
+  },
+  "outputs": {
+    "structure_annotations.csv": "c763b85d758aa0e116974295bc5b13c8ffceb17490e53a2de738f86c7fe3f238",
+    "entity_annotations.csv": "83d0e2f6f04fe7af5c2d3a0376f98e2825561df857ad3a27037c313dc23bd657"
+  },
+  "official_documentation": [
+    "https://data.rcsb.org/",
+    "https://www.rcsb.org/docs/search-and-browse/advanced-search/attribute-details"
+  ],
+  "interpretation": {
+    "mutation": "RCSB engineered-mutation count and deposited pdbx_mutation; absence is unknown unless explicit count/text says none. Not pathogenicity or proof of wild type.",
+    "toxins": "Name-screened candidates only, including bacterial effector names; not exhaustive and never excluded automatically.",
+    "names": "Original PPI3D names preserved; aliases retain RCSB provenance. Multiple organism sources or explicit fusion/chimera text trigger review, not identity correction.",
+    "scope": "Metadata can cover additional molecules in the PDB entry beyond retained interacting chains. Filters in the app affect the annotation table only."
+  },
+  "reproduce": "python tools/update_structure_annotations.py --offline",
+  "refresh": "python tools/update_structure_annotations.py --refresh"
+}
