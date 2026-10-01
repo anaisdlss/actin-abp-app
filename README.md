@@ -11,7 +11,7 @@ See [diagnostic and roadmap](SCIENTIFIC_APP_ROADMAP.md) for the current reorgani
 ## Navigation
 
 The sidebar follows eleven scientific sections, with one page per section and
-a **View** selector for its analyses. Choices persist within the same session.
-**Documentation → Data and calculations** provides cache reload; the public
+a **View** selector where several analyses share a section. Choices persist within the same session.
+**Documentation → Data management** provides cache reload; the public
 build reads its prepared dataset without launching the research pipeline.
 See [the user guide](GUIDE.md#4-navigation-and-scientific-pages).
