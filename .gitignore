@@ -3,3 +3,6 @@ __pycache__/
 
 # Local safety copies of regenerated figures
 reports/figure_backups/
+
+# Local ProteoCast job identifiers and diagnostics
+data/proteocast/abp/.job_status/
