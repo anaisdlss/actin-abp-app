@@ -1,0 +1,50 @@
+{
+  "structure_sha256": "2754c5dae6a768c56b585fce1bc27e9546cf005ac56b203888707dd6992c82db",
+  "motif": "1131,1132,1133,1135,1136,1484,1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496,1498,1499",
+  "databases": [
+    "pdb_folddisco",
+    "afdb-proteome_folddisco"
+  ],
+  "request_id": "074b8ab8dc0cb06dbe208f7951cfc72f32d9236fd146667ed8fae02572a773df",
+  "source": {
+    "query_abp": "Adducin 1",
+    "query_cluster": "6685_152",
+    "source_pdb": "8iai",
+    "source_chain": "1",
+    "interaction_id": 3823,
+    "resolution_A": 3.5,
+    "contact_positions": "131, 132, 133, 135, 136, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 498, 499",
+    "reconstructed_size": 20,
+    "unparsed_contact_positions": ""
+  },
+  "positions": [
+    "131",
+    "132",
+    "133",
+    "135",
+    "136",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "498",
+    "499"
+  ],
+  "state": "complete",
+  "endpoint": "https://search.foldseek.com",
+  "created_utc": "2026-10-02T09:47:45.475453+00:00",
+  "updated_utc": "2026-10-02T09:47:53.630660+00:00",
+  "message": "Completed: 0 returned alignments.",
+  "ticket": "ZA0ORBmLtQmiXen9XAoe7U-JJB6zIPp2A4hGlA",
+  "server_status": "COMPLETE",
+  "hit_rows": 0
+}

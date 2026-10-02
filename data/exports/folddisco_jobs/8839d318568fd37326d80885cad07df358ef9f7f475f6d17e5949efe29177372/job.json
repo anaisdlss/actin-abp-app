@@ -1,0 +1,44 @@
+{
+  "structure_sha256": "713e39b8dd9eed59dec9f2f1f86a0e25f37fdd74e770bfac35ae606d682c1747",
+  "motif": "3432,3434,3479,3482,3483,3485,3486,3487,3488,3490,3491,3492,3494,3495",
+  "databases": [
+    "pdb_folddisco",
+    "afdb-proteome_folddisco"
+  ],
+  "request_id": "8839d318568fd37326d80885cad07df358ef9f7f475f6d17e5949efe29177372",
+  "source": {
+    "query_abp": "Beta-adducin",
+    "query_cluster": "6685_152",
+    "source_pdb": "8iah",
+    "source_chain": "3",
+    "interaction_id": 4047,
+    "resolution_A": 3.6,
+    "contact_positions": "432, 434, 479, 482, 483, 485, 486, 487, 488, 490, 491, 492, 494, 495",
+    "reconstructed_size": 14,
+    "unparsed_contact_positions": ""
+  },
+  "positions": [
+    "432",
+    "434",
+    "479",
+    "482",
+    "483",
+    "485",
+    "486",
+    "487",
+    "488",
+    "490",
+    "491",
+    "492",
+    "494",
+    "495"
+  ],
+  "state": "complete",
+  "endpoint": "https://search.foldseek.com",
+  "created_utc": "2026-10-02T09:48:26.258375+00:00",
+  "updated_utc": "2026-10-02T09:48:34.674628+00:00",
+  "message": "Completed: 0 returned alignments.",
+  "ticket": "ZBvINF2a0Mwvcv2uClbZPH-1UyYPlBTd28Zqfw",
+  "server_status": "COMPLETE",
+  "hit_rows": 0
+}

@@ -1,0 +1,45 @@
+{
+  "structure_sha256": "569d6c70693cbe2ccec5a9badfdc6836da8c285da97cea9e7fab1e641f4aa112",
+  "motif": "G635,G636,G639,G643,G646,G670,G674,G733,G829,G830,G831,G832,G835,G907,G914",
+  "databases": [
+    "pdb_folddisco",
+    "afdb-proteome_folddisco"
+  ],
+  "request_id": "19d98095d25f38a731639568a5ef49c2ecce8a50b88cc14bf7f59f4e552d9536",
+  "source": {
+    "query_abp": "Inverted formin-2",
+    "query_cluster": "6685_213",
+    "source_pdb": "9azp",
+    "source_chain": "G",
+    "interaction_id": 4365,
+    "resolution_A": 3.8,
+    "contact_positions": "635, 636, 639, 643, 646, 670, 674, 733, 829, 830, 831, 832, 835, 907, 914",
+    "reconstructed_size": 15,
+    "unparsed_contact_positions": ""
+  },
+  "positions": [
+    "635",
+    "636",
+    "639",
+    "643",
+    "646",
+    "670",
+    "674",
+    "733",
+    "829",
+    "830",
+    "831",
+    "832",
+    "835",
+    "907",
+    "914"
+  ],
+  "state": "complete",
+  "endpoint": "https://search.foldseek.com",
+  "created_utc": "2026-10-02T09:49:48.350002+00:00",
+  "updated_utc": "2026-10-02T09:49:59.334792+00:00",
+  "message": "Completed: 2000 returned alignments.",
+  "ticket": "BdxEoIJUFWqTlHiRRbgxiQ34MKW6k2cEqkZA-Q",
+  "server_status": "COMPLETE",
+  "hit_rows": 2000
+}

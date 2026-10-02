@@ -1,0 +1,42 @@
+{
+  "structure_sha256": "0f0d67d3d2291782567c9a41f452709ddd2482acb58f69bee541c1aa304b4583",
+  "motif": "2100,2101,2102,2104,2121,2124,2125,2126,2129,2131,2191,2390",
+  "databases": [
+    "pdb_folddisco",
+    "afdb-proteome_folddisco"
+  ],
+  "request_id": "85fe97e3c38f74db3f8e520eee9d4186540e93ba14a335c2eecab405fe6e72ca",
+  "source": {
+    "query_abp": "Adducin 1",
+    "query_cluster": "6685_154",
+    "source_pdb": "8iah",
+    "source_chain": "2",
+    "interaction_id": 4046,
+    "resolution_A": 3.6,
+    "contact_positions": "100, 101, 102, 104, 121, 124, 125, 126, 129, 131, 191, 390",
+    "reconstructed_size": 12,
+    "unparsed_contact_positions": ""
+  },
+  "positions": [
+    "100",
+    "101",
+    "102",
+    "104",
+    "121",
+    "124",
+    "125",
+    "126",
+    "129",
+    "131",
+    "191",
+    "390"
+  ],
+  "state": "complete",
+  "endpoint": "https://search.foldseek.com",
+  "created_utc": "2026-10-02T09:48:02.031339+00:00",
+  "updated_utc": "2026-10-02T09:48:10.155650+00:00",
+  "message": "Completed: 0 returned alignments.",
+  "ticket": "UGUcG52dCCZPgBq5dH9YqKeCxjaba7xW-znUaw",
+  "server_status": "COMPLETE",
+  "hit_rows": 0
+}
