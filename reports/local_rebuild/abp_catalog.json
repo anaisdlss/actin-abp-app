@@ -1,0 +1,31 @@
+{
+  "finished_utc": "2026-10-02T14:51:30.649352+00:00",
+  "fingerprint": {
+    "inputs": {
+      "data/filtered/details/1.interactions.csv": "daf1b2cd872459c1a99721ed1acf662846f110c211f34cae8d6f7c653ab4ad50",
+      "data/filtered/filtered_all_data.csv": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f"
+    },
+    "code": {
+      "script/abp_site_domain/01_build_table.py": "048cc275ec643e1e67df42a8cf41975eb795649add9b7f59f64a32055fda2f9d",
+      "script/display_helpers.py": "cfff8b5096f06a125dc7da681c36a9c804e68f8b3eacde79cad00eb8e232d2fb",
+      "script/local_rebuild.py": "9128d0b366bf79bcf52ca91bb8c9e8d8d74d0164c580306c0f1d1d7ef61641fb",
+      "script/numbering.py": "740de6699bf30037e4db8905cf6701cdc1b978ea3bf5a6bfb5f8476c42a18ede",
+      "script/residue_contacts.py": "9b4369da1b7982f794f1f777bc8795304c256b7f24f759154c2c096ba0333b28"
+    },
+    "runtime": {
+      "python": "3.12.13",
+      "numpy": "2.5.0",
+      "pandas": "2.3.3",
+      "biopython": "1.87",
+      "scipy": "1.18.0"
+    },
+    "command": [
+      "-u",
+      "script/abp_site_domain/01_build_table.py"
+    ]
+  },
+  "outputs": {
+    "data/exports/abp_site_domain/abp_representatives.csv": "95d8fa49e2e533704ea98abd8cb6f975eef9debd1855001880a4f7791a8c9fa7",
+    "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73"
+  }
+}

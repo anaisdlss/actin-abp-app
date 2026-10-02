@@ -11,3 +11,7 @@ data/proteocast/abp/.job_status/
 data/exports/folddisco_controls/chains/
 data/exports/folddisco_controls/raw/
 data/exports/folddisco_controls/index*
+
+# Runtime lock for the local scientific rebuild
+reports/local_rebuild/*.lock
+reports/local_rebuild/*.log

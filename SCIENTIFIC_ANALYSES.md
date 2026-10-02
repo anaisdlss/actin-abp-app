@@ -1,5 +1,16 @@
 # Analyses demandées par Rémi — état au 2 octobre 2026
 
+## Mise à jour : provenance et reconstruction locale
+
+La RSA historique de `conservation_vs_asa_per_position.csv` ne dispose toujours pas d'une recette d'origine retrouvée. La même valeur réapparaît dans d'anciens exports de déterminants ; cela ne prouve pas son origine. Ce fichier est conservé, mais retiré des lecteurs actuels et des scripts d'analyse migrés.
+
+L'application utilise désormais le calcul local documenté de **7PDZ, chaîne I** : mêmes coordonnées, trois contextes (chaîne extraite, fragment de six actines, fragment avec deux protéines de coiffe), méthode Shrake–Rupley, sonde 1,4 Å, 960 points et contrôle à 480, normalisation Tien/Wilke. A29 vaut environ **2,05 %** dans les trois contextes, contre **1,8 %** dans le fichier historique. Ce changement de référence est explicite ; aucune moyenne sur toutes les actines n'est supposée. Les comparaisons de sensibilité utilisent la surface de la chaîne extraite dans sa conformation expérimentale (RSA ≥ 0,2).
+
+Une commande et un bouton reconstruisent les sept groupes de calculs locaux, avec contrôles des empreintes des sources, du code, des versions et des sorties. Les résultats de variants, sensibilités, interfaces, figures et contrôles FoldDisco gardent les limites méthodologiques déjà indiquées ci-dessous. Les traitements réseau restent distincts. Un échec de mise à jour ou d'une sous-étape structurale n'est plus masqué par un ancien fichier `familles.csv`.
+
+**Limite de provenance conservée :** automatiser un traitement ne restitue pas la date de publication d'un ancien export ni des paramètres historiques perdus. L'inventaire distingue les calculs effectivement reconstruits, les recettes retrouvées sans preuve d'exécution historique, les résultats externes et les origines non résolues. Les anciens instantanés ClinVar/gnomAD et les scores ProteoCast ne sont pas des mesures inventées par l'application, mais leurs métadonnées d'origine ne sont pas toutes récupérables. Une reconstruction locale ne prétend pas renouveler ces bases.
+
+
 ## État à transmettre à Rémi — 2 octobre 2026, contrôle final
 
 Ce bilan remplace les statuts antérieurs ci-dessous lorsqu'ils divergent. Le code et les analyses consultables ont été complétés ; les résultats exploratoires ne constituent pas une validation biologique définitive.
@@ -51,18 +62,18 @@ Les empreintes et indicateurs de contact sont recalculés à partir des couples 
 
 ## Interfaces fréquentes et contextes cofiline/coronine/WDR1
 
-Le dénominateur de ce dépôt est 151 PDB avec contacts homo. Chaque PDB compte une seule fois par site ou cluster C70 ; les deux côtés d'une interface contribuent à leur propre site. Le contexte est défini par les noms de partenaires non-actine présents dans la PDB (cofilin, coronin, WDR1, WD-repeat-containing protein 1, actin-interacting protein 1).
+Le dénominateur de ce dépôt est 159 PDB avec contacts homo. Chaque PDB compte une seule fois par site ou cluster C70 ; les deux côtés d'une interface contribuent à leur propre site. Le contexte est défini par les noms de partenaires non-actine présents dans la PDB (cofilin, coronin, WDR1, WD-repeat-containing protein 1, actin-interacting protein 1).
 
 | Site | PDB distinctes | Fréquence dans le jeu | Présence dans le contexte |
 | --- | --- | --- | --- |
-| 6685_2 | 151/151 | 100.0 % | 22/22 |
-| 6685_1 | 142/151 | 94.0 % | 13/22 |
-| 6685_3 | 135/151 | 89.4 % | 6/22 |
-| 6685_4 | 135/151 | 89.4 % | 6/22 |
-| 6685_23 | 18/151 | 11.9 % | 18/22 |
-| 6685_109 | 15/151 | 9.9 % | 4/22 |
-| 6685_17 | 13/151 | 8.6 % | 13/22 |
-| 6685_274 | 10/151 | 6.6 % | 8/22 |
+| 6685_2 | 154/159 | 96.9 % | 24/29 |
+| 6685_1 | 143/159 | 89.9 % | 13/29 |
+| 6685_3 | 136/159 | 85.5 % | 6/29 |
+| 6685_4 | 136/159 | 85.5 % | 6/29 |
+| 6685_23 | 25/159 | 15.7 % | 25/29 |
+| 6685_274 | 17/159 | 10.7 % | 15/29 |
+| 6685_109 | 15/159 | 9.4 % | 4/29 |
+| 6685_17 | 13/159 | 8.2 % | 13/29 |
 
 Les sites 6685_1–4 constituent bien le groupe le plus fréquent dans ces données. Le site 6685_23 et plusieurs autres sites sont associés au contexte cofiline/coronine/WDR1. Les tests et leurs listes de PDB sont exportés ; une entrée PDB n'est pas nécessairement une expérience indépendante. Une faible fréquence ne définit pas à elle seule une interface minoritaire biologique.
 
@@ -74,7 +85,7 @@ Un bouton charge les sites observés dans 5YU8 (6685_1, 6685_2, 6685_17, 6685_23
 
 ## Figures et reproductibilité
 
-319 PNG S1 ont été régénérés dans ce dépôt : heatmaps globales, profils de chaque site, décompositions C70, empreintes homo/hétéro, sites de référence et nombre de sites ABP. L'axe couvre P60709 1–375 ; les tableaux internes conservent les coordonnées MAFFT pour ne pas casser les jointures. Les profils mono-ligne sont recalculés depuis les données corrigées, et non relus dans l'ancien CSV. Les C70 à une seule interaction sont conservés. Les deux types d'un site mixte restent séparés dans la vue globale ; le profil individuel réunit les C70 de ce site S1.
+329 PNG S1 ont été régénérés dans ce dépôt : heatmaps globales, profils de chaque site, décompositions C70, empreintes homo/hétéro, sites de référence et nombre de sites ABP. L'axe couvre P60709 1–375 ; les tableaux internes conservent les coordonnées MAFFT pour ne pas casser les jointures. Les profils mono-ligne sont recalculés depuis les données corrigées, et non relus dans l'ancien CSV. Les C70 à une seule interaction sont conservés. Les deux types d'un site mixte restent séparés dans la vue globale ; le profil individuel réunit les C70 de ce site S1.
 
 Les CSV numériques, SHA-256 des sources et du code, liste exacte des sorties et date de génération sont enregistrés dans `reports/s1_figures_all.json`. Les anciens fichiers remplacés sont conservés localement dans `reports/figure_backups` (non publiés). Les autres figures historiques C70, réseaux et exports spécialisés ne sont pas toutes régénérées par ce lot : seuls les fichiers du manifeste sont couverts.
 
@@ -120,6 +131,7 @@ python tools/export_scientific_audit.py
 ```
 
 Les appels RCSB et GO utilisent le réseau ; les autres calculs utilisent les sources locales. Le cache GO peut être complété par lots ou pour des identifiants choisis. Aucun nouveau résultat ProteoCast ou FoldDisco n'est inventé à partir d'un échec ou d'un fichier absent. La couverture exhaustive des prédictions, la qualification finale des interfaces majoritaires/minoritaires, la validation des ABD et les textes de documentation attendus de Rémi restent distincts des fonctionnalités désormais disponibles. Les pistes coévolution/chimères/deep learning du document sont des perspectives, pas des analyses validées par ce lot.
+
 
 ## Suite du document de Rémi — 2 octobre 2026
 

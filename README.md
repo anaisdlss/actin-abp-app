@@ -1,5 +1,12 @@
 # Actin–ABP interaction analysis — shared (slim) build
 
+## Calculation provenance
+
+The app now displays documented local RSA for experimental 7PDZ chain I in three explicit structural contexts. **Documentation → Data management → Data origins and calculation receipts** explains source origins and unresolved historical metadata.
+
+Seven scientific calculation groups are rebuilt and content-checked in the full local research project using `python tools/rebuild_local.py`. This public dataset includes their saved results and receipts. It does not launch local executables or automatically submit external jobs. Details: [user guide](GUIDE.md) and [validation](VALIDATION.md).
+
+
 Read-only Streamlit build (slim data pre-bundled). Deployed on Streamlit
 Community Cloud. The data pipeline and ProteoCast computation are disabled here
 (they run only on the full local project).
