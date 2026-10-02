@@ -1,0 +1,36 @@
+{
+  "structure_sha256": "293ce7f635d4f751eac35bdf72fa389b2bf49e045042c62b2d44db952fb982b7",
+  "motif": "A391,A393,A394,A397",
+  "databases": [
+    "pdb_folddisco",
+    "afdb-proteome_folddisco"
+  ],
+  "request_id": "14f7a5c1ab10e0b13bf6d05a6aadc925657cef34f6e6e310c0163718e1c48bce",
+  "source": {
+    "query_abp": "Dematin actin binding protein",
+    "query_cluster": "6685_167",
+    "source_pdb": "8ib2",
+    "source_chain": "5",
+    "interaction_id": 4345,
+    "resolution_A": 3.8,
+    "contact_positions": "391, 393, 394, 397",
+    "reconstructed_size": 4,
+    "unparsed_contact_positions": ""
+  },
+  "positions": [
+    "391",
+    "393",
+    "394",
+    "397"
+  ],
+  "submitted_chain": "A",
+  "state": "complete",
+  "endpoint": "https://search.foldseek.com",
+  "created_utc": "2026-10-02T13:26:32.450770+00:00",
+  "updated_utc": "2026-10-02T13:26:41.406403+00:00",
+  "supersedes_invalid_request": "2c01328182ba4bbb2a58e30695a39e06316a19e18c3fc576360b429ec17fac0e",
+  "message": "Completed: 2000 returned alignments.",
+  "ticket": "RwRHZBL0kUTRqNFV_eLcD-THNEzE79fyNhX-hA",
+  "server_status": "COMPLETE",
+  "hit_rows": 2000
+}

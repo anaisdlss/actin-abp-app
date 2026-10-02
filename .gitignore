@@ -6,3 +6,8 @@ reports/figure_backups/
 
 # Local ProteoCast job identifiers and diagnostics
 data/proteocast/abp/.job_status/
+
+# Reproducible local FoldDisco working files; published CSVs and manifests remain tracked
+data/exports/folddisco_controls/chains/
+data/exports/folddisco_controls/raw/
+data/exports/folddisco_controls/index*

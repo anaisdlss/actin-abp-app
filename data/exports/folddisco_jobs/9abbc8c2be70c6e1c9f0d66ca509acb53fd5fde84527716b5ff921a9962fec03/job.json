@@ -28,12 +28,18 @@
     "400",
     "405"
   ],
-  "state": "complete",
+  "state": "invalid_query",
   "endpoint": "https://search.foldseek.com",
   "created_utc": "2026-10-02T09:49:40.733981+00:00",
-  "updated_utc": "2026-10-02T09:49:48.280946+00:00",
-  "message": "Completed: 0 returned alignments.",
+  "updated_utc": "2026-10-02T13:23:02.618954+00:00",
+  "message": "Invalid legacy query: a numeric/non-letter chain was concatenated with residue numbers. This response is not a negative search.",
   "ticket": "lTbSyosRe_56ygFBGiYeexxjqPNPASVDY1nQ6w",
   "server_status": "COMPLETE",
-  "hit_rows": 0
+  "hit_rows": 0,
+  "previous_outcome": {
+    "state": "complete",
+    "message": "Completed: 0 returned alignments.",
+    "hit_rows": 0,
+    "updated_utc": "2026-10-02T09:49:48.280946+00:00"
+  }
 }

@@ -1,0 +1,1446 @@
+{
+  "created_utc": "2026-10-02T13:36:53.327307+00:00",
+  "tool_version": "2.9375a2d",
+  "query_count": 197,
+  "target_chain_count": 130,
+  "sources": {
+    "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73",
+    "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d"
+  },
+  "targets": [
+    {
+      "key": "bbf22676e5b703df",
+      "pdb": "12bw",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Gelsolin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/bbf22676e5b703df.pdb",
+      "sha256": "f82b0cd3db3d843bd2efe61849ad8ff1069a9a22353dd58cdcea40691cefd2ae"
+    },
+    {
+      "key": "49468bc04774b2b3",
+      "pdb": "12by",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Gelsolin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/49468bc04774b2b3.pdb",
+      "sha256": "96ea22056152587486c1e16ea3e4960b478b6be1f4406d9b8fabfa8ce50c25ea"
+    },
+    {
+      "key": "fa8aa7f69281d299",
+      "pdb": "12bz",
+      "chain": "J",
+      "submitted_chain": "J",
+      "abps": [
+        "Gelsolin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/fa8aa7f69281d299.pdb",
+      "sha256": "8c8e5787947a135a04d9cd6fafc54035337856999c69472e12b4ba6daf22a8dc"
+    },
+    {
+      "key": "b3fa6d16be120505",
+      "pdb": "5jlh",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Myosin-14,Alpha-actinin A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b3fa6d16be120505.pdb",
+      "sha256": "2dff924aa27616f0b92753ec4a12aa47361707ac96dea07b6bfd3d8c6bcf38b1"
+    },
+    {
+      "key": "deabde701810db1f",
+      "pdb": "6c1d",
+      "chain": "P",
+      "submitted_chain": "P",
+      "abps": [
+        "Unconventional myosin-Ib"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/deabde701810db1f.pdb",
+      "sha256": "aade91dd4966b7a199e33d6bd8b7f8a0b4941197211b2a2274622605925deddf"
+    },
+    {
+      "key": "4996503ba1a0aa1c",
+      "pdb": "6d8c",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Filamin-A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4996503ba1a0aa1c.pdb",
+      "sha256": "9c989c614527c27eed1244e6990a75bb57bed60cf7298b5119f326ed9c3bc780"
+    },
+    {
+      "key": "6ce2de4c3223cf89",
+      "pdb": "6m5g",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Utrophin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6ce2de4c3223cf89.pdb",
+      "sha256": "9f3d91e3d5e6f9d806bdbbe1fa3119f5d62ab0cc7f47c604758f9bb2bbdd48b1"
+    },
+    {
+      "key": "3ec2de8e4c7bab21",
+      "pdb": "6m5g",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Utrophin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/3ec2de8e4c7bab21.pdb",
+      "sha256": "1b03d418c1afb7212023a6e7b14e85b58ca3702a038dccde1a0d053f991933a5"
+    },
+    {
+      "key": "af3bcd37045562e5",
+      "pdb": "6upv",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Catenin alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/af3bcd37045562e5.pdb",
+      "sha256": "718badb1d563a8ce807b5375d1894cc6f86c672fdc3b6299729a984a58926b32"
+    },
+    {
+      "key": "bf2e81235c9dea03",
+      "pdb": "6upw",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Vinculin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/bf2e81235c9dea03.pdb",
+      "sha256": "4e8fe2c968fb3aec8275217f26a7539d681fd6e66e22733352afe62859b401a6"
+    },
+    {
+      "key": "1a97851b9571829e",
+      "pdb": "6vec",
+      "chain": "a",
+      "submitted_chain": "a",
+      "abps": [
+        "Epididymis secretory protein Li 37"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/1a97851b9571829e.pdb",
+      "sha256": "162b021547ed34cca5cab4d57aecabfd1dfb40279c91d236bb4308b6549c6723"
+    },
+    {
+      "key": "d6b8f1ea4daf66b2",
+      "pdb": "6vec",
+      "chain": "c",
+      "submitted_chain": "c",
+      "abps": [
+        "Epididymis secretory protein Li 37"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d6b8f1ea4daf66b2.pdb",
+      "sha256": "abd41a5582f2854926c3853066eef293bfe504b540be63e87c5e9fcf3cc901fe"
+    },
+    {
+      "key": "82091dbd7a65f3d6",
+      "pdb": "6vec",
+      "chain": "e",
+      "submitted_chain": "e",
+      "abps": [
+        "Epididymis secretory protein Li 37"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/82091dbd7a65f3d6.pdb",
+      "sha256": "f8b6de345f53e0f59c227e90d19aa22d20a6a00c2266d859a69de9c3211f0150"
+    },
+    {
+      "key": "608a4eafe9e3a9e2",
+      "pdb": "7aln",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Myosin-A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/608a4eafe9e3a9e2.pdb",
+      "sha256": "7df1e22c495698414dcba39214c5e42bc503246bd3cfef63c4ccc6ec7ae3ad9d"
+    },
+    {
+      "key": "2b5854107b627aed",
+      "pdb": "7jh7",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Myosin-7"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2b5854107b627aed.pdb",
+      "sha256": "dcab6d757dd6707a56d7cfa2e2a79657c1b773f1ccd52e378029a3c8594c8248"
+    },
+    {
+      "key": "4124a8ac26a5374a",
+      "pdb": "7p1g",
+      "chain": "K",
+      "submitted_chain": "K",
+      "abps": [
+        "Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4124a8ac26a5374a.pdb",
+      "sha256": "145171707fd72d3f9aeed419972cd4c613d5609f7e0b5d1b91e4c83268427d8f"
+    },
+    {
+      "key": "f75f51ca8881c91e",
+      "pdb": "7p1g",
+      "chain": "O",
+      "submitted_chain": "O",
+      "abps": [
+        "Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f75f51ca8881c91e.pdb",
+      "sha256": "56d29e28e558e8a9fb641ce44506ed6c3f5211e0ec0e79a88b2de62e41bdfd60"
+    },
+    {
+      "key": "758e53ae2644c339",
+      "pdb": "7pdz",
+      "chain": "E",
+      "submitted_chain": "E",
+      "abps": [
+        "Isoform 2 of F-actin-capping protein subunit beta"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/758e53ae2644c339.pdb",
+      "sha256": "6ec528a87bf3f86623bc39ce179a43e12d63069caf4701b57a2806df6e9d1592"
+    },
+    {
+      "key": "f1efe769e8b12b87",
+      "pdb": "7r94",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Plastin-3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f1efe769e8b12b87.pdb",
+      "sha256": "ef10216c75d71af0380fa7efc914cd4663d7b6b7bcef758417dca0aedcb2cafa"
+    },
+    {
+      "key": "6e93f55711516a51",
+      "pdb": "7tpt",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Actin-related protein 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6e93f55711516a51.pdb",
+      "sha256": "c67d3a96f239c796b8e58143d5b8486e29ed1c13eba330d7da2a67fe4a0242c6"
+    },
+    {
+      "key": "7c4bb97f8eea541c",
+      "pdb": "7tpt",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 1B"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7c4bb97f8eea541c.pdb",
+      "sha256": "3849d2ebae0835a04de282b199803478b6f2612468ccec4bd35e1dbbd0b4235a"
+    },
+    {
+      "key": "ea3cbec1906c5270",
+      "pdb": "7tpt",
+      "chain": "D",
+      "submitted_chain": "D",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/ea3cbec1906c5270.pdb",
+      "sha256": "cf10625287c4b1ad79eee3228d129ba99f4aa007da989a7ae1f1da0b201d28a6"
+    },
+    {
+      "key": "0c6eadbd6ea39aff",
+      "pdb": "7utj",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Catenin alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0c6eadbd6ea39aff.pdb",
+      "sha256": "bf1c0a782ba1897e0401fed209c64276f26db54d2d6315d556b3bb532ebe8d0a"
+    },
+    {
+      "key": "04dfdbecffecda6b",
+      "pdb": "7utj",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Catenin alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/04dfdbecffecda6b.pdb",
+      "sha256": "c9bc2852d45ecc13cc48a0f2200fc4d2ca481b0b867c9d4c0ea7a1cd0428b564"
+    },
+    {
+      "key": "9b271e73f538b625",
+      "pdb": "7uuw",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Alpha-catenin-like protein hmp-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/9b271e73f538b625.pdb",
+      "sha256": "be88d4d82275a5047e446a1cccc4e752c98bccbb94f3341917286ef500a61828"
+    },
+    {
+      "key": "001e8ab71d548ea7",
+      "pdb": "7uuw",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Alpha-catenin-like protein hmp-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/001e8ab71d548ea7.pdb",
+      "sha256": "a5c2cd9e37568c154b1d4f792a20cd05619a0e91f959f2e7b27be0c70346a64f"
+    },
+    {
+      "key": "e9bf52b491c7e310",
+      "pdb": "7z7h",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Maltose/maltodextrin-binding periplasmic protein,TccC3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/e9bf52b491c7e310.pdb",
+      "sha256": "cd60f4874145c601fade95d593de1173f5a830fc5a3eecb2c57635b7ebbbb9eb"
+    },
+    {
+      "key": "184aafaa48bc722b",
+      "pdb": "8c4c",
+      "chain": "M",
+      "submitted_chain": "M",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/184aafaa48bc722b.pdb",
+      "sha256": "f5052c0ef8d4cb8d6f2879dd6c38430676e702e70eae8033724dc791167456e1"
+    },
+    {
+      "key": "b004aeb90f35b5a6",
+      "pdb": "8c4c",
+      "chain": "N",
+      "submitted_chain": "N",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b004aeb90f35b5a6.pdb",
+      "sha256": "5dea07bdbf3f041d08ace11db434c28ebe459ee0e32bb604e74d539c42e33096"
+    },
+    {
+      "key": "d43e2ba11ec9627e",
+      "pdb": "8c4e",
+      "chain": "K",
+      "submitted_chain": "K",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d43e2ba11ec9627e.pdb",
+      "sha256": "77331e8bf63a83a0b31360ad052268e8fbd5da4236fd231700beaa81916aa109"
+    },
+    {
+      "key": "2ac997175951b633",
+      "pdb": "8c4e",
+      "chain": "M",
+      "submitted_chain": "M",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2ac997175951b633.pdb",
+      "sha256": "16adb210b5d7253318cab8071afe9738e9ecf5c89245d012a0095c939943f835"
+    },
+    {
+      "key": "7359493df083a9f9",
+      "pdb": "8c4e",
+      "chain": "N",
+      "submitted_chain": "N",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7359493df083a9f9.pdb",
+      "sha256": "1307e02956bb918c2b5f6e332e78c6103b5c12f7bb5e0c9989ba112858e6fcff"
+    },
+    {
+      "key": "2846d97fc41a28cb",
+      "pdb": "8dd0",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2846d97fc41a28cb.pdb",
+      "sha256": "c23a37b4f830208b19c2db3245ad493e70e7126e5257a31acb94bcf4bb29d72d"
+    },
+    {
+      "key": "3d84a4f042c8d3bb",
+      "pdb": "8dd0",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/3d84a4f042c8d3bb.pdb",
+      "sha256": "5ae6896af42e0682fa387099103d30d4793aeb55a12bb77092461a8079ac68fc"
+    },
+    {
+      "key": "7a8b8b3a075f6f83",
+      "pdb": "8dd0",
+      "chain": "K",
+      "submitted_chain": "K",
+      "abps": [
+        "Troponin T2, cardiac type"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7a8b8b3a075f6f83.pdb",
+      "sha256": "7b18c50c23e0fbef30a86e0895edc2d213a42bf91eacf702dcccf03615213acd"
+    },
+    {
+      "key": "3303af03ac479ea5",
+      "pdb": "8e9b",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Actin-related protein 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/3303af03ac479ea5.pdb",
+      "sha256": "c73e74cfec487c8a467362e5129d7e0919428fe6ccb463bb26081904a4216148"
+    },
+    {
+      "key": "0fdb2ede3015ceee",
+      "pdb": "8e9b",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0fdb2ede3015ceee.pdb",
+      "sha256": "c3ef9a2ab44abedb2e2e20fa2271c7b63ab5a2bb77abc0c225295591e591373a"
+    },
+    {
+      "key": "963d9d55ad4ff11a",
+      "pdb": "8e9b",
+      "chain": "D",
+      "submitted_chain": "D",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/963d9d55ad4ff11a.pdb",
+      "sha256": "6d0c601b9b2c7a786eb05fd69cbdeacc9e1af814466679cf34b9b10340761e3e"
+    },
+    {
+      "key": "94def1e3ccbb63ba",
+      "pdb": "8efh",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "beta-cardiac myosin II"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/94def1e3ccbb63ba.pdb",
+      "sha256": "cf4181a3d4317e201e583c3949f09a27dca7ab730cca6efd3ab7d197def54031"
+    },
+    {
+      "key": "f21b3451d2788303",
+      "pdb": "8f8t",
+      "chain": "T",
+      "submitted_chain": "T",
+      "abps": [
+        "Tropomodulin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f21b3451d2788303.pdb",
+      "sha256": "077c4f3f41ab6d382fc79da2281a687dda3ae054c32c8a8f64d67dbd6cbd163e"
+    },
+    {
+      "key": "91d667e974afbc2a",
+      "pdb": "8iah",
+      "chain": "1",
+      "submitted_chain": "A",
+      "abps": [
+        "Adducin 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/91d667e974afbc2a.pdb",
+      "sha256": "1ba3e989e3eac6802f3bfe2512bf8a71511d2fa4f7eca722b0cd615f097f43ee"
+    },
+    {
+      "key": "0a35c6da88da0774",
+      "pdb": "8iah",
+      "chain": "2",
+      "submitted_chain": "A",
+      "abps": [
+        "Adducin 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0a35c6da88da0774.pdb",
+      "sha256": "66e8d731fcf33add64efe0f43ccb05de3b2aff84cea67a6a74176f5e8b73a168"
+    },
+    {
+      "key": "d9e5ec50ef53329b",
+      "pdb": "8iah",
+      "chain": "3",
+      "submitted_chain": "A",
+      "abps": [
+        "Beta-adducin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d9e5ec50ef53329b.pdb",
+      "sha256": "079b2af5afc958532078200f20452157ae83465b3d59e732e3b99dea8dd69367"
+    },
+    {
+      "key": "ed84bb8d879bdd86",
+      "pdb": "8iah",
+      "chain": "4",
+      "submitted_chain": "A",
+      "abps": [
+        "Beta-adducin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/ed84bb8d879bdd86.pdb",
+      "sha256": "4bcc4edb6ff6c7e2535b6325a96671856ea85f0bd6de70ae17003fd4f2399a64"
+    },
+    {
+      "key": "447b5de949b06032",
+      "pdb": "8iah",
+      "chain": "9",
+      "submitted_chain": "A",
+      "abps": [
+        "Beta-adducin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/447b5de949b06032.pdb",
+      "sha256": "4f911fd83e209f17d6b74ff067426dd3bd048ce73d755d78f63b374567bf85e5"
+    },
+    {
+      "key": "0ef5678867f3fbd4",
+      "pdb": "8iai",
+      "chain": "1",
+      "submitted_chain": "A",
+      "abps": [
+        "Adducin 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0ef5678867f3fbd4.pdb",
+      "sha256": "dab3c80f180f941c2f39974a35e5648283ec023a34912cbca979d2dbd97c4f42"
+    },
+    {
+      "key": "e5c09f30179c0351",
+      "pdb": "8iai",
+      "chain": "3",
+      "submitted_chain": "A",
+      "abps": [
+        "Beta-adducin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/e5c09f30179c0351.pdb",
+      "sha256": "dd3a60400b1814089caf03ef3a54244bdc6575dad66565a7e990b540b4ff5f9b"
+    },
+    {
+      "key": "90c03d7a5a89046b",
+      "pdb": "8iai",
+      "chain": "5",
+      "submitted_chain": "A",
+      "abps": [
+        "Dematin actin binding protein"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/90c03d7a5a89046b.pdb",
+      "sha256": "68dc2ed79554b9f6ddfc3704043b9392d49d863f69347dff666a7efd49cb945d"
+    },
+    {
+      "key": "e9299d3c8a80aa6c",
+      "pdb": "8iai",
+      "chain": "9",
+      "submitted_chain": "A",
+      "abps": [
+        "Adducin 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/e9299d3c8a80aa6c.pdb",
+      "sha256": "af518e772c35d48fd10811088319d1e399667832a19aca43da18ff817a47d520"
+    },
+    {
+      "key": "19a12804e33945ae",
+      "pdb": "8iai",
+      "chain": "M",
+      "submitted_chain": "M",
+      "abps": [
+        "Spectrin beta chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/19a12804e33945ae.pdb",
+      "sha256": "1bee1e8be338f1edff3c3b43b9df7abc0c68448dd53a26fbfd49687d7cffedd1"
+    },
+    {
+      "key": "9ccee5917d182df0",
+      "pdb": "8iai",
+      "chain": "U",
+      "submitted_chain": "U",
+      "abps": [
+        "Tropomyosin-1.9"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/9ccee5917d182df0.pdb",
+      "sha256": "2aa931a83c5f0bb1d1806985c72782a1c8861161ce757c5141bed461a6ea524a"
+    },
+    {
+      "key": "fe5a079ed2897136",
+      "pdb": "8ib2",
+      "chain": "5",
+      "submitted_chain": "A",
+      "abps": [
+        "Dematin actin binding protein"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/fe5a079ed2897136.pdb",
+      "sha256": "293ce7f635d4f751eac35bdf72fa389b2bf49e045042c62b2d44db952fb982b7"
+    },
+    {
+      "key": "62df689efa0a8215",
+      "pdb": "8p94",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Actin-related protein 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/62df689efa0a8215.pdb",
+      "sha256": "ddb84602753992a81ebdebb81bde52ab8eba0ecad6d402e57d58f514999c7fcb"
+    },
+    {
+      "key": "b78df260a621d804",
+      "pdb": "8p94",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 1B"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b78df260a621d804.pdb",
+      "sha256": "5692e5e4e21da0eb0aaa837f8809017c931fbd38c96c8f3ba371f4321816a3af"
+    },
+    {
+      "key": "2321e639b5b4c8be",
+      "pdb": "8p94",
+      "chain": "D",
+      "submitted_chain": "D",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2321e639b5b4c8be.pdb",
+      "sha256": "046f99e55350e8f347e189ae7777852cc94a5c219ef2b3bf4c5b5272c8f7d809"
+    },
+    {
+      "key": "53e26a0c80800079",
+      "pdb": "8p94",
+      "chain": "E",
+      "submitted_chain": "E",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/53e26a0c80800079.pdb",
+      "sha256": "4dfc419fe4e6cb5abfaedcf0ad5f0cc1b04a529a46a1bedde6913dc6fcfd835c"
+    },
+    {
+      "key": "15dd5c3df64eb8e9",
+      "pdb": "8p94",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 5-like protein"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/15dd5c3df64eb8e9.pdb",
+      "sha256": "6c426348c985cfaba4c25e2e23ec489c1d70b4cce3a9e3fdb8e7939f78967d17"
+    },
+    {
+      "key": "d2e5a0b4858a47eb",
+      "pdb": "8p94",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Src substrate cortactin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d2e5a0b4858a47eb.pdb",
+      "sha256": "b78a57a391c03dbd60ab56ef9c5f228ecad73e43c1895a807e9d2546fa4c41ab"
+    },
+    {
+      "key": "ea9cc681d33c1e55",
+      "pdb": "8p94",
+      "chain": "U",
+      "submitted_chain": "U",
+      "abps": [
+        "F-actin-capping protein subunit alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/ea9cc681d33c1e55.pdb",
+      "sha256": "aa86b8014335cc7894f5c17fcc8d5988da021fefc2879a5e07360df8f9f3e38b"
+    },
+    {
+      "key": "9635eff7f6f6f2c4",
+      "pdb": "8p94",
+      "chain": "V",
+      "submitted_chain": "V",
+      "abps": [
+        "Isoform 2 of F-actin-capping protein subunit beta"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/9635eff7f6f6f2c4.pdb",
+      "sha256": "6df796bcc871d4fe047e079b5b20c22e438974e9b362deb69ddced116575fcbb"
+    },
+    {
+      "key": "7b16ec43a3892580",
+      "pdb": "8uee",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7b16ec43a3892580.pdb",
+      "sha256": "7994caecc9d6c52c5d9fdcbf1e15c6656975874552808160125f287982fdb9f7"
+    },
+    {
+      "key": "6f3ee660dba091f9",
+      "pdb": "8uee",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6f3ee660dba091f9.pdb",
+      "sha256": "d548698749088c331beb166d28a16d748dfbadb7441f6c3ac78c3ade46ed2799"
+    },
+    {
+      "key": "d1a4bb0cb67888bb",
+      "pdb": "8uxw",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Actin-related protein 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d1a4bb0cb67888bb.pdb",
+      "sha256": "9f1700c6962a484f6a425311e2413bdc67962a2010a560ea5f7ea920c01050e0"
+    },
+    {
+      "key": "5bb928d77c017e81",
+      "pdb": "8uxw",
+      "chain": "B",
+      "submitted_chain": "B",
+      "abps": [
+        "Actin-related protein 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/5bb928d77c017e81.pdb",
+      "sha256": "5f4f44e8cfa6bf19a29340b98222fd821daaf1346fa768744411a74fe8842c24"
+    },
+    {
+      "key": "b6b7757cbaac7252",
+      "pdb": "8uxw",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b6b7757cbaac7252.pdb",
+      "sha256": "14008661a610f406af68377d1d75b4efe33ab367bacaea0e378b7dce11696db6"
+    },
+    {
+      "key": "c7623f4597336dfe",
+      "pdb": "8uxw",
+      "chain": "D",
+      "submitted_chain": "D",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/c7623f4597336dfe.pdb",
+      "sha256": "a539e1b0571dac07ebcf364afbdd9d43bf4849a47e409c1b8f8a102cca29bff5"
+    },
+    {
+      "key": "4eda96bb1242e924",
+      "pdb": "8uxw",
+      "chain": "E",
+      "submitted_chain": "E",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 3"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4eda96bb1242e924.pdb",
+      "sha256": "b817f9994029892a7115fb4f2182e7f0821a9808f5ec483195a277c6bc8a4f20"
+    },
+    {
+      "key": "611d0604df5e7747",
+      "pdb": "8uxw",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 4"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/611d0604df5e7747.pdb",
+      "sha256": "63239f0b4a3506664223fae41b479746b8a4d45bd07cec9dcb2c81d425c3eaf6"
+    },
+    {
+      "key": "0660dd51e2d75ddc",
+      "pdb": "8uxx",
+      "chain": "D",
+      "submitted_chain": "D",
+      "abps": [
+        "Actin-related protein 2/3 complex subunit 2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0660dd51e2d75ddc.pdb",
+      "sha256": "31c9f3f488a29016c67f05667659ff1bdaa2050d0ff694974c4edfdd589ede93"
+    },
+    {
+      "key": "7b8723ef020be536",
+      "pdb": "8vfm",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Cell invasion protein SipA"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7b8723ef020be536.pdb",
+      "sha256": "da0d7192a0d9e3c018410788e138b6b9ceb3224795279e535ad80d4cd3a142ee"
+    },
+    {
+      "key": "a44380e10df4477d",
+      "pdb": "8viz",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Gelsolin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/a44380e10df4477d.pdb",
+      "sha256": "b75af0be3680b22ac48b5433c16b81fa435f379c946253637c6f8cadfa647fdf"
+    },
+    {
+      "key": "95f71fd70f4f3508",
+      "pdb": "8zb7",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Myosin-7"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/95f71fd70f4f3508.pdb",
+      "sha256": "b982f6e0e0bedd1a49653f23618505516ad9acb8e6f31567af55cda71963e9db"
+    },
+    {
+      "key": "bdf3c966dd1048b1",
+      "pdb": "8zb7",
+      "chain": "J",
+      "submitted_chain": "J",
+      "abps": [
+        "Myosin-7"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/bdf3c966dd1048b1.pdb",
+      "sha256": "dfb5dfffb440698252e2e5e313daf6529df43e1ee143a3ed0eb83d1b4816c3fa"
+    },
+    {
+      "key": "6d90e7d76aa5662c",
+      "pdb": "8zb7",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6d90e7d76aa5662c.pdb",
+      "sha256": "d52d25f0d2cd29867ab9d04a247190fd1ba33c65eae4da3b9590da4d3c133fdd"
+    },
+    {
+      "key": "b726dad7f8622a36",
+      "pdb": "8zb7",
+      "chain": "P",
+      "submitted_chain": "P",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b726dad7f8622a36.pdb",
+      "sha256": "5014883f9fbea5f1e3ac5bc94fe8909baab6fcd0b45a4cdeaba98b3ddde8ea9a"
+    },
+    {
+      "key": "4a486251c29983f1",
+      "pdb": "8zbm",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Myosin heavy chain 4"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4a486251c29983f1.pdb",
+      "sha256": "27470ed74bb1a9f95fe3ffa69d73b5eff6c5400958985aba67da0f433573c6a0"
+    },
+    {
+      "key": "74f1ed6ae1d1746a",
+      "pdb": "8zbm",
+      "chain": "B",
+      "submitted_chain": "B",
+      "abps": [
+        "Tropomyosin beta chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/74f1ed6ae1d1746a.pdb",
+      "sha256": "b4a2f225d919b010e04e284911a486b48d6db42717fac4a0647fedb17b7405aa"
+    },
+    {
+      "key": "8ae2c5d94a12b4d1",
+      "pdb": "8zbm",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Tropomyosin beta chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/8ae2c5d94a12b4d1.pdb",
+      "sha256": "0e378f51edb91b249d08281c12a5b190e7e697783005ff9ba707fcfd2392bfeb"
+    },
+    {
+      "key": "28d980c858327094",
+      "pdb": "8zbn",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Myosin-6"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/28d980c858327094.pdb",
+      "sha256": "714964b506fc859cb454416e0809923213b4b6c1d17ed3ed041029eddc584a11"
+    },
+    {
+      "key": "2564dc9795cf0972",
+      "pdb": "8zbn",
+      "chain": "C",
+      "submitted_chain": "C",
+      "abps": [
+        "Myosin-6"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2564dc9795cf0972.pdb",
+      "sha256": "268b31110eca8fa76a2722bb6661f95ff31380818fc44b60f8d822e5d9291c8c"
+    },
+    {
+      "key": "480171c29b09e784",
+      "pdb": "8zbn",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Myosin-6"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/480171c29b09e784.pdb",
+      "sha256": "b3bbd351bcd04858ce5190f2338dac806ec627e398aef234f918e3f0960edc11"
+    },
+    {
+      "key": "5c704fdddd6ed7ca",
+      "pdb": "8zbn",
+      "chain": "S",
+      "submitted_chain": "S",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/5c704fdddd6ed7ca.pdb",
+      "sha256": "c0e4a652677c7bbda430daa5db43073656b1deae44658c5f4442f06f7bfe393f"
+    },
+    {
+      "key": "6f06dd3f7d6a5ce9",
+      "pdb": "8zbn",
+      "chain": "T",
+      "submitted_chain": "T",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6f06dd3f7d6a5ce9.pdb",
+      "sha256": "acd77c074b06188e4e62479c35c6f6f3e4ccca2bd446ce394617ef5c7ede0d4d"
+    },
+    {
+      "key": "14ef05e35203bf73",
+      "pdb": "9az4",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/14ef05e35203bf73.pdb",
+      "sha256": "c5bd5b77eac4782cfd2553d14ef3b5436c4afc3ea7359ca4f20d84d70072e843"
+    },
+    {
+      "key": "b9615eb91123bf00",
+      "pdb": "9az4",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b9615eb91123bf00.pdb",
+      "sha256": "18f124231a85f9538f4de7a54a0ca6fec8131b3ef137fdfa14b73c80a018acf9"
+    },
+    {
+      "key": "9a704fdce602f90c",
+      "pdb": "9az6",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Talin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/9a704fdce602f90c.pdb",
+      "sha256": "859862250643c954c22b6852121e5d0ccf0f6b447baa88c63c6aad9380d0112f"
+    },
+    {
+      "key": "7952abae4b90ff02",
+      "pdb": "9az6",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Talin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7952abae4b90ff02.pdb",
+      "sha256": "e0043fd8854e2b887358c8afa19668db38192ad8ab18c512b9e2a984dd922c55"
+    },
+    {
+      "key": "0b5dd1a90b906b53",
+      "pdb": "9az6",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Talin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0b5dd1a90b906b53.pdb",
+      "sha256": "9a899d09b9bb38f24d8032738ba951fecd7144da93138301d44942fb3d442ab2"
+    },
+    {
+      "key": "17eeaa65454f5a1d",
+      "pdb": "9azp",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/17eeaa65454f5a1d.pdb",
+      "sha256": "569d6c70693cbe2ccec5a9badfdc6836da8c285da97cea9e7fab1e641f4aa112"
+    },
+    {
+      "key": "1ec0985f14522f35",
+      "pdb": "9azp",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/1ec0985f14522f35.pdb",
+      "sha256": "37c5a55064662fbe6a3580cd1c28fd959cbc627cea8c3e062e2a2d849018150d"
+    },
+    {
+      "key": "a549e48271c32028",
+      "pdb": "9azp",
+      "chain": "J",
+      "submitted_chain": "J",
+      "abps": [
+        "Profilin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/a549e48271c32028.pdb",
+      "sha256": "fa69f301f10b1b00f53fbb5be007c31a7f7164cddaa5b2111114b449a27e0b8f"
+    },
+    {
+      "key": "b1fc24a72b301fe4",
+      "pdb": "9azq",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b1fc24a72b301fe4.pdb",
+      "sha256": "1d9e99a1972863c6012cf9b72f2b146c13c5e74042d7c1184401aa6aae103de7"
+    },
+    {
+      "key": "8440a3f38a618875",
+      "pdb": "9b03",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/8440a3f38a618875.pdb",
+      "sha256": "c7fe5de41c85bdc002d5bf17b5192c5a3906cb12fd8d23b3bfb6209af9c3f303"
+    },
+    {
+      "key": "f094616d8622040e",
+      "pdb": "9b03",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Inverted formin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f094616d8622040e.pdb",
+      "sha256": "d9aa10e0a9c444a9bebe79f5087ab080301cc5fbc64b9fbb6bfbaa434759a79f"
+    },
+    {
+      "key": "4a595666f5b6885e",
+      "pdb": "9b27",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Protein diaphanous homolog 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4a595666f5b6885e.pdb",
+      "sha256": "12bb71da0451bb510a61e5f252f006177b3f2246da8dc69adaf3b6c31657fa9b"
+    },
+    {
+      "key": "277d8281745a14cc",
+      "pdb": "9b27",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Protein diaphanous homolog 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/277d8281745a14cc.pdb",
+      "sha256": "c087f00e883b61deef1f564334528180775d7c0a789e39577598d3ebf0d7a4db"
+    },
+    {
+      "key": "87a026cb23acf5c2",
+      "pdb": "9b3d",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Protein diaphanous homolog 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/87a026cb23acf5c2.pdb",
+      "sha256": "5c25b31c0963db9c29976fb4ed0894a17f4966c1133118ec53571d58582f7e04"
+    },
+    {
+      "key": "34d3c63c6db57015",
+      "pdb": "9b3d",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Protein diaphanous homolog 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/34d3c63c6db57015.pdb",
+      "sha256": "87ced5052ef8136af6c0afe251858143c15beaa410439ceefe67c2a5507b8b81"
+    },
+    {
+      "key": "b84283a4c4eae895",
+      "pdb": "9dva",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Afadin"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/b84283a4c4eae895.pdb",
+      "sha256": "385e5a9304c79e2719facb673159f1283d101706a1fbb0ce513975eedeeeb9b2"
+    },
+    {
+      "key": "ef7bebd6b4776de0",
+      "pdb": "9e2e",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/ef7bebd6b4776de0.pdb",
+      "sha256": "9fc4d677f4a9e2aa92c280ff75ed5d28a71a4505e33643ceb45d8ae6f7e8a37d"
+    },
+    {
+      "key": "096dbb11597afad2",
+      "pdb": "9e2e",
+      "chain": "J",
+      "submitted_chain": "J",
+      "abps": [
+        "Tropomyosin alpha-1 chain"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/096dbb11597afad2.pdb",
+      "sha256": "faca7bcfeb26a59f60122effaa11e22f0d78342bd4f2aa5b1457f4a2830e2f88"
+    },
+    {
+      "key": "d2822894ae34bcd4",
+      "pdb": "9e2e",
+      "chain": "K",
+      "submitted_chain": "K",
+      "abps": [
+        "Isoform A2 of Troponin T, cardiac muscle"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d2822894ae34bcd4.pdb",
+      "sha256": "6222ada1aab695d8c512d7400de59234c142ccbe22682f7dae5de011c73e9d5b"
+    },
+    {
+      "key": "c747092690caba49",
+      "pdb": "9gob",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Inositol-trisphosphate 3-kinase A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/c747092690caba49.pdb",
+      "sha256": "34f70f0ffe4198e7141b6dbb61df26803d4e42c5e8dabf93710692929a34cf1f"
+    },
+    {
+      "key": "9ce962e4625d4352",
+      "pdb": "9hm9",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Inositol-trisphosphate 3-kinase A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/9ce962e4625d4352.pdb",
+      "sha256": "ce78facecc44960d44a6345e424ac94fab379b34c65470991604f23e82e03b3b"
+    },
+    {
+      "key": "8f7ea35212d83dce",
+      "pdb": "9p1i",
+      "chain": "c",
+      "submitted_chain": "c",
+      "abps": [
+        "VopV"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/8f7ea35212d83dce.pdb",
+      "sha256": "9f3a34a5a2348c4f290123bc6c82621d52ffea8466285395f2eea0bb1565c238"
+    },
+    {
+      "key": "97e9e5e7c19d6b5f",
+      "pdb": "9p1i",
+      "chain": "f",
+      "submitted_chain": "f",
+      "abps": [
+        "VopV"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/97e9e5e7c19d6b5f.pdb",
+      "sha256": "9a2328e3b5c32636183663f1b282c67ce709cb3c2d3e8651f3538e86d6ecd126"
+    },
+    {
+      "key": "7320b456e0922e43",
+      "pdb": "9p1i",
+      "chain": "g",
+      "submitted_chain": "g",
+      "abps": [
+        "VopV"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7320b456e0922e43.pdb",
+      "sha256": "9d2b1907510ad75815f270866f17b3b1eb05194c81f12cb9e4fe102b7019c8f7"
+    },
+    {
+      "key": "0d6c5f4d121ccd7c",
+      "pdb": "9p3d",
+      "chain": "c",
+      "submitted_chain": "c",
+      "abps": [
+        "Vibrio VopV"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0d6c5f4d121ccd7c.pdb",
+      "sha256": "4e0acec31010c67cc8ffdfe990bf334cdba46562c200c18db0050bcec774ed8f"
+    },
+    {
+      "key": "5a73ff0edccc80bf",
+      "pdb": "9p3d",
+      "chain": "d",
+      "submitted_chain": "d",
+      "abps": [
+        "Vibrio VopV"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/5a73ff0edccc80bf.pdb",
+      "sha256": "7e8a777e65826450ecf6050245abfff1da35ff424b70e2f4546db71c3fe4d88f"
+    },
+    {
+      "key": "d4e31e321a5e9374",
+      "pdb": "9q7o",
+      "chain": "W",
+      "submitted_chain": "W",
+      "abps": [
+        "Adenylyl cyclase-associated protein 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d4e31e321a5e9374.pdb",
+      "sha256": "d2802855b07c52953a452214a7d25c242c373e1c5e8d18a1d469d5bff4677054"
+    },
+    {
+      "key": "a666e54b83ccd440",
+      "pdb": "9qey",
+      "chain": "H",
+      "submitted_chain": "H",
+      "abps": [
+        "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/a666e54b83ccd440.pdb",
+      "sha256": "1cf22e65b02e197223a0682f2f63d11424d116a3574207197fd4d746d7b98ab1"
+    },
+    {
+      "key": "f601a5bb59463c1f",
+      "pdb": "9qf2",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f601a5bb59463c1f.pdb",
+      "sha256": "7a5ca36e79f42135e9fea80688b39852acdb0dcb7c94b63f901bfc792ea5c9c3"
+    },
+    {
+      "key": "e218d1da023ffb70",
+      "pdb": "9qf2",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/e218d1da023ffb70.pdb",
+      "sha256": "16bc8fa4ea458339e23b2b2305e7733a60af2f998354273bdcec3a7a217159cf"
+    },
+    {
+      "key": "f66642cba9c3c570",
+      "pdb": "9qf2",
+      "chain": "I",
+      "submitted_chain": "I",
+      "abps": [
+        "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/f66642cba9c3c570.pdb",
+      "sha256": "ef9fcc848ea730a110899ccefa90452b43055353719886e3e02cedc79775d46f"
+    },
+    {
+      "key": "59601da826faecf0",
+      "pdb": "9qfd",
+      "chain": "J",
+      "submitted_chain": "J",
+      "abps": [
+        "Cofilin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/59601da826faecf0.pdb",
+      "sha256": "2a82e7200c3b6fc8bf1452a405545ba5678ffb553a3839e48d0ee4c224e9b721"
+    },
+    {
+      "key": "2f6a722fbbdb0ecd",
+      "pdb": "9qfg",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2f6a722fbbdb0ecd.pdb",
+      "sha256": "5255113a98a5324213220ceb111afc7e080179e17f9acbe7fd8872b58370e85d"
+    },
+    {
+      "key": "6923a9db35fbefe7",
+      "pdb": "9qfj",
+      "chain": "F",
+      "submitted_chain": "F",
+      "abps": [
+        "Cofilin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/6923a9db35fbefe7.pdb",
+      "sha256": "c6ee5c47f4091d2699d10ed13c395e899bcde740e589e47beb1a7e3153cdff02"
+    },
+    {
+      "key": "2e3b0e2287cab50d",
+      "pdb": "9qfj",
+      "chain": "G",
+      "submitted_chain": "G",
+      "abps": [
+        "Cofilin-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/2e3b0e2287cab50d.pdb",
+      "sha256": "0dec6d717d950bc5723bd5497530380343d98704d2340dfb6bca8d01fb1aa6d0"
+    },
+    {
+      "key": "d524d7453b50bdc3",
+      "pdb": "9qfq",
+      "chain": "P",
+      "submitted_chain": "P",
+      "abps": [
+        "WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d524d7453b50bdc3.pdb",
+      "sha256": "48e09d89f18f852521b8b0bb53859b54742b06413bc20d7239d9dd5d29224f3c"
+    },
+    {
+      "key": "7b6800a03b64f592",
+      "pdb": "9qgk",
+      "chain": "A",
+      "submitted_chain": "A",
+      "abps": [
+        "Inositol-trisphosphate 3-kinase A"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7b6800a03b64f592.pdb",
+      "sha256": "eddf8a60f88b76d2f20b460d87d366d489050cc022ed2b247c891f4a1bece481"
+    },
+    {
+      "key": "0db1a5a59380d07b",
+      "pdb": "9xye",
+      "chain": "X",
+      "submitted_chain": "X",
+      "abps": [
+        "Adenylyl cyclase-associated protein 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/0db1a5a59380d07b.pdb",
+      "sha256": "38fe25cce3a8d7af31745da27794307aee9769538ccc60afc60f4f1101f377e1"
+    },
+    {
+      "key": "68cfa8fae2964745",
+      "pdb": "9y9j",
+      "chain": "X",
+      "submitted_chain": "X",
+      "abps": [
+        "Adenylyl cyclase-associated protein 1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/68cfa8fae2964745.pdb",
+      "sha256": "219d385191babd1244c6094d07d6d81ce11873fe6b5fc2e884bb5f78c8907748"
+    },
+    {
+      "key": "5cbfdf8dfa27c9ef",
+      "pdb": "9y9l",
+      "chain": "Y",
+      "submitted_chain": "Y",
+      "abps": [
+        "F-actin-capping protein subunit alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/5cbfdf8dfa27c9ef.pdb",
+      "sha256": "09e9279b15d6baf1839e03ff495a85168ba2819da084cd4e791b7a62d5b38709"
+    },
+    {
+      "key": "1ddae36a31498358",
+      "pdb": "9y9m",
+      "chain": "Z",
+      "submitted_chain": "Z",
+      "abps": [
+        "F-actin-capping protein subunit beta"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/1ddae36a31498358.pdb",
+      "sha256": "0aa6ff5aed21587870362abb0f6764e756e7290d199222d2f70a38a664e76f57"
+    },
+    {
+      "key": "1dd548c655cdf3d8",
+      "pdb": "9y9p",
+      "chain": "a",
+      "submitted_chain": "a",
+      "abps": [
+        "Cofilin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/1dd548c655cdf3d8.pdb",
+      "sha256": "a285b0b3843cd7b5c57c086c25b23877c8ce5f88d6eb2da3f6c41863bdf6e81e"
+    },
+    {
+      "key": "d106cf75492ed028",
+      "pdb": "9yim",
+      "chain": "Y",
+      "submitted_chain": "Y",
+      "abps": [
+        "F-actin-capping protein subunit alpha-1"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/d106cf75492ed028.pdb",
+      "sha256": "9bbc78d9f2896a848ee5bce00d385e06e1768f83f9d47f27a71186926bea0c78"
+    },
+    {
+      "key": "7ad634a4bb73b161",
+      "pdb": "9yim",
+      "chain": "Z",
+      "submitted_chain": "Z",
+      "abps": [
+        "F-actin-capping protein subunit beta"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/7ad634a4bb73b161.pdb",
+      "sha256": "2242f70b063ae6ea0d4c5e8913e351a5c89f60d42e336e93436f71fc62339753"
+    },
+    {
+      "key": "98682753c8e0a6f6",
+      "pdb": "9zzj",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Leiomodin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/98682753c8e0a6f6.pdb",
+      "sha256": "2403a814acd979e837faf54e4da1c2eb32f0ed1cf249a929c117b624cb485dfa"
+    },
+    {
+      "key": "4780e97c4da0f292",
+      "pdb": "9zzm",
+      "chain": "L",
+      "submitted_chain": "L",
+      "abps": [
+        "Leiomodin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/4780e97c4da0f292.pdb",
+      "sha256": "8f3991f663b2af7ff56227a00668e1b8779b11bb6df69d63c7d7e1e4ba138a0f"
+    },
+    {
+      "key": "844c77e7cc071d54",
+      "pdb": "9zzm",
+      "chain": "M",
+      "submitted_chain": "M",
+      "abps": [
+        "Leiomodin-2"
+      ],
+      "file": "/Users/user/Desktop/actin-abp-app/data/exports/folddisco_controls/chains/844c77e7cc071d54.pdb",
+      "sha256": "c58850a3280596a7bff0d36a5fa40d9a35ded586b771861e5de0ef54c7a9b000"
+    }
+  ],
+  "missing_structures": [],
+  "script_sha256": "d65b5f6af2216a46689d53da03d43f14e1c7f7f00253a1ed55fef9dafb191ec9",
+  "method": "Default FoldDisco local query; highest IDF hit per target chain. Same-site controls use the highest IDF among representative target chains observed contacting this site. Fractions compare exact PDB residue identifiers to observed contacts in the source dataset. No homology or biological negative classification.",
+  "scope": "Current best-resolution site motifs against the finite panel of observed representative ABP chains. Not PDB/AlphaFold discovery; not independent of the source dataset. No curated UniProt ABD boundaries or negative-control specificity estimate."
+}
