@@ -1,4 +1,5 @@
 abp_title,uniprot,n_contacts,n_domaines_proteine,domaine_interface_acc,domaine_interface
+Actin-interacting protein 1,Q11176,16,1,PF00400,"WD domain, G-beta repeat"
 Actin-related protein 2,A7MB62,18,1,PF00022,Actin
 Actin-related protein 2/3 complex subunit 1,P78774,10,1,IPR015943,WD40/YVTN repeat-like-containing domain superfamily (InterPro)
 Actin-related protein 2/3 complex subunit 1B,Q58CQ2,7,1,IPR015943,WD40/YVTN repeat-like-containing domain superfamily (InterPro)
@@ -14,6 +15,8 @@ Alpha-catenin-like protein hmp-1,P90947,33,1,PF01044,Vinculin family
 Beta-adducin,I3L5B0,44,1,IPR051017,Aldolase class II Adducin subfamily (InterPro)
 Catenin alpha-1,P26231,30,1,PF01044,Vinculin family
 Cell invasion protein SipA,P0CL52,8,2,IPR061302,SPI-1 type III secretion system effector SipA (InterPro)
+Cofilin,,29,0,—,—
+Cofilin (UNC-60B),,28,0,—,—
 Cofilin-1,P23528,20,1,PF00241,Cofilin/tropomyosin-type actin-binding protein
 Cofilin-2,Q9Y281,26,1,PF00241,Cofilin/tropomyosin-type actin-binding protein
 "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",Q9BR76,19,3,PF08953,Domain of unknown function (DUF1899)

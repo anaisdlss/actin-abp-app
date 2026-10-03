@@ -1,13 +1,26 @@
 site,a,b,dom_a,dom_b,meme_domaine_interface,ancienne_meme_famille,empreinte
 6685_0,Alpha-catenin-like protein hmp-1,Catenin alpha-1,Vinculin family,Vinculin family,oui,oui,1.0
+6685_0,Alpha-catenin-like protein hmp-1,Cofilin,Vinculin family,—,non,non,0.83
+6685_0,Alpha-catenin-like protein hmp-1,Cofilin (UNC-60B),Vinculin family,—,non,non,0.83
 6685_0,Alpha-catenin-like protein hmp-1,Cofilin-1,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.78
 6685_0,Alpha-catenin-like protein hmp-1,Cofilin-2,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.74
 6685_0,Alpha-catenin-like protein hmp-1,Gelsolin,Vinculin family,Gelsolin repeat,non,non,0.78
 6685_0,Alpha-catenin-like protein hmp-1,Inverted formin-2,Vinculin family,WH2 motif,non,non,0.89
+6685_0,Catenin alpha-1,Cofilin,Vinculin family,—,non,non,0.78
+6685_0,Catenin alpha-1,Cofilin (UNC-60B),Vinculin family,—,non,non,0.78
 6685_0,Catenin alpha-1,Cofilin-1,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.74
 6685_0,Catenin alpha-1,Cofilin-2,Vinculin family,Cofilin/tropomyosin-type actin-binding protein,non,non,0.7
 6685_0,Catenin alpha-1,Gelsolin,Vinculin family,Gelsolin repeat,non,non,0.89
 6685_0,Catenin alpha-1,Inverted formin-2,Vinculin family,WH2 motif,non,non,0.94
+6685_0,Cofilin,Cofilin (UNC-60B),—,—,non,non,0.97
+6685_0,Cofilin,Cofilin-1,—,Cofilin/tropomyosin-type actin-binding protein,non,non,0.91
+6685_0,Cofilin,Cofilin-2,—,Cofilin/tropomyosin-type actin-binding protein,non,non,0.94
+6685_0,Cofilin,Gelsolin,—,Gelsolin repeat,non,non,0.72
+6685_0,Cofilin,Inverted formin-2,—,WH2 motif,non,non,0.78
+6685_0,Cofilin (UNC-60B),Cofilin-1,—,Cofilin/tropomyosin-type actin-binding protein,non,non,0.94
+6685_0,Cofilin (UNC-60B),Cofilin-2,—,Cofilin/tropomyosin-type actin-binding protein,non,non,0.94
+6685_0,Cofilin (UNC-60B),Gelsolin,—,Gelsolin repeat,non,non,0.72
+6685_0,Cofilin (UNC-60B),Inverted formin-2,—,WH2 motif,non,non,0.78
 6685_0,Cofilin-1,Cofilin-2,Cofilin/tropomyosin-type actin-binding protein,Cofilin/tropomyosin-type actin-binding protein,oui,oui,0.94
 6685_0,Cofilin-1,Gelsolin,Cofilin/tropomyosin-type actin-binding protein,Gelsolin repeat,non,non,0.72
 6685_0,Cofilin-1,Inverted formin-2,Cofilin/tropomyosin-type actin-binding protein,WH2 motif,non,non,0.78
@@ -65,7 +78,10 @@ site,a,b,dom_a,dom_b,meme_domaine_interface,ancienne_meme_famille,empreinte
 6685_257,Vibrio VopV,VopV,—,—,non,oui,0.9
 6685_258,Vibrio VopV,VopV,—,—,non,oui,0.94
 6685_259,Vibrio VopV,VopV,—,—,non,oui,0.95
+6685_266,Actin-interacting protein 1,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","WD domain, G-beta repeat","WD domain, G-beta repeat",oui,oui,1.0
+6685_267,Actin-interacting protein 1,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase","WD domain, G-beta repeat","WD domain, G-beta repeat",oui,oui,0.89
 6685_29,Epididymis secretory protein Li 37,Plastin-3,Calponin homology (CH) domain,Calponin homology (CH) domain,oui,oui,0.96
+6685_290,Cofilin,Cofilin (UNC-60B),—,—,non,non,0.94
 6685_3,Actin-related protein 2,Actin-related protein 3,Actin,Actin,oui,oui,0.97
 6685_59,Leiomodin-2,Tropomodulin-1,TMOD/LMOD Leucine-rich domain,Tropomodulin,non,oui,0.89
 6685_6,Myosin-6,Myosin-7,Myosin head (motor domain),Myosin head (motor domain),oui,oui,0.85

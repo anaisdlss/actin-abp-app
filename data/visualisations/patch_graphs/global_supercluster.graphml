@@ -4,19 +4,19 @@
 <key id="d0" for="node" attr.name="side" attr.type="string"/>
 <graph edgedefault="undirected"><node id="6685_2">
   <data key="d0">cluster</data>
-  <data key="d1">747</data>
+  <data key="d1">761</data>
 </node>
 <node id="6685_1">
   <data key="d0">cluster</data>
-  <data key="d1">675</data>
+  <data key="d1">679</data>
 </node>
 <node id="6685_3">
   <data key="d0">cluster</data>
-  <data key="d1">548</data>
+  <data key="d1">551</data>
 </node>
 <node id="6685_4">
   <data key="d0">cluster</data>
-  <data key="d1">593</data>
+  <data key="d1">628</data>
 </node>
 <node id="6685_6">
   <data key="d0">cluster</data>
@@ -40,7 +40,7 @@
 </node>
 <node id="6685_23">
   <data key="d0">cluster</data>
-  <data key="d1">55</data>
+  <data key="d1">87</data>
 </node>
 <node id="6685_0;6685_6">
   <data key="d0">cluster</data>
@@ -64,7 +64,7 @@
 </node>
 <node id="6685_0">
   <data key="d0">cluster</data>
-  <data key="d1">85</data>
+  <data key="d1">123</data>
 </node>
 <node id="6685_51">
   <data key="d0">cluster</data>
@@ -94,7 +94,7 @@
   <data key="d0">protein</data>
   <data key="d1">19</data>
 </node>
-<node id="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+<node id="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65">
   <data key="d0">cluster</data>
   <data key="d1">10</data>
 </node>
@@ -316,7 +316,7 @@
 </node>
 <node id="6685_5">
   <data key="d0">cluster</data>
-  <data key="d1">3</data>
+  <data key="d1">2</data>
 </node>
 <node id="Profilin-1">
   <data key="d0">protein</data>
@@ -488,7 +488,7 @@
 </node>
 <node id="6685_266">
   <data key="d0">cluster</data>
-  <data key="d1">3</data>
+  <data key="d1">12</data>
 </node>
 <node id="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase">
   <data key="d0">protein</data>
@@ -496,7 +496,7 @@
 </node>
 <node id="6685_267">
   <data key="d0">cluster</data>
-  <data key="d1">2</data>
+  <data key="d1">5</data>
 </node>
 <node id="Cofilin-2">
   <data key="d0">protein</data>
@@ -504,7 +504,7 @@
 </node>
 <node id="6685_274">
   <data key="d0">cluster</data>
-  <data key="d1">33</data>
+  <data key="d1">67</data>
 </node>
 <node id="6685_65">
   <data key="d0">cluster</data>
@@ -534,9 +534,49 @@
   <data key="d0">protein</data>
   <data key="d1">10</data>
 </node>
+<node id="Cofilin (UNC-60B)">
+  <data key="d0">protein</data>
+  <data key="d1">12</data>
+</node>
+<node id="Actin-interacting protein 1">
+  <data key="d0">protein</data>
+  <data key="d1">25</data>
+</node>
+<node id="6685_290">
+  <data key="d0">cluster</data>
+  <data key="d1">32</data>
+</node>
+<node id="6685_291">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="6685_164;6685_295">
+  <data key="d0">cluster</data>
+  <data key="d1">6</data>
+</node>
+<node id="Cofilin">
+  <data key="d0">protein</data>
+  <data key="d1">58</data>
+</node>
+<node id="6685_293">
+  <data key="d0">cluster</data>
+  <data key="d1">29</data>
+</node>
+<node id="6685_294">
+  <data key="d0">cluster</data>
+  <data key="d1">5</data>
+</node>
+<node id="6685_295">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
+</node>
 <node id="6685_89">
   <data key="d0">cluster</data>
   <data key="d1">2</data>
+</node>
+<node id="6685_266;6685_5">
+  <data key="d0">cluster</data>
+  <data key="d1">1</data>
 </node>
 <node id="6685_95">
   <data key="d0">cluster</data>
@@ -598,7 +638,7 @@
   <data key="d0">cluster</data>
   <data key="d1">1</data>
 </node>
-<node id="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+<node id="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65">
   <data key="d0">cluster</data>
   <data key="d1">3</data>
 </node>
@@ -694,7 +734,7 @@
   <data key="d0">cluster</data>
   <data key="d1">1</data>
 </node>
-<node id="6685_164;6685_179;6685_233;6685_261">
+<node id="6685_164;6685_179;6685_233;6685_261;6685_295">
   <data key="d0">cluster</data>
   <data key="d1">1</data>
 </node>
@@ -735,7 +775,7 @@
   <data key="d1">1</data>
 </node>
 <edge source="6685_2" target="6685_1">
-  <data key="d2">675</data>
+  <data key="d2">679</data>
 </edge>
 <edge source="6685_2" target="6685_109">
   <data key="d2">30</data>
@@ -744,13 +784,13 @@
   <data key="d2">8</data>
 </edge>
 <edge source="6685_2" target="6685_274">
-  <data key="d2">33</data>
+  <data key="d2">43</data>
 </edge>
 <edge source="6685_2" target="6685_1;6685_274">
   <data key="d2">1</data>
 </edge>
 <edge source="6685_3" target="6685_4">
-  <data key="d2">538</data>
+  <data key="d2">541</data>
 </edge>
 <edge source="6685_3" target="Actin-related protein 3">
   <data key="d2">5</data>
@@ -759,7 +799,7 @@
   <data key="d2">5</data>
 </edge>
 <edge source="6685_4" target="6685_23">
-  <data key="d2">55</data>
+  <data key="d2">87</data>
 </edge>
 <edge source="6685_6" target="Myosin-14,Alpha-actinin A">
   <data key="d2">2</data>
@@ -845,6 +885,12 @@
 <edge source="6685_0" target="Gelsolin">
   <data key="d2">2</data>
 </edge>
+<edge source="6685_0" target="Cofilin (UNC-60B)">
+  <data key="d2">6</data>
+</edge>
+<edge source="6685_0" target="Cofilin">
+  <data key="d2">32</data>
+</edge>
 <edge source="6685_51" target="Vinculin">
   <data key="d2">2</data>
 </edge>
@@ -857,10 +903,10 @@
 <edge source="Myosin-A" target="6685_141;6685_233;6685_29;6685_51">
   <data key="d2">1</data>
 </edge>
-<edge source="Myosin-7" target="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+<edge source="Myosin-7" target="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65">
   <data key="d2">8</data>
 </edge>
-<edge source="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY">
+<edge source="6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65" target="Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY">
   <data key="d2">2</data>
 </edge>
 <edge source="Catenin alpha-1" target="6685_102">
@@ -1031,7 +1077,7 @@
 <edge source="Isoform 2 of F-actin-capping protein subunit beta" target="6685_89">
   <data key="d2">2</data>
 </edge>
-<edge source="Isoform 2 of F-actin-capping protein subunit beta" target="6685_5">
+<edge source="Isoform 2 of F-actin-capping protein subunit beta" target="6685_266;6685_5">
   <data key="d2">1</data>
 </edge>
 <edge source="6685_112" target="Actin-related protein 2/3 complex subunit 2">
@@ -1187,8 +1233,17 @@
 <edge source="6685_266" target="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase">
   <data key="d2">3</data>
 </edge>
+<edge source="6685_266" target="Actin-interacting protein 1">
+  <data key="d2">9</data>
+</edge>
 <edge source="WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase" target="6685_267">
   <data key="d2">2</data>
+</edge>
+<edge source="6685_267" target="Actin-interacting protein 1">
+  <data key="d2">3</data>
+</edge>
+<edge source="6685_274" target="6685_293">
+  <data key="d2">24</data>
 </edge>
 <edge source="6685_65" target="Adenylyl cyclase-associated protein 1">
   <data key="d2">6</data>
@@ -1201,6 +1256,24 @@
 </edge>
 <edge source="Leiomodin-2" target="6685_285">
   <data key="d2">1</data>
+</edge>
+<edge source="Cofilin (UNC-60B)" target="6685_290">
+  <data key="d2">6</data>
+</edge>
+<edge source="Actin-interacting protein 1" target="6685_291">
+  <data key="d2">6</data>
+</edge>
+<edge source="Actin-interacting protein 1" target="6685_164;6685_295">
+  <data key="d2">6</data>
+</edge>
+<edge source="Actin-interacting protein 1" target="6685_295">
+  <data key="d2">1</data>
+</edge>
+<edge source="6685_290" target="Cofilin">
+  <data key="d2">26</data>
+</edge>
+<edge source="6685_293" target="6685_294">
+  <data key="d2">5</data>
 </edge>
 <edge source="Actin-related protein 3" target="6685_106">
   <data key="d2">5</data>
@@ -1217,7 +1290,7 @@
 <edge source="Actin-related protein 2/3 complex subunit 1B" target="6685_144">
   <data key="d2">1</data>
 </edge>
-<edge source="Actin-related protein 2/3 complex subunit 1B" target="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65">
+<edge source="Actin-related protein 2/3 complex subunit 1B" target="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65">
   <data key="d2">1</data>
 </edge>
 <edge source="6685_157;6685_259" target="Actin-related protein 2/3 complex subunit 2">
@@ -1250,10 +1323,10 @@
 <edge source="6685_114" target="Actin-related protein 2/3 complex subunit 4">
   <data key="d2">5</data>
 </edge>
-<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="beta-cardiac myosin II">
+<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65" target="beta-cardiac myosin II">
   <data key="d2">1</data>
 </edge>
-<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65" target="Actin-related protein 2/3 complex subunit 1">
+<edge source="6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65" target="Actin-related protein 2/3 complex subunit 1">
   <data key="d2">1</data>
 </edge>
 <edge source="6685_144" target="Actin-related protein 2/3 complex subunit 1">
@@ -1304,7 +1377,7 @@
 <edge source="Dematin actin binding protein" target="6685_168">
   <data key="d2">1</data>
 </edge>
-<edge source="6685_164;6685_179;6685_233;6685_261" target="Actin-related protein 2/3 complex subunit 5-like protein">
+<edge source="6685_164;6685_179;6685_233;6685_261;6685_295" target="Actin-related protein 2/3 complex subunit 5-like protein">
   <data key="d2">1</data>
 </edge>
 </graph></graphml>

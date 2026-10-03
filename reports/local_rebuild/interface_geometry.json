@@ -1,5 +1,5 @@
 {
-  "finished_utc": "2026-10-02T14:52:17.081015+00:00",
+  "finished_utc": "2026-10-03T08:39:21.306864+00:00",
   "fingerprint": {
     "inputs": {
       "data/P60709_ref.fasta": "50469aa3087cbb3679ce4167ab78ce1352cc07bd7fa6533e77ed9601dedcaa08",
@@ -8,6 +8,14 @@
       "data/filtered/details/structures_files/assembly/12bx.pdb": "4155442023f073d65c04ca133a4e08106446db5ab544653d106cde50daa9c049",
       "data/filtered/details/structures_files/assembly/12by.pdb": "49c572d774fa2803b80baa32b5d87fceb9890771e41c80ed2718f951fb4632ca",
       "data/filtered/details/structures_files/assembly/12bz.pdb": "454a6658307a82a1227aa734736be5fd8d78e1e70fdcff9846b5ae483fd41382",
+      "data/filtered/details/structures_files/assembly/12rv.pdb": "1200f5176603536ec24fa0b30b2c09715829393bf2bb92e6d0d4dda146a90825",
+      "data/filtered/details/structures_files/assembly/38jl.pdb": "a4c1827e0186a013b715c1109a1bd22a8d50b3d785a27be88f9c76c8600c7b21",
+      "data/filtered/details/structures_files/assembly/38kl.pdb": "de8501e6d5aa871b5661d9229bcff55d8f07747074625b4f02ec6fb385260d4a",
+      "data/filtered/details/structures_files/assembly/38km.pdb": "6515f2c4965c941722a4358d60373cf8c75c83b1f7c60a21162e6abdddf8c660",
+      "data/filtered/details/structures_files/assembly/38kn.pdb": "ee05c161ec61e83dfe9544028235f056a5b4a78da97cf041d95b2ee1d184c4fd",
+      "data/filtered/details/structures_files/assembly/38ko.pdb": "b8c2bb296972bbe07ee99d77484f4410c8c32bf638aecd8f13f0fef8fe75f1fb",
+      "data/filtered/details/structures_files/assembly/38kp.pdb": "11c124783265d830ac88e47a95ae416995a6b59b33124bfcc8062c5d49611820",
+      "data/filtered/details/structures_files/assembly/38kq.pdb": "71360dc2d455976c79b3ca3b0f04e61ea0f5ee8465bed461fd489c0effd03ce9",
       "data/filtered/details/structures_files/assembly/3j8a.pdb": "8884d0f3eb1868383022c3aa8fba41c936437b6efa838d6af274e3c4a03cde54",
       "data/filtered/details/structures_files/assembly/5jlf.pdb": "88b1c6218764a82b11edb0e0d980287b990054157c2a91282443204c306b623e",
       "data/filtered/details/structures_files/assembly/5jlh.pdb": "40f8f8dee8cdf6d7b7292246c09db6cbb0732625ad5c90eb940d2a563b851be4",
@@ -155,12 +163,12 @@
       "data/filtered/details/structures_files/assembly/9zzi.pdb": "4d87778a3370df15c6cc447afe64adcd3de153d943d3c525c5d6c3d1275d599f",
       "data/filtered/details/structures_files/assembly/9zzj.pdb": "0dce22f2f9c711aba5bdea8c04730b73a2f6223703ef4589704ec3ecb6b3b3b2",
       "data/filtered/details/structures_files/assembly/9zzm.pdb": "0958bda0422ef8aabc496ebf161cda838d9192a91dcebb4beda78f736a0fe214",
-      "data/filtered/filtered_all_data.csv": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f"
+      "data/filtered/filtered_all_data.csv": "2cc698166ffe50f9e0793289e6fbef470aaffbe52bbd44a9814789effa497574"
     },
     "code": {
       "script/display_helpers.py": "cfff8b5096f06a125dc7da681c36a9c804e68f8b3eacde79cad00eb8e232d2fb",
       "script/interface_geometry.py": "e8e1867492d535ad0ed4d4d8cdfa94bc7c7d5e214e9264b9e15c8cee8220038d",
-      "script/local_rebuild.py": "9128d0b366bf79bcf52ca91bb8c9e8d8d74d0164c580306c0f1d1d7ef61641fb",
+      "script/local_rebuild.py": "262758a659fe34f01ea71a593ae655299853f1a469cb2d61057213a0b4d848dd",
       "script/numbering.py": "740de6699bf30037e4db8905cf6701cdc1b978ea3bf5a6bfb5f8476c42a18ede",
       "script/residue_contacts.py": "9b4369da1b7982f794f1f777bc8795304c256b7f24f759154c2c096ba0333b28",
       "script/scientific_analysis.py": "3ab9cb503eade2d6a11d72340c5503a52bc1af923eb95075255b24e8232d0495",
@@ -171,7 +179,8 @@
       "numpy": "2.5.0",
       "pandas": "2.3.3",
       "biopython": "1.87",
-      "scipy": "1.18.0"
+      "scipy": "1.18.0",
+      "matplotlib": "3.10.9"
     },
     "command": [
       "-u",
@@ -179,9 +188,9 @@
     ]
   },
   "outputs": {
-    "reports/scientific_audit/all_interface_geometry.csv": "6ef926010616a4108843280d1a7992c0cf19adc3e3bdb03e6ee8248532b22156",
-    "reports/scientific_audit/all_interface_geometry_coverage.csv": "bbc1d54c38b5b89db8d54d3d284605f4c93b06c74e7c922a4124723b75cd04c1",
-    "reports/scientific_audit/all_interface_geometry_manifest.json": "f14f0a0289648c1abe6fdee2ed4ca582d600ce9f77e07995234d96799db2ee9d",
-    "reports/scientific_audit/all_interface_geometry_summary.csv": "7950f79554dad0dbc615c58935ccaf8d9b918ffda4b124c7252cce553d9639fc"
+    "reports/scientific_audit/all_interface_geometry.csv": "80b8f7409fc76cc0381f4bfaa8964fc1ba1c016350697983c2a361c37f56f75e",
+    "reports/scientific_audit/all_interface_geometry_coverage.csv": "e8c27e1844965b948a2b4912e4eda6944df59475afb63c890040f28732ccec7f",
+    "reports/scientific_audit/all_interface_geometry_manifest.json": "ebb999e5e1467a296413aba13f21095e38011bd8f9f16912f0a6936cd5682e8b",
+    "reports/scientific_audit/all_interface_geometry_summary.csv": "fc452ecc2fdf75d10e42b0e9bf4cfd39b9bcfc7bc86e048de67e5411442cce78"
   }
 }

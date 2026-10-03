@@ -1,813 +1,908 @@
 interaction_id,pdb,abp_chain,abp_subunit,abp_title,actin_site_cluster,supercluster,resolution
-1223,5jlh,F,5jlh_F,"Myosin-14,Alpha-actinin A",6685_6,6685_6,3.9 Å
-1248,5jlh,F,5jlh_F,"Myosin-14,Alpha-actinin A",6685_80,6685_141;6685_233;6685_29;6685_33;6685_51,3.9 Å
-3319,6c1g,P,6c1g_P,Unconventional myosin-Ib,6685_6,6685_6,3.8 Å
-3254,6c1g,P,6c1g_P,Unconventional myosin-Ib,6685_33,6685_33,3.8 Å
-2430,6d8c,A,6d8c_A,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
-2481,6d8c,A,6d8c_A,Filamin-A,6685_16,6685_141,3.5 Å
-2455,6d8c,B,6d8c_B,Filamin-A,6685_16,6685_141,3.5 Å
-2456,6d8c,C,6d8c_C,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
-2517,6d8c,C,6d8c_C,Filamin-A,6685_16,6685_141,3.5 Å
-2429,6d8c,D,6d8c_D,Filamin-A,6685_16,6685_141,3.5 Å
-2498,6d8c,D,6d8c_D,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
-2499,6d8c,E,6d8c_E,Filamin-A,6685_16,6685_141,3.5 Å
-3903,6vao,J,6vao_J,Cofilin-1,6685_21,6685_21,3.4 Å
-3927,6vao,H,6vao_H,Cofilin-1,6685_0,6685_0,3.4 Å
-3926,6vao,I,6vao_I,Cofilin-1,6685_21,6685_21,3.4 Å
-3967,6vao,G,6vao_G,Cofilin-1,6685_21,6685_21,3.4 Å
-3946,6vao,F,6vao_F,Cofilin-1,6685_21,6685_21,3.4 Å
-3949,6vao,I,6vao_I,Cofilin-1,6685_0,6685_0,3.4 Å
-3987,6vao,J,6vao_J,Cofilin-1,6685_0,6685_0,3.4 Å
-1759,6upw,L,6upw_L,Vinculin,6685_51,6685_51,2.9 Å
-1799,6upw,L,6upw_L,Vinculin,6685_6,6685_6,2.9 Å
-1798,6upw,M,6upw_M,Vinculin,6685_51,6685_51,2.9 Å
-1743,6upw,M,6upw_M,Vinculin,6685_6,6685_6,2.9 Å
-3508,6vec,a,6vec_a,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
-3509,6vec,e,6vec_e,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3482,6vec,b,6vec_b,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
-3483,6vec,c,6vec_c,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3451,6vec,c,6vec_c,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3452,6vec,g,6vec_g,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3426,6vec,a,6vec_a,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3427,6vec,d,6vec_d,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3402,6vec,e,6vec_e,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
-3403,6vec,i,6vec_i,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3379,6vec,b,6vec_b,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3380,6vec,f,6vec_f,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3363,6vec,g,6vec_g,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3364,6vec,k,6vec_k,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3346,6vec,d,6vec_d,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3347,6vec,h,6vec_h,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3325,6vec,i,6vec_i,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
-3303,6vec,f,6vec_f,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
-3304,6vec,j,6vec_j,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-3282,6vec,k,6vec_k,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
-847,7aln,F,7aln_F,Myosin-A,6685_6,6685_6,3.8 Å
-811,7aln,F,7aln_F,Myosin-A,6685_69,6685_141;6685_233;6685_29;6685_51,3.8 Å
-1657,6c1h,P,6c1h_P,Unconventional myosin-Ib,6685_6,6685_6,3.9 Å
-1620,6c1h,P,6c1h_P,Unconventional myosin-Ib,6685_33,6685_33,3.9 Å
-2818,7jh7,G,7jh7_G,Myosin-7,6685_6,6685_6,3.8 Å
-2793,7jh7,H,7jh7_H,Myosin-7,6685_6,6685_6,3.8 Å
-2844,7jh7,F,7jh7_F,Myosin-7,6685_18,6685_6,3.8 Å
-2847,7jh7,H,7jh7_H,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.8 Å
-2927,6m5g,F,6m5g_F,Utrophin,6685_15,6685_0;6685_6,3.6 Å
-2904,6m5g,H,6m5g_H,Utrophin,6685_15,6685_0;6685_6,3.6 Å
-2952,6m5g,G,6m5g_G,Utrophin,6685_15,6685_0;6685_6,3.6 Å
-3005,6m5g,G,6m5g_G,Utrophin,6685_16,6685_141,3.6 Å
-2953,6m5g,H,6m5g_H,Utrophin,6685_16,6685_141,3.6 Å
-2978,6m5g,F,6m5g_F,Utrophin,6685_16,6685_141,3.6 Å
-3223,6wvt,N,6wvt_N,Catenin alpha-1,6685_16,6685_141,3.6 Å
-3187,6wvt,K,6wvt_K,Catenin alpha-1,6685_0,6685_0,3.6 Å
-3188,6wvt,O,6wvt_O,Catenin alpha-1,6685_16,6685_141,3.6 Å
-3166,6wvt,O,6wvt_O,Catenin alpha-1,6685_0,6685_0,3.6 Å
-3206,6wvt,K,6wvt_K,Catenin alpha-1,6685_16,6685_141,3.6 Å
-3147,6wvt,Q,6wvt_Q,Catenin alpha-1,6685_16,6685_141,3.6 Å
-3207,6wvt,L,6wvt_L,Catenin alpha-1,6685_0,6685_0,3.6 Å
-3148,6wvt,X,6wvt_X,Catenin alpha-1,6685_0,6685_0,3.6 Å
-3125,6wvt,N,6wvt_N,Catenin alpha-1,6685_0,6685_0,3.6 Å
-3126,6wvt,X,6wvt_X,Catenin alpha-1,6685_16,6685_141,3.6 Å
-2145,7p1g,O,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-1109,7z7h,F,7z7h_F,"Maltose/maltodextrin-binding periplasmic protein,TccC3",6685_120,6685_120,3.8 Å
-894,7r94,F,7r94_F,Plastin-3,6685_29,6685_29,2.6 Å
-916,7r94,H,7r94_H,Plastin-3,6685_29,6685_29,2.6 Å
-937,7r94,F,7r94_F,Plastin-3,6685_121,6685_121,2.6 Å
-938,7r94,G,7r94_G,Plastin-3,6685_29,6685_29,2.6 Å
-879,7r94,H,7r94_H,Plastin-3,6685_121,6685_121,2.6 Å
-861,7r94,G,7r94_G,Plastin-3,6685_121,6685_121,2.6 Å
-2720,8efi,P,8efi_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.4 Å
-2692,8efi,P,8efi_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.4 Å
-2628,8efi,O,8efi_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.4 Å
-2605,8enc,P,8enc_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.6 Å
-2585,8enc,P,8enc_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.6 Å
-2535,8enc,O,8enc_O,Tropomyosin alpha-1 chain,6685_128,6685_128,3.6 Å
-2512,8dd0,I,8dd0_I,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
-2513,8dd0,K,8dd0_K,"Troponin T2, cardiac type",6685_136,6685_152;6685_164;6685_233;6685_3,3.5 Å
-2494,8dd0,N,8dd0_N,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
-2495,8dd0,P,8dd0_P,"Troponin T2, cardiac type",6685_136,6685_152;6685_164;6685_233;6685_3,3.5 Å
-2476,8dd0,G,8dd0_G,Tropomyosin alpha-1 chain,6685_137,6685_162,3.5 Å
-2477,8dd0,J,8dd0_J,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
-2478,8dd0,K,8dd0_K,"Troponin T2, cardiac type",6685_138,6685_138,3.5 Å
-2449,8dd0,L,8dd0_L,Tropomyosin alpha-1 chain,6685_137,6685_162,3.5 Å
-2450,8dd0,O,8dd0_O,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
-2451,8dd0,P,8dd0_P,"Troponin T2, cardiac type",6685_138,6685_138,3.5 Å
-2424,8dd0,G,8dd0_G,Tropomyosin alpha-1 chain,6685_139,6685_139,3.5 Å
-2407,8dd0,L,8dd0_L,Tropomyosin alpha-1 chain,6685_139,6685_139,3.5 Å
-2370,8efh,P,8efh_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.3 Å
-2346,8efh,P,8efh_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.3 Å
-2391,8efh,O,8efh_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.3 Å
-85,7uuw,H,7uuw_H,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
-66,7uuw,G,7uuw_G,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
-67,7uuw,I,7uuw_I,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
-43,7uuw,H,7uuw_H,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
-44,7uuw,Z,7uuw_Z,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
-18,7uuw,I,7uuw_I,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
-19,7uuw,K,7uuw_K,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
-4765,7uuw,L,7uuw_L,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
-4766,7uuw,Z,7uuw_Z,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
-4744,7uuw,K,7uuw_K,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
-4721,7utj,H,7utj_H,Catenin alpha-1,6685_141,6685_141,2.8 Å
-4707,7utj,G,7utj_G,Catenin alpha-1,6685_102,6685_102,2.8 Å
-4708,7utj,I,7utj_I,Catenin alpha-1,6685_141,6685_141,2.8 Å
-4688,7utj,H,7utj_H,Catenin alpha-1,6685_102,6685_102,2.8 Å
-4689,7utj,Z,7utj_Z,Catenin alpha-1,6685_141,6685_141,2.8 Å
-4669,7utj,I,7utj_I,Catenin alpha-1,6685_102,6685_102,2.8 Å
-4670,7utj,K,7utj_K,Catenin alpha-1,6685_141,6685_141,2.8 Å
-4649,7utj,L,7utj_L,Catenin alpha-1,6685_141,6685_141,2.8 Å
-4650,7utj,Z,7utj_Z,Catenin alpha-1,6685_102,6685_102,2.8 Å
-4629,7utj,K,7utj_K,Catenin alpha-1,6685_102,6685_102,2.8 Å
-3084,8iah,M,8iah_M,Spectrin beta chain,6685_121,6685_121,3.6 Å
-3085,8iah,U,8iah_U,Tropomyosin-1.9,6685_161,6685_161,3.6 Å
-3086,8iah,Y,8iah_Y,Tropomodulin-1,6685_162,6685_162,3.6 Å
-3057,8iah,N,8iah_N,Spectrin beta chain,6685_121,6685_121,3.6 Å
-3058,8iah,Y,8iah_Y,Tropomodulin-1,6685_164,6685_164,3.6 Å
-3036,8iah,M,8iah_M,Spectrin beta chain,6685_141,6685_141,3.6 Å
-3037,8iah,O,8iah_O,Spectrin beta chain,6685_121,6685_121,3.6 Å
-3038,8iah,Y,8iah_Y,Tropomodulin-1,6685_59,6685_258,3.6 Å
-3015,8iah,N,8iah_N,Spectrin beta chain,6685_141,6685_141,3.6 Å
-3016,8iah,P,8iah_P,Spectrin beta chain,6685_121,6685_121,3.6 Å
-2989,8iah,O,8iah_O,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2990,8iah,Q,8iah_Q,Spectrin beta chain,6685_121,6685_121,3.6 Å
-2962,8iah,P,8iah_P,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2963,8iah,R,8iah_R,Spectrin beta chain,6685_121,6685_121,3.6 Å
-2936,8iah,Q,8iah_Q,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2937,8iah,S,8iah_S,Spectrin beta chain,6685_121,6685_121,3.6 Å
-2914,8iah,R,8iah_R,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2915,8iah,T,8iah_T,Spectrin beta chain,6685_121,6685_121,3.6 Å
-2893,8iah,S,8iah_S,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2871,8iah,T,8iah_T,Spectrin beta chain,6685_141,6685_141,3.6 Å
-2788,8iai,M,8iai_M,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2789,8iai,U,8iai_U,Tropomyosin-1.9,6685_161,6685_161,3.5 Å
-2790,8iai,Y,8iai_Y,Tropomodulin-1,6685_162,6685_162,3.5 Å
-2765,8iai,N,8iai_N,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2766,8iai,Y,8iai_Y,Tropomodulin-1,6685_164,6685_164,3.5 Å
-2742,8iai,M,8iai_M,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2743,8iai,O,8iai_O,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2744,8iai,Y,8iai_Y,Tropomodulin-1,6685_59,6685_258,3.5 Å
-2715,8iai,N,8iai_N,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2716,8iai,P,8iai_P,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2688,8iai,O,8iai_O,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2689,8iai,Q,8iai_Q,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2663,8iai,P,8iai_P,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2664,8iai,R,8iai_R,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2643,8iai,Q,8iai_Q,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2644,8iai,S,8iai_S,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2621,8iai,R,8iai_R,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2622,8iai,T,8iai_T,Spectrin beta chain,6685_121,6685_121,3.5 Å
-2601,8iai,S,8iai_S,Spectrin beta chain,6685_141,6685_141,3.5 Å
-2582,8iai,T,8iai_T,Spectrin beta chain,6685_141,6685_141,3.5 Å
-4336,8f8q,G,8f8q_G,F-actin-capping protein subunit alpha-1,6685_92,6685_92,2.8 Å
-4337,8f8q,H,8f8q_H,F-actin-capping protein subunit beta,6685_169,6685_169,2.8 Å
-4317,8f8q,G,8f8q_G,F-actin-capping protein subunit alpha-1,6685_68,6685_91,2.8 Å
-4318,8f8q,H,8f8q_H,F-actin-capping protein subunit beta,6685_170,6685_170,2.8 Å
-4085,8f8t,T,8f8t_T,Tropomodulin-1,6685_162,6685_162,3.3 Å
-4076,8f8t,T,8f8t_T,Tropomodulin-1,6685_164,6685_164,3.3 Å
-4064,8f8t,T,8f8t_T,Tropomodulin-1,6685_59,6685_258,3.3 Å
-80,8uee,A,8uee_A,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
-37,8uee,A,8uee_A,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
-12,8uee,A,8uee_A,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
-4760,8uee,A,8uee_A,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
-35,8uee,B,8uee_B,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
-11,8uee,B,8uee_B,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
-4759,8uee,B,8uee_B,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
-114,8uee,C,8uee_C,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
-97,8uee,C,8uee_C,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
-78,8uee,C,8uee_C,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
-59,8uee,C,8uee_C,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
-36,8uee,C,8uee_C,Cell invasion protein SipA,6685_181,6685_112;6685_180,3.2 Å
-115,8uee,D,8uee_D,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
-98,8uee,D,8uee_D,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
-79,8uee,D,8uee_D,Cell invasion protein SipA,6685_181,6685_112;6685_180,3.2 Å
-60,8uee,D,8uee_D,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
-2466,8p94,I,8p94_I,Src substrate cortactin,6685_187,6685_187,3.3 Å
-2469,8p94,U,8p94_U,F-actin-capping protein subunit alpha-1,6685_14,6685_14,3.3 Å
-2470,8p94,V,8p94_V,Isoform 2 of F-actin-capping protein subunit beta,6685_169,6685_169,3.3 Å
-3983,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
-3984,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
-3965,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
-3966,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
-3943,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
-3944,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
-3921,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
-3922,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
-3896,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
-3897,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
-3877,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
-3878,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
-3861,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
-3862,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
-3844,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
-3829,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
-3830,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
-3814,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
-3815,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
-3795,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_154,6685_154,2.6 Å
-3796,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
-3797,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
-3778,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
-3779,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_154,6685_154,2.6 Å
-3780,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
-3761,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
-3762,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
-3742,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
-3743,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
-3723,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
-3724,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
-3708,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
-2192,9az4,G,9az4_G,Inverted formin-2,6685_0,6685_0,3.4 Å
-2170,9az4,H,9az4_H,Inverted formin-2,6685_0,6685_0,3.4 Å
-2151,9az4,G,9az4_G,Inverted formin-2,6685_209,6685_250;6685_51,3.4 Å
-2128,9az4,G,9az4_G,Inverted formin-2,6685_200,6685_200,3.4 Å
-2129,9az4,H,9az4_H,Inverted formin-2,6685_210,6685_164;6685_250,3.4 Å
-2107,9az4,G,9az4_G,Inverted formin-2,6685_202,6685_202,3.4 Å
-2108,9az4,H,9az4_H,Inverted formin-2,6685_211,6685_211,3.4 Å
-2032,9azp,G,9azp_G,Inverted formin-2,6685_212,6685_212,3.8 Å
-2010,9azp,G,9azp_G,Inverted formin-2,6685_213,6685_102;6685_200;6685_211,3.8 Å
-2011,9azp,H,9azp_H,Inverted formin-2,6685_214,6685_214,3.8 Å
-1991,9azp,H,9azp_H,Inverted formin-2,6685_211,6685_211,3.8 Å
-1975,9azp,J,9azp_J,Profilin-1,6685_5,6685_5,3.8 Å
-1902,9azq,H,9azq_H,Inverted formin-2,6685_214,6685_214,3.8 Å
-1882,9azq,H,9azq_H,Inverted formin-2,6685_200,6685_200,3.8 Å
-1841,9b03,H,9b03_H,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
-1826,9b03,G,9b03_G,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
-1810,9b03,G,9b03_G,Inverted formin-2,6685_219,6685_0;6685_102;6685_120;6685_200;6685_6,3.0 Å
-1811,9b03,H,9b03_H,Inverted formin-2,6685_220,6685_220,3.0 Å
-1789,9b03,G,9b03_G,Inverted formin-2,6685_221,6685_162;6685_250,3.0 Å
-1790,9b03,H,9b03_H,Inverted formin-2,6685_222,6685_222,3.0 Å
-1768,9b03,G,9b03_G,Inverted formin-2,6685_223,6685_223,3.0 Å
-1730,9b0k,H,9b0k_H,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
-1708,9b0k,G,9b0k_G,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
-1685,9b0k,G,9b0k_G,Inverted formin-2,6685_219,6685_0;6685_102;6685_120;6685_200;6685_6,3.0 Å
-1686,9b0k,H,9b0k_H,Inverted formin-2,6685_220,6685_220,3.0 Å
-1666,9b0k,G,9b0k_G,Inverted formin-2,6685_221,6685_162;6685_250,3.0 Å
-1667,9b0k,H,9b0k_H,Inverted formin-2,6685_222,6685_222,3.0 Å
-1645,9b0k,G,9b0k_G,Inverted formin-2,6685_223,6685_223,3.0 Å
-1548,9b27,G,9b27_G,Protein diaphanous homolog 1,6685_200,6685_200,3.5 Å
-1528,9b27,G,9b27_G,Protein diaphanous homolog 1,6685_201,6685_202,3.5 Å
-1529,9b27,H,9b27_H,Protein diaphanous homolog 1,6685_211,6685_211,3.5 Å
-1490,9b3d,H,9b3d_H,Protein diaphanous homolog 1,6685_102,6685_102,3.4 Å
-1475,9b3d,G,9b3d_G,Protein diaphanous homolog 1,6685_224,6685_224,3.4 Å
-1462,9b3d,H,9b3d_H,Protein diaphanous homolog 1,6685_225,6685_225,3.4 Å
-1445,9b3d,G,9b3d_G,Protein diaphanous homolog 1,6685_225,6685_225,3.4 Å
-4470,8viz,G,8viz_G,Gelsolin,6685_231,6685_231,2.6 Å
-4450,8viz,G,8viz_G,Gelsolin,6685_232,6685_232,2.6 Å
-4433,8viz,G,8viz_G,Gelsolin,6685_233,6685_233,2.6 Å
-4373,8vkh,H,8vkh_H,Gelsolin,6685_231,6685_231,3.6 Å
-4351,8vkh,G,8vkh_G,Gelsolin,6685_231,6685_231,3.6 Å
-4330,8vkh,H,8vkh_H,Gelsolin,6685_233,6685_233,3.6 Å
-4313,8vkh,G,8vkh_G,Gelsolin,6685_233,6685_233,3.6 Å
-4213,9dva,H,9dva_H,Catenin alpha-1,6685_141,6685_141,3.1 Å
-4198,9dva,F,9dva_F,Catenin alpha-1,6685_141,6685_141,3.1 Å
-4199,9dva,G,9dva_G,Afadin,6685_234,6685_6;6685_97,3.1 Å
-4200,9dva,H,9dva_H,Catenin alpha-1,6685_102,6685_102,3.1 Å
-4177,9dva,F,9dva_F,Catenin alpha-1,6685_102,6685_102,3.1 Å
-3173,9gob,F,9gob_F,Inositol-trisphosphate 3-kinase A,6685_121,6685_121,3.2 Å
-3060,9hm9,F,9hm9_F,Inositol-trisphosphate 3-kinase A,6685_102,6685_102,3.4 Å
-2281,8zb7,H,8zb7_H,Myosin-7,6685_6,6685_6,3.2 Å
-2280,8zb7,P,8zb7_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.2 Å
-2264,8zb7,G,8zb7_G,Myosin-7,6685_6,6685_6,3.2 Å
-2263,8zb7,P,8zb7_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.2 Å
-2245,8zb7,I,8zb7_I,Myosin-7,6685_6,6685_6,3.2 Å
-2246,8zb7,J,8zb7_J,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-2247,8zb7,L,8zb7_L,Tropomyosin alpha-1 chain,6685_245,6685_245,3.2 Å
-2229,8zb7,J,8zb7_J,Myosin-7,6685_6,6685_6,3.2 Å
-2230,8zb7,K,8zb7_K,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-2232,8zb7,N,8zb7_N,Tropomyosin alpha-1 chain,6685_128,6685_128,3.2 Å
-2209,8zb7,G,8zb7_G,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-2208,8zb7,O,8zb7_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.2 Å
-1306,8zbm,A,8zbm_A,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-1266,8zbm,A,8zbm_A,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
-1267,8zbm,B,8zbm_B,Tropomyosin beta chain,6685_246,6685_128;6685_129,3.3 Å
-1286,8zbm,D,8zbm_D,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-1243,8zbm,D,8zbm_D,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
-1244,8zbm,F,8zbm_F,Tropomyosin beta chain,6685_246,6685_128;6685_129,3.3 Å
-1287,8zbm,G,8zbm_G,Tropomyosin beta chain,6685_247,6685_128;6685_129;6685_162;6685_245,3.3 Å
-1268,8zbm,J,8zbm_J,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-1218,8zbm,J,8zbm_J,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
-1219,8zbm,K,8zbm_K,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-1245,8zbm,L,8zbm_L,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-1195,8zbm,L,8zbm_L,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
-1196,8zbm,N,8zbm_N,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
-3515,8zbn,A,8zbn_A,Myosin-6,6685_97,6685_97,3.0 Å
-3407,8zbn,A,8zbn_A,Myosin-6,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.0 Å
-3516,8zbn,C,8zbn_C,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
-3514,8zbn,S,8zbn_S,Tropomyosin alpha-1 chain,6685_129,6685_129,3.0 Å
-3457,8zbn,C,8zbn_C,Myosin-6,6685_97,6685_97,3.0 Å
-3431,8zbn,L,8zbn_L,Myosin-6,6685_6,6685_6,3.0 Å
-3430,8zbn,T,8zbn_T,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
-3408,8zbn,F,8zbn_F,Myosin-6,6685_97,6685_97,3.0 Å
-3385,8zbn,G,8zbn_G,Myosin-6,6685_97,6685_97,3.0 Å
-3489,8zbn,H,8zbn_H,Myosin-6,6685_97,6685_97,3.0 Å
-3386,8zbn,H,8zbn_H,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
-3490,8zbn,L,8zbn_L,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
-3488,8zbn,R,8zbn_R,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
-3456,8zbn,U,8zbn_U,Tropomyosin alpha-1 chain,6685_129,6685_129,3.0 Å
-3406,8zbn,U,8zbn_U,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
-3384,8zbn,T,8zbn_T,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
-4131,9az6,H,9az6_H,Talin-1,6685_121,6685_121,3.0 Å
-4132,9az6,I,9az6_I,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
-4114,9az6,F,9az6_F,Talin-1,6685_250,6685_250,3.0 Å
-4115,9az6,J,9az6_J,Talin-1,6685_121,6685_121,3.0 Å
-4116,9az6,K,9az6_K,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
-4098,9az6,H,9az6_H,Talin-1,6685_250,6685_250,3.0 Å
-4099,9az6,L,9az6_L,Talin-1,6685_121,6685_121,3.0 Å
-4100,9az6,M,9az6_M,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
-4082,9az6,J,9az6_J,Talin-1,6685_250,6685_250,3.0 Å
-4072,9az6,L,9az6_L,Talin-1,6685_250,6685_250,3.0 Å
-2239,9e2e,K,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",6685_136,6685_152;6685_164;6685_233;6685_3,4.0 Å
-2221,9e2e,N,9e2e_N,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,4.0 Å
-2222,9e2e,P,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",6685_136,6685_152;6685_164;6685_233;6685_3,4.0 Å
-2198,9e2e,G,9e2e_G,Tropomyosin alpha-1 chain,6685_251,6685_162;6685_164,4.0 Å
-2199,9e2e,J,9e2e_J,Tropomyosin alpha-1 chain,6685_252,6685_102;6685_120;6685_139;6685_156;6685_166,4.0 Å
-2200,9e2e,K,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",6685_138,6685_138,4.0 Å
-2178,9e2e,L,9e2e_L,Tropomyosin alpha-1 chain,6685_137,6685_162,4.0 Å
-2179,9e2e,O,9e2e_O,Tropomyosin alpha-1 chain,6685_252,6685_102;6685_120;6685_139;6685_156;6685_166,4.0 Å
-2180,9e2e,P,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",6685_138,6685_138,4.0 Å
-2159,9e2e,G,9e2e_G,Tropomyosin alpha-1 chain,6685_139,6685_139,4.0 Å
-2133,9e2e,L,9e2e_L,Tropomyosin alpha-1 chain,6685_139,6685_139,4.0 Å
-1753,9p1i,c,9p1i_c,VopV,6685_257,6685_257,3.0 Å
-1754,9p1i,f,9p1i_f,VopV,6685_258,6685_258,3.0 Å
-1755,9p1i,g,9p1i_g,VopV,6685_259,6685_259,3.0 Å
-1735,9p1i,c,9p1i_c,VopV,6685_259,6685_259,3.0 Å
-1736,9p1i,f,9p1i_f,VopV,6685_257,6685_257,3.0 Å
-1737,9p1i,i,9p1i_i,VopV,6685_258,6685_258,3.0 Å
-1713,9p1i,d,9p1i_d,VopV,6685_257,6685_257,3.0 Å
-1714,9p1i,g,9p1i_g,VopV,6685_258,6685_258,3.0 Å
-1715,9p1i,h,9p1i_h,VopV,6685_259,6685_259,3.0 Å
-1691,9p1i,c,9p1i_c,VopV,6685_258,6685_258,3.0 Å
-1692,9p1i,d,9p1i_d,VopV,6685_259,6685_259,3.0 Å
-1693,9p1i,g,9p1i_g,VopV,6685_257,6685_257,3.0 Å
-1670,9p1i,e,9p1i_e,VopV,6685_257,6685_257,3.0 Å
-1671,9p1i,h,9p1i_h,VopV,6685_258,6685_258,3.0 Å
-1649,9p1i,d,9p1i_d,VopV,6685_258,6685_258,3.0 Å
-1650,9p1i,e,9p1i_e,VopV,6685_259,6685_259,3.0 Å
-1651,9p1i,h,9p1i_h,VopV,6685_257,6685_257,3.0 Å
-1631,9p1i,f,9p1i_f,VopV,6685_259,6685_259,3.0 Å
-1632,9p1i,i,9p1i_i,VopV,6685_257,6685_257,3.0 Å
-1633,9p1i,j,9p1i_j,VopV,6685_258,6685_258,3.0 Å
-1614,9p1i,i,9p1i_i,VopV,6685_259,6685_259,3.0 Å
-1615,9p1i,j,9p1i_j,VopV,6685_257,6685_257,3.0 Å
-1616,9p1i,k,9p1i_k,VopV,6685_258,6685_258,3.0 Å
-1601,9p1i,j,9p1i_j,VopV,6685_259,6685_259,3.0 Å
-1602,9p1i,k,9p1i_k,VopV,6685_257,6685_257,3.0 Å
-1603,9p1i,l,9p1i_l,VopV,6685_258,6685_258,3.0 Å
-1585,9p1i,k,9p1i_k,VopV,6685_259,6685_259,3.0 Å
-1586,9p1i,l,9p1i_l,VopV,6685_257,6685_257,3.0 Å
-1587,9p1i,m,9p1i_m,VopV,6685_258,6685_258,3.0 Å
-1567,9p1i,l,9p1i_l,VopV,6685_259,6685_259,3.0 Å
-1568,9p1i,m,9p1i_m,VopV,6685_257,6685_257,3.0 Å
-1569,9p1i,n,9p1i_n,VopV,6685_258,6685_258,3.0 Å
-1551,9p1i,m,9p1i_m,VopV,6685_259,6685_259,3.0 Å
-1552,9p1i,n,9p1i_n,VopV,6685_257,6685_257,3.0 Å
-2907,9p3d,c,9p3d_c,Vibrio VopV,6685_257,6685_257,3.5 Å
-2908,9p3d,d,9p3d_d,Vibrio VopV,6685_259,6685_259,3.5 Å
-2884,9p3d,c,9p3d_c,Vibrio VopV,6685_258,6685_258,3.5 Å
-2885,9p3d,d,9p3d_d,Vibrio VopV,6685_257,6685_257,3.5 Å
-2886,9p3d,e,9p3d_e,Vibrio VopV,6685_259,6685_259,3.5 Å
-2863,9p3d,d,9p3d_d,Vibrio VopV,6685_258,6685_258,3.5 Å
-2864,9p3d,e,9p3d_e,Vibrio VopV,6685_257,6685_257,3.5 Å
-2865,9p3d,f,9p3d_f,Vibrio VopV,6685_259,6685_259,3.5 Å
-2835,9p3d,e,9p3d_e,Vibrio VopV,6685_258,6685_258,3.5 Å
-2836,9p3d,f,9p3d_f,Vibrio VopV,6685_257,6685_257,3.5 Å
-2837,9p3d,g,9p3d_g,Vibrio VopV,6685_259,6685_259,3.5 Å
-2806,9p3d,f,9p3d_f,Vibrio VopV,6685_258,6685_258,3.5 Å
-2807,9p3d,g,9p3d_g,Vibrio VopV,6685_257,6685_257,3.5 Å
-2808,9p3d,h,9p3d_h,Vibrio VopV,6685_259,6685_259,3.5 Å
-2783,9p3d,g,9p3d_g,Vibrio VopV,6685_258,6685_258,3.5 Å
-2784,9p3d,h,9p3d_h,Vibrio VopV,6685_257,6685_257,3.5 Å
-2785,9p3d,i,9p3d_i,Vibrio VopV,6685_259,6685_259,3.5 Å
-2759,9p3d,h,9p3d_h,Vibrio VopV,6685_258,6685_258,3.5 Å
-2760,9p3d,i,9p3d_i,Vibrio VopV,6685_257,6685_257,3.5 Å
-2761,9p3d,j,9p3d_j,Vibrio VopV,6685_259,6685_259,3.5 Å
-2734,9p3d,i,9p3d_i,Vibrio VopV,6685_258,6685_258,3.5 Å
-2735,9p3d,j,9p3d_j,Vibrio VopV,6685_257,6685_257,3.5 Å
-2736,9p3d,k,9p3d_k,Vibrio VopV,6685_259,6685_259,3.5 Å
-2707,9p3d,j,9p3d_j,Vibrio VopV,6685_258,6685_258,3.5 Å
-2708,9p3d,k,9p3d_k,Vibrio VopV,6685_257,6685_257,3.5 Å
-2709,9p3d,l,9p3d_l,Vibrio VopV,6685_259,6685_259,3.5 Å
-2679,9p3d,k,9p3d_k,Vibrio VopV,6685_258,6685_258,3.5 Å
-2680,9p3d,l,9p3d_l,Vibrio VopV,6685_257,6685_257,3.5 Å
-2681,9p3d,m,9p3d_m,Vibrio VopV,6685_259,6685_259,3.5 Å
-2656,9p3d,l,9p3d_l,Vibrio VopV,6685_258,6685_258,3.5 Å
-2657,9p3d,m,9p3d_m,Vibrio VopV,6685_257,6685_257,3.5 Å
-451,9qey,H,9qey_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_44,6685_44,2.7 Å
-418,9qey,H,9qey_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_260,6685_260,2.7 Å
-350,9qf2,F,9qf2_F,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
-351,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
-333,9qf2,F,9qf2_F,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
-334,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
-335,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
-369,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
-364,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
-370,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
-371,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
-312,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
-313,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
-295,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
-296,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
-280,9qfb,H,9qfb_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-281,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-282,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
-264,9qfb,H,9qfb_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-265,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-266,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-267,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
-250,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-251,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-252,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-253,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
-231,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-232,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-233,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-234,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
-208,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-209,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-210,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-211,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
-193,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-194,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-195,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
-178,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
-179,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
-162,9qfd,H,9qfd_H,Cofilin-1,6685_21,6685_21,2.6 Å
-163,9qfd,J,9qfd_J,Cofilin-1,6685_200,6685_200,2.6 Å
-149,9qfd,I,9qfd_I,Cofilin-1,6685_21,6685_21,2.6 Å
-150,9qfd,K,9qfd_K,Cofilin-1,6685_200,6685_200,2.6 Å
-138,9qfd,J,9qfd_J,Cofilin-1,6685_21,6685_21,2.6 Å
-139,9qfd,L,9qfd_L,Cofilin-1,6685_200,6685_200,2.6 Å
-126,9qfd,K,9qfd_K,Cofilin-1,6685_21,6685_21,2.6 Å
-127,9qfd,M,9qfd_M,Cofilin-1,6685_200,6685_200,2.6 Å
-110,9qfd,L,9qfd_L,Cofilin-1,6685_21,6685_21,2.6 Å
-111,9qfd,N,9qfd_N,Cofilin-1,6685_200,6685_200,2.6 Å
-93,9qfd,M,9qfd_M,Cofilin-1,6685_21,6685_21,2.6 Å
-73,9qfd,N,9qfd_N,Cofilin-1,6685_21,6685_21,2.6 Å
-52,9qfe,H,9qfe_H,Cofilin-1,6685_21,6685_21,3.1 Å
-53,9qfe,I,9qfe_I,Cofilin-1,6685_0,6685_0,3.1 Å
-54,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
-29,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
-30,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.1 Å
-5,9qfe,I,9qfe_I,Cofilin-1,6685_21,6685_21,3.1 Å
-6,9qfe,J,9qfe_J,Cofilin-1,6685_0,6685_0,3.1 Å
-7,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
-8,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
-4754,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
-4755,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.1 Å
-4730,9qfe,J,9qfe_J,Cofilin-1,6685_21,6685_21,3.1 Å
-4731,9qfe,K,9qfe_K,Cofilin-1,6685_0,6685_0,3.1 Å
-4732,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
-4733,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
-4715,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
-4699,9qfe,K,9qfe_K,Cofilin-1,6685_21,6685_21,3.1 Å
-4700,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
-4463,9qfk,H,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4464,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
-4465,9qfk,J,9qfk_J,Cofilin-1,6685_0,6685_0,4.0 Å
-4444,9qfk,H,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
-4445,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4446,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
-4427,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
-4428,9qfk,J,9qfk_J,Cofilin-1,6685_21,6685_21,4.0 Å
-4429,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
-4430,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
-4409,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4410,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
-4411,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
-4389,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
-4390,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4391,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
-4392,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
-4366,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
-4367,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4368,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
-4345,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
-4346,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
-4158,9qfw,F,9qfw_F,Cofilin-1,6685_0,6685_0,3.2 Å
-4143,9qfw,G,9qfw_G,Cofilin-1,6685_0,6685_0,3.2 Å
-4127,9qfw,F,9qfw_F,Cofilin-1,6685_21,6685_21,3.2 Å
-4128,9qfw,H,9qfw_H,Cofilin-1,6685_0,6685_0,3.2 Å
-4108,9qfw,G,9qfw_G,Cofilin-1,6685_21,6685_21,3.2 Å
-4109,9qfw,I,9qfw_I,Cofilin-1,6685_0,6685_0,3.2 Å
-4110,9qfw,P,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,3.2 Å
-4090,9qfw,H,9qfw_H,Cofilin-1,6685_21,6685_21,3.2 Å
-4091,9qfw,J,9qfw_J,Cofilin-1,6685_0,6685_0,3.2 Å
-4092,9qfw,P,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_267,6685_267,3.2 Å
-4093,9qfw,Q,9qfw_Q,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,3.2 Å
-1558,9q7k,a,9q7k_a,Cofilin-2,6685_0,6685_0,3.1 Å
-1541,9q7k,b,9q7k_b,Cofilin-2,6685_0,6685_0,3.1 Å
-1521,9q7k,a,9q7k_a,Cofilin-2,6685_21,6685_21,3.1 Å
-1522,9q7k,c,9q7k_c,Cofilin-2,6685_0,6685_0,3.1 Å
-1503,9q7k,b,9q7k_b,Cofilin-2,6685_21,6685_21,3.1 Å
-1504,9q7k,d,9q7k_d,Cofilin-2,6685_0,6685_0,3.1 Å
-1484,9q7k,c,9q7k_c,Cofilin-2,6685_21,6685_21,3.1 Å
-1485,9q7k,e,9q7k_e,Cofilin-2,6685_0,6685_0,3.1 Å
-1469,9q7l,a,9q7l_a,Cofilin-2,6685_0,6685_0,3.7 Å
-1456,9q7l,b,9q7l_b,Cofilin-2,6685_0,6685_0,3.7 Å
-1439,9q7l,a,9q7l_a,Cofilin-2,6685_21,6685_21,3.7 Å
-1440,9q7l,c,9q7l_c,Cofilin-2,6685_0,6685_0,3.7 Å
-1426,9q7l,b,9q7l_b,Cofilin-2,6685_21,6685_21,3.7 Å
-1412,9q7l,c,9q7l_c,Cofilin-2,6685_21,6685_21,3.7 Å
-1396,9q7m,a,9q7m_a,Cofilin-2,6685_0,6685_0,3.5 Å
-1380,9q7m,b,9q7m_b,Cofilin-2,6685_0,6685_0,3.5 Å
-1358,9q7m,a,9q7m_a,Cofilin-2,6685_21,6685_21,3.5 Å
-1359,9q7m,c,9q7m_c,Cofilin-2,6685_0,6685_0,3.5 Å
-1338,9q7m,b,9q7m_b,Cofilin-2,6685_21,6685_21,3.5 Å
-1339,9q7m,d,9q7m_d,Cofilin-2,6685_0,6685_0,3.5 Å
-1320,9q7m,c,9q7m_c,Cofilin-2,6685_21,6685_21,3.5 Å
-1299,9q7n,a,9q7n_a,Cofilin-2,6685_0,6685_0,3.5 Å
-1278,9q7n,b,9q7n_b,Cofilin-2,6685_0,6685_0,3.5 Å
-1256,9q7n,a,9q7n_a,Cofilin-2,6685_21,6685_21,3.5 Å
-1257,9q7n,c,9q7n_c,Cofilin-2,6685_0,6685_0,3.5 Å
-1231,9q7n,b,9q7n_b,Cofilin-2,6685_21,6685_21,3.5 Å
-1232,9q7n,d,9q7n_d,Cofilin-2,6685_0,6685_0,3.5 Å
-1208,9q7n,c,9q7n_c,Cofilin-2,6685_21,6685_21,3.5 Å
-1209,9q7n,e,9q7n_e,Cofilin-2,6685_0,6685_0,3.5 Å
-1184,9q7o,W,9q7o_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.0 Å
-1091,9xye,W,9xye_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.2 Å
-1092,9xye,X,9xye_X,Adenylyl cyclase-associated protein 1,6685_276,6685_109,3.2 Å
-1076,9xye,X,9xye_X,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.2 Å
-1002,9y52,W,9y52_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.5 Å
-1003,9y52,a,9y52_a,Cofilin-2,6685_0,6685_0,3.5 Å
-987,9y52,b,9y52_b,Cofilin-2,6685_0,6685_0,3.5 Å
-970,9y52,a,9y52_a,Cofilin-2,6685_21,6685_21,3.5 Å
-971,9y52,c,9y52_c,Cofilin-2,6685_0,6685_0,3.5 Å
-952,9y52,b,9y52_b,Cofilin-2,6685_21,6685_21,3.5 Å
-953,9y52,d,9y52_d,Cofilin-2,6685_0,6685_0,3.5 Å
-931,9y52,c,9y52_c,Cofilin-2,6685_21,6685_21,3.5 Å
-932,9y52,e,9y52_e,Cofilin-2,6685_0,6685_0,3.5 Å
-910,9y9j,W,9y9j_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.6 Å
-911,9y9j,X,9y9j_X,Adenylyl cyclase-associated protein 1,6685_208,6685_1;6685_109;6685_274,3.6 Å
-912,9y9j,a,9y9j_a,Cofilin-2,6685_0,6685_0,3.6 Å
-890,9y9j,X,9y9j_X,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.6 Å
-891,9y9j,b,9y9j_b,Cofilin-2,6685_0,6685_0,3.6 Å
-874,9y9j,a,9y9j_a,Cofilin-2,6685_21,6685_21,3.6 Å
-875,9y9j,c,9y9j_c,Cofilin-2,6685_0,6685_0,3.6 Å
-857,9y9j,b,9y9j_b,Cofilin-2,6685_21,6685_21,3.6 Å
-858,9y9j,d,9y9j_d,Cofilin-2,6685_0,6685_0,3.6 Å
-836,9y9j,c,9y9j_c,Cofilin-2,6685_21,6685_21,3.6 Å
-837,9y9j,e,9y9j_e,Cofilin-2,6685_0,6685_0,3.6 Å
-818,9y9l,a,9y9l_a,Cofilin-2,6685_0,6685_0,3.1 Å
-802,9y9l,b,9y9l_b,Cofilin-2,6685_0,6685_0,3.1 Å
-782,9y9l,a,9y9l_a,Cofilin-2,6685_21,6685_21,3.1 Å
-783,9y9l,c,9y9l_c,Cofilin-2,6685_0,6685_0,3.1 Å
-764,9y9l,Y,9y9l_Y,F-actin-capping protein subunit alpha-1,6685_278,6685_4;6685_5,3.1 Å
-765,9y9l,b,9y9l_b,Cofilin-2,6685_21,6685_21,3.1 Å
-766,9y9l,d,9y9l_d,Cofilin-2,6685_0,6685_0,3.1 Å
-747,9y9l,Y,9y9l_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,3.1 Å
-748,9y9l,Z,9y9l_Z,F-actin-capping protein subunit beta,6685_170,6685_170,3.1 Å
-749,9y9l,c,9y9l_c,Cofilin-2,6685_21,6685_21,3.1 Å
-733,9y9m,a,9y9m_a,Cofilin-2,6685_0,6685_0,3.1 Å
-719,9y9m,b,9y9m_b,Cofilin-2,6685_0,6685_0,3.1 Å
-700,9y9m,a,9y9m_a,Cofilin-2,6685_21,6685_21,3.1 Å
-701,9y9m,c,9y9m_c,Cofilin-2,6685_0,6685_0,3.1 Å
-677,9y9m,Y,9y9m_Y,F-actin-capping protein subunit alpha-1,6685_92,6685_92,3.1 Å
-678,9y9m,Z,9y9m_Z,F-actin-capping protein subunit beta,6685_279,6685_5,3.1 Å
-679,9y9m,b,9y9m_b,Cofilin-2,6685_21,6685_21,3.1 Å
-658,9y9m,Y,9y9m_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,3.1 Å
-659,9y9m,Z,9y9m_Z,F-actin-capping protein subunit beta,6685_170,6685_170,3.1 Å
-660,9y9m,c,9y9m_c,Cofilin-2,6685_21,6685_21,3.1 Å
-641,9y9p,a,9y9p_a,Cofilin-2,6685_0,6685_0,2.1 Å
-624,9y9p,b,9y9p_b,Cofilin-2,6685_0,6685_0,2.1 Å
-608,9y9p,a,9y9p_a,Cofilin-2,6685_21,6685_21,2.1 Å
-609,9y9p,c,9y9p_c,Cofilin-2,6685_0,6685_0,2.1 Å
-588,9y9p,b,9y9p_b,Cofilin-2,6685_21,6685_21,2.1 Å
-589,9y9p,d,9y9p_d,Cofilin-2,6685_0,6685_0,2.1 Å
-573,9y9p,c,9y9p_c,Cofilin-2,6685_21,6685_21,2.1 Å
-574,9y9p,e,9y9p_e,Cofilin-2,6685_0,6685_0,2.1 Å
-920,9yim,Y,9yim_Y,F-actin-capping protein subunit alpha-1,6685_92,6685_92,2.6 Å
-921,9yim,Z,9yim_Z,F-actin-capping protein subunit beta,6685_169,6685_169,2.6 Å
-897,9yim,Y,9yim_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,2.6 Å
-898,9yim,Z,9yim_Z,F-actin-capping protein subunit beta,6685_170,6685_170,2.6 Å
-3735,9zzj,L,9zzj_L,Leiomodin-2,6685_282,6685_282,3.3 Å
-3717,9zzj,L,9zzj_L,Leiomodin-2,6685_164,6685_164,3.3 Å
-3704,9zzj,L,9zzj_L,Leiomodin-2,6685_59,6685_258,3.3 Å
-3661,9zzm,L,9zzm_L,Leiomodin-2,6685_84,6685_164,3.6 Å
-3662,9zzm,M,9zzm_M,Leiomodin-2,6685_282,6685_282,3.6 Å
-3645,9zzm,L,9zzm_L,Leiomodin-2,6685_59,6685_258,3.6 Å
-3646,9zzm,M,9zzm_M,Leiomodin-2,6685_84,6685_164,3.6 Å
-3623,9zzm,M,9zzm_M,Leiomodin-2,6685_59,6685_258,3.6 Å
-357,12bw,I,12bw_I,Gelsolin,6685_0,6685_0,2.9 Å
-321,12bw,I,12bw_I,Gelsolin,6685_286,6685_233,2.9 Å
-3526,12bx,I,12bx_I,Gelsolin,6685_0,6685_0,3.0 Å
-3466,12bx,I,12bx_I,Gelsolin,6685_286,6685_233,3.0 Å
-218,12by,I,12by_I,Gelsolin,6685_231,6685_231,2.8 Å
-185,12by,I,12by_I,Gelsolin,6685_287,6685_233,2.8 Å
-3334,12bz,I,12bz_I,Gelsolin,6685_231,6685_231,3.4 Å
-3315,12bz,J,12bz_J,Gelsolin,6685_102,6685_102,3.4 Å
-3294,12bz,I,12bz_I,Gelsolin,6685_287,6685_233,3.4 Å
-3274,12bz,J,12bz_J,Gelsolin,6685_287,6685_233,3.4 Å
-1201,5jlh,G,5jlh_G,"Myosin-14,Alpha-actinin A",6685_6,6685_6,3.9 Å
-1177,5jlh,G,5jlh_G,"Myosin-14,Alpha-actinin A",6685_80,6685_141;6685_233;6685_29;6685_33;6685_51,3.9 Å
-3335,6c1d,P,6c1d_P,Unconventional myosin-Ib,6685_6,6685_6,3.2 Å
-3391,6c1d,P,6c1d_P,Unconventional myosin-Ib,6685_33,6685_33,3.2 Å
-3113,5yu8,H,5yu8_H,Cofilin-2,6685_21,6685_21,3.8 Å
-3158,5yu8,I,5yu8_I,Cofilin-2,6685_21,6685_21,3.8 Å
-3137,5yu8,H,5yu8_H,Cofilin-2,6685_0,6685_0,3.8 Å
-3136,5yu8,J,5yu8_J,Cofilin-2,6685_21,6685_21,3.8 Å
-3197,5yu8,I,5yu8_I,Cofilin-2,6685_0,6685_0,3.8 Å
-3178,5yu8,J,5yu8_J,Cofilin-2,6685_0,6685_0,3.8 Å
-3901,6vao,G,6vao_G,Cofilin-1,6685_0,6685_0,3.4 Å
-1849,6upv,L,6upv_L,Catenin alpha-1,6685_16,6685_141,3.2 Å
-1867,6upv,L,6upv_L,Catenin alpha-1,6685_0,6685_0,3.2 Å
-1868,6upv,M,6upv_M,Catenin alpha-1,6685_16,6685_141,3.2 Å
-1817,6upv,M,6upv_M,Catenin alpha-1,6685_0,6685_0,3.2 Å
-2817,7jh7,F,7jh7_F,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.8 Å
-3536,7pdz,E,7pdz_E,Isoform 2 of F-actin-capping protein subunit beta,6685_89,6685_89,3.8 Å
-3517,7pdz,E,7pdz_E,Isoform 2 of F-actin-capping protein subunit beta,6685_90,6685_5,3.8 Å
-3537,7pdz,F,7pdz_F,F-actin-capping protein subunit alpha-1,6685_91,6685_91,3.8 Å
-3518,7pdz,F,7pdz_F,F-actin-capping protein subunit alpha-1,6685_92,6685_92,3.8 Å
-2123,7p1g,K,7p1g_K,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
-2121,7p1g,M,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-2103,7p1g,L,7p1g_L,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
-2141,7p1g,M,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
-2083,7p1g,N,7p1g_N,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
-2065,7p1g,O,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
-1397,7tpt,A,7tpt_A,Actin-related protein 3,6685_3,6685_3,3.9 Å
-1233,7tpt,A,7tpt_A,Actin-related protein 3,6685_106,6685_106,3.9 Å
-1210,7tpt,A,7tpt_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.9 Å
-1185,7tpt,A,7tpt_A,Actin-related protein 3,6685_108,6685_164;6685_179;6685_191;6685_233,3.9 Å
-1398,7tpt,B,7tpt_B,Actin-related protein 2,6685_109,6685_109,3.9 Å
-1381,7tpt,B,7tpt_B,Actin-related protein 2,6685_3,6685_3,3.9 Å
-1234,7tpt,C,7tpt_C,Actin-related protein 2/3 complex subunit 1B,6685_15,6685_0;6685_6,3.9 Å
-1211,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_110,6685_157;6685_259,3.9 Å
-1186,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,3.9 Å
-1165,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.9 Å
-1279,7tpt,E,7tpt_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.9 Å
-1187,7tpt,F,7tpt_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.9 Å
-1094,7z7h,F,7z7h_F,"Maltose/maltodextrin-binding periplasmic protein,TccC3",6685_119,6685_141;6685_65,3.8 Å
-2717,8efi,M,8efi_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.4 Å
-2623,8efi,M,8efi_M,Myosin-7,6685_6,6685_6,3.4 Å
-2602,8enc,M,8enc_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.6 Å
-2530,8enc,M,8enc_M,Myosin-7,6685_6,6685_6,3.6 Å
-2367,8efh,A,8efh_A,beta-cardiac myosin II,6685_140,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.3 Å
-2386,8efh,A,8efh_A,beta-cardiac myosin II,6685_97,6685_97,3.3 Å
-386,8e9b,A,8e9b_A,Actin-related protein 3,6685_3,6685_3,3.5 Å
-452,8e9b,A,8e9b_A,Actin-related protein 3,6685_142,6685_106,3.5 Å
-436,8e9b,A,8e9b_A,Actin-related protein 3,6685_143,6685_156;6685_180,3.5 Å
-387,8e9b,B,8e9b_B,Actin-related protein 2,6685_109,6685_109,3.5 Å
-372,8e9b,B,8e9b_B,Actin-related protein 2,6685_3,6685_3,3.5 Å
-453,8e9b,C,8e9b_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,3.5 Å
-419,8e9b,C,8e9b_C,Actin-related protein 2/3 complex subunit 1,6685_145,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.5 Å
-454,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_146,6685_183,3.5 Å
-420,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_147,6685_111;6685_164,3.5 Å
-401,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.5 Å
-485,8e9b,E,8e9b_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.5 Å
-421,8e9b,F,8e9b_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.5 Å
-2809,8iah,0,8iah_0,Adducin 1,6685_150,6685_150,3.6 Å
-2887,8iah,1,8iah_1,Adducin 1,6685_151,6685_151,3.6 Å
-2838,8iah,1,8iah_1,Adducin 1,6685_152,6685_152,3.6 Å
-2810,8iah,1,8iah_1,Adducin 1,6685_153,6685_180;6685_267,3.6 Å
-2811,8iah,2,8iah_2,Adducin 1,6685_154,6685_154,3.6 Å
-2866,8iah,3,8iah_3,Beta-adducin,6685_155,6685_155,3.6 Å
-2839,8iah,3,8iah_3,Beta-adducin,6685_156,6685_156,3.6 Å
-2812,8iah,3,8iah_3,Beta-adducin,6685_152,6685_152,3.6 Å
-2813,8iah,4,8iah_4,Beta-adducin,6685_157,6685_157,3.6 Å
-3031,8iah,5,8iah_5,Dematin actin binding protein,6685_158,6685_158,3.6 Å
-3010,8iah,5,8iah_5,Dematin actin binding protein,6685_159,6685_159,3.6 Å
-2983,8iah,5,8iah_5,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
-2984,8iah,6,8iah_6,Dematin actin binding protein,6685_158,6685_158,3.6 Å
-2957,8iah,6,8iah_6,Dematin actin binding protein,6685_159,6685_159,3.6 Å
-2930,8iah,6,8iah_6,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
-2931,8iah,7,8iah_7,Dematin actin binding protein,6685_158,6685_158,3.6 Å
-2909,8iah,7,8iah_7,Dematin actin binding protein,6685_159,6685_159,3.6 Å
-2888,8iah,7,8iah_7,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
-2840,8iah,9,8iah_9,Beta-adducin,6685_150,6685_150,3.6 Å
-2595,8iai,1,8iai_1,Adducin 1,6685_151,6685_151,3.5 Å
-2561,8iai,1,8iai_1,Adducin 1,6685_152,6685_152,3.5 Å
-2578,8iai,3,8iai_3,Beta-adducin,6685_151,6685_151,3.5 Å
-2562,8iai,3,8iai_3,Beta-adducin,6685_166,6685_166,3.5 Å
-2737,8iai,5,8iai_5,Dematin actin binding protein,6685_158,6685_158,3.5 Å
-2710,8iai,5,8iai_5,Dematin actin binding protein,6685_159,6685_159,3.5 Å
-2682,8iai,5,8iai_5,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
-2683,8iai,6,8iai_6,Dematin actin binding protein,6685_158,6685_158,3.5 Å
-2658,8iai,6,8iai_6,Dematin actin binding protein,6685_159,6685_159,3.5 Å
-2637,8iai,6,8iai_6,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
-2638,8iai,7,8iai_7,Dematin actin binding protein,6685_158,6685_158,3.5 Å
-2616,8iai,7,8iai_7,Dematin actin binding protein,6685_159,6685_159,3.5 Å
-2596,8iai,7,8iai_7,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
-2563,8iai,9,8iai_9,Adducin 1,6685_150,6685_150,3.5 Å
-3151,8ib2,5,8ib2_5,Dematin actin binding protein,6685_167,6685_106;6685_155;6685_162;6685_164;6685_184;6685_250;6685_257,3.8 Å
-3129,8ib2,5,8ib2_5,Dematin actin binding protein,6685_168,6685_168,3.8 Å
-2439,8p94,A,8p94_A,Actin-related protein 3,6685_3,6685_3,3.3 Å
-2359,8p94,A,8p94_A,Actin-related protein 3,6685_106,6685_106,3.3 Å
-2339,8p94,A,8p94_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.3 Å
-2318,8p94,A,8p94_A,Actin-related protein 3,6685_182,6685_164;6685_233,3.3 Å
-2440,8p94,B,8p94_B,Actin-related protein 2,6685_109,6685_109,3.3 Å
-2417,8p94,B,8p94_B,Actin-related protein 2,6685_3,6685_3,3.3 Å
-2360,8p94,C,8p94_C,Actin-related protein 2/3 complex subunit 1B,6685_144,6685_144,3.3 Å
-2319,8p94,C,8p94_C,Actin-related protein 2/3 complex subunit 1B,6685_145,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.3 Å
-2361,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_183,6685_183,3.3 Å
-2320,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_184,6685_184,3.3 Å
-2301,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_168,6685_168,3.3 Å
-2402,8p94,E,8p94_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.3 Å
-2362,8p94,E,8p94_E,Actin-related protein 2/3 complex subunit 3,6685_185,6685_114;6685_141;6685_162;6685_260,3.3 Å
-2321,8p94,F,8p94_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.3 Å
-2441,8p94,G,8p94_G,Actin-related protein 2/3 complex subunit 5-like protein,6685_186,6685_164;6685_179;6685_233;6685_261,3.3 Å
-2443,8p94,I,8p94_I,Src substrate cortactin,6685_188,6685_188,3.3 Å
-2287,8p94,U,8p94_U,F-actin-capping protein subunit alpha-1,6685_91,6685_91,3.3 Å
-2288,8p94,V,8p94_V,Isoform 2 of F-actin-capping protein subunit beta,6685_89,6685_89,3.3 Å
-3691,8uxw,A,8uxw_A,Actin-related protein 3,6685_3,6685_3,2.7 Å
-3626,8uxw,A,8uxw_A,Actin-related protein 3,6685_142,6685_106,2.7 Å
-3610,8uxw,A,8uxw_A,Actin-related protein 3,6685_107,6685_156;6685_180,2.7 Å
-3692,8uxw,B,8uxw_B,Actin-related protein 2,6685_109,6685_109,2.7 Å
-3678,8uxw,B,8uxw_B,Actin-related protein 2,6685_3,6685_3,2.7 Å
-3627,8uxw,C,8uxw_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,2.7 Å
-3596,8uxw,C,8uxw_C,Actin-related protein 2/3 complex subunit 1,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,2.7 Å
-3628,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_146,6685_183,2.7 Å
-3597,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,2.7 Å
-3582,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,2.7 Å
-3664,8uxw,E,8uxw_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,2.7 Å
-3629,8uxw,E,8uxw_E,Actin-related protein 2/3 complex subunit 3,6685_194,6685_141;6685_250,2.7 Å
-3598,8uxw,F,8uxw_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,2.7 Å
-3563,8uxx,A,8uxx_A,Actin-related protein 3,6685_3,6685_3,3.2 Å
-3470,8uxx,A,8uxx_A,Actin-related protein 3,6685_142,6685_106,3.2 Å
-3442,8uxx,A,8uxx_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.2 Å
-3564,8uxx,B,8uxx_B,Actin-related protein 2,6685_109,6685_109,3.2 Å
-3547,8uxx,B,8uxx_B,Actin-related protein 2,6685_3,6685_3,3.2 Å
-3471,8uxx,C,8uxx_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,3.2 Å
-3416,8uxx,C,8uxx_C,Actin-related protein 2/3 complex subunit 1,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.2 Å
-3472,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_195,6685_183,3.2 Å
-3417,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,3.2 Å
-3395,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.2 Å
-3529,8uxx,E,8uxx_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.2 Å
-3473,8uxx,E,8uxx_E,Actin-related protein 2/3 complex subunit 3,6685_194,6685_141;6685_250,3.2 Å
-3418,8uxx,F,8uxx_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.2 Å
-1973,9azp,G,9azp_G,Inverted formin-2,6685_215,6685_215,3.8 Å
-1974,9azp,H,9azp_H,Inverted formin-2,6685_26,6685_164,3.8 Å
-1859,9azq,H,9azq_H,Inverted formin-2,6685_217,6685_164;6685_202,3.8 Å
-3095,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
-3068,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
-2997,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
-2969,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
-3116,8vfm,B,8vfm_B,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
-2945,8vfm,B,8vfm_B,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
-3117,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
-3069,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
-2998,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
-2970,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
-3096,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
-3043,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
-3022,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
-3134,9gob,F,9gob_F,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.2 Å
-3018,9hm9,F,9hm9_F,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.4 Å
-2185,8zb7,K,8zb7_K,Myosin-7,6685_6,6685_6,3.2 Å
-2277,8zb7,M,8zb7_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_3;6685_33;6685_51;6685_65,3.2 Å
-2203,8zb7,M,8zb7_M,Myosin-7,6685_6,6685_6,3.2 Å
-348,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
-330,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
-309,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
-4677,9qfg,H,9qfg_H,Cofilin-1,6685_21,6685_21,3.5 Å
-4678,9qfg,I,9qfg_I,Cofilin-1,6685_0,6685_0,3.5 Å
-4679,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_265,6685_180;6685_262;6685_267,3.5 Å
-4657,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
-4658,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
-4634,9qfg,I,9qfg_I,Cofilin-1,6685_21,6685_21,3.5 Å
-4637,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
-4635,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
-4636,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_265,6685_180;6685_262;6685_267,3.5 Å
-4617,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
-4615,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
-4616,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
-4596,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
-4597,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
-4594,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
-4595,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
-4575,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
-4576,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
-4574,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
-4561,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
-4560,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
-4545,9qfj,G,9qfj_G,Cofilin-1,6685_0,6685_0,2.3 Å
-4530,9qfj,F,9qfj_F,Cofilin-1,6685_21,6685_21,2.3 Å
-4531,9qfj,H,9qfj_H,Cofilin-1,6685_0,6685_0,2.3 Å
-4514,9qfj,G,9qfj_G,Cofilin-1,6685_21,6685_21,2.3 Å
-4515,9qfj,I,9qfj_I,Cofilin-1,6685_0,6685_0,2.3 Å
-4498,9qfj,H,9qfj_H,Cofilin-1,6685_21,6685_21,2.3 Å
-4499,9qfj,J,9qfj_J,Cofilin-1,6685_0,6685_0,2.3 Å
-4481,9qfj,I,9qfj_I,Cofilin-1,6685_21,6685_21,2.3 Å
-4324,9qfo,G,9qfo_G,Cofilin-1,6685_0,6685_0,3.0 Å
-4307,9qfo,H,9qfo_H,Cofilin-1,6685_0,6685_0,3.0 Å
-4289,9qfo,G,9qfo_G,Cofilin-1,6685_21,6685_21,3.0 Å
-4290,9qfo,I,9qfo_I,Cofilin-1,6685_0,6685_0,3.0 Å
-4274,9qfo,H,9qfo_H,Cofilin-1,6685_21,6685_21,3.0 Å
-4275,9qfo,J,9qfo_J,Cofilin-1,6685_0,6685_0,3.0 Å
-4258,9qfo,I,9qfo_I,Cofilin-1,6685_21,6685_21,3.0 Å
-4243,9qfo,J,9qfo_J,Cofilin-1,6685_21,6685_21,3.0 Å
-4230,9qfq,F,9qfq_F,Cofilin-1,6685_0,6685_0,2.8 Å
-4219,9qfq,G,9qfq_G,Cofilin-1,6685_0,6685_0,2.8 Å
-4205,9qfq,F,9qfq_F,Cofilin-1,6685_21,6685_21,2.8 Å
-4206,9qfq,H,9qfq_H,Cofilin-1,6685_0,6685_0,2.8 Å
-4188,9qfq,G,9qfq_G,Cofilin-1,6685_21,6685_21,2.8 Å
-4189,9qfq,I,9qfq_I,Cofilin-1,6685_0,6685_0,2.8 Å
-4190,9qfq,P,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,2.8 Å
-4170,9qfq,H,9qfq_H,Cofilin-1,6685_21,6685_21,2.8 Å
-4171,9qfq,J,9qfq_J,Cofilin-1,6685_0,6685_0,2.8 Å
-4172,9qfq,P,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_267,6685_267,2.8 Å
-518,9qgk,A,9qgk_A,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
-504,9qgk,A,9qgk_A,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
-556,9qgk,B,9qgk_B,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
-488,9qgk,B,9qgk_B,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
-540,9qgk,C,9qgk_C,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
-519,9qgk,C,9qgk_C,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
-489,9qgk,D,9qgk_D,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
-541,9qgk,E,9qgk_E,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
-3579,9zzm,L,9zzm_L,Leiomodin-2,6685_282,6685_282,3.6 Å
-3580,9zzm,M,9zzm_M,Leiomodin-2,6685_285,6685_285,3.6 Å
+2296,5jlh,F,5jlh_F,"Myosin-14,Alpha-actinin A",6685_6,6685_6,3.9 Å
+2308,5jlh,F,5jlh_F,"Myosin-14,Alpha-actinin A",6685_80,6685_141;6685_233;6685_29;6685_33;6685_51,3.9 Å
+4522,6c1g,P,6c1g_P,Unconventional myosin-Ib,6685_6,6685_6,3.8 Å
+4448,6c1g,P,6c1g_P,Unconventional myosin-Ib,6685_33,6685_33,3.8 Å
+3654,6d8c,A,6d8c_A,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
+3715,6d8c,A,6d8c_A,Filamin-A,6685_16,6685_141,3.5 Å
+3686,6d8c,B,6d8c_B,Filamin-A,6685_16,6685_141,3.5 Å
+3687,6d8c,C,6d8c_C,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
+3761,6d8c,C,6d8c_C,Filamin-A,6685_16,6685_141,3.5 Å
+3653,6d8c,D,6d8c_D,Filamin-A,6685_16,6685_141,3.5 Å
+3737,6d8c,D,6d8c_D,Filamin-A,6685_15,6685_0;6685_6,3.5 Å
+3738,6d8c,E,6d8c_E,Filamin-A,6685_16,6685_141,3.5 Å
+1095,6vao,J,6vao_J,Cofilin-1,6685_21,6685_21,3.4 Å
+1123,6vao,H,6vao_H,Cofilin-1,6685_0,6685_0,3.4 Å
+1122,6vao,I,6vao_I,Cofilin-1,6685_21,6685_21,3.4 Å
+1173,6vao,G,6vao_G,Cofilin-1,6685_21,6685_21,3.4 Å
+1149,6vao,F,6vao_F,Cofilin-1,6685_21,6685_21,3.4 Å
+1152,6vao,I,6vao_I,Cofilin-1,6685_0,6685_0,3.4 Å
+1196,6vao,J,6vao_J,Cofilin-1,6685_0,6685_0,3.4 Å
+2833,6upw,L,6upw_L,Vinculin,6685_51,6685_51,2.9 Å
+2881,6upw,L,6upw_L,Vinculin,6685_6,6685_6,2.9 Å
+2880,6upw,M,6upw_M,Vinculin,6685_51,6685_51,2.9 Å
+2809,6upw,M,6upw_M,Vinculin,6685_6,6685_6,2.9 Å
+641,6vec,a,6vec_a,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
+642,6vec,e,6vec_e,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+613,6vec,b,6vec_b,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
+614,6vec,c,6vec_c,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+580,6vec,c,6vec_c,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+581,6vec,g,6vec_g,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+550,6vec,a,6vec_a,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+551,6vec,d,6vec_d,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+522,6vec,e,6vec_e,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
+523,6vec,i,6vec_i,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+498,6vec,b,6vec_b,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+499,6vec,f,6vec_f,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+482,6vec,g,6vec_g,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+483,6vec,k,6vec_k,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+461,6vec,d,6vec_d,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+462,6vec,h,6vec_h,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+442,6vec,i,6vec_i,Epididymis secretory protein Li 37,6685_29,6685_29,3.9 Å
+423,6vec,f,6vec_f,Epididymis secretory protein Li 37,6685_15,6685_0;6685_6,3.9 Å
+424,6vec,j,6vec_j,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+406,6vec,k,6vec_k,Epididymis secretory protein Li 37,6685_16,6685_141,3.9 Å
+2935,7aln,F,7aln_F,Myosin-A,6685_6,6685_6,3.8 Å
+2894,7aln,F,7aln_F,Myosin-A,6685_69,6685_141;6685_233;6685_29;6685_51,3.8 Å
+2711,6c1h,P,6c1h_P,Unconventional myosin-Ib,6685_6,6685_6,3.9 Å
+2663,6c1h,P,6c1h_P,Unconventional myosin-Ib,6685_33,6685_33,3.9 Å
+4053,7jh7,G,7jh7_G,Myosin-7,6685_6,6685_6,3.8 Å
+4035,7jh7,H,7jh7_H,Myosin-7,6685_6,6685_6,3.8 Å
+4074,7jh7,F,7jh7_F,Myosin-7,6685_18,6685_6,3.8 Å
+4077,7jh7,H,7jh7_H,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.8 Å
+100,6m5g,F,6m5g_F,Utrophin,6685_15,6685_0;6685_6,3.6 Å
+86,6m5g,H,6m5g_H,Utrophin,6685_15,6685_0;6685_6,3.6 Å
+114,6m5g,G,6m5g_G,Utrophin,6685_15,6685_0;6685_6,3.6 Å
+154,6m5g,G,6m5g_G,Utrophin,6685_16,6685_141,3.6 Å
+115,6m5g,H,6m5g_H,Utrophin,6685_16,6685_141,3.6 Å
+135,6m5g,F,6m5g_F,Utrophin,6685_16,6685_141,3.6 Å
+351,6wvt,N,6wvt_N,Catenin alpha-1,6685_16,6685_141,3.6 Å
+307,6wvt,K,6wvt_K,Catenin alpha-1,6685_0,6685_0,3.6 Å
+308,6wvt,O,6wvt_O,Catenin alpha-1,6685_16,6685_141,3.6 Å
+290,6wvt,O,6wvt_O,Catenin alpha-1,6685_0,6685_0,3.6 Å
+328,6wvt,K,6wvt_K,Catenin alpha-1,6685_16,6685_141,3.6 Å
+274,6wvt,Q,6wvt_Q,Catenin alpha-1,6685_16,6685_141,3.6 Å
+329,6wvt,L,6wvt_L,Catenin alpha-1,6685_0,6685_0,3.6 Å
+275,6wvt,X,6wvt_X,Catenin alpha-1,6685_0,6685_0,3.6 Å
+255,6wvt,N,6wvt_N,Catenin alpha-1,6685_0,6685_0,3.6 Å
+256,6wvt,X,6wvt_X,Catenin alpha-1,6685_16,6685_141,3.6 Å
+4503,7p1g,O,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+3241,7z7h,F,7z7h_F,"Maltose/maltodextrin-binding periplasmic protein,TccC3",6685_120,6685_120,3.8 Å
+2998,7r94,F,7r94_F,Plastin-3,6685_29,6685_29,2.6 Å
+3017,7r94,H,7r94_H,Plastin-3,6685_29,6685_29,2.6 Å
+3039,7r94,F,7r94_F,Plastin-3,6685_121,6685_121,2.6 Å
+3040,7r94,G,7r94_G,Plastin-3,6685_29,6685_29,2.6 Å
+2978,7r94,H,7r94_H,Plastin-3,6685_121,6685_121,2.6 Å
+2953,7r94,G,7r94_G,Plastin-3,6685_121,6685_121,2.6 Å
+3969,8efi,P,8efi_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.4 Å
+3945,8efi,P,8efi_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.4 Å
+3888,8efi,O,8efi_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.4 Å
+3867,8enc,P,8enc_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.6 Å
+3848,8enc,P,8enc_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.6 Å
+3782,8enc,O,8enc_O,Tropomyosin alpha-1 chain,6685_128,6685_128,3.6 Å
+3756,8dd0,I,8dd0_I,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
+3757,8dd0,K,8dd0_K,"Troponin T2, cardiac type",6685_136,6685_152;6685_164;6685_233;6685_3,3.5 Å
+3733,8dd0,N,8dd0_N,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
+3734,8dd0,P,8dd0_P,"Troponin T2, cardiac type",6685_136,6685_152;6685_164;6685_233;6685_3,3.5 Å
+3710,8dd0,G,8dd0_G,Tropomyosin alpha-1 chain,6685_137,6685_162,3.5 Å
+3711,8dd0,J,8dd0_J,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
+3712,8dd0,K,8dd0_K,"Troponin T2, cardiac type",6685_138,6685_138,3.5 Å
+3680,8dd0,L,8dd0_L,Tropomyosin alpha-1 chain,6685_137,6685_162,3.5 Å
+3681,8dd0,O,8dd0_O,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,3.5 Å
+3682,8dd0,P,8dd0_P,"Troponin T2, cardiac type",6685_138,6685_138,3.5 Å
+3648,8dd0,G,8dd0_G,Tropomyosin alpha-1 chain,6685_139,6685_139,3.5 Å
+3628,8dd0,L,8dd0_L,Tropomyosin alpha-1 chain,6685_139,6685_139,3.5 Å
+3586,8efh,P,8efh_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.3 Å
+3556,8efh,P,8efh_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.3 Å
+3611,8efh,O,8efh_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.3 Å
+2140,7uuw,H,7uuw_H,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
+2125,7uuw,G,7uuw_G,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
+2126,7uuw,I,7uuw_I,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
+2108,7uuw,H,7uuw_H,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
+2109,7uuw,Z,7uuw_Z,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
+2088,7uuw,I,7uuw_I,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
+2089,7uuw,K,7uuw_K,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
+2070,7uuw,L,7uuw_L,Alpha-catenin-like protein hmp-1,6685_141,6685_141,3.4 Å
+2071,7uuw,Z,7uuw_Z,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
+2051,7uuw,K,7uuw_K,Alpha-catenin-like protein hmp-1,6685_0,6685_0,3.4 Å
+2029,7utj,H,7utj_H,Catenin alpha-1,6685_141,6685_141,2.8 Å
+2010,7utj,G,7utj_G,Catenin alpha-1,6685_102,6685_102,2.8 Å
+2011,7utj,I,7utj_I,Catenin alpha-1,6685_141,6685_141,2.8 Å
+1985,7utj,H,7utj_H,Catenin alpha-1,6685_102,6685_102,2.8 Å
+1986,7utj,Z,7utj_Z,Catenin alpha-1,6685_141,6685_141,2.8 Å
+1961,7utj,I,7utj_I,Catenin alpha-1,6685_102,6685_102,2.8 Å
+1962,7utj,K,7utj_K,Catenin alpha-1,6685_141,6685_141,2.8 Å
+1938,7utj,L,7utj_L,Catenin alpha-1,6685_141,6685_141,2.8 Å
+1939,7utj,Z,7utj_Z,Catenin alpha-1,6685_102,6685_102,2.8 Å
+1923,7utj,K,7utj_K,Catenin alpha-1,6685_102,6685_102,2.8 Å
+4291,8iah,M,8iah_M,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4292,8iah,U,8iah_U,Tropomyosin-1.9,6685_161,6685_161,3.6 Å
+4293,8iah,Y,8iah_Y,Tropomodulin-1,6685_162,6685_162,3.6 Å
+4272,8iah,N,8iah_N,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4273,8iah,Y,8iah_Y,Tropomodulin-1,6685_164,6685_164,3.6 Å
+4253,8iah,M,8iah_M,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4254,8iah,O,8iah_O,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4255,8iah,Y,8iah_Y,Tropomodulin-1,6685_59,6685_258,3.6 Å
+4231,8iah,N,8iah_N,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4232,8iah,P,8iah_P,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4208,8iah,O,8iah_O,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4209,8iah,Q,8iah_Q,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4184,8iah,P,8iah_P,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4185,8iah,R,8iah_R,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4162,8iah,Q,8iah_Q,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4163,8iah,S,8iah_S,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4142,8iah,R,8iah_R,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4143,8iah,T,8iah_T,Spectrin beta chain,6685_121,6685_121,3.6 Å
+4124,8iah,S,8iah_S,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4100,8iah,T,8iah_T,Spectrin beta chain,6685_141,6685_141,3.6 Å
+4030,8iai,M,8iai_M,Spectrin beta chain,6685_121,6685_121,3.5 Å
+4031,8iai,U,8iai_U,Tropomyosin-1.9,6685_161,6685_161,3.5 Å
+4032,8iai,Y,8iai_Y,Tropomodulin-1,6685_162,6685_162,3.5 Å
+4011,8iai,N,8iai_N,Spectrin beta chain,6685_121,6685_121,3.5 Å
+4012,8iai,Y,8iai_Y,Tropomodulin-1,6685_164,6685_164,3.5 Å
+3990,8iai,M,8iai_M,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3991,8iai,O,8iai_O,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3992,8iai,Y,8iai_Y,Tropomodulin-1,6685_59,6685_258,3.5 Å
+3964,8iai,N,8iai_N,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3965,8iai,P,8iai_P,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3941,8iai,O,8iai_O,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3942,8iai,Q,8iai_Q,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3920,8iai,P,8iai_P,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3921,8iai,R,8iai_R,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3902,8iai,Q,8iai_Q,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3903,8iai,S,8iai_S,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3881,8iai,R,8iai_R,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3882,8iai,T,8iai_T,Spectrin beta chain,6685_121,6685_121,3.5 Å
+3863,8iai,S,8iai_S,Spectrin beta chain,6685_141,6685_141,3.5 Å
+3845,8iai,T,8iai_T,Spectrin beta chain,6685_141,6685_141,3.5 Å
+1637,8f8q,G,8f8q_G,F-actin-capping protein subunit alpha-1,6685_92,6685_92,2.8 Å
+1638,8f8q,H,8f8q_H,F-actin-capping protein subunit beta,6685_169,6685_169,2.8 Å
+1617,8f8q,G,8f8q_G,F-actin-capping protein subunit alpha-1,6685_68,6685_91,2.8 Å
+1618,8f8q,H,8f8q_H,F-actin-capping protein subunit beta,6685_170,6685_170,2.8 Å
+1348,8f8t,T,8f8t_T,Tropomodulin-1,6685_162,6685_162,3.3 Å
+1327,8f8t,T,8f8t_T,Tropomodulin-1,6685_164,6685_164,3.3 Å
+1304,8f8t,T,8f8t_T,Tropomodulin-1,6685_59,6685_258,3.3 Å
+1081,8uee,A,8uee_A,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
+1037,8uee,A,8uee_A,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
+1016,8uee,A,8uee_A,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
+995,8uee,A,8uee_A,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
+1035,8uee,B,8uee_B,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
+1015,8uee,B,8uee_B,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
+994,8uee,B,8uee_B,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
+1138,8uee,C,8uee_C,Cell invasion protein SipA,6685_154,6685_154,3.2 Å
+1109,8uee,C,8uee_C,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
+1079,8uee,C,8uee_C,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
+1057,8uee,C,8uee_C,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
+1036,8uee,C,8uee_C,Cell invasion protein SipA,6685_181,6685_112;6685_180,3.2 Å
+1139,8uee,D,8uee_D,Cell invasion protein SipA,6685_178,6685_178,3.2 Å
+1110,8uee,D,8uee_D,Cell invasion protein SipA,6685_180,6685_180,3.2 Å
+1080,8uee,D,8uee_D,Cell invasion protein SipA,6685_181,6685_112;6685_180,3.2 Å
+1058,8uee,D,8uee_D,Cell invasion protein SipA,6685_179,6685_179,3.2 Å
+3700,8p94,I,8p94_I,Src substrate cortactin,6685_187,6685_187,3.3 Å
+3703,8p94,U,8p94_U,F-actin-capping protein subunit alpha-1,6685_14,6685_14,3.3 Å
+3704,8p94,V,8p94_V,Isoform 2 of F-actin-capping protein subunit beta,6685_169,6685_169,3.3 Å
+1192,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
+1193,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
+1171,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
+1172,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
+1146,8c4c,M,8c4c_M,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
+1147,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
+1117,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
+1118,8c4c,N,8c4c_N,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
+1088,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
+1089,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_190,6685_190,2.7 Å
+1065,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
+1066,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_189,6685_180,2.7 Å
+1042,8c4c,K,8c4c_K,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
+1043,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_191,6685_191,2.7 Å
+1020,8c4c,L,8c4c_L,Cell invasion protein SipA,6685_192,6685_112,2.7 Å
+999,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
+1000,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
+979,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
+980,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
+952,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_154,6685_154,2.6 Å
+953,8c4e,M,8c4e_M,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
+954,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
+934,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
+935,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_154,6685_154,2.6 Å
+936,8c4e,N,8c4e_N,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
+916,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
+917,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_178,6685_178,2.6 Å
+898,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
+899,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_180,6685_180,2.6 Å
+880,8c4e,K,8c4e_K,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
+881,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_191,6685_191,2.6 Å
+862,8c4e,L,8c4e_L,Cell invasion protein SipA,6685_192,6685_112,2.6 Å
+4552,9az4,G,9az4_G,Inverted formin-2,6685_0,6685_0,3.4 Å
+4530,9az4,H,9az4_H,Inverted formin-2,6685_0,6685_0,3.4 Å
+4509,9az4,G,9az4_G,Inverted formin-2,6685_209,6685_250;6685_51,3.4 Å
+4481,9az4,G,9az4_G,Inverted formin-2,6685_200,6685_200,3.4 Å
+4482,9az4,H,9az4_H,Inverted formin-2,6685_210,6685_164;6685_250,3.4 Å
+4459,9az4,G,9az4_G,Inverted formin-2,6685_202,6685_202,3.4 Å
+4460,9az4,H,9az4_H,Inverted formin-2,6685_211,6685_211,3.4 Å
+4389,9azp,G,9azp_G,Inverted formin-2,6685_212,6685_212,3.8 Å
+4365,9azp,G,9azp_G,Inverted formin-2,6685_213,6685_102;6685_200;6685_211,3.8 Å
+4366,9azp,H,9azp_H,Inverted formin-2,6685_214,6685_214,3.8 Å
+4344,9azp,H,9azp_H,Inverted formin-2,6685_211,6685_211,3.8 Å
+4323,9azp,J,9azp_J,Profilin-1,6685_5,6685_5,3.8 Å
+4224,9azq,H,9azq_H,Inverted formin-2,6685_214,6685_214,3.8 Å
+4200,9azq,H,9azq_H,Inverted formin-2,6685_200,6685_200,3.8 Å
+4155,9b03,H,9b03_H,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
+4136,9b03,G,9b03_G,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
+4116,9b03,G,9b03_G,Inverted formin-2,6685_219,6685_0;6685_102;6685_120;6685_200;6685_6,3.0 Å
+4117,9b03,H,9b03_H,Inverted formin-2,6685_220,6685_220,3.0 Å
+4093,9b03,G,9b03_G,Inverted formin-2,6685_221,6685_162;6685_250,3.0 Å
+4094,9b03,H,9b03_H,Inverted formin-2,6685_222,6685_222,3.0 Å
+4067,9b03,G,9b03_G,Inverted formin-2,6685_223,6685_223,3.0 Å
+4027,9b0k,H,9b0k_H,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
+4007,9b0k,G,9b0k_G,Inverted formin-2,6685_218,6685_233;6685_6,3.0 Å
+3983,9b0k,G,9b0k_G,Inverted formin-2,6685_219,6685_0;6685_102;6685_120;6685_200;6685_6,3.0 Å
+3984,9b0k,H,9b0k_H,Inverted formin-2,6685_220,6685_220,3.0 Å
+3957,9b0k,G,9b0k_G,Inverted formin-2,6685_221,6685_162;6685_250,3.0 Å
+3958,9b0k,H,9b0k_H,Inverted formin-2,6685_222,6685_222,3.0 Å
+3934,9b0k,G,9b0k_G,Inverted formin-2,6685_223,6685_223,3.0 Å
+3822,9b27,G,9b27_G,Protein diaphanous homolog 1,6685_200,6685_200,3.5 Å
+3798,9b27,G,9b27_G,Protein diaphanous homolog 1,6685_201,6685_202,3.5 Å
+3799,9b27,H,9b27_H,Protein diaphanous homolog 1,6685_211,6685_211,3.5 Å
+3747,9b3d,H,9b3d_H,Protein diaphanous homolog 1,6685_102,6685_102,3.4 Å
+3724,9b3d,G,9b3d_G,Protein diaphanous homolog 1,6685_224,6685_224,3.4 Å
+3697,9b3d,H,9b3d_H,Protein diaphanous homolog 1,6685_225,6685_225,3.4 Å
+3665,9b3d,G,9b3d_G,Protein diaphanous homolog 1,6685_225,6685_225,3.4 Å
+697,8viz,G,8viz_G,Gelsolin,6685_231,6685_231,2.6 Å
+677,8viz,G,8viz_G,Gelsolin,6685_232,6685_232,2.6 Å
+660,8viz,G,8viz_G,Gelsolin,6685_233,6685_233,2.6 Å
+566,8vkh,H,8vkh_H,Gelsolin,6685_231,6685_231,3.6 Å
+537,8vkh,G,8vkh_G,Gelsolin,6685_231,6685_231,3.6 Å
+512,8vkh,H,8vkh_H,Gelsolin,6685_233,6685_233,3.6 Å
+491,8vkh,G,8vkh_G,Gelsolin,6685_233,6685_233,3.6 Å
+364,9dva,H,9dva_H,Catenin alpha-1,6685_141,6685_141,3.1 Å
+344,9dva,F,9dva_F,Catenin alpha-1,6685_141,6685_141,3.1 Å
+345,9dva,G,9dva_G,Afadin,6685_234,6685_6;6685_97,3.1 Å
+346,9dva,H,9dva_H,Catenin alpha-1,6685_102,6685_102,3.1 Å
+320,9dva,F,9dva_F,Catenin alpha-1,6685_102,6685_102,3.1 Å
+4371,9gob,F,9gob_F,Inositol-trisphosphate 3-kinase A,6685_121,6685_121,3.2 Å
+4275,9hm9,F,9hm9_F,Inositol-trisphosphate 3-kinase A,6685_102,6685_102,3.4 Å
+4640,8zb7,H,8zb7_H,Myosin-7,6685_6,6685_6,3.2 Å
+4639,8zb7,P,8zb7_P,Tropomyosin alpha-1 chain,6685_128,6685_128,3.2 Å
+4620,8zb7,G,8zb7_G,Myosin-7,6685_6,6685_6,3.2 Å
+4619,8zb7,P,8zb7_P,Tropomyosin alpha-1 chain,6685_130,6685_128,3.2 Å
+4603,8zb7,I,8zb7_I,Myosin-7,6685_6,6685_6,3.2 Å
+4604,8zb7,J,8zb7_J,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+4605,8zb7,L,8zb7_L,Tropomyosin alpha-1 chain,6685_245,6685_245,3.2 Å
+4585,8zb7,J,8zb7_J,Myosin-7,6685_6,6685_6,3.2 Å
+4586,8zb7,K,8zb7_K,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+4588,8zb7,N,8zb7_N,Tropomyosin alpha-1 chain,6685_128,6685_128,3.2 Å
+4568,8zb7,G,8zb7_G,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+4567,8zb7,O,8zb7_O,Tropomyosin alpha-1 chain,6685_129,6685_129,3.2 Å
+3471,8zbm,A,8zbm_A,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+3425,8zbm,A,8zbm_A,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
+3426,8zbm,B,8zbm_B,Tropomyosin beta chain,6685_246,6685_128;6685_129,3.3 Å
+3449,8zbm,D,8zbm_D,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+3401,8zbm,D,8zbm_D,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
+3402,8zbm,F,8zbm_F,Tropomyosin beta chain,6685_246,6685_128;6685_129,3.3 Å
+3450,8zbm,G,8zbm_G,Tropomyosin beta chain,6685_247,6685_128;6685_129;6685_162;6685_245,3.3 Å
+3427,8zbm,J,8zbm_J,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+3372,8zbm,J,8zbm_J,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
+3373,8zbm,K,8zbm_K,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+3403,8zbm,L,8zbm_L,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+3346,8zbm,L,8zbm_L,Myosin heavy chain 4,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.3 Å
+3347,8zbm,N,8zbm_N,Myosin heavy chain 4,6685_97,6685_97,3.3 Å
+648,8zbn,A,8zbn_A,Myosin-6,6685_97,6685_97,3.0 Å
+527,8zbn,A,8zbn_A,Myosin-6,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.0 Å
+649,8zbn,C,8zbn_C,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
+647,8zbn,S,8zbn_S,Tropomyosin alpha-1 chain,6685_129,6685_129,3.0 Å
+586,8zbn,C,8zbn_C,Myosin-6,6685_97,6685_97,3.0 Å
+555,8zbn,L,8zbn_L,Myosin-6,6685_6,6685_6,3.0 Å
+554,8zbn,T,8zbn_T,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
+528,8zbn,F,8zbn_F,Myosin-6,6685_97,6685_97,3.0 Å
+504,8zbn,G,8zbn_G,Myosin-6,6685_97,6685_97,3.0 Å
+620,8zbn,H,8zbn_H,Myosin-6,6685_97,6685_97,3.0 Å
+505,8zbn,H,8zbn_H,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
+621,8zbn,L,8zbn_L,Myosin-6,6685_248,6685_141;6685_233;6685_29;6685_33;6685_51,3.0 Å
+619,8zbn,R,8zbn_R,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
+585,8zbn,U,8zbn_U,Tropomyosin alpha-1 chain,6685_129,6685_129,3.0 Å
+526,8zbn,U,8zbn_U,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
+503,8zbn,T,8zbn_T,Tropomyosin alpha-1 chain,6685_128,6685_128,3.0 Å
+267,9az6,H,9az6_H,Talin-1,6685_121,6685_121,3.0 Å
+268,9az6,I,9az6_I,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
+243,9az6,F,9az6_F,Talin-1,6685_250,6685_250,3.0 Å
+244,9az6,J,9az6_J,Talin-1,6685_121,6685_121,3.0 Å
+245,9az6,K,9az6_K,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
+218,9az6,H,9az6_H,Talin-1,6685_250,6685_250,3.0 Å
+219,9az6,L,9az6_L,Talin-1,6685_121,6685_121,3.0 Å
+220,9az6,M,9az6_M,Talin-1,6685_249,6685_156;6685_157;6685_166;6685_188;6685_6,3.0 Å
+193,9az6,J,9az6_J,Talin-1,6685_250,6685_250,3.0 Å
+178,9az6,L,9az6_L,Talin-1,6685_250,6685_250,3.0 Å
+3408,9e2e,K,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",6685_136,6685_152;6685_164;6685_233;6685_3,4.0 Å
+3381,9e2e,N,9e2e_N,Tropomyosin alpha-1 chain,6685_135,6685_0;6685_120;6685_200,4.0 Å
+3382,9e2e,P,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",6685_136,6685_152;6685_164;6685_233;6685_3,4.0 Å
+3355,9e2e,G,9e2e_G,Tropomyosin alpha-1 chain,6685_251,6685_162;6685_164,4.0 Å
+3356,9e2e,J,9e2e_J,Tropomyosin alpha-1 chain,6685_252,6685_102;6685_120;6685_139;6685_156;6685_166,4.0 Å
+3357,9e2e,K,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",6685_138,6685_138,4.0 Å
+3328,9e2e,L,9e2e_L,Tropomyosin alpha-1 chain,6685_137,6685_162,4.0 Å
+3329,9e2e,O,9e2e_O,Tropomyosin alpha-1 chain,6685_252,6685_102;6685_120;6685_139;6685_156;6685_166,4.0 Å
+3330,9e2e,P,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",6685_138,6685_138,4.0 Å
+3304,9e2e,G,9e2e_G,Tropomyosin alpha-1 chain,6685_139,6685_139,4.0 Å
+3278,9e2e,L,9e2e_L,Tropomyosin alpha-1 chain,6685_139,6685_139,4.0 Å
+2827,9p1i,c,9p1i_c,VopV,6685_257,6685_257,3.0 Å
+2828,9p1i,f,9p1i_f,VopV,6685_258,6685_258,3.0 Å
+2829,9p1i,g,9p1i_g,VopV,6685_259,6685_259,3.0 Å
+2801,9p1i,c,9p1i_c,VopV,6685_259,6685_259,3.0 Å
+2802,9p1i,f,9p1i_f,VopV,6685_257,6685_257,3.0 Å
+2803,9p1i,i,9p1i_i,VopV,6685_258,6685_258,3.0 Å
+2777,9p1i,d,9p1i_d,VopV,6685_257,6685_257,3.0 Å
+2778,9p1i,g,9p1i_g,VopV,6685_258,6685_258,3.0 Å
+2779,9p1i,h,9p1i_h,VopV,6685_259,6685_259,3.0 Å
+2754,9p1i,c,9p1i_c,VopV,6685_258,6685_258,3.0 Å
+2755,9p1i,d,9p1i_d,VopV,6685_259,6685_259,3.0 Å
+2756,9p1i,g,9p1i_g,VopV,6685_257,6685_257,3.0 Å
+2730,9p1i,e,9p1i_e,VopV,6685_257,6685_257,3.0 Å
+2731,9p1i,h,9p1i_h,VopV,6685_258,6685_258,3.0 Å
+2703,9p1i,d,9p1i_d,VopV,6685_258,6685_258,3.0 Å
+2704,9p1i,e,9p1i_e,VopV,6685_259,6685_259,3.0 Å
+2705,9p1i,h,9p1i_h,VopV,6685_257,6685_257,3.0 Å
+2679,9p1i,f,9p1i_f,VopV,6685_259,6685_259,3.0 Å
+2680,9p1i,i,9p1i_i,VopV,6685_257,6685_257,3.0 Å
+2681,9p1i,j,9p1i_j,VopV,6685_258,6685_258,3.0 Å
+2657,9p1i,i,9p1i_i,VopV,6685_259,6685_259,3.0 Å
+2658,9p1i,j,9p1i_j,VopV,6685_257,6685_257,3.0 Å
+2659,9p1i,k,9p1i_k,VopV,6685_258,6685_258,3.0 Å
+2635,9p1i,j,9p1i_j,VopV,6685_259,6685_259,3.0 Å
+2636,9p1i,k,9p1i_k,VopV,6685_257,6685_257,3.0 Å
+2637,9p1i,l,9p1i_l,VopV,6685_258,6685_258,3.0 Å
+2610,9p1i,k,9p1i_k,VopV,6685_259,6685_259,3.0 Å
+2611,9p1i,l,9p1i_l,VopV,6685_257,6685_257,3.0 Å
+2612,9p1i,m,9p1i_m,VopV,6685_258,6685_258,3.0 Å
+2584,9p1i,l,9p1i_l,VopV,6685_259,6685_259,3.0 Å
+2585,9p1i,m,9p1i_m,VopV,6685_257,6685_257,3.0 Å
+2586,9p1i,n,9p1i_n,VopV,6685_258,6685_258,3.0 Å
+2565,9p1i,m,9p1i_m,VopV,6685_259,6685_259,3.0 Å
+2566,9p1i,n,9p1i_n,VopV,6685_257,6685_257,3.0 Å
+89,9p3d,c,9p3d_c,Vibrio VopV,6685_257,6685_257,3.5 Å
+90,9p3d,d,9p3d_d,Vibrio VopV,6685_259,6685_259,3.5 Å
+73,9p3d,c,9p3d_c,Vibrio VopV,6685_258,6685_258,3.5 Å
+74,9p3d,d,9p3d_d,Vibrio VopV,6685_257,6685_257,3.5 Å
+75,9p3d,e,9p3d_e,Vibrio VopV,6685_259,6685_259,3.5 Å
+57,9p3d,d,9p3d_d,Vibrio VopV,6685_258,6685_258,3.5 Å
+58,9p3d,e,9p3d_e,Vibrio VopV,6685_257,6685_257,3.5 Å
+59,9p3d,f,9p3d_f,Vibrio VopV,6685_259,6685_259,3.5 Å
+39,9p3d,e,9p3d_e,Vibrio VopV,6685_258,6685_258,3.5 Å
+40,9p3d,f,9p3d_f,Vibrio VopV,6685_257,6685_257,3.5 Å
+41,9p3d,g,9p3d_g,Vibrio VopV,6685_259,6685_259,3.5 Å
+18,9p3d,f,9p3d_f,Vibrio VopV,6685_258,6685_258,3.5 Å
+19,9p3d,g,9p3d_g,Vibrio VopV,6685_257,6685_257,3.5 Å
+20,9p3d,h,9p3d_h,Vibrio VopV,6685_259,6685_259,3.5 Å
+5033,9p3d,g,9p3d_g,Vibrio VopV,6685_258,6685_258,3.5 Å
+5034,9p3d,h,9p3d_h,Vibrio VopV,6685_257,6685_257,3.5 Å
+5035,9p3d,i,9p3d_i,Vibrio VopV,6685_259,6685_259,3.5 Å
+5015,9p3d,h,9p3d_h,Vibrio VopV,6685_258,6685_258,3.5 Å
+5016,9p3d,i,9p3d_i,Vibrio VopV,6685_257,6685_257,3.5 Å
+5017,9p3d,j,9p3d_j,Vibrio VopV,6685_259,6685_259,3.5 Å
+4995,9p3d,i,9p3d_i,Vibrio VopV,6685_258,6685_258,3.5 Å
+4996,9p3d,j,9p3d_j,Vibrio VopV,6685_257,6685_257,3.5 Å
+4997,9p3d,k,9p3d_k,Vibrio VopV,6685_259,6685_259,3.5 Å
+4976,9p3d,j,9p3d_j,Vibrio VopV,6685_258,6685_258,3.5 Å
+4977,9p3d,k,9p3d_k,Vibrio VopV,6685_257,6685_257,3.5 Å
+4978,9p3d,l,9p3d_l,Vibrio VopV,6685_259,6685_259,3.5 Å
+4955,9p3d,k,9p3d_k,Vibrio VopV,6685_258,6685_258,3.5 Å
+4956,9p3d,l,9p3d_l,Vibrio VopV,6685_257,6685_257,3.5 Å
+4957,9p3d,m,9p3d_m,Vibrio VopV,6685_259,6685_259,3.5 Å
+4936,9p3d,l,9p3d_l,Vibrio VopV,6685_258,6685_258,3.5 Å
+4937,9p3d,m,9p3d_m,Vibrio VopV,6685_257,6685_257,3.5 Å
+1556,9qey,H,9qey_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_44,6685_44,2.7 Å
+1516,9qey,H,9qey_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_260,6685_260,2.7 Å
+1449,9qf2,F,9qf2_F,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
+1450,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
+1428,9qf2,F,9qf2_F,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
+1429,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
+1430,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
+1471,9qf2,G,9qf2_G,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
+1466,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
+1472,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
+1473,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
+1407,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
+1408,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
+1388,9qf2,I,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
+1389,9qf2,J,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.4 Å
+1372,9qfb,H,9qfb_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1373,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1374,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
+1354,9qfb,H,9qfb_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1355,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1356,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1357,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
+1334,9qfb,I,9qfb_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1335,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1336,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1337,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
+1312,9qfb,J,9qfb_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1313,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1314,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1315,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
+1286,9qfb,K,9qfb_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1287,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1288,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1289,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.7 Å
+1263,9qfb,L,9qfb_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1264,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1265,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.7 Å
+1242,9qfb,M,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.7 Å
+1243,9qfb,N,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,2.7 Å
+1224,9qfd,H,9qfd_H,Cofilin-1,6685_21,6685_21,2.6 Å
+1225,9qfd,J,9qfd_J,Cofilin-1,6685_200,6685_200,2.6 Å
+1206,9qfd,I,9qfd_I,Cofilin-1,6685_21,6685_21,2.6 Å
+1207,9qfd,K,9qfd_K,Cofilin-1,6685_200,6685_200,2.6 Å
+1186,9qfd,J,9qfd_J,Cofilin-1,6685_21,6685_21,2.6 Å
+1187,9qfd,L,9qfd_L,Cofilin-1,6685_200,6685_200,2.6 Å
+1163,9qfd,K,9qfd_K,Cofilin-1,6685_21,6685_21,2.6 Å
+1164,9qfd,M,9qfd_M,Cofilin-1,6685_200,6685_200,2.6 Å
+1134,9qfd,L,9qfd_L,Cofilin-1,6685_21,6685_21,2.6 Å
+1135,9qfd,N,9qfd_N,Cofilin-1,6685_200,6685_200,2.6 Å
+1105,9qfd,M,9qfd_M,Cofilin-1,6685_21,6685_21,2.6 Å
+1074,9qfd,N,9qfd_N,Cofilin-1,6685_21,6685_21,2.6 Å
+1050,9qfe,H,9qfe_H,Cofilin-1,6685_21,6685_21,3.1 Å
+1051,9qfe,I,9qfe_I,Cofilin-1,6685_0,6685_0,3.1 Å
+1052,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
+1029,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
+1030,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.1 Å
+1009,9qfe,I,9qfe_I,Cofilin-1,6685_21,6685_21,3.1 Å
+1010,9qfe,J,9qfe_J,Cofilin-1,6685_0,6685_0,3.1 Å
+1011,9qfe,L,9qfe_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
+1012,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
+989,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
+990,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.1 Å
+964,9qfe,J,9qfe_J,Cofilin-1,6685_21,6685_21,3.1 Å
+965,9qfe,K,9qfe_K,Cofilin-1,6685_0,6685_0,3.1 Å
+966,9qfe,M,9qfe_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
+967,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.1 Å
+944,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.1 Å
+925,9qfe,K,9qfe_K,Cofilin-1,6685_21,6685_21,3.1 Å
+926,9qfe,N,9qfe_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.1 Å
+690,9qfk,H,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+691,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
+692,9qfk,J,9qfk_J,Cofilin-1,6685_0,6685_0,4.0 Å
+671,9qfk,H,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
+672,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+673,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
+654,9qfk,I,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
+655,9qfk,J,9qfk_J,Cofilin-1,6685_21,6685_21,4.0 Å
+656,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
+657,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
+626,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+627,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
+628,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
+591,9qfk,K,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
+592,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+593,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
+594,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,4.0 Å
+559,9qfk,L,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
+560,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+561,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,4.0 Å
+531,9qfk,M,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,4.0 Å
+532,9qfk,N,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,4.0 Å
+296,9qfw,F,9qfw_F,Cofilin-1,6685_0,6685_0,3.2 Å
+281,9qfw,G,9qfw_G,Cofilin-1,6685_0,6685_0,3.2 Å
+263,9qfw,F,9qfw_F,Cofilin-1,6685_21,6685_21,3.2 Å
+264,9qfw,H,9qfw_H,Cofilin-1,6685_0,6685_0,3.2 Å
+237,9qfw,G,9qfw_G,Cofilin-1,6685_21,6685_21,3.2 Å
+238,9qfw,I,9qfw_I,Cofilin-1,6685_0,6685_0,3.2 Å
+239,9qfw,P,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,3.2 Å
+210,9qfw,H,9qfw_H,Cofilin-1,6685_21,6685_21,3.2 Å
+211,9qfw,J,9qfw_J,Cofilin-1,6685_0,6685_0,3.2 Å
+212,9qfw,P,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_267,6685_267,3.2 Å
+213,9qfw,Q,9qfw_Q,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,3.2 Å
+3835,9q7k,a,9q7k_a,Cofilin-2,6685_0,6685_0,3.1 Å
+3815,9q7k,b,9q7k_b,Cofilin-2,6685_0,6685_0,3.1 Å
+3791,9q7k,a,9q7k_a,Cofilin-2,6685_21,6685_21,3.1 Å
+3792,9q7k,c,9q7k_c,Cofilin-2,6685_0,6685_0,3.1 Å
+3765,9q7k,b,9q7k_b,Cofilin-2,6685_21,6685_21,3.1 Å
+3766,9q7k,d,9q7k_d,Cofilin-2,6685_0,6685_0,3.1 Å
+3741,9q7k,c,9q7k_c,Cofilin-2,6685_21,6685_21,3.1 Å
+3742,9q7k,e,9q7k_e,Cofilin-2,6685_0,6685_0,3.1 Å
+3718,9q7l,a,9q7l_a,Cofilin-2,6685_0,6685_0,3.7 Å
+3691,9q7l,b,9q7l_b,Cofilin-2,6685_0,6685_0,3.7 Å
+3659,9q7l,a,9q7l_a,Cofilin-2,6685_21,6685_21,3.7 Å
+3660,9q7l,c,9q7l_c,Cofilin-2,6685_0,6685_0,3.7 Å
+3635,9q7l,b,9q7l_b,Cofilin-2,6685_21,6685_21,3.7 Å
+3616,9q7l,c,9q7l_c,Cofilin-2,6685_21,6685_21,3.7 Å
+3592,9q7m,a,9q7m_a,Cofilin-2,6685_0,6685_0,3.5 Å
+3564,9q7m,b,9q7m_b,Cofilin-2,6685_0,6685_0,3.5 Å
+3534,9q7m,a,9q7m_a,Cofilin-2,6685_21,6685_21,3.5 Å
+3535,9q7m,c,9q7m_c,Cofilin-2,6685_0,6685_0,3.5 Å
+3508,9q7m,b,9q7m_b,Cofilin-2,6685_21,6685_21,3.5 Å
+3509,9q7m,d,9q7m_d,Cofilin-2,6685_0,6685_0,3.5 Å
+3488,9q7m,c,9q7m_c,Cofilin-2,6685_21,6685_21,3.5 Å
+3464,9q7n,a,9q7n_a,Cofilin-2,6685_0,6685_0,3.5 Å
+3441,9q7n,b,9q7n_b,Cofilin-2,6685_0,6685_0,3.5 Å
+3415,9q7n,a,9q7n_a,Cofilin-2,6685_21,6685_21,3.5 Å
+3416,9q7n,c,9q7n_c,Cofilin-2,6685_0,6685_0,3.5 Å
+3389,9q7n,b,9q7n_b,Cofilin-2,6685_21,6685_21,3.5 Å
+3390,9q7n,d,9q7n_d,Cofilin-2,6685_0,6685_0,3.5 Å
+3362,9q7n,c,9q7n_c,Cofilin-2,6685_21,6685_21,3.5 Å
+3363,9q7n,e,9q7n_e,Cofilin-2,6685_0,6685_0,3.5 Å
+3335,9q7o,W,9q7o_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.0 Å
+3218,9xye,W,9xye_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.2 Å
+3219,9xye,X,9xye_X,Adenylyl cyclase-associated protein 1,6685_276,6685_109,3.2 Å
+3199,9xye,X,9xye_X,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.2 Å
+3111,9y52,W,9y52_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.5 Å
+3112,9y52,a,9y52_a,Cofilin-2,6685_0,6685_0,3.5 Å
+3094,9y52,b,9y52_b,Cofilin-2,6685_0,6685_0,3.5 Å
+3075,9y52,a,9y52_a,Cofilin-2,6685_21,6685_21,3.5 Å
+3076,9y52,c,9y52_c,Cofilin-2,6685_0,6685_0,3.5 Å
+3057,9y52,b,9y52_b,Cofilin-2,6685_21,6685_21,3.5 Å
+3058,9y52,d,9y52_d,Cofilin-2,6685_0,6685_0,3.5 Å
+3033,9y52,c,9y52_c,Cofilin-2,6685_21,6685_21,3.5 Å
+3034,9y52,e,9y52_e,Cofilin-2,6685_0,6685_0,3.5 Å
+3011,9y9j,W,9y9j_W,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.6 Å
+3012,9y9j,X,9y9j_X,Adenylyl cyclase-associated protein 1,6685_208,6685_1;6685_109;6685_274,3.6 Å
+3013,9y9j,a,9y9j_a,Cofilin-2,6685_0,6685_0,3.6 Å
+2994,9y9j,X,9y9j_X,Adenylyl cyclase-associated protein 1,6685_65,6685_65,3.6 Å
+2995,9y9j,b,9y9j_b,Cofilin-2,6685_0,6685_0,3.6 Å
+2973,9y9j,a,9y9j_a,Cofilin-2,6685_21,6685_21,3.6 Å
+2974,9y9j,c,9y9j_c,Cofilin-2,6685_0,6685_0,3.6 Å
+2949,9y9j,b,9y9j_b,Cofilin-2,6685_21,6685_21,3.6 Å
+2950,9y9j,d,9y9j_d,Cofilin-2,6685_0,6685_0,3.6 Å
+2924,9y9j,c,9y9j_c,Cofilin-2,6685_21,6685_21,3.6 Å
+2925,9y9j,e,9y9j_e,Cofilin-2,6685_0,6685_0,3.6 Å
+2905,9y9l,a,9y9l_a,Cofilin-2,6685_0,6685_0,3.1 Å
+2885,9y9l,b,9y9l_b,Cofilin-2,6685_0,6685_0,3.1 Å
+2862,9y9l,a,9y9l_a,Cofilin-2,6685_21,6685_21,3.1 Å
+2863,9y9l,c,9y9l_c,Cofilin-2,6685_0,6685_0,3.1 Å
+2837,9y9l,Y,9y9l_Y,F-actin-capping protein subunit alpha-1,6685_278,6685_4;6685_5,3.1 Å
+2838,9y9l,b,9y9l_b,Cofilin-2,6685_21,6685_21,3.1 Å
+2839,9y9l,d,9y9l_d,Cofilin-2,6685_0,6685_0,3.1 Å
+2812,9y9l,Y,9y9l_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,3.1 Å
+2813,9y9l,Z,9y9l_Z,F-actin-capping protein subunit beta,6685_170,6685_170,3.1 Å
+2814,9y9l,c,9y9l_c,Cofilin-2,6685_21,6685_21,3.1 Å
+2789,9y9m,a,9y9m_a,Cofilin-2,6685_0,6685_0,3.1 Å
+2765,9y9m,b,9y9m_b,Cofilin-2,6685_0,6685_0,3.1 Å
+2740,9y9m,a,9y9m_a,Cofilin-2,6685_21,6685_21,3.1 Å
+2741,9y9m,c,9y9m_c,Cofilin-2,6685_0,6685_0,3.1 Å
+2715,9y9m,Y,9y9m_Y,F-actin-capping protein subunit alpha-1,6685_92,6685_92,3.1 Å
+2716,9y9m,Z,9y9m_Z,F-actin-capping protein subunit beta,6685_279,6685_5,3.1 Å
+2717,9y9m,b,9y9m_b,Cofilin-2,6685_21,6685_21,3.1 Å
+2688,9y9m,Y,9y9m_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,3.1 Å
+2689,9y9m,Z,9y9m_Z,F-actin-capping protein subunit beta,6685_170,6685_170,3.1 Å
+2690,9y9m,c,9y9m_c,Cofilin-2,6685_21,6685_21,3.1 Å
+2666,9y9p,a,9y9p_a,Cofilin-2,6685_0,6685_0,2.1 Å
+2643,9y9p,b,9y9p_b,Cofilin-2,6685_0,6685_0,2.1 Å
+2621,9y9p,a,9y9p_a,Cofilin-2,6685_21,6685_21,2.1 Å
+2622,9y9p,c,9y9p_c,Cofilin-2,6685_0,6685_0,2.1 Å
+2595,9y9p,b,9y9p_b,Cofilin-2,6685_21,6685_21,2.1 Å
+2596,9y9p,d,9y9p_d,Cofilin-2,6685_0,6685_0,2.1 Å
+2572,9y9p,c,9y9p_c,Cofilin-2,6685_21,6685_21,2.1 Å
+2573,9y9p,e,9y9p_e,Cofilin-2,6685_0,6685_0,2.1 Å
+3021,9yim,Y,9yim_Y,F-actin-capping protein subunit alpha-1,6685_92,6685_92,2.6 Å
+3022,9yim,Z,9yim_Z,F-actin-capping protein subunit beta,6685_169,6685_169,2.6 Å
+3001,9yim,Y,9yim_Y,F-actin-capping protein subunit alpha-1,6685_68,6685_91,2.6 Å
+3002,9yim,Z,9yim_Z,F-actin-capping protein subunit beta,6685_170,6685_170,2.6 Å
+4888,9zzj,L,9zzj_L,Leiomodin-2,6685_282,6685_282,3.3 Å
+4872,9zzj,L,9zzj_L,Leiomodin-2,6685_164,6685_164,3.3 Å
+4858,9zzj,L,9zzj_L,Leiomodin-2,6685_59,6685_258,3.3 Å
+4814,9zzm,L,9zzm_L,Leiomodin-2,6685_84,6685_164,3.6 Å
+4815,9zzm,M,9zzm_M,Leiomodin-2,6685_282,6685_282,3.6 Å
+4801,9zzm,L,9zzm_L,Leiomodin-2,6685_59,6685_258,3.6 Å
+4802,9zzm,M,9zzm_M,Leiomodin-2,6685_84,6685_164,3.6 Å
+4784,9zzm,M,9zzm_M,Leiomodin-2,6685_59,6685_258,3.6 Å
+2375,12bw,I,12bw_I,Gelsolin,6685_0,6685_0,2.9 Å
+2342,12bw,I,12bw_I,Gelsolin,6685_286,6685_233,2.9 Å
+4691,12bx,I,12bx_I,Gelsolin,6685_0,6685_0,3.0 Å
+4652,12bx,I,12bx_I,Gelsolin,6685_286,6685_233,3.0 Å
+2255,12by,I,12by_I,Gelsolin,6685_231,6685_231,2.8 Å
+2230,12by,I,12by_I,Gelsolin,6685_287,6685_233,2.8 Å
+4538,12bz,I,12bz_I,Gelsolin,6685_231,6685_231,3.4 Å
+4518,12bz,J,12bz_J,Gelsolin,6685_102,6685_102,3.4 Å
+4491,12bz,I,12bz_I,Gelsolin,6685_287,6685_233,3.4 Å
+4469,12bz,J,12bz_J,Gelsolin,6685_287,6685_233,3.4 Å
+2083,38jl,a,38jl_a,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+2066,38jl,b,38jl_b,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+2046,38jl,X,38jl_X,Actin-interacting protein 1,6685_266,6685_266,2.3 Å
+2047,38jl,a,38jl_a,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+2048,38jl,c,38jl_c,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+2024,38jl,X,38jl_X,Actin-interacting protein 1,6685_291,6685_291,2.3 Å
+2025,38jl,b,38jl_b,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+2026,38jl,d,38jl_d,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+2004,38jl,X,38jl_X,Actin-interacting protein 1,6685_292,6685_164;6685_295,2.3 Å
+2005,38jl,c,38jl_c,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+2006,38jl,e,38jl_e,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+1979,38jl,d,38jl_d,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+1980,38jl,f,38jl_f,Cofilin (UNC-60B),6685_0,6685_0,2.3 Å
+1956,38jl,e,38jl_e,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+1934,38jl,f,38jl_f,Cofilin (UNC-60B),6685_290,6685_290,2.3 Å
+1920,38kl,a,38kl_a,Cofilin,6685_0,6685_0,2.7 Å
+1903,38kl,b,38kl_b,Cofilin,6685_0,6685_0,2.7 Å
+1883,38kl,X,38kl_X,Actin-interacting protein 1,6685_266,6685_266,2.7 Å
+1884,38kl,a,38kl_a,Cofilin,6685_290,6685_290,2.7 Å
+1885,38kl,c,38kl_c,Cofilin,6685_0,6685_0,2.7 Å
+1865,38kl,X,38kl_X,Actin-interacting protein 1,6685_291,6685_291,2.7 Å
+1866,38kl,Y,38kl_Y,Actin-interacting protein 1,6685_266,6685_266,2.7 Å
+1867,38kl,b,38kl_b,Cofilin,6685_290,6685_290,2.7 Å
+1868,38kl,d,38kl_d,Cofilin,6685_0,6685_0,2.7 Å
+1846,38kl,X,38kl_X,Actin-interacting protein 1,6685_292,6685_164;6685_295,2.7 Å
+1847,38kl,Y,38kl_Y,Actin-interacting protein 1,6685_267,6685_267,2.7 Å
+1848,38kl,c,38kl_c,Cofilin,6685_290,6685_290,2.7 Å
+1849,38kl,e,38kl_e,Cofilin,6685_0,6685_0,2.7 Å
+1832,38km,a,38km_a,Cofilin,6685_0,6685_0,2.3 Å
+1815,38km,b,38km_b,Cofilin,6685_0,6685_0,2.3 Å
+1795,38km,X,38km_X,Actin-interacting protein 1,6685_266,6685_266,2.3 Å
+1796,38km,a,38km_a,Cofilin,6685_290,6685_290,2.3 Å
+1797,38km,c,38km_c,Cofilin,6685_0,6685_0,2.3 Å
+1774,38km,X,38km_X,Actin-interacting protein 1,6685_291,6685_291,2.3 Å
+1775,38km,Y,38km_Y,Actin-interacting protein 1,6685_266,6685_266,2.3 Å
+1776,38km,b,38km_b,Cofilin,6685_290,6685_290,2.3 Å
+1777,38km,d,38km_d,Cofilin,6685_0,6685_0,2.3 Å
+1750,38km,X,38km_X,Actin-interacting protein 1,6685_292,6685_164;6685_295,2.3 Å
+1751,38km,Y,38km_Y,Actin-interacting protein 1,6685_291,6685_291,2.3 Å
+1752,38km,c,38km_c,Cofilin,6685_290,6685_290,2.3 Å
+1753,38km,e,38km_e,Cofilin,6685_0,6685_0,2.3 Å
+1729,38km,Y,38km_Y,Actin-interacting protein 1,6685_292,6685_164;6685_295,2.3 Å
+1730,38km,d,38km_d,Cofilin,6685_290,6685_290,2.3 Å
+1731,38km,f,38km_f,Cofilin,6685_0,6685_0,2.3 Å
+1714,38km,e,38km_e,Cofilin,6685_290,6685_290,2.3 Å
+1699,38km,f,38km_f,Cofilin,6685_290,6685_290,2.3 Å
+1687,38kn,a,38kn_a,Cofilin,6685_0,6685_0,2.0 Å
+1672,38kn,b,38kn_b,Cofilin,6685_0,6685_0,2.0 Å
+1656,38kn,c,38kn_c,Cofilin,6685_0,6685_0,2.0 Å
+1633,38kn,d,38kn_d,Cofilin,6685_0,6685_0,2.0 Å
+1614,38kn,e,38kn_e,Cofilin,6685_0,6685_0,2.0 Å
+1600,38ko,a,38ko_a,Cofilin,6685_0,6685_0,4.0 Å
+1585,38ko,X,38ko_X,Actin-interacting protein 1,6685_266,6685_266,4.0 Å
+1586,38ko,b,38ko_b,Cofilin,6685_0,6685_0,4.0 Å
+1568,38ko,X,38ko_X,Actin-interacting protein 1,6685_291,6685_291,4.0 Å
+1569,38ko,a,38ko_a,Cofilin,6685_290,6685_290,4.0 Å
+1570,38ko,c,38ko_c,Cofilin,6685_0,6685_0,4.0 Å
+1544,38ko,X,38ko_X,Actin-interacting protein 1,6685_292,6685_164;6685_295,4.0 Å
+1545,38ko,Y,38ko_Y,Actin-interacting protein 1,6685_266,6685_266,4.0 Å
+1546,38ko,b,38ko_b,Cofilin,6685_290,6685_290,4.0 Å
+1547,38ko,d,38ko_d,Cofilin,6685_0,6685_0,4.0 Å
+1525,38ko,Y,38ko_Y,Actin-interacting protein 1,6685_267,6685_267,4.0 Å
+1526,38ko,c,38ko_c,Cofilin,6685_290,6685_290,4.0 Å
+1527,38ko,e,38ko_e,Cofilin,6685_0,6685_0,4.0 Å
+1507,38kp,a,38kp_a,Cofilin,6685_0,6685_0,2.8 Å
+1494,38kp,b,38kp_b,Cofilin,6685_0,6685_0,2.8 Å
+1480,38kp,a,38kp_a,Cofilin,6685_290,6685_290,2.8 Å
+1481,38kp,c,38kp_c,Cofilin,6685_0,6685_0,2.8 Å
+1456,38kp,b,38kp_b,Cofilin,6685_290,6685_290,2.8 Å
+1457,38kp,d,38kp_d,Cofilin,6685_0,6685_0,2.8 Å
+1437,38kp,c,38kp_c,Cofilin,6685_290,6685_290,2.8 Å
+1438,38kp,e,38kp_e,Cofilin,6685_0,6685_0,2.8 Å
+1415,38kp,d,38kp_d,Cofilin,6685_290,6685_290,2.8 Å
+1395,38kp,e,38kp_e,Cofilin,6685_290,6685_290,2.8 Å
+1379,38kq,a,38kq_a,Cofilin,6685_0,6685_0,2.9 Å
+1365,38kq,b,38kq_b,Cofilin,6685_0,6685_0,2.9 Å
+1343,38kq,X,38kq_X,Actin-interacting protein 1,6685_266,6685_266,2.9 Å
+1344,38kq,a,38kq_a,Cofilin,6685_290,6685_290,2.9 Å
+1345,38kq,c,38kq_c,Cofilin,6685_0,6685_0,2.9 Å
+1321,38kq,X,38kq_X,Actin-interacting protein 1,6685_291,6685_291,2.9 Å
+1322,38kq,b,38kq_b,Cofilin,6685_290,6685_290,2.9 Å
+1323,38kq,d,38kq_d,Cofilin,6685_0,6685_0,2.9 Å
+1296,38kq,X,38kq_X,Actin-interacting protein 1,6685_292,6685_164;6685_295,2.9 Å
+1297,38kq,Y,38kq_Y,Actin-interacting protein 1,6685_266,6685_266,2.9 Å
+1298,38kq,c,38kq_c,Cofilin,6685_290,6685_290,2.9 Å
+1299,38kq,e,38kq_e,Cofilin,6685_0,6685_0,2.9 Å
+1271,38kq,Y,38kq_Y,Actin-interacting protein 1,6685_267,6685_267,2.9 Å
+1272,38kq,d,38kq_d,Cofilin,6685_290,6685_290,2.9 Å
+1273,38kq,f,38kq_f,Cofilin,6685_0,6685_0,2.9 Å
+1248,38kq,Y,38kq_Y,Actin-interacting protein 1,6685_295,6685_295,2.9 Å
+1249,38kq,e,38kq_e,Cofilin,6685_290,6685_290,2.9 Å
+1229,38kq,f,38kq_f,Cofilin,6685_290,6685_290,2.9 Å
+2283,5jlh,G,5jlh_G,"Myosin-14,Alpha-actinin A",6685_6,6685_6,3.9 Å
+2266,5jlh,G,5jlh_G,"Myosin-14,Alpha-actinin A",6685_80,6685_141;6685_233;6685_29;6685_33;6685_51,3.9 Å
+4539,6c1d,P,6c1d_P,Unconventional myosin-Ib,6685_6,6685_6,3.2 Å
+4596,6c1d,P,6c1d_P,Unconventional myosin-Ib,6685_33,6685_33,3.2 Å
+4313,5yu8,H,5yu8_H,Cofilin-2,6685_21,6685_21,3.8 Å
+4352,5yu8,I,5yu8_I,Cofilin-2,6685_21,6685_21,3.8 Å
+4332,5yu8,H,5yu8_H,Cofilin-2,6685_0,6685_0,3.8 Å
+4331,5yu8,J,5yu8_J,Cofilin-2,6685_21,6685_21,3.8 Å
+4394,5yu8,I,5yu8_I,Cofilin-2,6685_0,6685_0,3.8 Å
+4376,5yu8,J,5yu8_J,Cofilin-2,6685_0,6685_0,3.8 Å
+1093,6vao,G,6vao_G,Cofilin-1,6685_0,6685_0,3.4 Å
+2943,6upv,L,6upv_L,Catenin alpha-1,6685_16,6685_141,3.2 Å
+2963,6upv,L,6upv_L,Catenin alpha-1,6685_0,6685_0,3.2 Å
+2964,6upv,M,6upv_M,Catenin alpha-1,6685_16,6685_141,3.2 Å
+2900,6upv,M,6upv_M,Catenin alpha-1,6685_0,6685_0,3.2 Å
+4052,7jh7,F,7jh7_F,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.8 Å
+4703,7pdz,E,7pdz_E,Isoform 2 of F-actin-capping protein subunit beta,6685_89,6685_89,3.8 Å
+4682,7pdz,E,7pdz_E,Isoform 2 of F-actin-capping protein subunit beta,6685_90,6685_266;6685_5,3.8 Å
+4704,7pdz,F,7pdz_F,F-actin-capping protein subunit alpha-1,6685_91,6685_91,3.8 Å
+4683,7pdz,F,7pdz_F,F-actin-capping protein subunit alpha-1,6685_92,6685_92,3.8 Å
+4476,7p1g,K,7p1g_K,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
+4474,7p1g,M,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+4455,7p1g,L,7p1g_L,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
+4499,7p1g,M,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
+4434,7p1g,N,7p1g_N,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
+4419,7p1g,O,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",6685_95,6685_95,3.2 Å
+3593,7tpt,A,7tpt_A,Actin-related protein 3,6685_3,6685_3,3.9 Å
+3391,7tpt,A,7tpt_A,Actin-related protein 3,6685_106,6685_106,3.9 Å
+3364,7tpt,A,7tpt_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.9 Å
+3336,7tpt,A,7tpt_A,Actin-related protein 3,6685_108,6685_164;6685_179;6685_191;6685_233,3.9 Å
+3594,7tpt,B,7tpt_B,Actin-related protein 2,6685_109,6685_109,3.9 Å
+3565,7tpt,B,7tpt_B,Actin-related protein 2,6685_3,6685_3,3.9 Å
+3392,7tpt,C,7tpt_C,Actin-related protein 2/3 complex subunit 1B,6685_15,6685_0;6685_6,3.9 Å
+3365,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_110,6685_157;6685_259,3.9 Å
+3337,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,3.9 Å
+3311,7tpt,D,7tpt_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.9 Å
+3442,7tpt,E,7tpt_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.9 Å
+3338,7tpt,F,7tpt_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.9 Å
+3221,7z7h,F,7z7h_F,"Maltose/maltodextrin-binding periplasmic protein,TccC3",6685_119,6685_141;6685_65,3.8 Å
+3966,8efi,M,8efi_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.4 Å
+3883,8efi,M,8efi_M,Myosin-7,6685_6,6685_6,3.4 Å
+3864,8enc,M,8enc_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.6 Å
+3777,8enc,M,8enc_M,Myosin-7,6685_6,6685_6,3.6 Å
+3583,8efh,A,8efh_A,beta-cardiac myosin II,6685_140,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.3 Å
+3606,8efh,A,8efh_A,beta-cardiac myosin II,6685_97,6685_97,3.3 Å
+1488,8e9b,A,8e9b_A,Actin-related protein 3,6685_3,6685_3,3.5 Å
+1557,8e9b,A,8e9b_A,Actin-related protein 3,6685_142,6685_106,3.5 Å
+1536,8e9b,A,8e9b_A,Actin-related protein 3,6685_143,6685_156;6685_180,3.5 Å
+1489,8e9b,B,8e9b_B,Actin-related protein 2,6685_109,6685_109,3.5 Å
+1474,8e9b,B,8e9b_B,Actin-related protein 2,6685_3,6685_3,3.5 Å
+1558,8e9b,C,8e9b_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,3.5 Å
+1517,8e9b,C,8e9b_C,Actin-related protein 2/3 complex subunit 1,6685_145,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.5 Å
+1559,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_146,6685_183,3.5 Å
+1518,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_147,6685_111;6685_164,3.5 Å
+1502,8e9b,D,8e9b_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.5 Å
+1595,8e9b,E,8e9b_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.5 Å
+1519,8e9b,F,8e9b_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.5 Å
+4044,8iah,0,8iah_0,Adducin 1,6685_150,6685_150,3.6 Å
+4118,8iah,1,8iah_1,Adducin 1,6685_151,6685_151,3.6 Å
+4068,8iah,1,8iah_1,Adducin 1,6685_152,6685_152,3.6 Å
+4045,8iah,1,8iah_1,Adducin 1,6685_153,6685_180;6685_267,3.6 Å
+4046,8iah,2,8iah_2,Adducin 1,6685_154,6685_154,3.6 Å
+4095,8iah,3,8iah_3,Beta-adducin,6685_155,6685_155,3.6 Å
+4069,8iah,3,8iah_3,Beta-adducin,6685_156,6685_156,3.6 Å
+4047,8iah,3,8iah_3,Beta-adducin,6685_152,6685_152,3.6 Å
+4048,8iah,4,8iah_4,Beta-adducin,6685_157,6685_157,3.6 Å
+4248,8iah,5,8iah_5,Dematin actin binding protein,6685_158,6685_158,3.6 Å
+4226,8iah,5,8iah_5,Dematin actin binding protein,6685_159,6685_159,3.6 Å
+4202,8iah,5,8iah_5,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
+4203,8iah,6,8iah_6,Dematin actin binding protein,6685_158,6685_158,3.6 Å
+4179,8iah,6,8iah_6,Dematin actin binding protein,6685_159,6685_159,3.6 Å
+4156,8iah,6,8iah_6,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
+4157,8iah,7,8iah_7,Dematin actin binding protein,6685_158,6685_158,3.6 Å
+4137,8iah,7,8iah_7,Dematin actin binding protein,6685_159,6685_159,3.6 Å
+4119,8iah,7,8iah_7,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.6 Å
+4070,8iah,9,8iah_9,Beta-adducin,6685_150,6685_150,3.6 Å
+3857,8iai,1,8iai_1,Adducin 1,6685_151,6685_151,3.5 Å
+3823,8iai,1,8iai_1,Adducin 1,6685_152,6685_152,3.5 Å
+3841,8iai,3,8iai_3,Beta-adducin,6685_151,6685_151,3.5 Å
+3824,8iai,3,8iai_3,Beta-adducin,6685_166,6685_166,3.5 Å
+3985,8iai,5,8iai_5,Dematin actin binding protein,6685_158,6685_158,3.5 Å
+3959,8iai,5,8iai_5,Dematin actin binding protein,6685_159,6685_159,3.5 Å
+3935,8iai,5,8iai_5,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
+3936,8iai,6,8iai_6,Dematin actin binding protein,6685_158,6685_158,3.5 Å
+3915,8iai,6,8iai_6,Dematin actin binding protein,6685_159,6685_159,3.5 Å
+3896,8iai,6,8iai_6,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
+3897,8iai,7,8iai_7,Dematin actin binding protein,6685_158,6685_158,3.5 Å
+3876,8iai,7,8iai_7,Dematin actin binding protein,6685_159,6685_159,3.5 Å
+3858,8iai,7,8iai_7,Dematin actin binding protein,6685_160,6685_152;6685_164;6685_233;6685_3,3.5 Å
+3825,8iai,9,8iai_9,Adducin 1,6685_150,6685_150,3.5 Å
+4345,8ib2,5,8ib2_5,Dematin actin binding protein,6685_167,6685_106;6685_155;6685_162;6685_164;6685_184;6685_250;6685_257,3.8 Å
+4324,8ib2,5,8ib2_5,Dematin actin binding protein,6685_168,6685_168,3.8 Å
+3670,8p94,A,8p94_A,Actin-related protein 3,6685_3,6685_3,3.3 Å
+3575,8p94,A,8p94_A,Actin-related protein 3,6685_106,6685_106,3.3 Å
+3549,8p94,A,8p94_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.3 Å
+3518,8p94,A,8p94_A,Actin-related protein 3,6685_182,6685_164;6685_233,3.3 Å
+3671,8p94,B,8p94_B,Actin-related protein 2,6685_109,6685_109,3.3 Å
+3641,8p94,B,8p94_B,Actin-related protein 2,6685_3,6685_3,3.3 Å
+3576,8p94,C,8p94_C,Actin-related protein 2/3 complex subunit 1B,6685_144,6685_144,3.3 Å
+3519,8p94,C,8p94_C,Actin-related protein 2/3 complex subunit 1B,6685_145,6685_141;6685_152;6685_164;6685_179;6685_191;6685_225;6685_23;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.3 Å
+3577,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_183,6685_183,3.3 Å
+3520,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_184,6685_184,3.3 Å
+3497,8p94,D,8p94_D,Actin-related protein 2/3 complex subunit 2,6685_168,6685_168,3.3 Å
+3623,8p94,E,8p94_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.3 Å
+3578,8p94,E,8p94_E,Actin-related protein 2/3 complex subunit 3,6685_185,6685_114;6685_141;6685_162;6685_260,3.3 Å
+3521,8p94,F,8p94_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.3 Å
+3672,8p94,G,8p94_G,Actin-related protein 2/3 complex subunit 5-like protein,6685_186,6685_164;6685_179;6685_233;6685_261;6685_295,3.3 Å
+3674,8p94,I,8p94_I,Src substrate cortactin,6685_188,6685_188,3.3 Å
+3479,8p94,U,8p94_U,F-actin-capping protein subunit alpha-1,6685_91,6685_91,3.3 Å
+3480,8p94,V,8p94_V,Isoform 2 of F-actin-capping protein subunit beta,6685_89,6685_89,3.3 Å
+842,8uxw,A,8uxw_A,Actin-related protein 3,6685_3,6685_3,2.7 Å
+766,8uxw,A,8uxw_A,Actin-related protein 3,6685_142,6685_106,2.7 Å
+751,8uxw,A,8uxw_A,Actin-related protein 3,6685_107,6685_156;6685_180,2.7 Å
+843,8uxw,B,8uxw_B,Actin-related protein 2,6685_109,6685_109,2.7 Å
+823,8uxw,B,8uxw_B,Actin-related protein 2,6685_3,6685_3,2.7 Å
+767,8uxw,C,8uxw_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,2.7 Å
+733,8uxw,C,8uxw_C,Actin-related protein 2/3 complex subunit 1,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,2.7 Å
+768,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_146,6685_183,2.7 Å
+734,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,2.7 Å
+716,8uxw,D,8uxw_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,2.7 Å
+804,8uxw,E,8uxw_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,2.7 Å
+769,8uxw,E,8uxw_E,Actin-related protein 2/3 complex subunit 3,6685_194,6685_141;6685_250,2.7 Å
+735,8uxw,F,8uxw_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,2.7 Å
+698,8uxx,A,8uxx_A,Actin-related protein 3,6685_3,6685_3,3.2 Å
+601,8uxx,A,8uxx_A,Actin-related protein 3,6685_142,6685_106,3.2 Å
+571,8uxx,A,8uxx_A,Actin-related protein 3,6685_107,6685_156;6685_180,3.2 Å
+699,8uxx,B,8uxx_B,Actin-related protein 2,6685_109,6685_109,3.2 Å
+679,8uxx,B,8uxx_B,Actin-related protein 2,6685_3,6685_3,3.2 Å
+602,8uxx,C,8uxx_C,Actin-related protein 2/3 complex subunit 1,6685_144,6685_144,3.2 Å
+540,8uxx,C,8uxx_C,Actin-related protein 2/3 complex subunit 1,6685_193,6685_141;6685_233;6685_29;6685_33;6685_51;6685_65,3.2 Å
+603,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_195,6685_183,3.2 Å
+541,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_111,6685_111,3.2 Å
+515,8uxx,D,8uxx_D,Actin-related protein 2/3 complex subunit 2,6685_112,6685_112,3.2 Å
+661,8uxx,E,8uxx_E,Actin-related protein 2/3 complex subunit 3,6685_113,6685_113,3.2 Å
+604,8uxx,E,8uxx_E,Actin-related protein 2/3 complex subunit 3,6685_194,6685_141;6685_250,3.2 Å
+542,8uxx,F,8uxx_F,Actin-related protein 2/3 complex subunit 4,6685_114,6685_114,3.2 Å
+4321,9azp,G,9azp_G,Inverted formin-2,6685_215,6685_215,3.8 Å
+4322,9azp,H,9azp_H,Inverted formin-2,6685_26,6685_164,3.8 Å
+4178,9azq,H,9azq_H,Inverted formin-2,6685_217,6685_164;6685_202,3.8 Å
+221,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
+194,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
+146,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
+126,8vfm,A,8vfm_A,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
+246,8vfm,B,8vfm_B,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
+107,8vfm,B,8vfm_B,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
+247,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
+195,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
+147,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
+127,8vfm,C,8vfm_C,Cell invasion protein SipA,6685_235,6685_178,3.6 Å
+222,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_236,6685_112;6685_180;6685_264,3.6 Å
+179,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_179,6685_179,3.6 Å
+165,8vfm,I,8vfm_I,Cell invasion protein SipA,6685_180,6685_180,3.6 Å
+4329,9gob,F,9gob_F,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.2 Å
+4234,9hm9,F,9hm9_F,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.4 Å
+4545,8zb7,K,8zb7_K,Myosin-7,6685_6,6685_6,3.2 Å
+4636,8zb7,M,8zb7_M,Myosin-7,6685_25,6685_141;6685_152;6685_164;6685_233;6685_250;6685_29;6685_295;6685_3;6685_33;6685_51;6685_65,3.2 Å
+4562,8zb7,M,8zb7_M,Myosin-7,6685_6,6685_6,3.2 Å
+1447,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,2.4 Å
+1425,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,2.4 Å
+1404,9qf2,H,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,2.4 Å
+905,9qfg,H,9qfg_H,Cofilin-1,6685_21,6685_21,3.5 Å
+906,9qfg,I,9qfg_I,Cofilin-1,6685_0,6685_0,3.5 Å
+907,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_265,6685_180;6685_262;6685_267,3.5 Å
+886,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
+887,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
+865,9qfg,I,9qfg_I,Cofilin-1,6685_21,6685_21,3.5 Å
+868,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
+866,9qfg,L,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
+867,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_265,6685_180;6685_262;6685_267,3.5 Å
+850,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
+848,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
+849,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
+831,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
+832,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_263,6685_263,3.5 Å
+829,9qfg,M,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
+830,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
+815,9qfg,J,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
+816,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_262,6685_262,3.5 Å
+814,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
+798,9qfg,K,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_261,6685_261,3.5 Å
+797,9qfg,N,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",6685_264,6685_264,3.5 Å
+780,9qfj,G,9qfj_G,Cofilin-1,6685_0,6685_0,2.3 Å
+758,9qfj,F,9qfj_F,Cofilin-1,6685_21,6685_21,2.3 Å
+759,9qfj,H,9qfj_H,Cofilin-1,6685_0,6685_0,2.3 Å
+743,9qfj,G,9qfj_G,Cofilin-1,6685_21,6685_21,2.3 Å
+744,9qfj,I,9qfj_I,Cofilin-1,6685_0,6685_0,2.3 Å
+725,9qfj,H,9qfj_H,Cofilin-1,6685_21,6685_21,2.3 Å
+726,9qfj,J,9qfj_J,Cofilin-1,6685_0,6685_0,2.3 Å
+708,9qfj,I,9qfj_I,Cofilin-1,6685_21,6685_21,2.3 Å
+506,9qfo,G,9qfo_G,Cofilin-1,6685_0,6685_0,3.0 Å
+485,9qfo,H,9qfo_H,Cofilin-1,6685_0,6685_0,3.0 Å
+464,9qfo,G,9qfo_G,Cofilin-1,6685_21,6685_21,3.0 Å
+465,9qfo,I,9qfo_I,Cofilin-1,6685_0,6685_0,3.0 Å
+444,9qfo,H,9qfo_H,Cofilin-1,6685_21,6685_21,3.0 Å
+445,9qfo,J,9qfo_J,Cofilin-1,6685_0,6685_0,3.0 Å
+427,9qfo,I,9qfo_I,Cofilin-1,6685_21,6685_21,3.0 Å
+410,9qfo,J,9qfo_J,Cofilin-1,6685_21,6685_21,3.0 Å
+393,9qfq,F,9qfq_F,Cofilin-1,6685_0,6685_0,2.8 Å
+375,9qfq,G,9qfq_G,Cofilin-1,6685_0,6685_0,2.8 Å
+356,9qfq,F,9qfq_F,Cofilin-1,6685_21,6685_21,2.8 Å
+357,9qfq,H,9qfq_H,Cofilin-1,6685_0,6685_0,2.8 Å
+334,9qfq,G,9qfq_G,Cofilin-1,6685_21,6685_21,2.8 Å
+335,9qfq,I,9qfq_I,Cofilin-1,6685_0,6685_0,2.8 Å
+336,9qfq,P,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_266,6685_266,2.8 Å
+313,9qfq,H,9qfq_H,Cofilin-1,6685_21,6685_21,2.8 Å
+314,9qfq,J,9qfq_J,Cofilin-1,6685_0,6685_0,2.8 Å
+315,9qfq,P,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",6685_267,6685_267,2.8 Å
+2516,9qgk,A,9qgk_A,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
+2501,9qgk,A,9qgk_A,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
+2553,9qgk,B,9qgk_B,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
+2485,9qgk,B,9qgk_B,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
+2536,9qgk,C,9qgk_C,Inositol-trisphosphate 3-kinase A,6685_241,6685_141;6685_250;6685_29;6685_51,3.0 Å
+2517,9qgk,C,9qgk_C,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
+2486,9qgk,D,9qgk_D,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
+2537,9qgk,E,9qgk_E,Inositol-trisphosphate 3-kinase A,6685_144,6685_144,3.0 Å
+4744,9zzm,L,9zzm_L,Leiomodin-2,6685_282,6685_282,3.6 Å
+4745,9zzm,M,9zzm_M,Leiomodin-2,6685_285,6685_285,3.6 Å
+1655,38kn,a,38kn_a,Cofilin,6685_290,6685_290,2.0 Å
+1632,38kn,b,38kn_b,Cofilin,6685_290,6685_290,2.0 Å
+1613,38kn,c,38kn_c,Cofilin,6685_290,6685_290,2.0 Å

@@ -133,7 +133,6 @@ Dans la nouvelle vue de chimie, une relecture a également imposé une moyenne p
 
 Les méthodes, paramètres, couvertures et limites figurent dans SCIENTIFIC_ANALYSES.md. Le nouveau calcul d'accessibilité a son propre manifeste et son contrôle numérique 480/960 points. Les tableaux de comparaison inter-gènes et de chimie sont reproductibles avec `tools/export_scientific_audit.py`. Les anciens exports spécialisés de chimie/FoldDisco non listés dans ces manifestes ne sont pas réputés régénérés. Les tests ne constituent pas une validation biologique de toutes les interfaces ou une validation clinique des variants.
 
-
 ## Sélections interactives et échelles de couleur — 1 octobre 2026
 
 Les clics Plotly sont traités par des callbacks d’événement : une ancienne sélection ne réécrit plus les choix manuels des résidus ou des clusters lors des reruns. La vue d’ensemble garde le résidu choisi dans le menu, la fiche, la surface et son repère sur le graphique.
@@ -255,3 +254,28 @@ its required security policy. No alternate browser path was used. AppTest valida
 page execution and generated controls, but does not certify the rendered WebGL
 framing or tooltip appearance on the user's screen. These visual changes therefore
 still need a browser check once that tool access is available.
+
+
+## Source reconstruction and Cloud preparation - 3 October 2026
+
+- 125 unit tests pass in each checkout, including source reconstruction, complete
+  ProteoCast grids, correct interaction-chain selection, and safe Cloud cleanup.
+- All 11 pages and representative controls pass `tools/check_app.py` in the full
+  project and the refreshed public dataset. These checks do not submit remote jobs.
+- All 15 registered local calculation groups completed. Their input, code and
+  output checksums are current. Four ABP summary figures were also regenerated.
+- `tools/sync_cloud_dataset.py` checks the full source dataset and calculation
+  receipts before copying it to the public checkout. It keeps displayed results,
+  assemblies, existing alignments and public-only historical imports. It removes
+  only tracked working indexes/comparison files and byte-identical duplicate
+  copies. Untracked conflicting user files stop synchronization.
+- The refreshed public core contains 2,325 retained interaction records and 159
+  PDBs, matching the local dataset (the previous public snapshot had 2,152 / 151).
+  It includes 49 complete ProteoCast profiles among 57 source ABP entries and
+  the 206 local FoldDisco motif control results. Missing external profiles stay
+  explicitly unavailable. No synthetic results are substituted.
+- The Cloud snapshot carries `reports/cloud_snapshot.json`; local source receipts
+  do not certify extra historical files retained only in the public build.
+
+GitHub publication and online runtime verification are different checks. Browser
+access remains blocked; no fresh live Cloud/WebGL inspection is claimed.

@@ -1,4 +1,304 @@
 pdb_id,chain,protein,is_actin
+7bti,7bti_A,"Actin, alpha skeletal muscle",True
+7bti,7bti_B,"Actin, alpha skeletal muscle",True
+7bti,7bti_C,"Actin, alpha skeletal muscle",True
+7bti,7bti_D,"Actin, alpha skeletal muscle",True
+7bti,7bti_E,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_Q,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_R,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_S,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_c,Vibrio VopV,False
+9p3d,9p3d_d,Vibrio VopV,False
+9p3d,9p3d_T,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_e,Vibrio VopV,False
+9p3d,9p3d_U,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_f,Vibrio VopV,False
+9p3d,9p3d_V,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_g,Vibrio VopV,False
+9p3d,9p3d_W,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_h,Vibrio VopV,False
+9p3d,9p3d_X,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_i,Vibrio VopV,False
+9p3d,9p3d_Y,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_j,Vibrio VopV,False
+9p3d,9p3d_Z,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_k,Vibrio VopV,False
+9p3d,9p3d_a,"Actin, alpha skeletal muscle",True
+9p3d,9p3d_l,Vibrio VopV,False
+9p3d,9p3d_m,Vibrio VopV,False
+6m5g,6m5g_A,"Actin, alpha skeletal muscle",True
+6m5g,6m5g_B,"Actin, alpha skeletal muscle",True
+6m5g,6m5g_C,"Actin, alpha skeletal muscle",True
+6m5g,6m5g_G,Utrophin,False
+6m5g,6m5g_D,"Actin, alpha skeletal muscle",True
+6m5g,6m5g_F,Utrophin,False
+6m5g,6m5g_E,"Actin, alpha skeletal muscle",True
+6m5g,6m5g_H,Utrophin,False
+8uz1,8uz1_J,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_K,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_L,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_M,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_N,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_O,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_P,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_Q,"Actin, alpha skeletal muscle",True
+8uz1,8uz1_R,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_B,Cell invasion protein SipA,False
+8vfm,8vfm_J,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_W,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_A,Cell invasion protein SipA,False
+8vfm,8vfm_L,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_M,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_S,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_U,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_C,Cell invasion protein SipA,False
+8vfm,8vfm_I,Cell invasion protein SipA,False
+8vfm,8vfm_N,"Actin, alpha skeletal muscle",True
+8vfm,8vfm_R,"Actin, alpha skeletal muscle",True
+9az6,9az6_A,"Actin, alpha skeletal muscle",True
+9az6,9az6_B,"Actin, alpha skeletal muscle",True
+9az6,9az6_C,"Actin, alpha skeletal muscle",True
+9az6,9az6_H,Talin-1,False
+9az6,9az6_I,Talin-1,False
+9az6,9az6_D,"Actin, alpha skeletal muscle",True
+9az6,9az6_F,Talin-1,False
+9az6,9az6_J,Talin-1,False
+9az6,9az6_K,Talin-1,False
+9az6,9az6_E,"Actin, alpha skeletal muscle",True
+9az6,9az6_L,Talin-1,False
+9az6,9az6_M,Talin-1,False
+9az6,9az6_G,Talin-1,False
+9qfw,9qfw_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfw,9qfw_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfw,9qfw_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfw,9qfw_F,Cofilin-1,False
+9qfw,9qfw_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfw,9qfw_G,Cofilin-1,False
+9qfw,9qfw_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfw,9qfw_H,Cofilin-1,False
+9qfw,9qfw_I,Cofilin-1,False
+9qfw,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfw,9qfw_J,Cofilin-1,False
+9qfw,9qfw_Q,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
+6wvt,6wvt_B,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_D,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_I,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_N,Catenin alpha-1,False
+6wvt,6wvt_E,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_K,Catenin alpha-1,False
+6wvt,6wvt_L,Catenin alpha-1,False
+6wvt,6wvt_F,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_H,"Actin, alpha skeletal muscle",True
+6wvt,6wvt_O,Catenin alpha-1,False
+6wvt,6wvt_Q,Catenin alpha-1,False
+6wvt,6wvt_X,Catenin alpha-1,False
+8uz0,8uz0_J,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_K,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_L,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_M,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_N,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_O,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_P,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_Q,"Actin, alpha skeletal muscle",True
+8uz0,8uz0_R,"Actin, alpha skeletal muscle",True
+9dva,9dva_A,"Actin, alpha skeletal muscle",True
+9dva,9dva_B,"Actin, alpha skeletal muscle",True
+9dva,9dva_D,"Actin, alpha skeletal muscle",True
+9dva,9dva_H,Catenin alpha-1,False
+9dva,9dva_C,"Actin, alpha skeletal muscle",True
+9dva,9dva_E,"Actin, alpha skeletal muscle",True
+9dva,9dva_F,Catenin alpha-1,False
+9dva,9dva_G,Afadin,False
+9qfq,9qfq_F,Cofilin-1,False
+9qfq,9qfq_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfq,9qfq_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfq,9qfq_G,Cofilin-1,False
+9qfq,9qfq_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfq,9qfq_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfq,9qfq_H,Cofilin-1,False
+9qfq,9qfq_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfq,9qfq_I,Cofilin-1,False
+9qfq,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfq,9qfq_J,Cofilin-1,False
+9duu,9duu_A,"Actin, alpha skeletal muscle",True
+9duu,9duu_B,"Actin, alpha skeletal muscle",True
+9duu,9duu_C,"Actin, alpha skeletal muscle",True
+9duu,9duu_D,"Actin, alpha skeletal muscle",True
+9duu,9duu_E,"Actin, alpha skeletal muscle",True
+9duu,9duu_F,"Actin, alpha skeletal muscle",True
+8pvx,8pvx_C,"Actin, alpha skeletal muscle",True
+8pvx,8pvx_E,"Actin, alpha skeletal muscle",True
+8pvx,8pvx_A,"Actin, alpha skeletal muscle",True
+8pvx,8pvx_D,"Actin, alpha skeletal muscle",True
+8pvx,8pvx_B,"Actin, alpha skeletal muscle",True
+6vec,6vec_A,"Actin, alpha skeletal muscle",True
+6vec,6vec_B,"Actin, alpha skeletal muscle",True
+6vec,6vec_C,"Actin, alpha skeletal muscle",True
+6vec,6vec_D,"Actin, alpha skeletal muscle",True
+6vec,6vec_E,"Actin, alpha skeletal muscle",True
+6vec,6vec_a,Epididymis secretory protein Li 37,False
+6vec,6vec_e,Epididymis secretory protein Li 37,False
+6vec,6vec_F,"Actin, alpha skeletal muscle",True
+6vec,6vec_b,Epididymis secretory protein Li 37,False
+6vec,6vec_c,Epididymis secretory protein Li 37,False
+6vec,6vec_G,"Actin, alpha skeletal muscle",True
+6vec,6vec_g,Epididymis secretory protein Li 37,False
+6vec,6vec_H,"Actin, alpha skeletal muscle",True
+6vec,6vec_d,Epididymis secretory protein Li 37,False
+6vec,6vec_I,"Actin, alpha skeletal muscle",True
+6vec,6vec_i,Epididymis secretory protein Li 37,False
+6vec,6vec_J,"Actin, alpha skeletal muscle",True
+6vec,6vec_f,Epididymis secretory protein Li 37,False
+6vec,6vec_K,"Actin, alpha skeletal muscle",True
+6vec,6vec_k,Epididymis secretory protein Li 37,False
+6vec,6vec_h,Epididymis secretory protein Li 37,False
+6vec,6vec_j,Epididymis secretory protein Li 37,False
+9qfo,9qfo_G,Cofilin-1,False
+9qfo,9qfo_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfo,9qfo_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfo,9qfo_H,Cofilin-1,False
+9qfo,9qfo_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfo,9qfo_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfo,9qfo_I,Cofilin-1,False
+9qfo,9qfo_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfo,9qfo_J,Cofilin-1,False
+9qfo,9qfo_F,"Actin, cytoplasmic 1, N-terminally processed",True
+8vkh,8vkh_A,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_B,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_C,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_D,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_E,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_H,Gelsolin,False
+8vkh,8vkh_F,"Actin, alpha skeletal muscle",True
+8vkh,8vkh_G,Gelsolin,False
+8zbn,8zbn_B,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_I,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_J,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_K,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_M,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_S,Tropomyosin alpha-1 chain,False
+8zbn,8zbn_A,Myosin-6,False
+8zbn,8zbn_C,Myosin-6,False
+8zbn,8zbn_D,"Actin, alpha cardiac muscle 1",True
+8zbn,8zbn_R,Tropomyosin alpha-1 chain,False
+8zbn,8zbn_H,Myosin-6,False
+8zbn,8zbn_L,Myosin-6,False
+8zbn,8zbn_U,Tropomyosin alpha-1 chain,False
+8zbn,8zbn_T,Tropomyosin alpha-1 chain,False
+8zbn,8zbn_F,Myosin-6,False
+8zbn,8zbn_G,Myosin-6,False
+3j8a,3j8a_E,"Actin, alpha skeletal muscle",True
+3j8a,3j8a_D,"Actin, alpha skeletal muscle",True
+3j8a,3j8a_A,"Actin, alpha skeletal muscle",True
+3j8a,3j8a_C,"Actin, alpha skeletal muscle",True
+3j8a,3j8a_B,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_A,Actin-related protein 3,False
+8uxx,8uxx_B,Actin-related protein 2,False
+8uxx,8uxx_D,Actin-related protein 2/3 complex subunit 2,False
+8uxx,8uxx_E,Actin-related protein 2/3 complex subunit 3,False
+8uxx,8uxx_F,Actin-related protein 2/3 complex subunit 4,False
+8uxx,8uxx_H,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_O,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_P,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_C,Actin-related protein 2/3 complex subunit 1,False
+8uxx,8uxx_G,Actin-related protein 2/3 complex subunit 5,False
+8uxx,8uxx_I,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_Q,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_R,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_M,"Actin, alpha skeletal muscle",True
+8uxx,8uxx_N,"Actin, alpha skeletal muscle",True
+9qfk,9qfk_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfk,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfk,9qfk_J,Cofilin-1,False
+9qfk,9qfk_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfk,9qfk_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfk,9qfk_F,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfk,9qfk_G,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfk,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+8viz,8viz_A,"Actin, alpha skeletal muscle",True
+8viz,8viz_B,"Actin, alpha skeletal muscle",True
+8viz,8viz_C,"Actin, alpha skeletal muscle",True
+8viz,8viz_D,"Actin, alpha skeletal muscle",True
+8viz,8viz_E,"Actin, alpha skeletal muscle",True
+8viz,8viz_F,"Actin, alpha skeletal muscle",True
+8viz,8viz_G,Gelsolin,False
+7ad9,7ad9_B,"Actin, alpha skeletal muscle",True
+7ad9,7ad9_D,"Actin, alpha skeletal muscle",True
+7ad9,7ad9_H,"Actin, alpha skeletal muscle",True
+7ad9,7ad9_F,"Actin, alpha skeletal muscle",True
+7ad9,7ad9_I,"Actin, alpha skeletal muscle",True
+8v30,8v30_A,"Actin, gamma-enteric smooth muscle",True
+8v30,8v30_B,"Actin, gamma-enteric smooth muscle",True
+8v30,8v30_C,"Actin, gamma-enteric smooth muscle",True
+8v30,8v30_D,"Actin, gamma-enteric smooth muscle",True
+8v30,8v30_E,"Actin, gamma-enteric smooth muscle",True
+9qfj,9qfj_G,Cofilin-1,False
+9qfj,9qfj_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfj,9qfj_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfj,9qfj_F,Cofilin-1,False
+9qfj,9qfj_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfj,9qfj_H,Cofilin-1,False
+9qfj,9qfj_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfj,9qfj_I,Cofilin-1,False
+9qfj,9qfj_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfj,9qfj_J,Cofilin-1,False
+8uxw,8uxw_A,Actin-related protein 3,False
+8uxw,8uxw_B,Actin-related protein 2,False
+8uxw,8uxw_D,Actin-related protein 2/3 complex subunit 2,False
+8uxw,8uxw_E,Actin-related protein 2/3 complex subunit 3,False
+8uxw,8uxw_F,Actin-related protein 2/3 complex subunit 4,False
+8uxw,8uxw_H,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_O,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_P,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_C,Actin-related protein 2/3 complex subunit 1,False
+8uxw,8uxw_G,Actin-related protein 2/3 complex subunit 5,False
+8uxw,8uxw_I,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_Q,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_R,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_M,"Actin, alpha skeletal muscle",True
+8uxw,8uxw_N,"Actin, alpha skeletal muscle",True
+8v2z,8v2z_A,"Actin, gamma-enteric smooth muscle",True
+8v2z,8v2z_B,"Actin, gamma-enteric smooth muscle",True
+8v2z,8v2z_C,"Actin, gamma-enteric smooth muscle",True
+8v2z,8v2z_D,"Actin, gamma-enteric smooth muscle",True
+8v2z,8v2z_E,"Actin, gamma-enteric smooth muscle",True
+6u96,6u96_E,"Actin, alpha skeletal muscle",True
+6u96,6u96_A,"Actin, alpha skeletal muscle",True
+6u96,6u96_C,"Actin, alpha skeletal muscle",True
+6u96,6u96_D,"Actin, alpha skeletal muscle",True
+6u96,6u96_B,"Actin, alpha skeletal muscle",True
+9qfg,9qfg_H,Cofilin-1,False
+9qfg,9qfg_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_I,Cofilin-1,False
+9qfg,9qfg_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfg,9qfg_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfg,9qfg_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_E,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfg,9qfg_F,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_G,"Actin, cytoplasmic 1, N-terminally processed",True
+9qfg,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+9qfg,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
+8c4e,8c4e_A,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_B,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_C,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_M,Cell invasion protein SipA,False
+8c4e,8c4e_N,Cell invasion protein SipA,False
+8c4e,8c4e_D,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_E,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_K,Cell invasion protein SipA,False
+8c4e,8c4e_F,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_L,Cell invasion protein SipA,False
+8c4e,8c4e_G,"Actin, alpha skeletal muscle",True
+8c4e,8c4e_H,"Actin, alpha skeletal muscle",True
 9qfe,9qfe_A,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfe,9qfe_B,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfe,9qfe_C,"Actin, cytoplasmic 1, N-terminally processed",True
@@ -24,28 +324,38 @@ pdb_id,chain,protein,is_actin
 8uee,8uee_A,Cell invasion protein SipA,False
 8uee,8uee_L,"Actin, alpha skeletal muscle",True
 8uee,8uee_B,Cell invasion protein SipA,False
-7uuw,7uuw_A,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_B,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_C,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_H,Alpha-catenin-like protein hmp-1,False
-7uuw,7uuw_D,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_G,Alpha-catenin-like protein hmp-1,False
-7uuw,7uuw_I,Alpha-catenin-like protein hmp-1,False
-7uuw,7uuw_E,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_Z,Alpha-catenin-like protein hmp-1,False
-7uuw,7uuw_F,"Actin, alpha skeletal muscle",True
-7uuw,7uuw_K,Alpha-catenin-like protein hmp-1,False
-7uuw,7uuw_L,Alpha-catenin-like protein hmp-1,False
-6iug,6iug_A,pollen F-actin,True
-6iug,6iug_B,pollen F-actin,True
-6iug,6iug_C,pollen F-actin,True
-6iug,6iug_D,pollen F-actin,True
-6iug,6iug_E,pollen F-actin,True
-8thy,8thy_A,Actin,True
-8thy,8thy_B,Actin,True
-8thy,8thy_C,Actin,True
-8thy,8thy_D,Actin,True
-8thy,8thy_E,Actin,True
+8c4c,8c4c_A,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_B,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_C,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_M,Cell invasion protein SipA,False
+8c4c,8c4c_N,Cell invasion protein SipA,False
+8c4c,8c4c_D,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_E,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_F,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_K,Cell invasion protein SipA,False
+8c4c,8c4c_G,"Actin, alpha skeletal muscle",True
+8c4c,8c4c_L,Cell invasion protein SipA,False
+8c4c,8c4c_H,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_A,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_B,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_C,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_K,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_D,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_L,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_E,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_M,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_F,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_N,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_G,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_O,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_H,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_P,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_I,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_Q,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_J,"Actin, alpha skeletal muscle",True
+8vaa,8vaa_R,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_S,F-actin-binding Coiled-Coil domain of LFAT1,False
+8vaa,8vaa_T,F-actin-binding Coiled-Coil domain of LFAT1,False
 9qfd,9qfd_A,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfd,9qfd_B,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfd,9qfd_C,"Actin, cytoplasmic 1, N-terminally processed",True
@@ -60,20 +370,45 @@ pdb_id,chain,protein,is_actin
 9qfd,9qfd_M,Cofilin-1,False
 9qfd,9qfd_G,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfd,9qfd_N,Cofilin-1,False
-12by,12by_A,"Actin, alpha skeletal muscle",True
-12by,12by_B,"Actin, alpha skeletal muscle",True
-12by,12by_C,"Actin, alpha skeletal muscle",True
-12by,12by_D,"Actin, alpha skeletal muscle",True
-12by,12by_E,"Actin, alpha skeletal muscle",True
-12by,12by_I,Gelsolin,False
-12by,12by_F,"Actin, alpha skeletal muscle",True
-12by,12by_G,"Actin, alpha skeletal muscle",True
-12by,12by_H,"Actin, alpha skeletal muscle",True
-8thx,8thx_A,Actin,True
-8thx,8thx_B,Actin,True
-8thx,8thx_C,Actin,True
-8thx,8thx_D,Actin,True
-8thx,8thx_E,Actin,True
+6vao,6vao_C,"Actin, alpha skeletal muscle",True
+6vao,6vao_A,"Actin, alpha skeletal muscle",True
+6vao,6vao_D,"Actin, alpha skeletal muscle",True
+6vao,6vao_J,Cofilin-1,False
+6vao,6vao_B,"Actin, alpha skeletal muscle",True
+6vao,6vao_G,Cofilin-1,False
+6vao,6vao_E,"Actin, alpha skeletal muscle",True
+6vao,6vao_F,Cofilin-1,False
+6vao,6vao_I,Cofilin-1,False
+6vao,6vao_H,Cofilin-1,False
+8f8t,8f8t_A,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_B,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_C,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_T,Tropomodulin-1,False
+8f8t,8f8t_D,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_E,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_F,"Actin, alpha skeletal muscle",True
+8f8t,8f8t_G,"Actin, alpha skeletal muscle",True
+6vau,6vau_E,"Actin, alpha skeletal muscle",True
+6vau,6vau_A,"Actin, alpha skeletal muscle",True
+6vau,6vau_B,"Actin, alpha skeletal muscle",True
+6vau,6vau_D,"Actin, alpha skeletal muscle",True
+6vau,6vau_C,"Actin, alpha skeletal muscle",True
+38kq,38kq_A,"Actin, alpha skeletal muscle",True
+38kq,38kq_B,"Actin, alpha skeletal muscle",True
+38kq,38kq_C,"Actin, alpha skeletal muscle",True
+38kq,38kq_a,Cofilin,False
+38kq,38kq_D,"Actin, alpha skeletal muscle",True
+38kq,38kq_b,Cofilin,False
+38kq,38kq_E,"Actin, alpha skeletal muscle",True
+38kq,38kq_X,Actin-interacting protein 1,False
+38kq,38kq_c,Cofilin,False
+38kq,38kq_F,"Actin, alpha skeletal muscle",True
+38kq,38kq_d,Cofilin,False
+38kq,38kq_G,"Actin, alpha skeletal muscle",True
+38kq,38kq_Y,Actin-interacting protein 1,False
+38kq,38kq_e,Cofilin,False
+38kq,38kq_H,"Actin, alpha skeletal muscle",True
+38kq,38kq_f,Cofilin,False
 9qfb,9qfb_A,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfb,9qfb_B,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfb,9qfb_C,"Actin, cytoplasmic 1, N-terminally processed",True
@@ -88,15 +423,18 @@ pdb_id,chain,protein,is_actin
 9qfb,9qfb_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
 9qfb,9qfb_G,"Actin, cytoplasmic 1, N-terminally processed",True
 9qfb,9qfb_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-12bw,12bw_A,"Actin, alpha skeletal muscle",True
-12bw,12bw_B,"Actin, alpha skeletal muscle",True
-12bw,12bw_C,"Actin, alpha skeletal muscle",True
-12bw,12bw_D,"Actin, alpha skeletal muscle",True
-12bw,12bw_E,"Actin, alpha skeletal muscle",True
-12bw,12bw_I,Gelsolin,False
-12bw,12bw_F,"Actin, alpha skeletal muscle",True
-12bw,12bw_G,"Actin, alpha skeletal muscle",True
-12bw,12bw_H,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_A,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_B,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_C,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_D,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_E,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_F,"Actin, alpha skeletal muscle",True
+8f8s,8f8s_G,"Actin, alpha skeletal muscle",True
+8ord,8ord_A,"Actin, alpha 1b, skeletal muscle",True
+8ord,8ord_B,"Actin, alpha 1b, skeletal muscle",True
+8ord,8ord_C,"Actin, alpha 1b, skeletal muscle",True
+8ord,8ord_D,"Actin, alpha 1b, skeletal muscle",True
+8ord,8ord_E,"Actin, alpha 1b, skeletal muscle",True
 9qf2,9qf2_C,"Actin, cytoplasmic 1, N-terminally processed",True
 9qf2,9qf2_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
 9qf2,9qf2_A,"Actin, cytoplasmic 1, N-terminally processed",True
@@ -107,13 +445,18 @@ pdb_id,chain,protein,is_actin
 9qf2,9qf2_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
 9qf2,9qf2_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
 9qf2,9qf2_F,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-8d18,8d18_A,"Actin, alpha skeletal muscle",True
-8d18,8d18_B,"Actin, alpha skeletal muscle",True
-8d18,8d18_C,"Actin, alpha skeletal muscle",True
-8d18,8d18_D,"Actin, alpha skeletal muscle",True
-8d18,8d18_E,"Actin, alpha skeletal muscle",True
-8d18,8d18_F,"Actin, alpha skeletal muscle",True
-8d18,8d18_G,"Actin, alpha skeletal muscle",True
+38kp,38kp_A,"Actin, alpha skeletal muscle",True
+38kp,38kp_B,"Actin, alpha skeletal muscle",True
+38kp,38kp_C,"Actin, alpha skeletal muscle",True
+38kp,38kp_a,Cofilin,False
+38kp,38kp_D,"Actin, alpha skeletal muscle",True
+38kp,38kp_b,Cofilin,False
+38kp,38kp_E,"Actin, alpha skeletal muscle",True
+38kp,38kp_c,Cofilin,False
+38kp,38kp_F,"Actin, alpha skeletal muscle",True
+38kp,38kp_d,Cofilin,False
+38kp,38kp_G,"Actin, alpha skeletal muscle",True
+38kp,38kp_e,Cofilin,False
 8e9b,8e9b_A,Actin-related protein 3,False
 8e9b,8e9b_B,Actin-related protein 2,False
 8e9b,8e9b_D,Actin-related protein 2/3 complex subunit 2,False
@@ -135,11 +478,228 @@ pdb_id,chain,protein,is_actin
 9qey,9qey_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
 9qey,9qey_D,"Actin, cytoplasmic 1, N-terminally processed",True
 9qey,9qey_E,"Actin, cytoplasmic 1, N-terminally processed",True
+8f8r,8f8r_A,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_B,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_C,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_D,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_E,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_F,"Actin, alpha skeletal muscle",True
+8f8r,8f8r_G,"Actin, alpha skeletal muscle",True
+38ko,38ko_A,"Actin, alpha skeletal muscle",True
+38ko,38ko_B,"Actin, alpha skeletal muscle",True
+38ko,38ko_C,"Actin, alpha skeletal muscle",True
+38ko,38ko_a,Cofilin,False
+38ko,38ko_D,"Actin, alpha skeletal muscle",True
+38ko,38ko_X,Actin-interacting protein 1,False
+38ko,38ko_b,Cofilin,False
+38ko,38ko_E,"Actin, alpha skeletal muscle",True
+38ko,38ko_c,Cofilin,False
+38ko,38ko_Y,Actin-interacting protein 1,False
+38ko,38ko_d,Cofilin,False
+38ko,38ko_e,Cofilin,False
+9qew,9qew_C,"Actin, cytoplasmic 1, N-terminally processed",True
+9qew,9qew_A,"Actin, cytoplasmic 1, N-terminally processed",True
+9qew,9qew_B,"Actin, cytoplasmic 1, N-terminally processed",True
+9qew,9qew_D,"Actin, cytoplasmic 1, N-terminally processed",True
+9qew,9qew_E,"Actin, cytoplasmic 1, N-terminally processed",True
+8a2z,8a2z_C,"Actin, alpha skeletal muscle",True
+8a2z,8a2z_A,"Actin, alpha skeletal muscle",True
+8a2z,8a2z_B,"Actin, alpha skeletal muscle",True
+8a2z,8a2z_D,"Actin, alpha skeletal muscle",True
+8a2z,8a2z_E,"Actin, alpha skeletal muscle",True
+38kn,38kn_A,"Actin, alpha skeletal muscle",True
+38kn,38kn_B,"Actin, alpha skeletal muscle",True
+38kn,38kn_C,"Actin, alpha skeletal muscle",True
+38kn,38kn_a,Cofilin,False
+38kn,38kn_D,"Actin, alpha skeletal muscle",True
+38kn,38kn_b,Cofilin,False
+38kn,38kn_E,"Actin, alpha skeletal muscle",True
+38kn,38kn_c,Cofilin,False
+38kn,38kn_d,Cofilin,False
+38kn,38kn_e,Cofilin,False
+8f8q,8f8q_A,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_B,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_C,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_D,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_E,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_F,"Actin, alpha skeletal muscle",True
+8f8q,8f8q_G,F-actin-capping protein subunit alpha-1,False
+8f8q,8f8q_H,F-actin-capping protein subunit beta,False
+9go5,9go5_A,Actin,True
+9go5,9go5_B,Actin,True
+9go5,9go5_C,Actin,True
+9go5,9go5_D,Actin,True
+9go5,9go5_E,Actin,True
+8a2y,8a2y_C,"Actin, alpha skeletal muscle",True
+8a2y,8a2y_A,"Actin, alpha skeletal muscle",True
+8a2y,8a2y_B,"Actin, alpha skeletal muscle",True
+8a2y,8a2y_D,"Actin, alpha skeletal muscle",True
+8a2y,8a2y_E,"Actin, alpha skeletal muscle",True
+38km,38km_A,"Actin, alpha skeletal muscle",True
+38km,38km_B,"Actin, alpha skeletal muscle",True
+38km,38km_C,"Actin, alpha skeletal muscle",True
+38km,38km_a,Cofilin,False
+38km,38km_D,"Actin, alpha skeletal muscle",True
+38km,38km_b,Cofilin,False
+38km,38km_E,"Actin, alpha skeletal muscle",True
+38km,38km_X,Actin-interacting protein 1,False
+38km,38km_c,Cofilin,False
+38km,38km_F,"Actin, alpha skeletal muscle",True
+38km,38km_Y,Actin-interacting protein 1,False
+38km,38km_d,Cofilin,False
+38km,38km_G,"Actin, alpha skeletal muscle",True
+38km,38km_e,Cofilin,False
+38km,38km_H,"Actin, alpha skeletal muscle",True
+38km,38km_f,Cofilin,False
+8f8p,8f8p_A,"Actin, alpha skeletal muscle",True
+8f8p,8f8p_B,"Actin, alpha skeletal muscle",True
+8f8p,8f8p_C,"Actin, alpha skeletal muscle",True
+8f8p,8f8p_D,"Actin, alpha skeletal muscle",True
+8f8p,8f8p_E,"Actin, alpha skeletal muscle",True
+8a2u,8a2u_C,"Actin, alpha skeletal muscle",True
+8a2u,8a2u_A,"Actin, alpha skeletal muscle",True
+8a2u,8a2u_B,"Actin, alpha skeletal muscle",True
+8a2u,8a2u_D,"Actin, alpha skeletal muscle",True
+8a2u,8a2u_E,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_A,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_B,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_C,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_D,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_E,"Actin, alpha skeletal muscle",True
+7uxf,7uxf_F,"Actin, alpha skeletal muscle",True
+38kl,38kl_A,"Actin, alpha skeletal muscle",True
+38kl,38kl_B,"Actin, alpha skeletal muscle",True
+38kl,38kl_C,"Actin, alpha skeletal muscle",True
+38kl,38kl_a,Cofilin,False
+38kl,38kl_D,"Actin, alpha skeletal muscle",True
+38kl,38kl_b,Cofilin,False
+38kl,38kl_E,"Actin, alpha skeletal muscle",True
+38kl,38kl_X,Actin-interacting protein 1,False
+38kl,38kl_c,Cofilin,False
+38kl,38kl_Y,Actin-interacting protein 1,False
+38kl,38kl_d,Cofilin,False
+38kl,38kl_e,Cofilin,False
+8a2t,8a2t_C,"Actin, alpha skeletal muscle",True
+8a2t,8a2t_A,"Actin, alpha skeletal muscle",True
+8a2t,8a2t_B,"Actin, alpha skeletal muscle",True
+8a2t,8a2t_D,"Actin, alpha skeletal muscle",True
+8a2t,8a2t_E,"Actin, alpha skeletal muscle",True
+7utj,7utj_A,"Actin, alpha skeletal muscle",True
+7utj,7utj_B,"Actin, alpha skeletal muscle",True
+7utj,7utj_C,"Actin, alpha skeletal muscle",True
+7utj,7utj_H,Catenin alpha-1,False
+7utj,7utj_D,"Actin, alpha skeletal muscle",True
+7utj,7utj_G,Catenin alpha-1,False
+7utj,7utj_I,Catenin alpha-1,False
+7utj,7utj_E,"Actin, alpha skeletal muscle",True
+7utj,7utj_Z,Catenin alpha-1,False
+7utj,7utj_F,"Actin, alpha skeletal muscle",True
+7utj,7utj_K,Catenin alpha-1,False
+7utj,7utj_L,Catenin alpha-1,False
+38jl,38jl_A,"Actin, alpha skeletal muscle",True
+38jl,38jl_B,"Actin, alpha skeletal muscle",True
+38jl,38jl_C,"Actin, alpha skeletal muscle",True
+38jl,38jl_a,Cofilin (UNC-60B),False
+38jl,38jl_D,"Actin, alpha skeletal muscle",True
+38jl,38jl_b,Cofilin (UNC-60B),False
+38jl,38jl_E,"Actin, alpha skeletal muscle",True
+38jl,38jl_X,Actin-interacting protein 1,False
+38jl,38jl_c,Cofilin (UNC-60B),False
+38jl,38jl_F,"Actin, alpha skeletal muscle",True
+38jl,38jl_d,Cofilin (UNC-60B),False
+38jl,38jl_G,"Actin, alpha skeletal muscle",True
+38jl,38jl_e,Cofilin (UNC-60B),False
+38jl,38jl_H,"Actin, alpha skeletal muscle",True
+38jl,38jl_f,Cofilin (UNC-60B),False
+8a2s,8a2s_C,"Actin, alpha skeletal muscle",True
+8a2s,8a2s_A,"Actin, alpha skeletal muscle",True
+8a2s,8a2s_B,"Actin, alpha skeletal muscle",True
+8a2s,8a2s_D,"Actin, alpha skeletal muscle",True
+8a2s,8a2s_E,"Actin, alpha skeletal muscle",True
+6iug,6iug_A,pollen F-actin,True
+6iug,6iug_B,pollen F-actin,True
+6iug,6iug_C,pollen F-actin,True
+6iug,6iug_D,pollen F-actin,True
+6iug,6iug_E,pollen F-actin,True
+7uuw,7uuw_A,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_B,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_C,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_H,Alpha-catenin-like protein hmp-1,False
+7uuw,7uuw_D,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_G,Alpha-catenin-like protein hmp-1,False
+7uuw,7uuw_I,Alpha-catenin-like protein hmp-1,False
+7uuw,7uuw_E,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_Z,Alpha-catenin-like protein hmp-1,False
+7uuw,7uuw_F,"Actin, alpha skeletal muscle",True
+7uuw,7uuw_K,Alpha-catenin-like protein hmp-1,False
+7uuw,7uuw_L,Alpha-catenin-like protein hmp-1,False
+8oid,8oid_C,ACTB protein (Fragment),True
+8oid,8oid_A,ACTB protein (Fragment),True
+8oid,8oid_B,ACTB protein (Fragment),True
+8oid,8oid_D,ACTB protein (Fragment),True
+8oid,8oid_E,ACTB protein (Fragment),True
+8a2r,8a2r_C,"Actin, alpha skeletal muscle",True
+8a2r,8a2r_A,"Actin, alpha skeletal muscle",True
+8a2r,8a2r_B,"Actin, alpha skeletal muscle",True
+8a2r,8a2r_D,"Actin, alpha skeletal muscle",True
+8a2r,8a2r_E,"Actin, alpha skeletal muscle",True
+8thy,8thy_A,Actin,True
+8thy,8thy_B,Actin,True
+8thy,8thy_C,Actin,True
+8thy,8thy_D,Actin,True
+8thy,8thy_E,Actin,True
+8oi8,8oi8_C,"Actin, cytoplasmic 1",True
+8oi8,8oi8_A,"Actin, cytoplasmic 1",True
+8oi8,8oi8_B,"Actin, cytoplasmic 1",True
+8oi8,8oi8_D,"Actin, cytoplasmic 1",True
+8oi8,8oi8_E,"Actin, cytoplasmic 1",True
+12by,12by_A,"Actin, alpha skeletal muscle",True
+12by,12by_B,"Actin, alpha skeletal muscle",True
+12by,12by_C,"Actin, alpha skeletal muscle",True
+12by,12by_D,"Actin, alpha skeletal muscle",True
+12by,12by_E,"Actin, alpha skeletal muscle",True
+12by,12by_I,Gelsolin,False
+12by,12by_F,"Actin, alpha skeletal muscle",True
+12by,12by_G,"Actin, alpha skeletal muscle",True
+12by,12by_H,"Actin, alpha skeletal muscle",True
+8thx,8thx_A,Actin,True
+8thx,8thx_B,Actin,True
+8thx,8thx_C,Actin,True
+8thx,8thx_D,Actin,True
+8thx,8thx_E,Actin,True
+5jlh,5jlh_B,"Actin, cytoplasmic 2",True
+5jlh,5jlh_A,"Actin, cytoplasmic 2",True
+5jlh,5jlh_D,"Actin, cytoplasmic 2",True
+5jlh,5jlh_C,"Actin, cytoplasmic 2",True
+5jlh,5jlh_F,"Myosin-14,Alpha-actinin A",False
+5jlh,5jlh_E,"Actin, cytoplasmic 2",True
+5jlh,5jlh_G,"Myosin-14,Alpha-actinin A",False
+12bw,12bw_A,"Actin, alpha skeletal muscle",True
+12bw,12bw_B,"Actin, alpha skeletal muscle",True
+12bw,12bw_C,"Actin, alpha skeletal muscle",True
+12bw,12bw_D,"Actin, alpha skeletal muscle",True
+12bw,12bw_E,"Actin, alpha skeletal muscle",True
+12bw,12bw_I,Gelsolin,False
+12bw,12bw_F,"Actin, alpha skeletal muscle",True
+12bw,12bw_G,"Actin, alpha skeletal muscle",True
+12bw,12bw_H,"Actin, alpha skeletal muscle",True
+8d18,8d18_A,"Actin, alpha skeletal muscle",True
+8d18,8d18_B,"Actin, alpha skeletal muscle",True
+8d18,8d18_C,"Actin, alpha skeletal muscle",True
+8d18,8d18_D,"Actin, alpha skeletal muscle",True
+8d18,8d18_E,"Actin, alpha skeletal muscle",True
+8d18,8d18_F,"Actin, alpha skeletal muscle",True
+8d18,8d18_G,"Actin, alpha skeletal muscle",True
 9sgk,9sgk_F,"Actin, alpha skeletal muscle",True
 9sgk,9sgk_H,"Actin, alpha skeletal muscle",True
 9sgk,9sgk_I,"Actin, alpha skeletal muscle",True
 9sgk,9sgk_J,"Actin, alpha skeletal muscle",True
 9sgk,9sgk_G,"Actin, alpha skeletal muscle",True
+12rv,12rv_A,"Actin, cytoplasmic 1",True
+12rv,12rv_B,"Actin, cytoplasmic 1",True
+12rv,12rv_C,"Actin, cytoplasmic 1",True
+12rv,12rv_E,"Actin, cytoplasmic 1",True
+12rv,12rv_D,"Actin, cytoplasmic 1",True
 8d17,8d17_A,"Actin, alpha skeletal muscle",True
 8d17,8d17_B,"Actin, alpha skeletal muscle",True
 8d17,8d17_C,"Actin, alpha skeletal muscle",True
@@ -147,11 +707,6 @@ pdb_id,chain,protein,is_actin
 8d17,8d17_E,"Actin, alpha skeletal muscle",True
 8d17,8d17_F,"Actin, alpha skeletal muscle",True
 8d17,8d17_G,"Actin, alpha skeletal muscle",True
-9qew,9qew_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qew,9qew_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qew,9qew_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qew,9qew_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qew,9qew_E,"Actin, cytoplasmic 1, N-terminally processed",True
 9qgk,9qgk_A,Inositol-trisphosphate 3-kinase A,False
 9qgk,9qgk_H,"Actin, alpha skeletal muscle",True
 9qgk,9qgk_I,"Actin, alpha skeletal muscle",True
@@ -162,16 +717,35 @@ pdb_id,chain,protein,is_actin
 9qgk,9qgk_G,"Actin, alpha skeletal muscle",True
 9qgk,9qgk_D,Inositol-trisphosphate 3-kinase A,False
 9qgk,9qgk_E,Inositol-trisphosphate 3-kinase A,False
-8a2z,8a2z_C,"Actin, alpha skeletal muscle",True
-8a2z,8a2z_A,"Actin, alpha skeletal muscle",True
-8a2z,8a2z_B,"Actin, alpha skeletal muscle",True
-8a2z,8a2z_D,"Actin, alpha skeletal muscle",True
-8a2z,8a2z_E,"Actin, alpha skeletal muscle",True
 5ogw,5ogw_A,Actin-1,True
 5ogw,5ogw_B,Actin-1,True
 5ogw,5ogw_C,Actin-1,True
 5ogw,5ogw_D,Actin-1,True
 5ogw,5ogw_E,Actin-1,True
+9p1i,9p1i_Q,"Actin, cytoplasmic 1",True
+9p1i,9p1i_R,"Actin, cytoplasmic 1",True
+9p1i,9p1i_S,"Actin, cytoplasmic 1",True
+9p1i,9p1i_T,"Actin, cytoplasmic 1",True
+9p1i,9p1i_W,"Actin, cytoplasmic 1",True
+9p1i,9p1i_c,VopV,False
+9p1i,9p1i_f,VopV,False
+9p1i,9p1i_g,VopV,False
+9p1i,9p1i_X,"Actin, cytoplasmic 1",True
+9p1i,9p1i_i,VopV,False
+9p1i,9p1i_U,"Actin, cytoplasmic 1",True
+9p1i,9p1i_V,"Actin, cytoplasmic 1",True
+9p1i,9p1i_d,VopV,False
+9p1i,9p1i_h,VopV,False
+9p1i,9p1i_e,VopV,False
+9p1i,9p1i_Y,"Actin, cytoplasmic 1",True
+9p1i,9p1i_j,VopV,False
+9p1i,9p1i_Z,"Actin, cytoplasmic 1",True
+9p1i,9p1i_k,VopV,False
+9p1i,9p1i_a,"Actin, cytoplasmic 1",True
+9p1i,9p1i_l,VopV,False
+9p1i,9p1i_b,"Actin, cytoplasmic 1",True
+9p1i,9p1i_m,VopV,False
+9p1i,9p1i_n,VopV,False
 9y9p,9y9p_A,"Actin, alpha skeletal muscle",True
 9y9p,9y9p_B,"Actin, alpha skeletal muscle",True
 9y9p,9y9p_C,"Actin, alpha skeletal muscle",True
@@ -189,16 +763,18 @@ pdb_id,chain,protein,is_actin
 8d15,8d15_E,"Actin, alpha skeletal muscle",True
 8d15,8d15_F,"Actin, alpha skeletal muscle",True
 8d15,8d15_G,"Actin, alpha skeletal muscle",True
-8a2y,8a2y_C,"Actin, alpha skeletal muscle",True
-8a2y,8a2y_A,"Actin, alpha skeletal muscle",True
-8a2y,8a2y_B,"Actin, alpha skeletal muscle",True
-8a2y,8a2y_D,"Actin, alpha skeletal muscle",True
-8a2y,8a2y_E,"Actin, alpha skeletal muscle",True
 6tu4,6tu4_A,Actin-1,True
 6tu4,6tu4_B,Actin-1,True
 6tu4,6tu4_C,Actin-1,True
 6tu4,6tu4_D,Actin-1,True
 6tu4,6tu4_F,Actin-1,True
+6c1h,6c1h_A,"Actin, alpha skeletal muscle",True
+6c1h,6c1h_B,"Actin, alpha skeletal muscle",True
+6c1h,6c1h_C,"Actin, alpha skeletal muscle",True
+6c1h,6c1h_D,"Actin, alpha skeletal muscle",True
+6c1h,6c1h_P,Unconventional myosin-Ib,False
+6c1h,6c1h_E,"Actin, alpha skeletal muscle",True
+6c1h,6c1h_R,Calmodulin,False
 8v2o,8v2o_A,"Actin, gamma-enteric smooth muscle",True
 8v2o,8v2o_B,"Actin, gamma-enteric smooth muscle",True
 8v2o,8v2o_C,"Actin, gamma-enteric smooth muscle",True
@@ -214,11 +790,13 @@ pdb_id,chain,protein,is_actin
 9y9m,9y9m_c,Cofilin-2,False
 9y9m,9y9m_Y,F-actin-capping protein subunit alpha-1,False
 9y9m,9y9m_Z,F-actin-capping protein subunit beta,False
-8a2u,8a2u_C,"Actin, alpha skeletal muscle",True
-8a2u,8a2u_A,"Actin, alpha skeletal muscle",True
-8a2u,8a2u_B,"Actin, alpha skeletal muscle",True
-8a2u,8a2u_D,"Actin, alpha skeletal muscle",True
-8a2u,8a2u_E,"Actin, alpha skeletal muscle",True
+6upw,6upw_C,"Actin, alpha skeletal muscle",True
+6upw,6upw_B,"Actin, alpha skeletal muscle",True
+6upw,6upw_A,"Actin, alpha skeletal muscle",True
+6upw,6upw_E,"Actin, alpha skeletal muscle",True
+6upw,6upw_D,"Actin, alpha skeletal muscle",True
+6upw,6upw_M,Vinculin,False
+6upw,6upw_L,Vinculin,False
 9y9l,9y9l_A,"Actin, alpha skeletal muscle",True
 9y9l,9y9l_B,"Actin, alpha skeletal muscle",True
 9y9l,9y9l_C,"Actin, alpha skeletal muscle",True
@@ -240,17 +818,19 @@ pdb_id,chain,protein,is_actin
 9zbp,9zbp_N,Tropomyosin alpha-1 chain,False
 9zbp,9zbp_O,Tropomyosin alpha-1 chain,False
 9zbp,9zbp_P,Tropomyosin alpha-1 chain,False
-8a2t,8a2t_C,"Actin, alpha skeletal muscle",True
-8a2t,8a2t_A,"Actin, alpha skeletal muscle",True
-8a2t,8a2t_B,"Actin, alpha skeletal muscle",True
-8a2t,8a2t_D,"Actin, alpha skeletal muscle",True
-8a2t,8a2t_E,"Actin, alpha skeletal muscle",True
 7aln,7aln_A,Actin-1,True
 7aln,7aln_B,Actin-1,True
 7aln,7aln_C,Actin-1,True
 7aln,7aln_D,Actin-1,True
 7aln,7aln_E,Actin-1,True
 7aln,7aln_F,Myosin-A,False
+6upv,6upv_L,Catenin alpha-1,False
+6upv,6upv_M,Catenin alpha-1,False
+6upv,6upv_C,"Actin, alpha skeletal muscle",True
+6upv,6upv_A,"Actin, alpha skeletal muscle",True
+6upv,6upv_E,"Actin, alpha skeletal muscle",True
+6upv,6upv_B,"Actin, alpha skeletal muscle",True
+6upv,6upv_D,"Actin, alpha skeletal muscle",True
 9y9j,9y9j_A,"Actin, alpha skeletal muscle",True
 9y9j,9y9j_B,"Actin, alpha skeletal muscle",True
 9y9j,9y9j_C,"Actin, alpha skeletal muscle",True
@@ -263,11 +843,6 @@ pdb_id,chain,protein,is_actin
 9y9j,9y9j_c,Cofilin-2,False
 9y9j,9y9j_d,Cofilin-2,False
 9y9j,9y9j_e,Cofilin-2,False
-8a2s,8a2s_C,"Actin, alpha skeletal muscle",True
-8a2s,8a2s_A,"Actin, alpha skeletal muscle",True
-8a2s,8a2s_B,"Actin, alpha skeletal muscle",True
-8a2s,8a2s_D,"Actin, alpha skeletal muscle",True
-8a2s,8a2s_E,"Actin, alpha skeletal muscle",True
 7r94,7r94_C,"Actin, alpha skeletal muscle",True
 7r94,7r94_B,"Actin, alpha skeletal muscle",True
 7r94,7r94_A,"Actin, alpha skeletal muscle",True
@@ -283,11 +858,6 @@ pdb_id,chain,protein,is_actin
 9yim,9yim_E,"Actin, alpha skeletal muscle",True
 9yim,9yim_Y,F-actin-capping protein subunit alpha-1,False
 9yim,9yim_Z,F-actin-capping protein subunit beta,False
-8oid,8oid_C,ACTB protein (Fragment),True
-8oid,8oid_A,ACTB protein (Fragment),True
-8oid,8oid_B,ACTB protein (Fragment),True
-8oid,8oid_D,ACTB protein (Fragment),True
-8oid,8oid_E,ACTB protein (Fragment),True
 9y52,9y52_A,"Actin, alpha skeletal muscle",True
 9y52,9y52_B,"Actin, alpha skeletal muscle",True
 9y52,9y52_C,"Actin, alpha skeletal muscle",True
@@ -299,16 +869,22 @@ pdb_id,chain,protein,is_actin
 9y52,9y52_c,Cofilin-2,False
 9y52,9y52_d,Cofilin-2,False
 9y52,9y52_e,Cofilin-2,False
-8a2r,8a2r_C,"Actin, alpha skeletal muscle",True
-8a2r,8a2r_A,"Actin, alpha skeletal muscle",True
-8a2r,8a2r_B,"Actin, alpha skeletal muscle",True
-8a2r,8a2r_D,"Actin, alpha skeletal muscle",True
-8a2r,8a2r_E,"Actin, alpha skeletal muscle",True
 7z7i,7z7i_D,"Actin, alpha skeletal muscle",True
 7z7i,7z7i_B,"Actin, alpha skeletal muscle",True
 7z7i,7z7i_E,"Actin, alpha skeletal muscle",True
 7z7i,7z7i_C,"Actin, alpha skeletal muscle",True
 7z7i,7z7i_A,"Actin, alpha skeletal muscle",True
+6t1y,6t1y_C,"Actin, alpha skeletal muscle",True
+6t1y,6t1y_B,"Actin, alpha skeletal muscle",True
+6t1y,6t1y_A,"Actin, alpha skeletal muscle",True
+6t1y,6t1y_E,"Actin, alpha skeletal muscle",True
+6t1y,6t1y_D,"Actin, alpha skeletal muscle",True
+9c21,9c21_A,"Actin, cytoplasmic 1",True
+9c21,9c21_B,"Actin, cytoplasmic 1",True
+9c21,9c21_D,"Actin, cytoplasmic 1",True
+9c21,9c21_C,"Actin, cytoplasmic 1",True
+9c21,9c21_E,"Actin, cytoplasmic 1",True
+9c21,9c21_F,"Actin, cytoplasmic 1",True
 8w36,8w36_D,"Actin, alpha skeletal muscle",True
 8w36,8w36_C,"Actin, alpha skeletal muscle",True
 8w36,8w36_B,"Actin, alpha skeletal muscle",True
@@ -320,11 +896,6 @@ pdb_id,chain,protein,is_actin
 8cco,8cco_D,Actin-2,True
 8cco,8cco_E,Actin-2,True
 8cco,8cco_F,Actin-2,True
-8oi8,8oi8_C,"Actin, cytoplasmic 1",True
-8oi8,8oi8_A,"Actin, cytoplasmic 1",True
-8oi8,8oi8_B,"Actin, cytoplasmic 1",True
-8oi8,8oi8_D,"Actin, cytoplasmic 1",True
-8oi8,8oi8_E,"Actin, cytoplasmic 1",True
 9xye,9xye_A,"Actin, alpha skeletal muscle",True
 9xye,9xye_B,"Actin, alpha skeletal muscle",True
 9xye,9xye_C,"Actin, alpha skeletal muscle",True
@@ -332,12 +903,27 @@ pdb_id,chain,protein,is_actin
 9xye,9xye_X,Adenylyl cyclase-associated protein 1,False
 9xye,9xye_D,"Actin, alpha skeletal muscle",True
 9xye,9xye_E,"Actin, alpha skeletal muscle",True
+9zbl,9zbl_A,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_B,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_C,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_D,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_E,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_F,"Actin, alpha cardiac muscle 1",True
+9zbl,9zbl_M,Tropomyosin alpha-1 chain,False
+9zbl,9zbl_N,Tropomyosin alpha-1 chain,False
+9zbl,9zbl_O,Tropomyosin alpha-1 chain,False
+9zbl,9zbl_P,Tropomyosin alpha-1 chain,False
 7z7h,7z7h_D,"Actin, alpha skeletal muscle",True
 7z7h,7z7h_F,"Maltose/maltodextrin-binding periplasmic protein,TccC3",False
 7z7h,7z7h_B,"Actin, alpha skeletal muscle",True
 7z7h,7z7h_E,"Actin, alpha skeletal muscle",True
 7z7h,7z7h_C,"Actin, alpha skeletal muscle",True
 7z7h,7z7h_A,"Actin, alpha skeletal muscle",True
+6t20,6t20_C,"Actin, alpha skeletal muscle",True
+6t20,6t20_B,"Actin, alpha skeletal muscle",True
+6t20,6t20_A,"Actin, alpha skeletal muscle",True
+6t20,6t20_E,"Actin, alpha skeletal muscle",True
+6t20,6t20_D,"Actin, alpha skeletal muscle",True
 8zix,8zix_P,"Actin, alpha skeletal muscle",True
 8zix,8zix_R,"Actin, alpha skeletal muscle",True
 8zix,8zix_A,"Actin, alpha skeletal muscle",True
@@ -377,13 +963,27 @@ pdb_id,chain,protein,is_actin
 7tpt,7tpt_O,"Actin, alpha skeletal muscle",True
 7tpt,7tpt_T,"Actin, alpha skeletal muscle",True
 7tpt,7tpt_U,"Actin, alpha skeletal muscle",True
-5jlh,5jlh_B,"Actin, cytoplasmic 2",True
-5jlh,5jlh_A,"Actin, cytoplasmic 2",True
-5jlh,5jlh_D,"Actin, cytoplasmic 2",True
-5jlh,5jlh_C,"Actin, cytoplasmic 2",True
-5jlh,5jlh_F,"Myosin-14,Alpha-actinin A",False
-5jlh,5jlh_E,"Actin, cytoplasmic 2",True
-5jlh,5jlh_G,"Myosin-14,Alpha-actinin A",False
+9e2e,9e2e_A,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_B,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_C,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",False
+9e2e,9e2e_D,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_N,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",False
+9e2e,9e2e_E,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_G,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_J,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_F,"Actin, alpha cardiac muscle 1",True
+9e2e,9e2e_L,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_O,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_H,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_I,Tropomyosin alpha-1 chain,False
+9e2e,9e2e_M,Tropomyosin alpha-1 chain,False
+6t23,6t23_D,"Actin, alpha skeletal muscle",True
+6t23,6t23_E,"Actin, alpha skeletal muscle",True
+6t23,6t23_B,"Actin, alpha skeletal muscle",True
+6t23,6t23_C,"Actin, alpha skeletal muscle",True
+6t23,6t23_A,"Actin, alpha skeletal muscle",True
 8zbm,8zbm_E,"Actin, alpha skeletal muscle",True
 8zbm,8zbm_H,"Actin, alpha skeletal muscle",True
 8zbm,8zbm_O,"Actin, alpha skeletal muscle",True
@@ -410,6 +1010,11 @@ pdb_id,chain,protein,is_actin
 9q7n,9q7n_c,Cofilin-2,False
 9q7n,9q7n_d,Cofilin-2,False
 9q7n,9q7n_e,Cofilin-2,False
+6t24,6t24_E,"Actin, alpha skeletal muscle",True
+6t24,6t24_D,"Actin, alpha skeletal muscle",True
+6t24,6t24_C,"Actin, alpha skeletal muscle",True
+6t24,6t24_B,"Actin, alpha skeletal muscle",True
+6t24,6t24_A,"Actin, alpha skeletal muscle",True
 7q8s,7q8s_A,Actin,True
 7q8s,7q8s_B,ADF/Cofilin,False
 7q8s,7q8s_C,Actin,True
@@ -420,236 +1025,6 @@ pdb_id,chain,protein,is_actin
 7q8s,7q8s_H,ADF/Cofilin,False
 7q8s,7q8s_I,ADF/Cofilin,False
 7q8s,7q8s_J,ADF/Cofilin,False
-9q7m,9q7m_A,"Actin, alpha skeletal muscle",True
-9q7m,9q7m_B,"Actin, alpha skeletal muscle",True
-9q7m,9q7m_C,"Actin, alpha skeletal muscle",True
-9q7m,9q7m_a,Cofilin-2,False
-9q7m,9q7m_D,"Actin, alpha skeletal muscle",True
-9q7m,9q7m_b,Cofilin-2,False
-9q7m,9q7m_E,"Actin, alpha skeletal muscle",True
-9q7m,9q7m_c,Cofilin-2,False
-9q7m,9q7m_d,Cofilin-2,False
-9duv,9duv_A,"Actin, alpha skeletal muscle",True
-9duv,9duv_B,"Actin, alpha skeletal muscle",True
-9duv,9duv_C,"Actin, alpha skeletal muscle",True
-9duv,9duv_D,"Actin, alpha skeletal muscle",True
-9duv,9duv_E,"Actin, alpha skeletal muscle",True
-9duv,9duv_F,"Actin, alpha skeletal muscle",True
-7q8c,7q8c_A,Actin,True
-7q8c,7q8c_B,Actin,True
-7q8c,7q8c_C,Actin,True
-7q8c,7q8c_D,Actin,True
-7q8c,7q8c_E,Actin,True
-9q7l,9q7l_A,"Actin, alpha skeletal muscle",True
-9q7l,9q7l_B,"Actin, alpha skeletal muscle",True
-9q7l,9q7l_C,"Actin, alpha skeletal muscle",True
-9q7l,9q7l_a,Cofilin-2,False
-9q7l,9q7l_D,"Actin, alpha skeletal muscle",True
-9q7l,9q7l_b,Cofilin-2,False
-9q7l,9q7l_E,"Actin, alpha skeletal muscle",True
-9q7l,9q7l_c,Cofilin-2,False
-9b3d,9b3d_A,"Actin, alpha skeletal muscle",True
-9b3d,9b3d_B,"Actin, alpha skeletal muscle",True
-9b3d,9b3d_C,"Actin, alpha skeletal muscle",True
-9b3d,9b3d_D,"Actin, alpha skeletal muscle",True
-9b3d,9b3d_H,Protein diaphanous homolog 1,False
-9b3d,9b3d_E,"Actin, alpha skeletal muscle",True
-9b3d,9b3d_G,Protein diaphanous homolog 1,False
-9b3d,9b3d_F,"Actin, alpha skeletal muscle",True
-7q8b,7q8b_A,Actin,True
-7q8b,7q8b_B,Actin,True
-7q8b,7q8b_C,Actin,True
-7q8b,7q8b_D,Actin,True
-7q8b,7q8b_E,Actin,True
-9q7k,9q7k_A,"Actin, alpha skeletal muscle",True
-9q7k,9q7k_B,"Actin, alpha skeletal muscle",True
-9q7k,9q7k_C,"Actin, alpha skeletal muscle",True
-9q7k,9q7k_a,Cofilin-2,False
-9q7k,9q7k_D,"Actin, alpha skeletal muscle",True
-9q7k,9q7k_b,Cofilin-2,False
-9q7k,9q7k_E,"Actin, alpha skeletal muscle",True
-9q7k,9q7k_c,Cofilin-2,False
-9q7k,9q7k_d,Cofilin-2,False
-9q7k,9q7k_e,Cofilin-2,False
-9b27,9b27_A,"Actin, alpha skeletal muscle",True
-9b27,9b27_B,"Actin, alpha skeletal muscle",True
-9b27,9b27_C,"Actin, alpha skeletal muscle",True
-9b27,9b27_D,"Actin, alpha skeletal muscle",True
-9b27,9b27_E,"Actin, alpha skeletal muscle",True
-9b27,9b27_F,"Actin, alpha skeletal muscle",True
-9b27,9b27_G,Protein diaphanous homolog 1,False
-9b27,9b27_H,Protein diaphanous homolog 1,False
-9p1i,9p1i_Q,"Actin, cytoplasmic 1",True
-9p1i,9p1i_R,"Actin, cytoplasmic 1",True
-9p1i,9p1i_S,"Actin, cytoplasmic 1",True
-9p1i,9p1i_T,"Actin, cytoplasmic 1",True
-9p1i,9p1i_W,"Actin, cytoplasmic 1",True
-9p1i,9p1i_c,VopV,False
-9p1i,9p1i_f,VopV,False
-9p1i,9p1i_g,VopV,False
-9p1i,9p1i_X,"Actin, cytoplasmic 1",True
-9p1i,9p1i_i,VopV,False
-9p1i,9p1i_U,"Actin, cytoplasmic 1",True
-9p1i,9p1i_V,"Actin, cytoplasmic 1",True
-9p1i,9p1i_d,VopV,False
-9p1i,9p1i_h,VopV,False
-9p1i,9p1i_e,VopV,False
-9p1i,9p1i_Y,"Actin, cytoplasmic 1",True
-9p1i,9p1i_j,VopV,False
-9p1i,9p1i_Z,"Actin, cytoplasmic 1",True
-9p1i,9p1i_k,VopV,False
-9p1i,9p1i_a,"Actin, cytoplasmic 1",True
-9p1i,9p1i_l,VopV,False
-9p1i,9p1i_b,"Actin, cytoplasmic 1",True
-9p1i,9p1i_m,VopV,False
-9p1i,9p1i_n,VopV,False
-6c1h,6c1h_A,"Actin, alpha skeletal muscle",True
-6c1h,6c1h_B,"Actin, alpha skeletal muscle",True
-6c1h,6c1h_C,"Actin, alpha skeletal muscle",True
-6c1h,6c1h_D,"Actin, alpha skeletal muscle",True
-6c1h,6c1h_P,Unconventional myosin-Ib,False
-6c1h,6c1h_E,"Actin, alpha skeletal muscle",True
-6c1h,6c1h_R,Calmodulin,False
-9b0k,9b0k_A,"Actin, alpha skeletal muscle",True
-9b0k,9b0k_B,"Actin, alpha skeletal muscle",True
-9b0k,9b0k_C,"Actin, alpha skeletal muscle",True
-9b0k,9b0k_H,Inverted formin-2,False
-9b0k,9b0k_D,"Actin, alpha skeletal muscle",True
-9b0k,9b0k_G,Inverted formin-2,False
-9b0k,9b0k_E,"Actin, alpha skeletal muscle",True
-9b0k,9b0k_F,"Actin, alpha skeletal muscle",True
-6upw,6upw_C,"Actin, alpha skeletal muscle",True
-6upw,6upw_B,"Actin, alpha skeletal muscle",True
-6upw,6upw_A,"Actin, alpha skeletal muscle",True
-6upw,6upw_E,"Actin, alpha skeletal muscle",True
-6upw,6upw_D,"Actin, alpha skeletal muscle",True
-6upw,6upw_M,Vinculin,False
-6upw,6upw_L,Vinculin,False
-9b03,9b03_A,"Actin, alpha skeletal muscle",True
-9b03,9b03_B,"Actin, alpha skeletal muscle",True
-9b03,9b03_C,"Actin, alpha skeletal muscle",True
-9b03,9b03_H,Inverted formin-2,False
-9b03,9b03_D,"Actin, alpha skeletal muscle",True
-9b03,9b03_G,Inverted formin-2,False
-9b03,9b03_E,"Actin, alpha skeletal muscle",True
-9b03,9b03_F,"Actin, alpha skeletal muscle",True
-6upv,6upv_L,Catenin alpha-1,False
-6upv,6upv_M,Catenin alpha-1,False
-6upv,6upv_C,"Actin, alpha skeletal muscle",True
-6upv,6upv_A,"Actin, alpha skeletal muscle",True
-6upv,6upv_E,"Actin, alpha skeletal muscle",True
-6upv,6upv_B,"Actin, alpha skeletal muscle",True
-6upv,6upv_D,"Actin, alpha skeletal muscle",True
-9azq,9azq_A,"Actin, alpha skeletal muscle",True
-9azq,9azq_B,"Actin, alpha skeletal muscle",True
-9azq,9azq_C,"Actin, alpha skeletal muscle",True
-9azq,9azq_D,"Actin, alpha skeletal muscle",True
-9azq,9azq_E,"Actin, alpha skeletal muscle",True
-9azq,9azq_F,"Actin, alpha skeletal muscle",True
-9azq,9azq_H,Inverted formin-2,False
-9azq,9azq_I,"Actin, alpha skeletal muscle",True
-9azq,9azq_G,Inverted formin-2,False
-6t1y,6t1y_C,"Actin, alpha skeletal muscle",True
-6t1y,6t1y_B,"Actin, alpha skeletal muscle",True
-6t1y,6t1y_A,"Actin, alpha skeletal muscle",True
-6t1y,6t1y_E,"Actin, alpha skeletal muscle",True
-6t1y,6t1y_D,"Actin, alpha skeletal muscle",True
-9c21,9c21_A,"Actin, cytoplasmic 1",True
-9c21,9c21_B,"Actin, cytoplasmic 1",True
-9c21,9c21_D,"Actin, cytoplasmic 1",True
-9c21,9c21_C,"Actin, cytoplasmic 1",True
-9c21,9c21_E,"Actin, cytoplasmic 1",True
-9c21,9c21_F,"Actin, cytoplasmic 1",True
-9azp,9azp_A,"Actin, alpha skeletal muscle",True
-9azp,9azp_B,"Actin, alpha skeletal muscle",True
-9azp,9azp_C,"Actin, alpha skeletal muscle",True
-9azp,9azp_D,"Actin, alpha skeletal muscle",True
-9azp,9azp_E,"Actin, alpha skeletal muscle",True
-9azp,9azp_F,"Actin, alpha skeletal muscle",True
-9azp,9azp_G,Inverted formin-2,False
-9azp,9azp_H,Inverted formin-2,False
-9azp,9azp_I,"Actin, alpha skeletal muscle",True
-9azp,9azp_J,Profilin-1,False
-9zbl,9zbl_A,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_B,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_C,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_D,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_E,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_F,"Actin, alpha cardiac muscle 1",True
-9zbl,9zbl_M,Tropomyosin alpha-1 chain,False
-9zbl,9zbl_N,Tropomyosin alpha-1 chain,False
-9zbl,9zbl_O,Tropomyosin alpha-1 chain,False
-9zbl,9zbl_P,Tropomyosin alpha-1 chain,False
-6t20,6t20_C,"Actin, alpha skeletal muscle",True
-6t20,6t20_B,"Actin, alpha skeletal muscle",True
-6t20,6t20_A,"Actin, alpha skeletal muscle",True
-6t20,6t20_E,"Actin, alpha skeletal muscle",True
-6t20,6t20_D,"Actin, alpha skeletal muscle",True
-8r3h,8r3h_F,"Actin, alpha skeletal muscle",True
-8r3h,8r3h_H,"Actin, alpha skeletal muscle",True
-8r3h,8r3h_I,"Actin, alpha skeletal muscle",True
-8r3h,8r3h_J,"Actin, alpha skeletal muscle",True
-8r3h,8r3h_G,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
-7p1g,7p1g_C,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_A,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_B,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_D,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
-7p1g,7p1g_E,"Actin, alpha skeletal muscle",True
-7p1g,7p1g_K,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
-7p1g,7p1g_L,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
-7p1g,7p1g_N,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
-9az4,9az4_A,"Actin, alpha skeletal muscle",True
-9az4,9az4_B,"Actin, alpha skeletal muscle",True
-9az4,9az4_C,"Actin, alpha skeletal muscle",True
-9az4,9az4_D,"Actin, alpha skeletal muscle",True
-9az4,9az4_G,Inverted formin-2,False
-9az4,9az4_E,"Actin, alpha skeletal muscle",True
-9az4,9az4_H,Inverted formin-2,False
-9az4,9az4_F,"Actin, alpha skeletal muscle",True
-9e2e,9e2e_A,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_B,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_C,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_K,"Isoform A2 of Troponin T, cardiac muscle",False
-9e2e,9e2e_D,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_N,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_P,"Isoform A2 of Troponin T, cardiac muscle",False
-9e2e,9e2e_E,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_G,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_J,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_F,"Actin, alpha cardiac muscle 1",True
-9e2e,9e2e_L,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_O,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_H,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_I,Tropomyosin alpha-1 chain,False
-9e2e,9e2e_M,Tropomyosin alpha-1 chain,False
-6t23,6t23_D,"Actin, alpha skeletal muscle",True
-6t23,6t23_E,"Actin, alpha skeletal muscle",True
-6t23,6t23_B,"Actin, alpha skeletal muscle",True
-6t23,6t23_C,"Actin, alpha skeletal muscle",True
-6t23,6t23_A,"Actin, alpha skeletal muscle",True
-8zb7,8zb7_M,Myosin-7,False
-8zb7,8zb7_B,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_F,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_D,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_P,Tropomyosin alpha-1 chain,False
-8zb7,8zb7_H,Myosin-7,False
-8zb7,8zb7_C,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_E,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_G,Myosin-7,False
-8zb7,8zb7_A,"Actin, alpha cardiac muscle 1",True
-8zb7,8zb7_I,Myosin-7,False
-8zb7,8zb7_J,Myosin-7,False
-8zb7,8zb7_L,Tropomyosin alpha-1 chain,False
-8zb7,8zb7_K,Myosin-7,False
-8zb7,8zb7_N,Tropomyosin alpha-1 chain,False
-8zb7,8zb7_O,Tropomyosin alpha-1 chain,False
-6t24,6t24_E,"Actin, alpha skeletal muscle",True
-6t24,6t24_D,"Actin, alpha skeletal muscle",True
-6t24,6t24_C,"Actin, alpha skeletal muscle",True
-6t24,6t24_B,"Actin, alpha skeletal muscle",True
-6t24,6t24_A,"Actin, alpha skeletal muscle",True
 8p94,8p94_A,Actin-related protein 3,False
 8p94,8p94_B,Actin-related protein 2,False
 8p94,8p94_D,Actin-related protein 2/3 complex subunit 2,False
@@ -670,13 +1045,21 @@ pdb_id,chain,protein,is_actin
 8p94,8p94_V,Isoform 2 of F-actin-capping protein subunit beta,False
 8p94,8p94_W,"Actin, cytoplasmic 1",True
 8p94,8p94_O,"Actin, cytoplasmic 1",True
-8d16,8d16_A,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_B,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_C,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_D,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_E,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_F,"Actin, alpha skeletal muscle, intermediate form",True
-8d16,8d16_G,"Actin, alpha skeletal muscle, intermediate form",True
+9q7m,9q7m_A,"Actin, alpha skeletal muscle",True
+9q7m,9q7m_B,"Actin, alpha skeletal muscle",True
+9q7m,9q7m_C,"Actin, alpha skeletal muscle",True
+9q7m,9q7m_a,Cofilin-2,False
+9q7m,9q7m_D,"Actin, alpha skeletal muscle",True
+9q7m,9q7m_b,Cofilin-2,False
+9q7m,9q7m_E,"Actin, alpha skeletal muscle",True
+9q7m,9q7m_c,Cofilin-2,False
+9q7m,9q7m_d,Cofilin-2,False
+9duv,9duv_A,"Actin, alpha skeletal muscle",True
+9duv,9duv_B,"Actin, alpha skeletal muscle",True
+9duv,9duv_C,"Actin, alpha skeletal muscle",True
+9duv,9duv_D,"Actin, alpha skeletal muscle",True
+9duv,9duv_E,"Actin, alpha skeletal muscle",True
+9duv,9duv_F,"Actin, alpha skeletal muscle",True
 8efh,8efh_A,beta-cardiac myosin II,False
 8efh,8efh_F,"Actin, alpha cardiac muscle 1",True
 8efh,8efh_B,"Actin, alpha cardiac muscle 1",True
@@ -690,6 +1073,19 @@ pdb_id,chain,protein,is_actin
 6t25,6t25_B,"Actin, alpha skeletal muscle",True
 6t25,6t25_C,"Actin, alpha skeletal muscle",True
 6t25,6t25_A,"Actin, alpha skeletal muscle",True
+7q8c,7q8c_A,Actin,True
+7q8c,7q8c_B,Actin,True
+7q8c,7q8c_C,Actin,True
+7q8c,7q8c_D,Actin,True
+7q8c,7q8c_E,Actin,True
+9q7l,9q7l_A,"Actin, alpha skeletal muscle",True
+9q7l,9q7l_B,"Actin, alpha skeletal muscle",True
+9q7l,9q7l_C,"Actin, alpha skeletal muscle",True
+9q7l,9q7l_a,Cofilin-2,False
+9q7l,9q7l_D,"Actin, alpha skeletal muscle",True
+9q7l,9q7l_b,Cofilin-2,False
+9q7l,9q7l_E,"Actin, alpha skeletal muscle",True
+9q7l,9q7l_c,Cofilin-2,False
 8dd0,8dd0_A,"Actin, alpha cardiac muscle 1",True
 8dd0,8dd0_B,"Actin, alpha cardiac muscle 1",True
 8dd0,8dd0_C,"Actin, alpha cardiac muscle 1",True
@@ -706,6 +1102,14 @@ pdb_id,chain,protein,is_actin
 8dd0,8dd0_O,Tropomyosin alpha-1 chain,False
 8dd0,8dd0_H,Tropomyosin alpha-1 chain,False
 8dd0,8dd0_M,Tropomyosin alpha-1 chain,False
+9b3d,9b3d_A,"Actin, alpha skeletal muscle",True
+9b3d,9b3d_B,"Actin, alpha skeletal muscle",True
+9b3d,9b3d_C,"Actin, alpha skeletal muscle",True
+9b3d,9b3d_D,"Actin, alpha skeletal muscle",True
+9b3d,9b3d_H,Protein diaphanous homolog 1,False
+9b3d,9b3d_E,"Actin, alpha skeletal muscle",True
+9b3d,9b3d_G,Protein diaphanous homolog 1,False
+9b3d,9b3d_F,"Actin, alpha skeletal muscle",True
 6d8c,6d8c_L,"Actin, alpha skeletal muscle",True
 6d8c,6d8c_J,"Actin, alpha skeletal muscle",True
 6d8c,6d8c_K,"Actin, alpha skeletal muscle",True
@@ -716,16 +1120,21 @@ pdb_id,chain,protein,is_actin
 6d8c,6d8c_E,Filamin-A,False
 6d8c,6d8c_A,Filamin-A,False
 6d8c,6d8c_B,Filamin-A,False
-7r8v,7r8v_B,"Actin, alpha skeletal muscle, intermediate form",True
-7r8v,7r8v_A,"Actin, alpha skeletal muscle, intermediate form",True
-7r8v,7r8v_C,"Actin, alpha skeletal muscle, intermediate form",True
-7r8v,7r8v_D,"Actin, alpha skeletal muscle, intermediate form",True
-7r8v,7r8v_E,"Actin, alpha skeletal muscle, intermediate form",True
-7ahn,7ahn_C,"Actin, alpha skeletal muscle",True
-7ahn,7ahn_A,"Actin, alpha skeletal muscle",True
-7ahn,7ahn_E,"Actin, alpha skeletal muscle",True
-7ahn,7ahn_D,"Actin, alpha skeletal muscle",True
-7ahn,7ahn_B,"Actin, alpha skeletal muscle",True
+7q8b,7q8b_A,Actin,True
+7q8b,7q8b_B,Actin,True
+7q8b,7q8b_C,Actin,True
+7q8b,7q8b_D,Actin,True
+7q8b,7q8b_E,Actin,True
+9q7k,9q7k_A,"Actin, alpha skeletal muscle",True
+9q7k,9q7k_B,"Actin, alpha skeletal muscle",True
+9q7k,9q7k_C,"Actin, alpha skeletal muscle",True
+9q7k,9q7k_a,Cofilin-2,False
+9q7k,9q7k_D,"Actin, alpha skeletal muscle",True
+9q7k,9q7k_b,Cofilin-2,False
+9q7k,9q7k_E,"Actin, alpha skeletal muscle",True
+9q7k,9q7k_c,Cofilin-2,False
+9q7k,9q7k_d,Cofilin-2,False
+9q7k,9q7k_e,Cofilin-2,False
 8enc,8enc_M,Myosin-7,False
 8enc,8enc_B,"Actin, alpha cardiac muscle 1",True
 8enc,8enc_F,"Actin, alpha cardiac muscle 1",True
@@ -739,11 +1148,14 @@ pdb_id,chain,protein,is_actin
 5oof,5oof_B,"Actin, alpha skeletal muscle",True
 5oof,5oof_C,"Actin, alpha skeletal muscle",True
 5oof,5oof_A,"Actin, alpha skeletal muscle",True
-7ahq,7ahq_A,"Actin, alpha skeletal muscle",True
-7ahq,7ahq_B,"Actin, alpha skeletal muscle",True
-7ahq,7ahq_C,"Actin, alpha skeletal muscle",True
-7ahq,7ahq_D,"Actin, alpha skeletal muscle",True
-7ahq,7ahq_E,"Actin, alpha skeletal muscle",True
+9b27,9b27_A,"Actin, alpha skeletal muscle",True
+9b27,9b27_B,"Actin, alpha skeletal muscle",True
+9b27,9b27_C,"Actin, alpha skeletal muscle",True
+9b27,9b27_D,"Actin, alpha skeletal muscle",True
+9b27,9b27_E,"Actin, alpha skeletal muscle",True
+9b27,9b27_F,"Actin, alpha skeletal muscle",True
+9b27,9b27_G,Protein diaphanous homolog 1,False
+9b27,9b27_H,Protein diaphanous homolog 1,False
 8iai,8iai_1,Adducin 1,False
 8iai,8iai_2,Adducin 1,False
 8iai,8iai_3,Beta-adducin,False
@@ -788,33 +1200,14 @@ pdb_id,chain,protein,is_actin
 5ooe,5ooe_A,"Actin, alpha skeletal muscle",True
 5ooe,5ooe_E,"Actin, alpha skeletal muscle",True
 5ooe,5ooe_D,"Actin, alpha skeletal muscle",True
-7bt7,7bt7_A,"Actin, alpha skeletal muscle",True
-7bt7,7bt7_B,"Actin, alpha skeletal muscle",True
-7bt7,7bt7_C,"Actin, alpha skeletal muscle",True
-7bt7,7bt7_D,"Actin, alpha skeletal muscle",True
-7bt7,7bt7_E,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_Q,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_R,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_S,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_c,Vibrio VopV,False
-9p3d,9p3d_d,Vibrio VopV,False
-9p3d,9p3d_T,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_e,Vibrio VopV,False
-9p3d,9p3d_U,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_f,Vibrio VopV,False
-9p3d,9p3d_V,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_g,Vibrio VopV,False
-9p3d,9p3d_W,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_h,Vibrio VopV,False
-9p3d,9p3d_X,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_i,Vibrio VopV,False
-9p3d,9p3d_Y,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_j,Vibrio VopV,False
-9p3d,9p3d_Z,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_k,Vibrio VopV,False
-9p3d,9p3d_a,"Actin, alpha skeletal muscle",True
-9p3d,9p3d_l,Vibrio VopV,False
-9p3d,9p3d_m,Vibrio VopV,False
+9b0k,9b0k_A,"Actin, alpha skeletal muscle",True
+9b0k,9b0k_B,"Actin, alpha skeletal muscle",True
+9b0k,9b0k_C,"Actin, alpha skeletal muscle",True
+9b0k,9b0k_H,Inverted formin-2,False
+9b0k,9b0k_D,"Actin, alpha skeletal muscle",True
+9b0k,9b0k_G,Inverted formin-2,False
+9b0k,9b0k_E,"Actin, alpha skeletal muscle",True
+9b0k,9b0k_F,"Actin, alpha skeletal muscle",True
 7jh7,7jh7_A,"Actin, alpha cardiac muscle 1",True
 7jh7,7jh7_F,Myosin-7,False
 7jh7,7jh7_B,"Actin, alpha cardiac muscle 1",True
@@ -828,11 +1221,14 @@ pdb_id,chain,protein,is_actin
 5ood,5ood_A,"Actin, alpha skeletal muscle",True
 5ood,5ood_D,"Actin, alpha skeletal muscle",True
 5ood,5ood_E,"Actin, alpha skeletal muscle",True
-7bti,7bti_A,"Actin, alpha skeletal muscle",True
-7bti,7bti_B,"Actin, alpha skeletal muscle",True
-7bti,7bti_C,"Actin, alpha skeletal muscle",True
-7bti,7bti_D,"Actin, alpha skeletal muscle",True
-7bti,7bti_E,"Actin, alpha skeletal muscle",True
+9b03,9b03_A,"Actin, alpha skeletal muscle",True
+9b03,9b03_B,"Actin, alpha skeletal muscle",True
+9b03,9b03_C,"Actin, alpha skeletal muscle",True
+9b03,9b03_H,Inverted formin-2,False
+9b03,9b03_D,"Actin, alpha skeletal muscle",True
+9b03,9b03_G,Inverted formin-2,False
+9b03,9b03_E,"Actin, alpha skeletal muscle",True
+9b03,9b03_F,"Actin, alpha skeletal muscle",True
 8iah,8iah_0,Adducin 1,False
 8iah,8iah_4,Beta-adducin,False
 8iah,8iah_L,"Actin, cytoplasmic 1",True
@@ -874,35 +1270,15 @@ pdb_id,chain,protein,is_actin
 5ooc,5ooc_B,"Actin, alpha skeletal muscle",True
 5ooc,5ooc_E,"Actin, alpha skeletal muscle",True
 5ooc,5ooc_D,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_A,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_B,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_C,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_G,Utrophin,False
-6m5g,6m5g_D,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_F,Utrophin,False
-6m5g,6m5g_E,"Actin, alpha skeletal muscle",True
-6m5g,6m5g_H,Utrophin,False
-8uz1,8uz1_J,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_K,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_L,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_M,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_N,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_O,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_P,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_Q,"Actin, alpha skeletal muscle",True
-8uz1,8uz1_R,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_B,Cell invasion protein SipA,False
-8vfm,8vfm_J,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_W,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_A,Cell invasion protein SipA,False
-8vfm,8vfm_L,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_M,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_S,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_U,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_C,Cell invasion protein SipA,False
-8vfm,8vfm_I,Cell invasion protein SipA,False
-8vfm,8vfm_N,"Actin, alpha skeletal muscle",True
-8vfm,8vfm_R,"Actin, alpha skeletal muscle",True
+9azq,9azq_A,"Actin, alpha skeletal muscle",True
+9azq,9azq_B,"Actin, alpha skeletal muscle",True
+9azq,9azq_C,"Actin, alpha skeletal muscle",True
+9azq,9azq_D,"Actin, alpha skeletal muscle",True
+9azq,9azq_E,"Actin, alpha skeletal muscle",True
+9azq,9azq_F,"Actin, alpha skeletal muscle",True
+9azq,9azq_H,Inverted formin-2,False
+9azq,9azq_I,"Actin, alpha skeletal muscle",True
+9azq,9azq_G,Inverted formin-2,False
 9hm9,9hm9_C,"Actin, alpha skeletal muscle",True
 9hm9,9hm9_F,Inositol-trisphosphate 3-kinase A,False
 9hm9,9hm9_A,"Actin, alpha skeletal muscle",True
@@ -934,27 +1310,16 @@ pdb_id,chain,protein,is_actin
 5yu8,5yu8_I,Cofilin-2,False
 5yu8,5yu8_D,"Actin, alpha skeletal muscle",True
 5yu8,5yu8_B,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_B,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_D,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_I,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_N,Catenin alpha-1,False
-6wvt,6wvt_E,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_K,Catenin alpha-1,False
-6wvt,6wvt_L,Catenin alpha-1,False
-6wvt,6wvt_F,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_H,"Actin, alpha skeletal muscle",True
-6wvt,6wvt_O,Catenin alpha-1,False
-6wvt,6wvt_Q,Catenin alpha-1,False
-6wvt,6wvt_X,Catenin alpha-1,False
-8uz0,8uz0_J,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_K,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_L,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_M,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_N,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_O,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_P,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_Q,"Actin, alpha skeletal muscle",True
-8uz0,8uz0_R,"Actin, alpha skeletal muscle",True
+9azp,9azp_A,"Actin, alpha skeletal muscle",True
+9azp,9azp_B,"Actin, alpha skeletal muscle",True
+9azp,9azp_C,"Actin, alpha skeletal muscle",True
+9azp,9azp_D,"Actin, alpha skeletal muscle",True
+9azp,9azp_E,"Actin, alpha skeletal muscle",True
+9azp,9azp_F,"Actin, alpha skeletal muscle",True
+9azp,9azp_G,Inverted formin-2,False
+9azp,9azp_H,Inverted formin-2,False
+9azp,9azp_I,"Actin, alpha skeletal muscle",True
+9azp,9azp_J,Profilin-1,False
 7ztc,7ztc_A,"actin, cytoplasmic 1",True
 7ztc,7ztc_B,"actin, cytoplasmic 1",True
 7ztc,7ztc_C,"actin, cytoplasmic 1",True
@@ -963,6 +1328,21 @@ pdb_id,chain,protein,is_actin
 7ztc,7ztc_F,"actin, cytoplasmic 1",True
 7ztc,7ztc_G,"actin, cytoplasmic 1",True
 7ztc,7ztc_H,"actin, cytoplasmic 1",True
+8r3h,8r3h_F,"Actin, alpha skeletal muscle",True
+8r3h,8r3h_H,"Actin, alpha skeletal muscle",True
+8r3h,8r3h_I,"Actin, alpha skeletal muscle",True
+8r3h,8r3h_J,"Actin, alpha skeletal muscle",True
+8r3h,8r3h_G,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_M,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
+7p1g,7p1g_C,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_A,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_B,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_D,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_O,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
+7p1g,7p1g_E,"Actin, alpha skeletal muscle",True
+7p1g,7p1g_K,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
+7p1g,7p1g_L,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
+7p1g,7p1g_N,"Maltose/maltodextrin-binding periplasmic protein,Adenylate cyclase ExoY",False
 12bz,12bz_A,"Actin, alpha skeletal muscle",True
 12bz,12bz_B,"Actin, alpha skeletal muscle",True
 12bz,12bz_C,"Actin, alpha skeletal muscle",True
@@ -980,33 +1360,14 @@ pdb_id,chain,protein,is_actin
 6c1g,6c1g_P,Unconventional myosin-Ib,False
 6c1g,6c1g_E,"Actin, alpha skeletal muscle",True
 6c1g,6c1g_R,Calmodulin,False
-8pvx,8pvx_C,"Actin, alpha skeletal muscle",True
-8pvx,8pvx_E,"Actin, alpha skeletal muscle",True
-8pvx,8pvx_A,"Actin, alpha skeletal muscle",True
-8pvx,8pvx_D,"Actin, alpha skeletal muscle",True
-8pvx,8pvx_B,"Actin, alpha skeletal muscle",True
-6vec,6vec_A,"Actin, alpha skeletal muscle",True
-6vec,6vec_B,"Actin, alpha skeletal muscle",True
-6vec,6vec_C,"Actin, alpha skeletal muscle",True
-6vec,6vec_D,"Actin, alpha skeletal muscle",True
-6vec,6vec_E,"Actin, alpha skeletal muscle",True
-6vec,6vec_a,Epididymis secretory protein Li 37,False
-6vec,6vec_e,Epididymis secretory protein Li 37,False
-6vec,6vec_F,"Actin, alpha skeletal muscle",True
-6vec,6vec_b,Epididymis secretory protein Li 37,False
-6vec,6vec_c,Epididymis secretory protein Li 37,False
-6vec,6vec_G,"Actin, alpha skeletal muscle",True
-6vec,6vec_g,Epididymis secretory protein Li 37,False
-6vec,6vec_H,"Actin, alpha skeletal muscle",True
-6vec,6vec_d,Epididymis secretory protein Li 37,False
-6vec,6vec_I,"Actin, alpha skeletal muscle",True
-6vec,6vec_i,Epididymis secretory protein Li 37,False
-6vec,6vec_J,"Actin, alpha skeletal muscle",True
-6vec,6vec_f,Epididymis secretory protein Li 37,False
-6vec,6vec_K,"Actin, alpha skeletal muscle",True
-6vec,6vec_k,Epididymis secretory protein Li 37,False
-6vec,6vec_h,Epididymis secretory protein Li 37,False
-6vec,6vec_j,Epididymis secretory protein Li 37,False
+9az4,9az4_A,"Actin, alpha skeletal muscle",True
+9az4,9az4_B,"Actin, alpha skeletal muscle",True
+9az4,9az4_C,"Actin, alpha skeletal muscle",True
+9az4,9az4_D,"Actin, alpha skeletal muscle",True
+9az4,9az4_G,Inverted formin-2,False
+9az4,9az4_E,"Actin, alpha skeletal muscle",True
+9az4,9az4_H,Inverted formin-2,False
+9az4,9az4_F,"Actin, alpha skeletal muscle",True
 6c1d,6c1d_P,Unconventional myosin-Ib,False
 6c1d,6c1d_R,Calmodulin,False
 6c1d,6c1d_D,"Actin, alpha skeletal muscle",True
@@ -1014,22 +1375,22 @@ pdb_id,chain,protein,is_actin
 6c1d,6c1d_E,"Actin, alpha skeletal muscle",True
 6c1d,6c1d_C,"Actin, alpha skeletal muscle",True
 6c1d,6c1d_A,"Actin, alpha skeletal muscle",True
-8zbn,8zbn_B,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_I,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_J,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_K,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_M,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_S,Tropomyosin alpha-1 chain,False
-8zbn,8zbn_A,Myosin-6,False
-8zbn,8zbn_C,Myosin-6,False
-8zbn,8zbn_D,"Actin, alpha cardiac muscle 1",True
-8zbn,8zbn_R,Tropomyosin alpha-1 chain,False
-8zbn,8zbn_H,Myosin-6,False
-8zbn,8zbn_L,Myosin-6,False
-8zbn,8zbn_U,Tropomyosin alpha-1 chain,False
-8zbn,8zbn_T,Tropomyosin alpha-1 chain,False
-8zbn,8zbn_F,Myosin-6,False
-8zbn,8zbn_G,Myosin-6,False
+8zb7,8zb7_M,Myosin-7,False
+8zb7,8zb7_B,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_F,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_D,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_P,Tropomyosin alpha-1 chain,False
+8zb7,8zb7_H,Myosin-7,False
+8zb7,8zb7_C,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_E,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_G,Myosin-7,False
+8zb7,8zb7_A,"Actin, alpha cardiac muscle 1",True
+8zb7,8zb7_I,Myosin-7,False
+8zb7,8zb7_J,Myosin-7,False
+8zb7,8zb7_L,Tropomyosin alpha-1 chain,False
+8zb7,8zb7_K,Myosin-7,False
+8zb7,8zb7_N,Tropomyosin alpha-1 chain,False
+8zb7,8zb7_O,Tropomyosin alpha-1 chain,False
 12bx,12bx_A,"Actin, alpha skeletal muscle",True
 12bx,12bx_B,"Actin, alpha skeletal muscle",True
 12bx,12bx_C,"Actin, alpha skeletal muscle",True
@@ -1039,21 +1400,6 @@ pdb_id,chain,protein,is_actin
 12bx,12bx_F,"Actin, alpha skeletal muscle",True
 12bx,12bx_G,"Actin, alpha skeletal muscle",True
 12bx,12bx_H,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_A,Actin-related protein 3,False
-8uxx,8uxx_B,Actin-related protein 2,False
-8uxx,8uxx_D,Actin-related protein 2/3 complex subunit 2,False
-8uxx,8uxx_E,Actin-related protein 2/3 complex subunit 3,False
-8uxx,8uxx_F,Actin-related protein 2/3 complex subunit 4,False
-8uxx,8uxx_H,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_O,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_P,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_C,Actin-related protein 2/3 complex subunit 1,False
-8uxx,8uxx_G,Actin-related protein 2/3 complex subunit 5,False
-8uxx,8uxx_I,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_Q,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_R,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_M,"Actin, alpha skeletal muscle",True
-8uxx,8uxx_N,"Actin, alpha skeletal muscle",True
 7pdz,7pdz_E,Isoform 2 of F-actin-capping protein subunit beta,False
 7pdz,7pdz_F,F-actin-capping protein subunit alpha-1,False
 7pdz,7pdz_I,"Actin, cytoplasmic 1",True
@@ -1067,16 +1413,13 @@ pdb_id,chain,protein,is_actin
 5jlf,5jlf_C,"Actin, alpha skeletal muscle",True
 5jlf,5jlf_D,"Actin, alpha skeletal muscle",True
 5jlf,5jlf_E,"Actin, alpha skeletal muscle",True
-7ad9,7ad9_B,"Actin, alpha skeletal muscle",True
-7ad9,7ad9_D,"Actin, alpha skeletal muscle",True
-7ad9,7ad9_H,"Actin, alpha skeletal muscle",True
-7ad9,7ad9_F,"Actin, alpha skeletal muscle",True
-7ad9,7ad9_I,"Actin, alpha skeletal muscle",True
-8v30,8v30_A,"Actin, gamma-enteric smooth muscle",True
-8v30,8v30_B,"Actin, gamma-enteric smooth muscle",True
-8v30,8v30_C,"Actin, gamma-enteric smooth muscle",True
-8v30,8v30_D,"Actin, gamma-enteric smooth muscle",True
-8v30,8v30_E,"Actin, gamma-enteric smooth muscle",True
+8d16,8d16_A,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_B,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_C,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_D,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_E,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_F,"Actin, alpha skeletal muscle, intermediate form",True
+8d16,8d16_G,"Actin, alpha skeletal muscle, intermediate form",True
 9zzm,9zzm_A,"Actin, alpha skeletal muscle",True
 9zzm,9zzm_B,"Actin, alpha skeletal muscle",True
 9zzm,9zzm_C,"Actin, alpha skeletal muscle",True
@@ -1085,279 +1428,34 @@ pdb_id,chain,protein,is_actin
 9zzm,9zzm_D,"Actin, alpha skeletal muscle",True
 9zzm,9zzm_O,"Actin, alpha skeletal muscle",True
 9zzm,9zzm_E,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_A,Actin-related protein 3,False
-8uxw,8uxw_B,Actin-related protein 2,False
-8uxw,8uxw_D,Actin-related protein 2/3 complex subunit 2,False
-8uxw,8uxw_E,Actin-related protein 2/3 complex subunit 3,False
-8uxw,8uxw_F,Actin-related protein 2/3 complex subunit 4,False
-8uxw,8uxw_H,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_O,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_P,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_C,Actin-related protein 2/3 complex subunit 1,False
-8uxw,8uxw_G,Actin-related protein 2/3 complex subunit 5,False
-8uxw,8uxw_I,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_Q,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_R,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_M,"Actin, alpha skeletal muscle",True
-8uxw,8uxw_N,"Actin, alpha skeletal muscle",True
-8v2z,8v2z_A,"Actin, gamma-enteric smooth muscle",True
-8v2z,8v2z_B,"Actin, gamma-enteric smooth muscle",True
-8v2z,8v2z_C,"Actin, gamma-enteric smooth muscle",True
-8v2z,8v2z_D,"Actin, gamma-enteric smooth muscle",True
-8v2z,8v2z_E,"Actin, gamma-enteric smooth muscle",True
-6u96,6u96_E,"Actin, alpha skeletal muscle",True
-6u96,6u96_A,"Actin, alpha skeletal muscle",True
-6u96,6u96_C,"Actin, alpha skeletal muscle",True
-6u96,6u96_D,"Actin, alpha skeletal muscle",True
-6u96,6u96_B,"Actin, alpha skeletal muscle",True
+7r8v,7r8v_B,"Actin, alpha skeletal muscle, intermediate form",True
+7r8v,7r8v_A,"Actin, alpha skeletal muscle, intermediate form",True
+7r8v,7r8v_C,"Actin, alpha skeletal muscle, intermediate form",True
+7r8v,7r8v_D,"Actin, alpha skeletal muscle, intermediate form",True
+7r8v,7r8v_E,"Actin, alpha skeletal muscle, intermediate form",True
+7ahn,7ahn_C,"Actin, alpha skeletal muscle",True
+7ahn,7ahn_A,"Actin, alpha skeletal muscle",True
+7ahn,7ahn_E,"Actin, alpha skeletal muscle",True
+7ahn,7ahn_D,"Actin, alpha skeletal muscle",True
+7ahn,7ahn_B,"Actin, alpha skeletal muscle",True
 9zzj,9zzj_A,"Actin, alpha skeletal muscle",True
 9zzj,9zzj_B,"Actin, alpha skeletal muscle",True
 9zzj,9zzj_C,"Actin, alpha skeletal muscle",True
 9zzj,9zzj_L,Leiomodin-2,False
 9zzj,9zzj_D,"Actin, alpha skeletal muscle",True
 9zzj,9zzj_E,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_A,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_B,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_C,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_M,Cell invasion protein SipA,False
-8c4e,8c4e_N,Cell invasion protein SipA,False
-8c4e,8c4e_D,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_E,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_K,Cell invasion protein SipA,False
-8c4e,8c4e_F,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_L,Cell invasion protein SipA,False
-8c4e,8c4e_G,"Actin, alpha skeletal muscle",True
-8c4e,8c4e_H,"Actin, alpha skeletal muscle",True
+7ahq,7ahq_A,"Actin, alpha skeletal muscle",True
+7ahq,7ahq_B,"Actin, alpha skeletal muscle",True
+7ahq,7ahq_C,"Actin, alpha skeletal muscle",True
+7ahq,7ahq_D,"Actin, alpha skeletal muscle",True
+7ahq,7ahq_E,"Actin, alpha skeletal muscle",True
 9zzi,9zzi_A,"Actin, alpha skeletal muscle",True
 9zzi,9zzi_B,"Actin, alpha skeletal muscle",True
 9zzi,9zzi_C,"Actin, alpha skeletal muscle",True
 9zzi,9zzi_D,"Actin, alpha skeletal muscle",True
 9zzi,9zzi_E,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_A,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_B,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_C,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_M,Cell invasion protein SipA,False
-8c4c,8c4c_N,Cell invasion protein SipA,False
-8c4c,8c4c_D,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_E,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_F,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_K,Cell invasion protein SipA,False
-8c4c,8c4c_G,"Actin, alpha skeletal muscle",True
-8c4c,8c4c_L,Cell invasion protein SipA,False
-8c4c,8c4c_H,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_A,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_B,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_C,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_K,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_D,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_L,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_E,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_M,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_F,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_N,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_G,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_O,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_H,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_P,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_I,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_Q,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_J,"Actin, alpha skeletal muscle",True
-8vaa,8vaa_R,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_S,F-actin-binding Coiled-Coil domain of LFAT1,False
-8vaa,8vaa_T,F-actin-binding Coiled-Coil domain of LFAT1,False
-6vao,6vao_C,"Actin, alpha skeletal muscle",True
-6vao,6vao_A,"Actin, alpha skeletal muscle",True
-6vao,6vao_D,"Actin, alpha skeletal muscle",True
-6vao,6vao_J,Cofilin-1,False
-6vao,6vao_B,"Actin, alpha skeletal muscle",True
-6vao,6vao_G,Cofilin-1,False
-6vao,6vao_E,"Actin, alpha skeletal muscle",True
-6vao,6vao_F,Cofilin-1,False
-6vao,6vao_I,Cofilin-1,False
-6vao,6vao_H,Cofilin-1,False
-8f8t,8f8t_A,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_B,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_C,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_T,Tropomodulin-1,False
-8f8t,8f8t_D,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_E,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_F,"Actin, alpha skeletal muscle",True
-8f8t,8f8t_G,"Actin, alpha skeletal muscle",True
-6vau,6vau_E,"Actin, alpha skeletal muscle",True
-6vau,6vau_A,"Actin, alpha skeletal muscle",True
-6vau,6vau_B,"Actin, alpha skeletal muscle",True
-6vau,6vau_D,"Actin, alpha skeletal muscle",True
-6vau,6vau_C,"Actin, alpha skeletal muscle",True
-9az6,9az6_A,"Actin, alpha skeletal muscle",True
-9az6,9az6_B,"Actin, alpha skeletal muscle",True
-9az6,9az6_C,"Actin, alpha skeletal muscle",True
-9az6,9az6_H,Talin-1,False
-9az6,9az6_I,Talin-1,False
-9az6,9az6_D,"Actin, alpha skeletal muscle",True
-9az6,9az6_F,Talin-1,False
-9az6,9az6_J,Talin-1,False
-9az6,9az6_K,Talin-1,False
-9az6,9az6_E,"Actin, alpha skeletal muscle",True
-9az6,9az6_L,Talin-1,False
-9az6,9az6_M,Talin-1,False
-9az6,9az6_G,Talin-1,False
-9qfw,9qfw_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfw,9qfw_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfw,9qfw_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfw,9qfw_F,Cofilin-1,False
-9qfw,9qfw_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfw,9qfw_G,Cofilin-1,False
-9qfw,9qfw_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfw,9qfw_H,Cofilin-1,False
-9qfw,9qfw_I,Cofilin-1,False
-9qfw,9qfw_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfw,9qfw_J,Cofilin-1,False
-9qfw,9qfw_Q,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
-8f8s,8f8s_A,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_B,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_C,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_D,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_E,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_F,"Actin, alpha skeletal muscle",True
-8f8s,8f8s_G,"Actin, alpha skeletal muscle",True
-8ord,8ord_A,"Actin, alpha 1b, skeletal muscle",True
-8ord,8ord_B,"Actin, alpha 1b, skeletal muscle",True
-8ord,8ord_C,"Actin, alpha 1b, skeletal muscle",True
-8ord,8ord_D,"Actin, alpha 1b, skeletal muscle",True
-8ord,8ord_E,"Actin, alpha 1b, skeletal muscle",True
-9dva,9dva_A,"Actin, alpha skeletal muscle",True
-9dva,9dva_B,"Actin, alpha skeletal muscle",True
-9dva,9dva_D,"Actin, alpha skeletal muscle",True
-9dva,9dva_H,Catenin alpha-1,False
-9dva,9dva_C,"Actin, alpha skeletal muscle",True
-9dva,9dva_E,"Actin, alpha skeletal muscle",True
-9dva,9dva_F,Catenin alpha-1,False
-9dva,9dva_G,Afadin,False
-9qfq,9qfq_F,Cofilin-1,False
-9qfq,9qfq_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfq,9qfq_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfq,9qfq_G,Cofilin-1,False
-9qfq,9qfq_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfq,9qfq_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfq,9qfq_H,Cofilin-1,False
-9qfq,9qfq_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfq,9qfq_I,Cofilin-1,False
-9qfq,9qfq_P,"WD repeat-containing protein 1,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfq,9qfq_J,Cofilin-1,False
-8f8r,8f8r_A,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_B,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_C,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_D,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_E,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_F,"Actin, alpha skeletal muscle",True
-8f8r,8f8r_G,"Actin, alpha skeletal muscle",True
-9duu,9duu_A,"Actin, alpha skeletal muscle",True
-9duu,9duu_B,"Actin, alpha skeletal muscle",True
-9duu,9duu_C,"Actin, alpha skeletal muscle",True
-9duu,9duu_D,"Actin, alpha skeletal muscle",True
-9duu,9duu_E,"Actin, alpha skeletal muscle",True
-9duu,9duu_F,"Actin, alpha skeletal muscle",True
-9qfo,9qfo_G,Cofilin-1,False
-9qfo,9qfo_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfo,9qfo_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfo,9qfo_H,Cofilin-1,False
-9qfo,9qfo_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfo,9qfo_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfo,9qfo_I,Cofilin-1,False
-9qfo,9qfo_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfo,9qfo_J,Cofilin-1,False
-9qfo,9qfo_F,"Actin, cytoplasmic 1, N-terminally processed",True
-8vkh,8vkh_A,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_B,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_C,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_D,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_E,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_H,Gelsolin,False
-8vkh,8vkh_F,"Actin, alpha skeletal muscle",True
-8vkh,8vkh_G,Gelsolin,False
-8f8q,8f8q_A,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_B,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_C,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_D,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_E,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_F,"Actin, alpha skeletal muscle",True
-8f8q,8f8q_G,F-actin-capping protein subunit alpha-1,False
-8f8q,8f8q_H,F-actin-capping protein subunit beta,False
-3j8a,3j8a_E,"Actin, alpha skeletal muscle",True
-3j8a,3j8a_D,"Actin, alpha skeletal muscle",True
-3j8a,3j8a_A,"Actin, alpha skeletal muscle",True
-3j8a,3j8a_C,"Actin, alpha skeletal muscle",True
-3j8a,3j8a_B,"Actin, alpha skeletal muscle",True
-9qfk,9qfk_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_H,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfk,9qfk_I,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfk,9qfk_J,Cofilin-1,False
-9qfk,9qfk_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfk,9qfk_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfk,9qfk_F,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfk,9qfk_G,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfk,9qfk_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9go5,9go5_A,Actin,True
-9go5,9go5_B,Actin,True
-9go5,9go5_C,Actin,True
-9go5,9go5_D,Actin,True
-9go5,9go5_E,Actin,True
-8viz,8viz_A,"Actin, alpha skeletal muscle",True
-8viz,8viz_B,"Actin, alpha skeletal muscle",True
-8viz,8viz_C,"Actin, alpha skeletal muscle",True
-8viz,8viz_D,"Actin, alpha skeletal muscle",True
-8viz,8viz_E,"Actin, alpha skeletal muscle",True
-8viz,8viz_F,"Actin, alpha skeletal muscle",True
-8viz,8viz_G,Gelsolin,False
-8f8p,8f8p_A,"Actin, alpha skeletal muscle",True
-8f8p,8f8p_B,"Actin, alpha skeletal muscle",True
-8f8p,8f8p_C,"Actin, alpha skeletal muscle",True
-8f8p,8f8p_D,"Actin, alpha skeletal muscle",True
-8f8p,8f8p_E,"Actin, alpha skeletal muscle",True
-9qfj,9qfj_G,Cofilin-1,False
-9qfj,9qfj_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfj,9qfj_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfj,9qfj_F,Cofilin-1,False
-9qfj,9qfj_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfj,9qfj_H,Cofilin-1,False
-9qfj,9qfj_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfj,9qfj_I,Cofilin-1,False
-9qfj,9qfj_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfj,9qfj_J,Cofilin-1,False
-7uxf,7uxf_A,"Actin, alpha skeletal muscle",True
-7uxf,7uxf_B,"Actin, alpha skeletal muscle",True
-7uxf,7uxf_C,"Actin, alpha skeletal muscle",True
-7uxf,7uxf_D,"Actin, alpha skeletal muscle",True
-7uxf,7uxf_E,"Actin, alpha skeletal muscle",True
-7uxf,7uxf_F,"Actin, alpha skeletal muscle",True
-9qfg,9qfg_H,Cofilin-1,False
-9qfg,9qfg_A,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_I,Cofilin-1,False
-9qfg,9qfg_C,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_L,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfg,9qfg_B,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_M,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfg,9qfg_D,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_E,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_N,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfg,9qfg_F,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_G,"Actin, cytoplasmic 1, N-terminally processed",True
-9qfg,9qfg_J,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-9qfg,9qfg_K,"Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",False
-7utj,7utj_A,"Actin, alpha skeletal muscle",True
-7utj,7utj_B,"Actin, alpha skeletal muscle",True
-7utj,7utj_C,"Actin, alpha skeletal muscle",True
-7utj,7utj_H,Catenin alpha-1,False
-7utj,7utj_D,"Actin, alpha skeletal muscle",True
-7utj,7utj_G,Catenin alpha-1,False
-7utj,7utj_I,Catenin alpha-1,False
-7utj,7utj_E,"Actin, alpha skeletal muscle",True
-7utj,7utj_Z,Catenin alpha-1,False
-7utj,7utj_F,"Actin, alpha skeletal muscle",True
-7utj,7utj_K,Catenin alpha-1,False
-7utj,7utj_L,Catenin alpha-1,False
+7bt7,7bt7_A,"Actin, alpha skeletal muscle",True
+7bt7,7bt7_B,"Actin, alpha skeletal muscle",True
+7bt7,7bt7_C,"Actin, alpha skeletal muscle",True
+7bt7,7bt7_D,"Actin, alpha skeletal muscle",True
+7bt7,7bt7_E,"Actin, alpha skeletal muscle",True

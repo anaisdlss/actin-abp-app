@@ -1,14 +1,14 @@
 {
-  "finished_utc": "2026-10-02T14:51:33.959552+00:00",
+  "finished_utc": "2026-10-03T08:38:38.365869+00:00",
   "fingerprint": {
     "inputs": {
       "data/P60709_ref.fasta": "50469aa3087cbb3679ce4167ab78ce1352cc07bd7fa6533e77ed9601dedcaa08",
       "data/alignments/cluster_6685.aln": "da616f5bde17be50876a03004e48bd4edf41b0822becf7de1ef08ba815f9adbc",
-      "data/filtered/details/1.interactions.csv": "daf1b2cd872459c1a99721ed1acf662846f110c211f34cae8d6f7c653ab4ad50",
-      "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d",
-      "data/filtered/details/4.inter-residue_contacts.csv": "d26035bd9212afb45acb45f5bca28ba27ba4ee4406b93c9c3f7158c2d86e30df",
-      "data/filtered/filtered_all_data.csv": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f",
-      "data/filtered/proteins_per_pdb.csv": "e09f8552c6168e3b75c8ba16f75cbde43f7686c0ccdc35b04cab6ac5858662ff",
+      "data/filtered/details/1.interactions.csv": "ea101480359ff3a436093ebf9593004f7af4d8ae242e738fb01f29ee6238a893",
+      "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581",
+      "data/filtered/details/4.inter-residue_contacts.csv": "92b71491325131990c45a9f3e3a71af4b30b5926881147f0dfa31589acdb2c97",
+      "data/filtered/filtered_all_data.csv": "2cc698166ffe50f9e0793289e6fbef470aaffbe52bbd44a9814789effa497574",
+      "data/filtered/proteins_per_pdb.csv": "be97933d256e64017cba6e06cc93965866b167143727c1841b175f0edb57912f",
       "data/human_variants/clinvar_identity.json": "f0fd6729668d7756182575a790f79ee11171dd33d0b49ff80b306eac259a5196",
       "data/human_variants/ref/P60709.fasta": "50469aa3087cbb3679ce4167ab78ce1352cc07bd7fa6533e77ed9601dedcaa08",
       "data/human_variants/ref/P62736.fasta": "493e00a0c2d08af9952f3c8157ff26fa7e39eaba296b7f9bb9381523fd6cd155",
@@ -32,13 +32,13 @@
       "data/proteocast/actin/2.aliAF-P60709-F1-msa_v6.fasta": "e8bbcc7c1a7ea66d1fbe5272509c2496d591cbd573d6361c62781c9a14f9f7da",
       "data/proteocast/actin/4.query_ProteoCast.csv": "909024144ba3aa29fe879bbdb4c2c661a74ee30d90d4b993406500e6d81cd4e4",
       "reports/scientific_audit/filament_accessibility_7pdz_I.csv": "6b1ce398fe1b997f2708df607c929494cd4f848c3798b9ad2c30e7544e8b73c2",
-      "reports/scientific_audit/filament_accessibility_manifest.json": "2e4aef4e06f5207cca2b670d9d70a40e8d22c4de19477b00b2044f6c9c407734"
+      "reports/scientific_audit/filament_accessibility_manifest.json": "1fc40586ff4681dafd02867e1d2bf7cbb98b8e12c5b2cf27b00eca372810f28e"
     },
     "code": {
       "script/display_helpers.py": "cfff8b5096f06a125dc7da681c36a9c804e68f8b3eacde79cad00eb8e232d2fb",
       "script/footprint_comparison.py": "4c79c743966c68045621da8c8a2ef35227260100c06d053107fd6523b83083b2",
       "script/interface_properties.py": "fa4824a77364067c56b0de88ea526666143eeb47b02cf80b0acadf2caee1a4da",
-      "script/local_rebuild.py": "9128d0b366bf79bcf52ca91bb8c9e8d8d74d0164c580306c0f1d1d7ef61641fb",
+      "script/local_rebuild.py": "262758a659fe34f01ea71a593ae655299853f1a469cb2d61057213a0b4d848dd",
       "script/numbering.py": "740de6699bf30037e4db8905cf6701cdc1b978ea3bf5a6bfb5f8476c42a18ede",
       "script/residue_contacts.py": "9b4369da1b7982f794f1f777bc8795304c256b7f24f759154c2c096ba0333b28",
       "script/rsa_source.py": "0fa8e5e85f1b678f5f361bfedf7a12b57e78fe092dfc6748cb70ef546c1b68ed",
@@ -50,7 +50,8 @@
       "numpy": "2.5.0",
       "pandas": "2.3.3",
       "biopython": "1.87",
-      "scipy": "1.18.0"
+      "scipy": "1.18.0",
+      "matplotlib": "3.10.9"
     },
     "command": [
       "-u",
@@ -58,20 +59,20 @@
     ]
   },
   "outputs": {
-    "reports/scientific_audit/conservation_correlations.csv": "7849d719e18ea7a27aabdec391d4295df3204965209cbb0d798f5c4722c57967",
-    "reports/scientific_audit/conservation_footprints.csv": "1f8800966c8622d328485d9eb4f3432a12d7a5773031413675fc90ca402cf5e4",
-    "reports/scientific_audit/conservation_profiles.csv": "072f1ffda05f262f191abf67d7764af27a38fff7ed3dd56375a737f4b329c439",
-    "reports/scientific_audit/cross_gene_abp_details.csv": "6942d6ab56c178e40b516e7fd711a759b903f01ea2e4f7ae71ec43c2ab1abde7",
-    "reports/scientific_audit/cross_gene_abp_summaries.csv": "0f21247088f1cb6e6707c211b33e609dee7dc5f71c5d73fec155f202eea9db0b",
+    "reports/scientific_audit/conservation_correlations.csv": "04860fa01d4b0fa433c42fdf925c2c11ad36a0ecfcebe51f33ee5b735b9856ce",
+    "reports/scientific_audit/conservation_footprints.csv": "0a94202d0f4f2b88c1747c968da1d3d61add8c607cf2cf8b3c96978560c57c1d",
+    "reports/scientific_audit/conservation_profiles.csv": "d1b1aed4aaa684428230dbe7f21eadb4786bf95d0b565fe8b52bc05bde10499d",
+    "reports/scientific_audit/cross_gene_abp_details.csv": "993547143abadd67d55d3f9185d71908e23bd3c91984a2e3c607b299c0a9ee94",
+    "reports/scientific_audit/cross_gene_abp_summaries.csv": "dc6a381b7be26a3b58f32cfcc69581b8ead96551a31a6815cd66cfef79df1686",
     "reports/scientific_audit/cross_gene_observations.csv": "8b22e2c455505b1732b46e78796c603a3f61b9adfee2942657cd5a42bc5a74a7",
     "reports/scientific_audit/cross_gene_pair_counts.csv": "e7cf2a742083aec82d9b0a0c2ff826170ec5b7ddbce00b7b7a4ac9d319985241",
-    "reports/scientific_audit/interface_c70.csv": "e839753cefcdf1acb0a10bd1d3367747dc47b20ba80ec645a740b74c8bbbe0c9",
-    "reports/scientific_audit/interface_context.csv": "3d4abd00f313a7fac550df162cf867d4053b4232700849e3389e462fc6c3810d",
-    "reports/scientific_audit/interface_occurrences.csv": "11532ff279947beb8ef2c9249b78426d48e1ae6f23a99e6a66a5f945150a258a",
-    "reports/scientific_audit/interface_sites.csv": "7631e76555a6d57ad7c4dce61a19447b8e2c7d3c30117b41c21c4f954a986b05",
-    "reports/scientific_audit/manifest.json": "5ee1d1bd44ad3e193323c60ff7b50df760694b93fa4ed80cbc681c7f8237b97a",
-    "reports/scientific_audit/partner_chemistry_per_abp.csv": "c69f4fbd5491772b227a2043ca1684ff00161a587e15ab2395ff98692599eea6",
-    "reports/scientific_audit/partner_chemistry_positions.csv": "ff0e8c349587d2031f4b21ad67f5f87aed06a2a15626b2828b5d8b5ee9847564",
+    "reports/scientific_audit/interface_c70.csv": "009b0dfc7c0b44437bb289013639c4de166a1b526ce8e252fc9515c640380281",
+    "reports/scientific_audit/interface_context.csv": "155547ed23d3b8c0f9bfba5080f1f96a9fdd6f9f0b263ad44d66b5aee932d2df",
+    "reports/scientific_audit/interface_occurrences.csv": "9bc236015d6d724d5950a4b76759d4179a9511bdd7662826d123d809018aee6b",
+    "reports/scientific_audit/interface_sites.csv": "d9d99c929251a7aec593ad0572669b60889f3997a4f5aa08798ac64fe1a56a1e",
+    "reports/scientific_audit/manifest.json": "9ccac6a8cdca380f44f8b7f5afe04d27977a579faeb8560e86b33aef81f74e59",
+    "reports/scientific_audit/partner_chemistry_per_abp.csv": "b6538e5d1c6fc71ec8f5b233f99231fa4cfb06a4eb52bd3c3116f6e9abbe7d14",
+    "reports/scientific_audit/partner_chemistry_positions.csv": "e0073127fe5b7db5711337710759dd700273116ddb7ab03c937ee00c15e13623",
     "reports/scientific_audit/variant_exclusions.csv": "767946ad5d8e4f4a4a2f807774c4684f84f9037d98a10e903d574f57994b7060",
     "reports/scientific_audit/variant_mapping.csv": "81dec11602d7f57e570509d8517191e16f216a1c6103963e0c5cbc305f2ee3fb"
   }

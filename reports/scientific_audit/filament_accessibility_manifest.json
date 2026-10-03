@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-02T14:51:29.512535+00:00",
+  "generated_utc": "2026-10-03T08:38:20.469311+00:00",
   "biopython_version": "1.87",
   "pdb_id": "7PDZ",
   "model_index": 0,
@@ -16,7 +16,7 @@
   },
   "chain_classification_source": {
     "file": "data/filtered/proteins_per_pdb.csv",
-    "sha256": "e09f8552c6168e3b75c8ba16f75cbde43f7686c0ccdc35b04cab6ac5858662ff",
+    "sha256": "be97933d256e64017cba6e06cc93965866b167143727c1841b175f0edb57912f",
     "proteins": [
       {
         "chain": "7pdz_E",
@@ -116,7 +116,7 @@
         "I"
       ],
       "atom_count": 2894,
-      "elapsed_seconds": 1.9956238330341876
+      "elapsed_seconds": 1.7945161249954253
     },
     "actin_fragment": {
       "chain_ids": [
@@ -128,7 +128,7 @@
         "O"
       ],
       "atom_count": 17364,
-      "elapsed_seconds": 13.60235704103252
+      "elapsed_seconds": 10.762022832990624
     },
     "with_abp": {
       "chain_ids": [
@@ -142,7 +142,7 @@
         "O"
       ],
       "atom_count": 21722,
-      "elapsed_seconds": 17.156684416986536
+      "elapsed_seconds": 13.62351458298508
     }
   },
   "contexts_480": {
@@ -151,7 +151,7 @@
         "I"
       ],
       "atom_count": 2894,
-      "elapsed_seconds": 0.9018518750090152
+      "elapsed_seconds": 0.8577620830037631
     },
     "actin_fragment": {
       "chain_ids": [
@@ -163,7 +163,7 @@
         "O"
       ],
       "atom_count": 17364,
-      "elapsed_seconds": 5.633792834007181
+      "elapsed_seconds": 5.408623041992541
     },
     "with_abp": {
       "chain_ids": [
@@ -177,7 +177,7 @@
         "O"
       ],
       "atom_count": 21722,
-      "elapsed_seconds": 7.509746875031851
+      "elapsed_seconds": 6.762329082994256
     }
   },
   "excluded_chain_ids": [

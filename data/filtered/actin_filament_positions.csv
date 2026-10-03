@@ -1,4 +1,87 @@
 pdb_id,chain,protein,n_actin_interactions,occupied_superclusters,component_size,label
+12bw,12bw_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",8,-
+12bw,12bw_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",8,-2
+12bw,12bw_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,-3
+12bw,12bw_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bw,12bw_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bw,12bw_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,+3
+12bw,12bw_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",8,+2
+12bw,12bw_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+12bx,12bx_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",8,-
+12bx,12bx_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",8,-2
+12bx,12bx_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,-3
+12bx,12bx_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bx,12bx_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bx,12bx_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,+3
+12bx,12bx_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",8,+2
+12bx,12bx_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+12by,12by_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",8,-
+12by,12by_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",8,-2
+12by,12by_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,-3
+12by,12by_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12by,12by_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12by,12by_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,+3
+12by,12by_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",8,+2
+12by,12by_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+12bz,12bz_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",8,-
+12bz,12bz_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",8,-2
+12bz,12bz_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,-3
+12bz,12bz_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bz,12bz_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+12bz,12bz_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,+3
+12bz,12bz_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",8,+2
+12bz,12bz_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+12rv,12rv_A,"Actin, cytoplasmic 1",2,"6685_2,6685_4",5,-
+12rv,12rv_B,"Actin, cytoplasmic 1",3,"6685_1,6685_2,6685_4",5,-2
+12rv,12rv_C,"Actin, cytoplasmic 1",4,"6685_1,6685_2,6685_3,6685_4",5,side
+12rv,12rv_D,"Actin, cytoplasmic 1",3,"6685_1,6685_2,6685_3",5,+2
+12rv,12rv_E,"Actin, cytoplasmic 1",2,"6685_1,6685_3",5,+
+38jl,38jl_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",8,-
+38jl,38jl_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",8,-2
+38jl,38jl_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,-3
+38jl,38jl_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+38jl,38jl_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,side
+38jl,38jl_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",8,+3
+38jl,38jl_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",8,+2
+38jl,38jl_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+38kl,38kl_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",5,-
+38kl,38kl_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",5,side
+38kl,38kl_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",5,side
+38kl,38kl_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_3",5,+
+38kl,38kl_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
+38km,38km_A,"Actin, alpha skeletal muscle",2,"6685_293,6685_4",8,-
+38km,38km_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_4",8,-2
+38km,38km_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,-3
+38km,38km_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,side
+38km,38km_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,+3
+38km,38km_F,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,+3
+38km,38km_G,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_3",8,+
+38km,38km_H,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",8,+
+38kn,38kn_A,"Actin, alpha skeletal muscle",2,"6685_293,6685_4",5,-
+38kn,38kn_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_4",5,side
+38kn,38kn_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",5,side
+38kn,38kn_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_3",5,+
+38kn,38kn_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
+38ko,38ko_A,"Actin, alpha skeletal muscle",2,"6685_293,6685_4",5,-
+38ko,38ko_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_4",5,side
+38ko,38ko_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",5,side
+38ko,38ko_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_3",5,+
+38ko,38ko_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
+38kp,38kp_A,"Actin, alpha skeletal muscle",2,"6685_293,6685_4",7,-
+38kp,38kp_B,"Actin, alpha skeletal muscle",3,"6685_293,6685_294,6685_4",7,-
+38kp,38kp_C,"Actin, alpha skeletal muscle",4,"6685_293,6685_294,6685_3,6685_4",7,-3
+38kp,38kp_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",7,side
+38kp,38kp_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",7,+3
+38kp,38kp_F,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_3",7,+
+38kp,38kp_G,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",7,+
+38kq,38kq_A,"Actin, alpha skeletal muscle",2,"6685_293,6685_4",8,-
+38kq,38kq_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_293,6685_4",8,-2
+38kq,38kq_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,-3
+38kq,38kq_D,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,side
+38kq,38kq_E,"Actin, alpha skeletal muscle",4,"6685_1,6685_293,6685_3,6685_4",8,+3
+38kq,38kq_F,"Actin, alpha skeletal muscle",4,"6685_293,6685_294,6685_3,6685_4",8,+3
+38kq,38kq_G,"Actin, alpha skeletal muscle",3,"6685_293,6685_294,6685_3",8,+
+38kq,38kq_H,"Actin, alpha skeletal muscle",2,"6685_294,6685_3",8,+
 3j8a,3j8a_A,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",5,side
 3j8a,3j8a_B,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",5,-
 3j8a,3j8a_C,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
@@ -876,3 +959,19 @@ pdb_id,chain,protein,n_actin_interactions,occupied_superclusters,component_size,
 9zbp,9zbp_D,"Actin, alpha cardiac muscle 1",4,"6685_1,6685_2,6685_3,6685_4",6,-3
 9zbp,9zbp_E,"Actin, alpha cardiac muscle 1",3,"6685_1,6685_2,6685_4",6,-2
 9zbp,9zbp_F,"Actin, alpha cardiac muscle 1",2,"6685_2,6685_4",6,-
+9zzi,9zzi_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",5,-
+9zzi,9zzi_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",5,-2
+9zzi,9zzi_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",5,side
+9zzi,9zzi_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",5,+2
+9zzi,9zzi_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
+9zzj,9zzj_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",5,-
+9zzj,9zzj_B,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_4",5,-2
+9zzj,9zzj_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",5,side
+9zzj,9zzj_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",5,+2
+9zzj,9zzj_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",5,+
+9zzm,9zzm_A,"Actin, alpha skeletal muscle",2,"6685_2,6685_4",6,-
+9zzm,9zzm_B,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",6,-3
+9zzm,9zzm_C,"Actin, alpha skeletal muscle",4,"6685_1,6685_2,6685_3,6685_4",6,side
+9zzm,9zzm_D,"Actin, alpha skeletal muscle",3,"6685_1,6685_2,6685_3",6,+2
+9zzm,9zzm_E,"Actin, alpha skeletal muscle",2,"6685_1,6685_3",6,+
+9zzm,9zzm_O,"Actin, alpha skeletal muscle",1,6685_4,6,-

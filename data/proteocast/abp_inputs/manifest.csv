@@ -1,4 +1,5 @@
 abp_title,slug,uniprot,alphafold_id,longueur,fasta_entree,sortie_attendue,fusion
+Actin-interacting protein 1,Actin_interacting_protein_1,Q11176,AF-Q11176-F1,,data/proteocast/abp_inputs/Actin_interacting_protein_1.fasta,data/proteocast/abp/Actin_interacting_protein_1.csv,False
 Actin-related protein 2,Actin_related_protein_2,A7MB62,AF-A7MB62-F1,,data/proteocast/abp_inputs/Actin_related_protein_2.fasta,data/proteocast/abp/Actin_related_protein_2.csv,False
 Actin-related protein 2/3 complex subunit 1,Actin_related_protein_2_3_complex_subunit_1,P78774,AF-P78774-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_1.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_1.csv,False
 Actin-related protein 2/3 complex subunit 1B,Actin_related_protein_2_3_complex_subunit_1B,Q58CQ2,AF-Q58CQ2-F1,,data/proteocast/abp_inputs/Actin_related_protein_2_3_complex_subunit_1B.fasta,data/proteocast/abp/Actin_related_protein_2_3_complex_subunit_1B.csv,False
@@ -14,6 +15,8 @@ Alpha-catenin-like protein hmp-1,Alpha_catenin_like_protein_hmp_1,P90947,AF-P909
 Beta-adducin,Beta_adducin,I3L5B0,AF-I3L5B0-F1,,data/proteocast/abp_inputs/Beta_adducin.fasta,data/proteocast/abp/Beta_adducin.csv,False
 Catenin alpha-1,Catenin_alpha_1,P26231,AF-P26231-F1,,data/proteocast/abp_inputs/Catenin_alpha_1.fasta,data/proteocast/abp/Catenin_alpha_1.csv,False
 Cell invasion protein SipA,Cell_invasion_protein_SipA,P0CL52,AF-P0CL52-F1,,data/proteocast/abp_inputs/Cell_invasion_protein_SipA.fasta,data/proteocast/abp/Cell_invasion_protein_SipA.csv,False
+Cofilin,Cofilin,,,,data/proteocast/abp_inputs/Cofilin.fasta,data/proteocast/abp/Cofilin.csv,False
+Cofilin (UNC-60B),Cofilin_UNC_60B,,,,data/proteocast/abp_inputs/Cofilin_UNC_60B.fasta,data/proteocast/abp/Cofilin_UNC_60B.csv,False
 Cofilin-1,Cofilin_1,P23528,AF-P23528-F1,,data/proteocast/abp_inputs/Cofilin_1.fasta,data/proteocast/abp/Cofilin_1.csv,False
 Cofilin-2,Cofilin_2,Q9Y281,AF-Q9Y281-F1,,data/proteocast/abp_inputs/Cofilin_2.fasta,data/proteocast/abp/Cofilin_2.csv,False
 "Coronin-1B,Methylated-DNA--protein-cysteine methyltransferase",Coronin_1B_Methylated_DNA_protein_cysteine_methylt,Q9BR76;P16455,AF-Q9BR76;P16455-F1,,data/proteocast/abp_inputs/Coronin_1B_Methylated_DNA_protein_cysteine_methylt.fasta,data/proteocast/abp/Coronin_1B_Methylated_DNA_protein_cysteine_methylt.csv,True

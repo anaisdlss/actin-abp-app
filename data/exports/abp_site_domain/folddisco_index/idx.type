@@ -1,8 +1,0 @@
-chunk_size = 54
-foldcomp_db = "/Users/user/Desktop/stage/actin_project/data/exports/abp_site_domain/abp_chains"
-grid_width = 20.0
-hash_type = "PDBTrRosetta"
-input_format = "PDB"
-max_residue = 50000
-num_bin_angle = 0
-num_bin_dist = 0

@@ -1,16 +1,16 @@
 {
   "source_sha256": {
-    "data/filtered/details/1.interactions.csv": "daf1b2cd872459c1a99721ed1acf662846f110c211f34cae8d6f7c653ab4ad50",
-    "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d",
-    "data/filtered/details/4.inter-residue_contacts.csv": "d26035bd9212afb45acb45f5bca28ba27ba4ee4406b93c9c3f7158c2d86e30df",
-    "data/filtered/proteins_per_pdb.csv": "e09f8552c6168e3b75c8ba16f75cbde43f7686c0ccdc35b04cab6ac5858662ff",
-    "data/filtered/filtered_pdb_entry.csv": "771bafa0b0fbb620de66fc5bbf9bd8087249fe7005ed81178fad04776db28976"
+    "data/filtered/details/1.interactions.csv": "ea101480359ff3a436093ebf9593004f7af4d8ae242e738fb01f29ee6238a893",
+    "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581",
+    "data/filtered/details/4.inter-residue_contacts.csv": "92b71491325131990c45a9f3e3a71af4b30b5926881147f0dfa31589acdb2c97",
+    "data/filtered/proteins_per_pdb.csv": "be97933d256e64017cba6e06cc93965866b167143727c1841b175f0edb57912f",
+    "data/filtered/filtered_pdb_entry.csv": "960b0869480338fc0bf5ae7262cc2c7f3eaf05438027dbb9a956cbb95040ae31"
   },
-  "timestamp_utc": "2026-10-02T14:55:52.653662+00:00",
-  "repository": "actin-abp-app",
-  "interaction_count": 2152,
-  "pdbs_listed": 155,
-  "pdbs_with_details": 151,
+  "timestamp_utc": "2026-10-03T08:43:48.897825+00:00",
+  "repository": "actin_project",
+  "interaction_count": 2325,
+  "pdbs_listed": 163,
+  "pdbs_with_details": 159,
   "checks": [
     {
       "check": "Duplicate interaction identifiers",

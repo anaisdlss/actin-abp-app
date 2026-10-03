@@ -1,5 +1,5 @@
 patch,pdb_id,chain
-6685_0,9q7k,9q7k_A
+6685_0,6vao,6vao_E
 6685_1,6vau,6vau_C
 6685_102,7utj,7utj_B
 6685_106,7tpt,7tpt_P
@@ -99,7 +99,7 @@ patch,pdb_id,chain
 6685_223,9b03,9b03_E
 6685_224,9b3d,9b3d_C
 6685_225,9b3d,9b3d_D
-6685_23,9q7k,9q7k_C
+6685_23,6vao,6vao_B
 6685_231,8viz,8viz_D
 6685_232,8viz,8viz_E
 6685_233,8viz,8viz_F
@@ -126,10 +126,10 @@ patch,pdb_id,chain
 6685_263,9qf2,9qf2_B
 6685_264,9qf2,9qf2_B
 6685_265,9qfg,9qfg_A
-6685_266,9qfw,9qfw_D
-6685_267,9qfw,9qfw_E
-6685_274,9q7l,9q7l_B
-6685_275,9q7n,9q7n_B
+6685_266,38jl,38jl_C
+6685_267,38kl,38kl_E
+6685_274,38jl,38jl_B
+6685_275,38jl,38jl_A
 6685_276,9xye,9xye_A
 6685_277,9y9j,9y9j_B
 6685_278,9y9l,9y9l_D
@@ -141,6 +141,12 @@ patch,pdb_id,chain
 6685_286,12bw,12bw_E
 6685_287,12bz,12bz_E
 6685_29,6vec,6vec_A
+6685_290,38jl,38jl_C
+6685_291,38jl,38jl_D
+6685_292,38jl,38jl_E
+6685_293,38kl,38kl_D
+6685_294,38kp,38kp_B
+6685_295,38kq,38kq_G
 6685_3,6vau,6vau_D
 6685_33,6c1g,6c1g_D
 6685_4,6vau,6vau_A

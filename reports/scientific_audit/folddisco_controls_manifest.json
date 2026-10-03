@@ -1,11 +1,11 @@
 {
-  "created_utc": "2026-10-02T14:53:50.330564+00:00",
+  "created_utc": "2026-10-03T08:41:06.817394+00:00",
   "tool_version": "2.9375a2d",
-  "query_count": 197,
-  "target_chain_count": 130,
+  "query_count": 206,
+  "target_chain_count": 135,
   "sources": {
-    "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73",
-    "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d"
+    "data/exports/abp_site_domain/abp_site_table.csv": "35ca2deff6b2c8085baab47cc93ded3caf94f31003e3a3e2c857cad8a2179068",
+    "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581"
   },
   "missing_structures": [],
   "script_sha256": "dda01c636023780f3bdabc21c56546fa6ec994ca6f9487512c36b6f4b332660d",

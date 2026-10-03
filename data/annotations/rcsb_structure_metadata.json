@@ -505,6 +505,1048 @@
       "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
       "endpoint": "https://data.rcsb.org/graphql"
     },
+    "12RV": {
+      "entry": {
+        "rcsb_id": "12RV",
+        "struct": {
+          "title": "In situ cryo-EM structure of axonal F-actin from ghost neurons"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "12RV_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, cytoplasmic 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "cytoplasmic 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Beta-actin",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Mus musculus",
+                "ncbi_taxonomy_id": 10090
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "12RV_2",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          },
+          {
+            "rcsb_id": "12RV_3",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38JL": {
+      "entry": {
+        "rcsb_id": "38JL",
+        "struct": {
+          "title": "Cofilactin filament with one AIP1 bound to middle of the filament"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38JL_3",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin (UNC-60B)",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin (UNC-60B)",
+                  "provenance_source": "PDB Preferred Name"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "3",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "f"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38JL_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin-interacting protein 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin-interacting protein 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "AIP1",
+                  "provenance_source": "PDB Synonym"
+                },
+                {
+                  "name": "Uncoordinated protein 78",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "X"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38JL_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38JL_5",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38JL_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KL": {
+      "entry": {
+        "rcsb_id": "38KL",
+        "struct": {
+          "title": "Two AIP1 bound to the Barbed End of cofilin actin"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KL_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KL_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin-interacting protein 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin-interacting protein 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "AIP1",
+                  "provenance_source": "PDB Synonym"
+                },
+                {
+                  "name": "Uncoordinated protein 78",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "X",
+                "Y"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KL_3",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "3",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KL_5",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KL_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KM": {
+      "entry": {
+        "rcsb_id": "38KM",
+        "struct": {
+          "title": "Cofilactin filament with two AIP1 bound to middle of the filament"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KM_3",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "3",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "f"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KM_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin-interacting protein 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin-interacting protein 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "AIP1",
+                  "provenance_source": "PDB Synonym"
+                },
+                {
+                  "name": "Uncoordinated protein 78",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "X",
+                "Y"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KM_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KM_5",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KM_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KN": {
+      "entry": {
+        "rcsb_id": "38KN",
+        "struct": {
+          "title": "Cofilactin filament"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KN_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KN_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KN_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KN_3",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KO": {
+      "entry": {
+        "rcsb_id": "38KO",
+        "struct": {
+          "title": "One AIP1 bound to the Barbed End of cofilin actin"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KO_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KO_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin-interacting protein 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin-interacting protein 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "AIP1",
+                  "provenance_source": "PDB Synonym"
+                },
+                {
+                  "name": "Uncoordinated protein 78",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "X",
+                "Y"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KO_3",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "3",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KO_5",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KO_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KP": {
+      "entry": {
+        "rcsb_id": "38KP",
+        "struct": {
+          "title": "Pointed end of cofilin bound F-actin"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KP_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KP_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KP_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KP_3",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
+    "38KQ": {
+      "entry": {
+        "rcsb_id": "38KQ",
+        "struct": {
+          "title": "Two AIP1 bound to same side of cofilin filament (stacked AIP1)"
+        },
+        "polymer_entities": [
+          {
+            "rcsb_id": "38KQ_3",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Cofilin",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Cofilin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Uncoordinated protein 60B",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "3",
+              "auth_asym_ids": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "f"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KQ_2",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin-interacting protein 1",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin-interacting protein 1",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "AIP1",
+                  "provenance_source": "PDB Synonym"
+                },
+                {
+                  "name": "Uncoordinated protein 78",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "2",
+              "auth_asym_ids": [
+                "X",
+                "Y"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Caenorhabditis elegans",
+                "ncbi_taxonomy_id": 6239
+              }
+            ]
+          },
+          {
+            "rcsb_id": "38KQ_1",
+            "entity_poly": {
+              "rcsb_mutation_count": 0,
+              "rcsb_entity_polymer_type": "Protein"
+            },
+            "rcsb_polymer_entity": {
+              "pdbx_description": "Actin, alpha skeletal muscle",
+              "pdbx_mutation": null,
+              "rcsb_macromolecular_names_combined": [
+                {
+                  "name": "Actin",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "alpha skeletal muscle",
+                  "provenance_source": "PDB Preferred Name"
+                },
+                {
+                  "name": "Alpha-actin-1",
+                  "provenance_source": "PDB Synonym"
+                }
+              ]
+            },
+            "rcsb_polymer_entity_container_identifiers": {
+              "entity_id": "1",
+              "auth_asym_ids": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H"
+              ]
+            },
+            "rcsb_entity_source_organism": [
+              {
+                "ncbi_scientific_name": "Oryctolagus cuniculus",
+                "ncbi_taxonomy_id": 9986
+              }
+            ]
+          }
+        ],
+        "nonpolymer_entities": [
+          {
+            "rcsb_id": "38KQ_5",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "MG",
+                "name": "MAGNESIUM ION"
+              }
+            }
+          },
+          {
+            "rcsb_id": "38KQ_4",
+            "nonpolymer_comp": {
+              "chem_comp": {
+                "id": "ADP",
+                "name": "ADENOSINE-5'-DIPHOSPHATE"
+              }
+            }
+          }
+        ]
+      },
+      "fetched_utc": "2026-10-01T13:46:36.817598+00:00",
+      "endpoint": "https://data.rcsb.org/graphql"
+    },
     "3J8A": {
       "entry": {
         "rcsb_id": "3J8A",

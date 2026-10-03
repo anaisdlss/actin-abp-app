@@ -1,10 +1,10 @@
 {
-  "created_utc": "2026-10-02T14:52:16.711969+00:00",
-  "dataset": "actin-abp-app",
-  "expected_pairs": 1340,
-  "measured_pairs": 1340,
-  "expected_clusters": 21,
-  "measured_clusters": 21,
+  "created_utc": "2026-10-03T08:39:20.917674+00:00",
+  "dataset": "actin_project",
+  "expected_pairs": 1418,
+  "measured_pairs": 1418,
+  "expected_clusters": 23,
+  "measured_clusters": 23,
   "references": [
     "3J8A: F-actin with tropomyosin",
     "5YU8: cofilin-decorated actin"
@@ -18,6 +18,14 @@
     "12bx": "4155442023f073d65c04ca133a4e08106446db5ab544653d106cde50daa9c049",
     "12by": "49c572d774fa2803b80baa32b5d87fceb9890771e41c80ed2718f951fb4632ca",
     "12bz": "454a6658307a82a1227aa734736be5fd8d78e1e70fdcff9846b5ae483fd41382",
+    "12rv": "1200f5176603536ec24fa0b30b2c09715829393bf2bb92e6d0d4dda146a90825",
+    "38jl": "a4c1827e0186a013b715c1109a1bd22a8d50b3d785a27be88f9c76c8600c7b21",
+    "38kl": "de8501e6d5aa871b5661d9229bcff55d8f07747074625b4f02ec6fb385260d4a",
+    "38km": "6515f2c4965c941722a4358d60373cf8c75c83b1f7c60a21162e6abdddf8c660",
+    "38kn": "ee05c161ec61e83dfe9544028235f056a5b4a78da97cf041d95b2ee1d184c4fd",
+    "38ko": "b8c2bb296972bbe07ee99d77484f4410c8c32bf638aecd8f13f0fef8fe75f1fb",
+    "38kp": "11c124783265d830ac88e47a95ae416995a6b59b33124bfcc8062c5d49611820",
+    "38kq": "71360dc2d455976c79b3ca3b0f04e61ea0f5ee8465bed461fd489c0effd03ce9",
     "5jlf": "88b1c6218764a82b11edb0e0d980287b990054157c2a91282443204c306b623e",
     "5jlh": "40f8f8dee8cdf6d7b7292246c09db6cbb0732625ad5c90eb940d2a563b851be4",
     "5ogw": "0417990fd42d1f99a10eb02dd8073de52f4a7bba838cf162187283f970611877",
@@ -164,7 +172,7 @@
     "9zzj": "0dce22f2f9c711aba5bdea8c04730b73a2f6223703ef4589704ec3ecb6b3b3b2",
     "9zzm": "0958bda0422ef8aabc496ebf161cda838d9192a91dcebb4beda78f736a0fe214"
   },
-  "source_table_sha256": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f",
+  "source_table_sha256": "2cc698166ffe50f9e0793289e6fbef470aaffbe52bbd44a9814789effa497574",
   "code_sha256": {
     "audit_all_interface_geometry.py": "4139632d9bf7c47babf5f3329d315138a23cd782b40f8a15c26b3c6e4579bc3c",
     "interface_geometry.py": "e8e1867492d535ad0ed4d4d8cdfa94bc7c7d5e214e9264b9e15c8cee8220038d"

@@ -1,16 +1,24 @@
 {
-  "finished_utc": "2026-10-02T14:52:41.283923+00:00",
+  "finished_utc": "2026-10-03T08:39:48.195998+00:00",
   "fingerprint": {
     "inputs": {
       "data/P60709_ref.fasta": "50469aa3087cbb3679ce4167ab78ce1352cc07bd7fa6533e77ed9601dedcaa08",
       "data/alignments/cluster_6685.aln": "da616f5bde17be50876a03004e48bd4edf41b0822becf7de1ef08ba815f9adbc",
-      "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73",
-      "data/filtered/details/1.interactions.csv": "daf1b2cd872459c1a99721ed1acf662846f110c211f34cae8d6f7c653ab4ad50",
-      "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d",
+      "data/exports/abp_site_domain/abp_site_table.csv": "35ca2deff6b2c8085baab47cc93ded3caf94f31003e3a3e2c857cad8a2179068",
+      "data/filtered/details/1.interactions.csv": "ea101480359ff3a436093ebf9593004f7af4d8ae242e738fb01f29ee6238a893",
+      "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581",
       "data/filtered/details/structures_files/assembly/12bw.pdb": "92ebb92d39e8bc4c248001817ac93a2ed02be25e61cd6f21129f8e2ee05958e7",
       "data/filtered/details/structures_files/assembly/12bx.pdb": "4155442023f073d65c04ca133a4e08106446db5ab544653d106cde50daa9c049",
       "data/filtered/details/structures_files/assembly/12by.pdb": "49c572d774fa2803b80baa32b5d87fceb9890771e41c80ed2718f951fb4632ca",
       "data/filtered/details/structures_files/assembly/12bz.pdb": "454a6658307a82a1227aa734736be5fd8d78e1e70fdcff9846b5ae483fd41382",
+      "data/filtered/details/structures_files/assembly/12rv.pdb": "1200f5176603536ec24fa0b30b2c09715829393bf2bb92e6d0d4dda146a90825",
+      "data/filtered/details/structures_files/assembly/38jl.pdb": "a4c1827e0186a013b715c1109a1bd22a8d50b3d785a27be88f9c76c8600c7b21",
+      "data/filtered/details/structures_files/assembly/38kl.pdb": "de8501e6d5aa871b5661d9229bcff55d8f07747074625b4f02ec6fb385260d4a",
+      "data/filtered/details/structures_files/assembly/38km.pdb": "6515f2c4965c941722a4358d60373cf8c75c83b1f7c60a21162e6abdddf8c660",
+      "data/filtered/details/structures_files/assembly/38kn.pdb": "ee05c161ec61e83dfe9544028235f056a5b4a78da97cf041d95b2ee1d184c4fd",
+      "data/filtered/details/structures_files/assembly/38ko.pdb": "b8c2bb296972bbe07ee99d77484f4410c8c32bf638aecd8f13f0fef8fe75f1fb",
+      "data/filtered/details/structures_files/assembly/38kp.pdb": "11c124783265d830ac88e47a95ae416995a6b59b33124bfcc8062c5d49611820",
+      "data/filtered/details/structures_files/assembly/38kq.pdb": "71360dc2d455976c79b3ca3b0f04e61ea0f5ee8465bed461fd489c0effd03ce9",
       "data/filtered/details/structures_files/assembly/3j8a.pdb": "8884d0f3eb1868383022c3aa8fba41c936437b6efa838d6af274e3c4a03cde54",
       "data/filtered/details/structures_files/assembly/5jlf.pdb": "88b1c6218764a82b11edb0e0d980287b990054157c2a91282443204c306b623e",
       "data/filtered/details/structures_files/assembly/5jlh.pdb": "40f8f8dee8cdf6d7b7292246c09db6cbb0732625ad5c90eb940d2a563b851be4",
@@ -158,12 +166,12 @@
       "data/filtered/details/structures_files/assembly/9zzi.pdb": "4d87778a3370df15c6cc447afe64adcd3de153d943d3c525c5d6c3d1275d599f",
       "data/filtered/details/structures_files/assembly/9zzj.pdb": "0dce22f2f9c711aba5bdea8c04730b73a2f6223703ef4589704ec3ecb6b3b3b2",
       "data/filtered/details/structures_files/assembly/9zzm.pdb": "0958bda0422ef8aabc496ebf161cda838d9192a91dcebb4beda78f736a0fe214",
-      "data/filtered/filtered_all_data.csv": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f"
+      "data/filtered/filtered_all_data.csv": "2cc698166ffe50f9e0793289e6fbef470aaffbe52bbd44a9814789effa497574"
     },
     "code": {
       "script/display_helpers.py": "cfff8b5096f06a125dc7da681c36a9c804e68f8b3eacde79cad00eb8e232d2fb",
       "script/folddisco_audit.py": "b412be7a4f9a34e06ce62227354b3e2a05836081203093a90d32cb1436eb5edc",
-      "script/local_rebuild.py": "9128d0b366bf79bcf52ca91bb8c9e8d8d74d0164c580306c0f1d1d7ef61641fb",
+      "script/local_rebuild.py": "262758a659fe34f01ea71a593ae655299853f1a469cb2d61057213a0b4d848dd",
       "script/numbering.py": "740de6699bf30037e4db8905cf6701cdc1b978ea3bf5a6bfb5f8476c42a18ede",
       "script/residue_contacts.py": "9b4369da1b7982f794f1f777bc8795304c256b7f24f759154c2c096ba0333b28",
       "script/scientific_analysis.py": "3ab9cb503eade2d6a11d72340c5503a52bc1af923eb95075255b24e8232d0495",
@@ -175,7 +183,8 @@
       "numpy": "2.5.0",
       "pandas": "2.3.3",
       "biopython": "1.87",
-      "scipy": "1.18.0"
+      "scipy": "1.18.0",
+      "matplotlib": "3.10.9"
     },
     "command": [
       "-u",
@@ -183,7 +192,7 @@
     ]
   },
   "outputs": {
-    "reports/scientific_audit/rigid_filament_proximity.csv": "c46e4d0a739ee02c2aa6ce0dc4b77f00f26847b914680cbae14bb8d904d17900",
-    "reports/scientific_audit/rigid_filament_proximity_manifest.json": "caf24217e77312929d65f6fdd45b68ead701244dc497ef31c8dfd67887efbc52"
+    "reports/scientific_audit/rigid_filament_proximity.csv": "bb95de5fae6b1072aa0ebda21bc4e0635c71644322be56428be15def723845db",
+    "reports/scientific_audit/rigid_filament_proximity_manifest.json": "ed69300e9a1931702eaaac1d3d0f4bac214a1300f419b9d3d7f90a1827d41bf0"
   }
 }

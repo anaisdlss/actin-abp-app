@@ -1,15 +1,15 @@
 {
-  "job_id": "LXe5plMZ",
-  "summary_hash": "82de9a421cc908dbf99cdd17508a59f2",
+  "job_id": "GTdFmZQY",
+  "summary_hash": "a7b359b6a2c30cf5b12c3107d1afbc47",
   "mode": "filtered",
   "files_hash": {
-    "1.interactions.csv": "47852b3b2e0dc0db6039d0ec4becb27d",
-    "2.proteins.csv": "046aa99f8d06e4d1fe2e5557a40ba218",
-    "3.interface_residues.csv": "2d4c2dc53ee77dd38c001c60ad52e379",
-    "4.inter-residue_contacts.csv": "9af3c8227932e23ea79d26b5daf42d23",
-    "5.ligands.csv": "ffb5ad5179a19f7631e6258c26cc3553",
-    "6.meta_alignement.csv": "871ba531619dd547cc6809f49cc3f3d7",
-    "7.alignment_sequences.csv": "43d0460b0cf098b0db2d27aa7ffccc70",
-    "8.structures.csv": "eb18c11544670ad722320e477ee1d82e"
+    "1.interactions.csv": "2b4e6dff4fcceae0dcca864dea69803f",
+    "2.proteins.csv": "673b53e7b64d2f18185b820b610bf6e6",
+    "3.interface_residues.csv": "06beee74e8b2530bee1fcc78e4dce705",
+    "4.inter-residue_contacts.csv": "4a3d059a2ea6608fcdf2be88de0ec456",
+    "5.ligands.csv": "f1c674b40634ee8a76f689b684499938",
+    "6.meta_alignement.csv": "3d12d5c6f647ab8d8736447135c3c59c",
+    "7.alignment_sequences.csv": "c06092389b1047a6dd318222a8ff9fee",
+    "8.structures.csv": "ef907fe712faf1058b97c1dc62903450"
   }
 }

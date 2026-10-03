@@ -1,6 +1,6 @@
 {
-  "created_utc": "2026-10-02T14:52:40.905208+00:00",
-  "dataset": "actin-abp-app",
+  "created_utc": "2026-10-03T08:39:47.770145+00:00",
+  "dataset": "actin_project",
   "scope": "Best-resolution observed ABP/site representatives; finite reference assemblies; protein heavy atoms only, first model, altloc blank or A.",
   "references": [
     {
@@ -29,18 +29,21 @@
   "method": "Reference anchor: highest actin\u2013actin contact degree in retained source table; ties lexicographic. P60709 global sequence mapping (BLOSUM62, gap open -10, extend -0.5, consensus optimal mappings). At least 300 shared C-alpha positions. Rigid actin fit; transform partner with the same rotation/translation. Nearest heavy-atom distances to all other reference actins. Count distinct partner atoms and residues below 1.5, 2.0, 2.5 \u00c5. No ASA threshold.",
   "limits": "Descriptive geometric screen, not a validated steric-clash/competition prediction or an automatic major/minor assignment. No atom-specific van der Waals radii, relaxation, conformational ensembles or infinite filament. Source assembly adjacency checked at 8 \u00c5; fits above 3 \u00c5 flagged.",
   "states": {
-    "measured": 393,
-    "poor anchor fit (>3 \u00c5): inspect": 1
+    "measured": 402,
+    "poor anchor fit (>3 \u00c5): inspect": 10
   },
   "source_sha256": {
-    "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73",
-    "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d",
-    "data/filtered/filtered_all_data.csv": "6e68a1e60ca16bbe3bd640e20c981bf17bd8dce41fa92a53cbdf550154a4b44f",
-    "data/filtered/details/1.interactions.csv": "daf1b2cd872459c1a99721ed1acf662846f110c211f34cae8d6f7c653ab4ad50"
+    "data/exports/abp_site_domain/abp_site_table.csv": "35ca2deff6b2c8085baab47cc93ded3caf94f31003e3a3e2c857cad8a2179068",
+    "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581",
+    "data/filtered/filtered_all_data.csv": "2cc698166ffe50f9e0793289e6fbef470aaffbe52bbd44a9814789effa497574",
+    "data/filtered/details/1.interactions.csv": "ea101480359ff3a436093ebf9593004f7af4d8ae242e738fb01f29ee6238a893"
   },
   "structure_sha256": {
     "3j8a": "8884d0f3eb1868383022c3aa8fba41c936437b6efa838d6af274e3c4a03cde54",
     "5yu8": "4d8b22c6bb9b1a0bbabbc8448a79c5a6b61d7a09deedd345fdc5b841c58b0725",
+    "38jl": "a4c1827e0186a013b715c1109a1bd22a8d50b3d785a27be88f9c76c8600c7b21",
+    "38kl": "de8501e6d5aa871b5661d9229bcff55d8f07747074625b4f02ec6fb385260d4a",
+    "38kq": "71360dc2d455976c79b3ca3b0f04e61ea0f5ee8465bed461fd489c0effd03ce9",
     "8uxw": "cfda1c250c51e570188afff269ff80f6cfb72d45f624c206761fa22e44c7a8c3",
     "8e9b": "886f36232613261c16fa57a9167f673e1e85071239a9cdf68fbed011d94a13cb",
     "8p94": "701fda14dfbc7c8877f2e2f740950767cd90edda0468bdc59a82fa6179eca33e",
@@ -59,6 +62,7 @@
     "8uee": "96373849ed48462d28e5c64402e297b92aaa8dbaa405fd861222dc47eb917614",
     "8c4c": "ba940a7e0215191935ec992b99d2844de3ff1419e205b73cb36ca3b472b53768",
     "8vfm": "d9565085471c3b89e7d7ab0010744130241b1d6a9f9cec0e85c093dbb283ae88",
+    "38kn": "ee05c161ec61e83dfe9544028235f056a5b4a78da97cf041d95b2ee1d184c4fd",
     "9qfj": "426ae1c0f124ea12f4cf4a6fb5f5c67f2ffb3d761d9b175d853bd59ed24cb722",
     "9qfd": "81f73a9498be01c7e02b5185a1c03409afa2a08f478571e4ec6b5a269006b4be",
     "9y9p": "b076ea82fcea008eb7e5393d13149849761a8a8f7748462342aa606057ea0da4",

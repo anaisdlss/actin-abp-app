@@ -1,13 +1,21 @@
 {
-  "finished_utc": "2026-10-02T14:53:50.757779+00:00",
+  "finished_utc": "2026-10-03T08:41:07.224637+00:00",
   "fingerprint": {
     "inputs": {
-      "data/exports/abp_site_domain/abp_site_table.csv": "0321be292c0d904b9c0f0483b46142fac882f06ecabe326f3c40082ccb3afc73",
-      "data/filtered/details/3.interface_residues.csv": "ce1d98a4d6b1df0ec2c36f303a4429f9228479896fbb9aecf82a3f21ac19fe1d",
+      "data/exports/abp_site_domain/abp_site_table.csv": "35ca2deff6b2c8085baab47cc93ded3caf94f31003e3a3e2c857cad8a2179068",
+      "data/filtered/details/3.interface_residues.csv": "e403fcda60c6df08b5a6298809c20f9c241991b32674fe2c1efc849531f69581",
       "data/filtered/details/structures_files/assembly/12bw.pdb": "92ebb92d39e8bc4c248001817ac93a2ed02be25e61cd6f21129f8e2ee05958e7",
       "data/filtered/details/structures_files/assembly/12bx.pdb": "4155442023f073d65c04ca133a4e08106446db5ab544653d106cde50daa9c049",
       "data/filtered/details/structures_files/assembly/12by.pdb": "49c572d774fa2803b80baa32b5d87fceb9890771e41c80ed2718f951fb4632ca",
       "data/filtered/details/structures_files/assembly/12bz.pdb": "454a6658307a82a1227aa734736be5fd8d78e1e70fdcff9846b5ae483fd41382",
+      "data/filtered/details/structures_files/assembly/12rv.pdb": "1200f5176603536ec24fa0b30b2c09715829393bf2bb92e6d0d4dda146a90825",
+      "data/filtered/details/structures_files/assembly/38jl.pdb": "a4c1827e0186a013b715c1109a1bd22a8d50b3d785a27be88f9c76c8600c7b21",
+      "data/filtered/details/structures_files/assembly/38kl.pdb": "de8501e6d5aa871b5661d9229bcff55d8f07747074625b4f02ec6fb385260d4a",
+      "data/filtered/details/structures_files/assembly/38km.pdb": "6515f2c4965c941722a4358d60373cf8c75c83b1f7c60a21162e6abdddf8c660",
+      "data/filtered/details/structures_files/assembly/38kn.pdb": "ee05c161ec61e83dfe9544028235f056a5b4a78da97cf041d95b2ee1d184c4fd",
+      "data/filtered/details/structures_files/assembly/38ko.pdb": "b8c2bb296972bbe07ee99d77484f4410c8c32bf638aecd8f13f0fef8fe75f1fb",
+      "data/filtered/details/structures_files/assembly/38kp.pdb": "11c124783265d830ac88e47a95ae416995a6b59b33124bfcc8062c5d49611820",
+      "data/filtered/details/structures_files/assembly/38kq.pdb": "71360dc2d455976c79b3ca3b0f04e61ea0f5ee8465bed461fd489c0effd03ce9",
       "data/filtered/details/structures_files/assembly/3j8a.pdb": "8884d0f3eb1868383022c3aa8fba41c936437b6efa838d6af274e3c4a03cde54",
       "data/filtered/details/structures_files/assembly/5jlf.pdb": "88b1c6218764a82b11edb0e0d980287b990054157c2a91282443204c306b623e",
       "data/filtered/details/structures_files/assembly/5jlh.pdb": "40f8f8dee8cdf6d7b7292246c09db6cbb0732625ad5c90eb940d2a563b851be4",
@@ -160,7 +168,7 @@
       "script/display_helpers.py": "cfff8b5096f06a125dc7da681c36a9c804e68f8b3eacde79cad00eb8e232d2fb",
       "script/folddisco_audit.py": "b412be7a4f9a34e06ce62227354b3e2a05836081203093a90d32cb1436eb5edc",
       "script/folddisco_jobs.py": "df39c5d90f541ddd04d9a35f9f105d3ead538ee4b54feda264ae46a7ab5db2f8",
-      "script/local_rebuild.py": "9128d0b366bf79bcf52ca91bb8c9e8d8d74d0164c580306c0f1d1d7ef61641fb",
+      "script/local_rebuild.py": "262758a659fe34f01ea71a593ae655299853f1a469cb2d61057213a0b4d848dd",
       "script/numbering.py": "740de6699bf30037e4db8905cf6701cdc1b978ea3bf5a6bfb5f8476c42a18ede",
       "script/residue_contacts.py": "9b4369da1b7982f794f1f777bc8795304c256b7f24f759154c2c096ba0333b28",
       "tools/audit_folddisco_controls.py": "dda01c636023780f3bdabc21c56546fa6ec994ca6f9487512c36b6f4b332660d"
@@ -171,6 +179,7 @@
       "pandas": "2.3.3",
       "biopython": "1.87",
       "scipy": "1.18.0",
+      "matplotlib": "3.10.9",
       "folddisco_binary_sha256": "55724c32824b158a8ff086749819423973062372172c9c1b43231490ec561c9c"
     },
     "command": [
@@ -179,12 +188,12 @@
     ]
   },
   "outputs": {
-    "data/exports/folddisco_controls/hits.csv": "d5b305bfc91870ec6112c58ad7a2f83aa98c550f61c453712c6e9c6c43175c98",
-    "data/exports/folddisco_controls/manifest.json": "36c6c450b45201611e4ac0f122c8f949bab77ca9cc2372101b4e4c60ea44249b",
-    "data/exports/folddisco_controls/queries.csv": "0f676f6e387347588a1f5848436078960e380ff64e59e91b492c76d1d6edb893",
-    "data/exports/folddisco_controls/shared_site_controls.csv": "1cdbf187fff879681923a426a04b5c041685c096731e0c670c012397e08f3ad1",
-    "reports/scientific_audit/folddisco_controls_manifest.json": "80a2685633f1d6a45547f800b40ed1b6f0ae2ea2233fd6eea2d8afebbc03379a",
-    "reports/scientific_audit/folddisco_local_queries.csv": "0f676f6e387347588a1f5848436078960e380ff64e59e91b492c76d1d6edb893",
-    "reports/scientific_audit/folddisco_shared_site_controls.csv": "1cdbf187fff879681923a426a04b5c041685c096731e0c670c012397e08f3ad1"
+    "data/exports/folddisco_controls/hits.csv": "c3094bcd274a8add7e135152c8b4a111a83e4094c721e6a15070b5753d2e990e",
+    "data/exports/folddisco_controls/manifest.json": "8bc862aa39a2cbcba6163a32f724c723c4669027a264cbfacc5871c420501ea3",
+    "data/exports/folddisco_controls/queries.csv": "7a98a8ec243a87a56ec12b5e06fdf53d0def3df3aa5e7ac4c848d5d841c094c2",
+    "data/exports/folddisco_controls/shared_site_controls.csv": "4e4b542ac07e6de66ad3dd679c7f877eb0f858bbccec9f11671ac2ca516e7bf6",
+    "reports/scientific_audit/folddisco_controls_manifest.json": "3be7aa7a7712fa65ead385abeb2c7d710a9c2c575d0377e7a296eadaf093850c",
+    "reports/scientific_audit/folddisco_local_queries.csv": "7a98a8ec243a87a56ec12b5e06fdf53d0def3df3aa5e7ac4c848d5d841c094c2",
+    "reports/scientific_audit/folddisco_shared_site_controls.csv": "4e4b542ac07e6de66ad3dd679c7f877eb0f858bbccec9f11671ac2ca516e7bf6"
   }
 }

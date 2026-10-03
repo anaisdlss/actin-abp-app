@@ -4,3 +4,6 @@ data/human_variants/sources/*.csv -text whitespace=cr-at-eol
 
 # Keep exact submitted PDB bytes, including fixed-width trailing columns.
 data/exports/folddisco_jobs/*/query.pdb -text -whitespace
+
+# Preserve imported scientific source bytes (PDB fixed-width fields, CSV line endings).
+data/** -text -whitespace
